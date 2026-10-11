@@ -14,6 +14,7 @@ Putting a mattress or couch on the curb without scheduling a pickup can get you 
 
 ## City guides
 
+- [Chicago, IL: mattress disposal](/mattress-disposal/chicago-il/)
 - [Columbus, OH: mattress disposal](/mattress-disposal/columbus-oh/)
 
 [All mattress disposal guides](/mattress-disposal/)
