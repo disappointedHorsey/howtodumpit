@@ -2,6 +2,10 @@
 title: "How to get rid of a mattress in Chicago, IL (DSS bulk pickup first)"
 description: "Chicago DSS-served homes (1–4 units) can arrange bulk mattress pickup at no extra fee via 311 or their ward sanitation office; usable mattresses may also be donated at the Chicago Furniture Bank."
 verified: 2026-10-11
+city: "Chicago"
+state: "IL"
+item: "mattress"
+short: "Chicago, IL"
 listings:
   - name: "Chicago DSS bulk waste collection (arrange before set-out)"
     type: "City pickup"

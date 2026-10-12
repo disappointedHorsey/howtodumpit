@@ -2,6 +2,10 @@
 title: "How to get rid of a mattress in Columbus, OH (free options first)"
 description: "Columbus residents can schedule free city bulk pickup for mattresses through 311, or drop them off free at two Waste and Reuse Convenience Centers."
 verified: 2026-10-11
+city: "Columbus"
+state: "OH"
+item: "mattress"
+short: "Columbus, OH"
 listings:
   - name: "City of Columbus bulk collection (scheduled pickup)"
     type: "City pickup"

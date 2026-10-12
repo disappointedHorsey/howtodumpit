@@ -1,29 +1,37 @@
 # HowToDumpIt backlog
 
-Last updated: 2026-10-11
+Last updated: 2026-10-12
 
 ## Done
 - [x] Columbus, OH mattress disposal
 - [x] Chicago, IL mattress disposal (shipped 2026-10-11)
+- [x] New York City, NY mattress disposal (2026-10-12)
+- [x] Los Angeles, CA mattress disposal (2026-10-12)
+- [x] Houston, TX mattress disposal (2026-10-12)
+- [x] Philadelphia, PA mattress disposal (2026-10-12)
+- [x] Phoenix, AZ mattress disposal (2026-10-12)
+- [x] San Antonio, TX mattress disposal (2026-10-12)
+- [x] Dallas, TX mattress disposal (2026-10-12)
+- [x] Austin, TX mattress disposal (2026-10-12)
+- [x] San Diego, CA mattress disposal (2026-10-12)
+- [x] Seattle, WA mattress disposal (2026-10-12)
+- [x] Site redesign: sticky header, hero + city search, city cards, affiliate CTA, breadcrumbs, OG meta (2026-10-12)
 
 ## Priority unbuilt (city pages)
 - [ ] Chicago, IL couch disposal
 - [ ] Philadelphia, PA couch disposal
 - [ ] Washington, DC couch disposal
-- [ ] New York City, NY mattress disposal
-- [ ] Los Angeles, CA mattress disposal
-- [ ] Houston, TX mattress disposal
-- [ ] Phoenix, AZ mattress disposal
-- [ ] San Antonio, TX mattress disposal
-- [ ] Dallas, TX mattress disposal
-- [ ] Austin, TX mattress disposal
-- [ ] San Diego, CA mattress disposal
-- [ ] Seattle, WA mattress disposal
 - [ ] Denver, CO mattress disposal
 - [ ] Cambridge–Somerville, MA mattress disposal
 - [ ] Plano, TX paint disposal
 - [ ] Louisville, KY paint disposal
 - [ ] Seattle, WA paint disposal
+
+## Follow-ups
+- [ ] Austin, TX: confirm whether ARR on-demand bulk accepts mattresses (not on published accepted list); update page
+- [ ] San Antonio, TX: verify curbside bulky accepted-items list for mattresses
+- [ ] Replace placeholder affiliate URLs with real tracked links once programs approve
+- [ ] Reconcile README/CHANGELOG (still mention github.io base_url) with live howtodumpit.com setup
 
 ## Guides / hubs / tools
 - [ ] Mattress hub guide (expand)

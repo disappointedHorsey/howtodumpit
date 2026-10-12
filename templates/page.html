@@ -1,10 +1,31 @@
 <!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>$title | $site_name</title><meta name="description" content="$description">
-<link rel="canonical" href="$canonical"><link rel="stylesheet" href="/static/style.css"></head>
-<body><header><a class="brand" href="/">$site_name</a>
-<nav><a href="/mattress-disposal/">Mattress disposal</a></nav></header>
-<main>$body
-<p class="updated">Last verified: $updated</p></main>
-<footer><p>Rules and fees change. Always confirm with your city before setting items out. Some links may be affiliate links; we only list options we've verified. &copy; $year</p></footer>
+<title>$title | $site_name</title>
+<meta name="description" content="$description">
+<link rel="canonical" href="$canonical">
+<meta property="og:site_name" content="$site_name"><meta property="og:type" content="$og_type">
+<meta property="og:title" content="$title"><meta property="og:description" content="$description">
+<meta property="og:url" content="$canonical"><meta name="twitter:card" content="summary">
+<meta name="theme-color" content="#0f766e">
+<link rel="stylesheet" href="/static/style.css"></head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-header"><div class="wrap bar">
+<a class="brand" href="/" aria-label="$site_name home"><span class="logo" aria-hidden="true">&#x2193;</span>HowTo<b>DumpIt</b></a>
+<nav aria-label="Main"><a href="/mattress-disposal/">Mattresses</a><a href="/#cities">Cities</a></nav>
+</div></header>
+$hero
+<main id="main" class="wrap">$crumbs
+<article class="content">$body
+$updated_line</article></main>
+<footer class="site-footer"><div class="wrap">
+<p class="foot-brand">HowTo<b>DumpIt</b></p>
+<p>An independent info guide to getting rid of bulky junk legally and cheaply. We don't haul anything. Rules and fees change, so always confirm with your city's official page or 311 before setting items out.</p>
+<p>Some links are affiliate links (marked sponsored). We may earn a commission at no extra cost to you.</p>
+<p class="small"><a href="/">Home</a> &middot; <a href="/mattress-disposal/">Mattress disposal</a> &middot; <a href="/sitemap.xml">Sitemap</a> &middot; &copy; $year $site_name</p>
+</div></footer>
+<script>
+(function(){var q=document.getElementById('city-q');if(!q)return;var cards=document.querySelectorAll('#city-list .card'),none=document.getElementById('no-match');
+q.addEventListener('input',function(){var v=q.value.trim().toLowerCase(),n=0;cards.forEach(function(c){var m=!v||c.dataset.search.indexOf(v)>-1;c.hidden=!m;if(m)n++;});none.hidden=n>0;});})();
+</script>
 </body></html>
