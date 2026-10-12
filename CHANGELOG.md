@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-12 (restructure: general junk guides)
+- City guides moved from `/mattress-disposal/<city>/` to `/<city-slug>/` and expanded into general junk guides: quick-answer table + sections for mattresses, couches/furniture, appliances (freon), TVs/electronics, paint/HHW, with official source links (city sites, SWACO, Dallas County HHW network via dallascityhall.com).
+- Old `/mattress-disposal/<city>/` URLs now meta-refresh redirect stubs with canonical to the new URL (`redirect_to` front matter; excluded from sitemap).
+- `/mattress-disposal/` is now a hub linking all city guides. Home hero/meta, nav, footer, card subtitles ("Mattresses, couches, appliances & more") generalized.
+- `build.py`: redirect stubs, `listings_title`, `attr_list` markdown extension (section anchors), affiliate box placed before the Mattresses section.
+- README/BACKLOG: nightly routine now uses the multi-item city format.
+
 ## 2026-10-12
 - Redesign: new `templates/page.html` + `static/style.css` (mobile-first, system font stack, sticky header with wordmark, hero, footer, skip link). No external assets/trackers; tiny inline JS for city filter.
 - `build.py`: breadcrumbs, OG/Twitter meta, city-card grid (`<!--CITY_GRID-->` and on `list_children` hub), "Book a junk pickup" affiliate CTA box on pages with `city:` front matter (placeholder 1-800-GOT-JUNK / LoadUp links, `rel="sponsored nofollow"`, disclosure). New front-matter keys: `city`, `state`, `item`, `short`, `hero`.

@@ -28,7 +28,7 @@ def url_for(p):
         rel = rel.parent
     return "/" + (str(rel).strip(".") + "/" if str(rel) != "." else "")
 
-def listings_html(items):
+def listings_html(items, heading="Options at a glance"):
     if not items: return ""
     rows = []
     for it in items:
@@ -37,7 +37,7 @@ def listings_html(items):
                     f'<p><strong>Cost:</strong> {html.escape(str(it.get("cost","-")))} &middot; '
                     f'<strong>Type:</strong> {html.escape(it.get("type",""))}</p>'
                     f'<p>{html.escape(it.get("details",""))}{src}</p></li>')
-    return '<h2>Options at a glance</h2><ul class="listings">' + "".join(rows) + "</ul>"
+    return f'<h3>{html.escape(heading)}</h3><ul class="listings">' + "".join(rows) + "</ul>"
 
 AFFILIATE_CTA = (
     '<aside class="cta" aria-labelledby="cta-h"><h2 id="cta-h">Book a junk pickup</h2>'
@@ -64,9 +64,9 @@ def city_cards(pages):
     for cu, cm, _, _ in sorted(pages, key=lambda x: x[1].get("city", "")):
         if not cm.get("city"): continue
         label = f'{cm["city"]}, {cm["state"]}'
-        cards.append(f'<li class="card" data-search="{html.escape(label.lower())} {html.escape(cm.get("item","mattress"))}">'
+        cards.append(f'<li class="card" data-search="{html.escape(label.lower())} {html.escape(cm.get("slug_search",""))}">'
                      f'<a href="{cu}"><span class="card-city">{html.escape(label)}</span>'
-                     f'<span class="card-item">{html.escape(cm.get("item","Mattress").title())} disposal</span>'
+                     f'<span class="card-item">Mattresses, couches, appliances &amp; more</span>'
                      f'<span class="card-go">Read guide &rarr;</span></a></li>')
     return ('<div class="search"><label for="city-q" class="sr">Find your city</label>'
             '<input id="city-q" type="search" placeholder="Search your city, e.g. Houston" autocomplete="off"></div>'
@@ -86,16 +86,27 @@ def main():
         u = url_for(p)
         pages.append((u, meta, body, p))
     titles = {u: m.get("short", m["title"]) for u, m, _, _ in pages}
+    redirects = [x for x in pages if x[1].get("redirect_to")]
+    pages = [x for x in pages if not x[1].get("redirect_to")]
+    for u, meta, _, _ in redirects:
+        tgt = CFG["base_url"].rstrip("/") + meta["redirect_to"]
+        dest = OUT / u.strip("/") / "index.html"
+        dest.parent.mkdir(parents=True, exist_ok=True)
+        dest.write_text(prefix_links(
+            f'<!doctype html><html lang="en"><head><meta charset="utf-8"><title>{html.escape(meta.get("title",""))}</title>'
+            f'<link rel="canonical" href="{tgt}">'
+            f'<meta http-equiv="refresh" content="0; url={meta["redirect_to"]}"></head>'
+            f'<body><p>This guide moved to <a href="{meta["redirect_to"]}">{tgt}</a>.</p></body></html>'))
     for u, meta, body, p in pages:
-        body_html = markdown.markdown(body, extensions=["tables", "toc"])
-        body_html = body_html.replace("<!--LISTINGS-->", listings_html(meta.get("listings")))
+        body_html = markdown.markdown(body, extensions=["tables", "toc", "attr_list"])
+        body_html = body_html.replace("<!--LISTINGS-->", listings_html(meta.get("listings"), meta.get("listings_title", "Options at a glance")))
         body_html = body_html.replace("<!--CITY_GRID-->", city_cards(pages))
         if meta.get("list_children"):
-            kids = [x for x in pages if x[0].startswith(u) and x[0] != u]
-            body_html += city_cards(kids)
+            body_html += city_cards(pages)
         if meta.get("city"):
             # CTA after the listings block (or at the end)
-            i = body_html.find("<h2", body_html.find('class="listings"') if 'class="listings"' in body_html else 0)
+            i = body_html.find('<h2 id="mattresses"')
+            if i < 0: i = body_html.find("<h2", body_html.find('class="listings"') if 'class="listings"' in body_html else 0)
             body_html = body_html[:i] + AFFILIATE_CTA + body_html[i:] if i > 0 else body_html + AFFILIATE_CTA
         hero = ""
         if u == "/":

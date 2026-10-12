@@ -1,6 +1,6 @@
 # HowToDumpIt backlog
 
-Last updated: 2026-10-12
+Last updated: 2026-10-12 (restructure)
 
 ## Done
 - [x] Columbus, OH mattress disposal
@@ -28,6 +28,10 @@ Last updated: 2026-10-12
 - [ ] Seattle, WA paint disposal
 
 ## Follow-ups
+- [ ] Verify freon-appliance disposal: Chicago, Los Angeles (household), Dallas, San Diego
+- [ ] Verify furniture disposal option for San Diego (no city curbside bulky pickup)
+- [ ] Re-check Phoenix HHW home-collection reservations (closed as of 2026-10-12)
+- [ ] Confirm Dallas Home Chemical Collection Center hours (city page has dated holiday info)
 - [ ] Austin, TX: confirm whether ARR on-demand bulk accepts mattresses (not on published accepted list); update page
 - [ ] San Antonio, TX: verify curbside bulky accepted-items list for mattresses
 - [ ] Replace placeholder affiliate URLs with real tracked links once programs approve
@@ -52,6 +56,8 @@ Durable-intent only (not spam):
 - [ ] Illegal-dumping mattress city guides — how to report fly dumping + legal disposal alternatives (pair with strong 311/official enforcement pages)
 
 ## Notes
+- New city pages use the multi-item format in README "Content format (city guides)": /<city-slug>/, sections for mattresses, couches/furniture, appliances (freon), TVs/electronics, paint/HHW, each with official source links.
+- Remaining 'mattress'/'couch'/'paint' city items above should be built as (or merged into) the city's general guide, not separate pages.
 - Publish one new page nightly when possible.
 - Every listing needs a `source:` URL to an official/primary page and page-level `verified:` date.
 - Never invent fees, phones, or addresses.
