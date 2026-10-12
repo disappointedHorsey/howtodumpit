@@ -43,6 +43,7 @@ def main():
     if OUT.exists(): shutil.rmtree(OUT)
     OUT.mkdir()
     if STATIC.exists(): shutil.copytree(STATIC, OUT/"static")
+    (OUT/"CNAME").write_text("howtodumpit.com\n")
     page_tpl = string.Template((TPL/"page.html").read_text())
     pages = []
     for p in sorted(CONTENT.rglob("*.md")):
