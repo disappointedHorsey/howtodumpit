@@ -48,3 +48,5 @@ The facts were checked on the official pages linked below. Each guide shows its 
 ## Why this matters when you quote
 
 If a customer could use a free city pickup, your price is competing with "free, but slow and done by appointment". Your quote is buying them speed and labor. Put your real disposal cost per load into the [pricing calculator](/for-haulers/pricing-calculator/).
+
+**Affiliate disclosure:** HowToDumpIt is an independent information guide. Some links in this section may become affiliate links, and we may earn a commission at no extra cost to you. This page has no affiliate links.
