@@ -61,3 +61,17 @@ Durable-intent only (not spam):
 - Publish one new page nightly when possible.
 - Every listing needs a `source:` URL to an official/primary page and page-level `verified:` date.
 - Never invent fees, phones, or addresses.
+
+## Hauler section (/for-haulers/) — alternate with city guides in the nightly routine
+Shipped 2026-10-12: hub, /for-haulers/software/, /for-haulers/pricing-calculator/, /for-haulers/dump-fees/
+- [ ] TODO: swap plain rel="nofollow" vendor homepage links on /for-haulers/software/ for tracked affiliate links (rel="sponsored nofollow") once QuoteIQ/Jobber/HighLevel/GorillaDesk/Housecall Pro approve
+- [ ] Verify Housecall Pro Essentials/MAX prices (not visible in page text 2026-10-12)
+- [ ] Verify commercial (hauler) tipping fees per city; dump-fees page currently residential-only
+- [ ] Junk removal price sheet template (downloadable)
+- [ ] Mattress & appliance surcharges for haulers (link mattress-disposal section)
+- [ ] Best software for a one-truck junk removal startup (under $50/mo)
+- [ ] Jobber alternatives for junk removal
+- [ ] QuoteIQ review for junk haulers (hands-on with trial)
+- [ ] How to quote junk removal from photos
+- [ ] Starting a junk removal business: licensing, insurance, first-month checklist (US)
+Rules: official vendor pages only, dated; no invented market rates; FTC disclosure on every page.
