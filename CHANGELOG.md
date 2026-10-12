@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-10-12 (Washington, DC)
+- Added Washington, DC general junk guide (`content/washington-dc.md`): DPW bulk appointment (plastic-wrapped mattresses, max 7 items), Fort Totten self-haul, freon appliances, e-waste ban + Special Waste / eCYCLE DC, PaintCare + HHW events. Official sources cited; verified 2026-10-12.
+
 ## 2026-10-12 (restructure: general junk guides)
 - City guides moved from `/mattress-disposal/<city>/` to `/<city-slug>/` and expanded into general junk guides: quick-answer table + sections for mattresses, couches/furniture, appliances (freon), TVs/electronics, paint/HHW, with official source links (city sites, SWACO, Dallas County HHW network via dallascityhall.com).
 - Old `/mattress-disposal/<city>/` URLs now meta-refresh redirect stubs with canonical to the new URL (`redirect_to` front matter; excluded from sitemap).

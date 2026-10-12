@@ -1,6 +1,6 @@
 # HowToDumpIt backlog
 
-Last updated: 2026-10-12 (restructure)
+Last updated: 2026-10-12 (Washington DC)
 
 ## Done
 - [x] Columbus, OH mattress disposal
@@ -20,7 +20,7 @@ Last updated: 2026-10-12 (restructure)
 ## Priority unbuilt (city pages)
 - [ ] Chicago, IL couch disposal
 - [ ] Philadelphia, PA couch disposal
-- [ ] Washington, DC couch disposal
+- [x] Washington, DC junk disposal guide (shipped 2026-10-12)
 - [ ] Denver, CO mattress disposal
 - [ ] Cambridge–Somerville, MA mattress disposal
 - [ ] Plano, TX paint disposal
