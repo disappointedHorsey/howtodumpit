@@ -75,3 +75,5 @@ Shipped 2026-10-12: hub, /for-haulers/software/, /for-haulers/pricing-calculator
 - [ ] How to quote junk removal from photos
 - [ ] Starting a junk removal business: licensing, insurance, first-month checklist (US)
 Rules: official vendor pages only, dated; no invented market rates; FTC disclosure on every page.
+
+- [ ] Brisbane QLD (first Australian city; official Brisbane City Council sources only; demand: https://x.com/twtrrr/status/2108376410910068911)
