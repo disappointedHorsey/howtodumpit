@@ -1,3 +1,6 @@
+## 2026-10-12 (Denver, CO)
+- Added Denver, CO general junk guide (`content/denver-co.md`): Large Item Pickup every 9 weeks (bagged/wrapped mattresses, max 5 large items), free Appliance Collection for freon appliances, E-cycle Coupon via Blue Star Recyclers, PaintCare + HHW At-Your-Door. Official denvergov.org sources cited; verified 2026-10-12.
+
 # Changelog
 
 ## 2026-10-12 (Washington, DC)
