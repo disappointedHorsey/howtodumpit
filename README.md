@@ -22,3 +22,6 @@ Each city is ONE general junk guide at `content/<city-slug>.md` -> `/<city-slug>
 4. `## Couches and furniture {#furniture}`, `## Appliances (fridges, freezers, AC: freon) {#appliances}`, `## TVs, computers and electronics (e-waste) {#electronics}`, `## Paint and household hazardous waste {#hazardous}`
 Rules: only facts verified on official city/county/solid-waste-authority pages, each with an inline source link; if an item can't be verified, say so and point to the official page / 311. Never invent fees, phones, addresses or rules.
 Old `/mattress-disposal/<slug>/` URLs are kept as stubs (`redirect_to: "/<slug>/"` front matter -> meta-refresh + canonical page, excluded from sitemap). New cities do NOT need a stub. `/mattress-disposal/` is a hub listing all city guides.
+
+## Style rule (permanent)
+Use American English spelling (color, center, tire, analyze, favorite, specialize) and US dates only (October 13, 2026 or 10/13/2026). Never DD/MM/YYYY. This applies to pages, pitch emails and reports.
