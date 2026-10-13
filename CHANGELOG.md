@@ -1,7 +1,10 @@
+# Changelog
+
+## 2026-10-13 (Cambridge–Somerville, MA)
+- Added Cambridge–Somerville, MA general junk guide (`content/cambridge-somerville-ma.md`, `/cambridge-somerville-ma/`) covering both cities side by side: Cambridge UTEC mattress pickup ($45/piece since July 20, 2026) vs. Somerville $55 Disposal Sticker + 311; furniture limits (1/week Cambridge, 2/week Somerville); Cambridge paid appliance permit vs. Somerville $25 White Goods Sticker; e-waste (Cambridge Recycling Center / 20-inch TV rule; Somerville DPW Yard drop-off + free 311 TV pickup); HHW days (Cambridge November 7, 2026; Somerville November 5 and 14, 2026) and paint rules. Official cambridgema.gov / somervillema.gov / mass.gov sources cited; verified 2026-10-13.
+
 ## 2026-10-12 (Denver, CO)
 - Added Denver, CO general junk guide (`content/denver-co.md`): Large Item Pickup every 9 weeks (bagged/wrapped mattresses, max 5 large items), free Appliance Collection for freon appliances, E-cycle Coupon via Blue Star Recyclers, PaintCare + HHW At-Your-Door. Official denvergov.org sources cited; verified 2026-10-12.
-
-# Changelog
 
 ## 2026-10-12 (Washington, DC)
 - Added Washington, DC general junk guide (`content/washington-dc.md`): DPW bulk appointment (plastic-wrapped mattresses, max 7 items), Fort Totten self-haul, freon appliances, e-waste ban + Special Waste / eCYCLE DC, PaintCare + HHW events. Official sources cited; verified 2026-10-12.

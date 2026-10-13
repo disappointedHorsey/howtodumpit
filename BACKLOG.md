@@ -1,6 +1,6 @@
 # HowToDumpIt backlog
 
-Last updated: 2026-10-12 (Denver CO)
+Last updated: 2026-10-13 (Cambridge–Somerville MA)
 
 ## Done
 - [x] Columbus, OH mattress disposal
@@ -22,7 +22,7 @@ Last updated: 2026-10-12 (Denver CO)
 - [ ] Philadelphia, PA couch disposal
 - [x] Washington, DC junk disposal guide (shipped 2026-10-12)
 - [x] Denver, CO junk disposal guide (shipped 2026-10-12)
-- [ ] Cambridge–Somerville, MA mattress disposal
+- [x] Cambridge–Somerville, MA junk disposal guide (shipped 2026-10-13)
 - [ ] Plano, TX paint disposal
 - [ ] Louisville, KY paint disposal
 - [ ] Seattle, WA paint disposal
@@ -34,6 +34,7 @@ Last updated: 2026-10-12 (Denver CO)
 - [ ] Confirm Dallas Home Chemical Collection Center hours (city page has dated holiday info)
 - [ ] Austin, TX: confirm whether ARR on-demand bulk accepts mattresses (not on published accepted list); update page
 - [ ] San Antonio, TX: verify curbside bulky accepted-items list for mattresses
+- [ ] Cambridge, MA: confirm appliance/large-item permit fee (not shown on main City page; permit portal is JS-only) and add to page
 - [ ] Replace placeholder affiliate URLs with real tracked links once programs approve
 - [ ] Reconcile README/CHANGELOG (still mention github.io base_url) with live howtodumpit.com setup
 
