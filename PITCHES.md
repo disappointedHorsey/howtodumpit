@@ -9,3 +9,6 @@ Outbound pitches from shopfontasia@gmail.com. Pitch reply watch looks for replie
 | 2026-10-12 | Mo's Hauling | junk@moshauling.co | Partnership inquiry – HowToDumpIt Denver guide | 1a133e2d2d487991 | Sent 2026-10-13, awaiting reply |
 | 2026-10-12 | Blue Star Recyclers | sales@bluestarrecyclers.org | Listing / referral partnership – HowToDumpIt Denver | 1a133e2d4b2b962a | Sent 2026-10-13, awaiting reply |
 | 2026-10-12 | The Junk Trunk | scheduling@thejunktrunkco.com | Partnership inquiry – HowToDumpIt Denver guide | 1a133e2d869d10d1 | Sent 2026-10-13, awaiting reply |
+| 2026-10-13 | Rivas Rubbish Removal | rivasrrinc@gmail.com | Partnership inquiry – HowToDumpIt Cambridge–Somerville guide |  | Draft pending send |
+| 2026-10-13 | HandUp Mattress Resale & Recycling | info@handupmattress.com | Listing / referral partnership – HowToDumpIt Cambridge–Somerville |  | Draft pending send |
+| 2026-10-13 | Habitat for Humanity Greater Boston ReStore | ReStore@habitatboston.org | Featuring the ReStore in our Cambridge–Somerville junk guide – HowToDumpIt.com |  | Draft pending send |
