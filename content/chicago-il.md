@@ -1,7 +1,7 @@
 ---
 title: 'Junk disposal in Chicago, IL: mattresses, couches, appliances, TVs & paint'
 description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in Chicago, IL: city pickup, drop-off sites and rules, with links to official sources.'
-verified: '2026-10-12'
+verified: '2026-10-14'
 city: Chicago
 state: IL
 short: Chicago, IL
@@ -33,7 +33,7 @@ Here's how to legally get rid of bulky junk in Chicago, item by item. Every opti
 |---|---|
 | Mattress | Free DSS bulk pickup (arrange via 311 / ward office) |
 | Couch / furniture | Free DSS bulk pickup for 1–4 unit homes (arrange first) |
-| Fridge / AC (freon) | Not verified: ask 311 |
+| Fridge / AC (freon) | DSS bulk pickup for fridges/freezers (remove doors; arrange first); HCCRF does not take appliances or freon |
 | TV / computer | Free drop-off at the City's HCCRF, 1150 N. North Branch St |
 | Paint / chemicals | HCCRF takes oil-based paint and chemicals; latex paint not accepted (dry it out) |
 
@@ -81,7 +81,11 @@ DSS bulk collection covers **oversized household items** for single-family homes
 
 ## Appliances (fridges, freezers, AC: freon) {#appliances}
 
-We could not find an official City of Chicago page explaining how residents dispose of refrigerators, freezers or air conditioners (freon appliances). The City's Household Chemicals & Computer Recycling Facility **does not accept** household appliances, air conditioners, or refrigerants/freons. **Ask 311** before setting an appliance out. ([HCCRF accepted/not-accepted list](https://www.chicago.gov/city/en/depts/env/supp_info/environmental-permitting-and-inspection/hccrf.html))
+**Fridges and freezers:** City sanitation guidance says to **always remove doors or lids** from discarded refrigerators and freezers, and to **arrange a bulk pick-up with your Streets and Sanitation ward superintendent before putting any large item out**. Start with **311** or your ward/district sanitation office (same path as mattresses and furniture). This applies to DSS-served single-family homes and buildings with four units or fewer. ([Sanitation Code Violation / DSS guidance](https://www.chicago.gov/city/en/depts/streets/provdrs/streets_san/svcs/sanitation_ordinance.html))
+
+**What HCCRF will not take:** The Household Chemicals & Computer Recycling Facility **does not accept** household appliances (including refrigerators, washers, dryers, stoves), air conditioners, HVAC equipment, or refrigerants/freons. Do not take freon appliances there. ([HCCRF accepted/not-accepted list](https://www.chicago.gov/city/en/depts/env/supp_info/environmental-permitting-and-inspection/hccrf.html))
+
+**Window AC and other freon units:** The city pages we checked spell out door-removal and bulk-pickup rules for refrigerators and freezers. They do not publish a separate, confirmed process for window air conditioners. **Ask 311** whether your address can put a window AC out on a bulk pickup, and what prep they require.
 
 ## TVs, computers and electronics (e-waste) {#electronics}
 

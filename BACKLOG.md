@@ -18,7 +18,7 @@ Last updated: 2026-10-13 (Cambridge–Somerville MA)
 - [x] Site redesign: sticky header, hero + city search, city cards, affiliate CTA, breadcrumbs, OG meta (2026-10-12)
 
 ## Priority unbuilt (city pages)
-- [ ] Chicago, IL couch disposal
+- [x] Chicago, IL couch disposal (covered in general Chicago guide)
 - [ ] Philadelphia, PA couch disposal
 - [x] Washington, DC junk disposal guide (shipped 2026-10-12)
 - [x] Denver, CO junk disposal guide (shipped 2026-10-12)
@@ -28,7 +28,8 @@ Last updated: 2026-10-13 (Cambridge–Somerville MA)
 - [ ] Seattle, WA paint disposal
 
 ## Follow-ups
-- [ ] Verify freon-appliance disposal: Chicago, Los Angeles (household), Dallas, San Diego
+- [x] Verify freon-appliance disposal: Chicago (done 2026-10-14: DSS bulk + door removal; HCCRF no appliances/freon)
+- [ ] Verify freon-appliance disposal: Los Angeles (household), Dallas, San Diego
 - [ ] Verify furniture disposal option for San Diego (no city curbside bulky pickup)
 - [ ] Re-check Phoenix HHW home-collection reservations (closed as of 2026-10-12)
 - [ ] Confirm Dallas Home Chemical Collection Center hours (city page has dated holiday info)
