@@ -25,3 +25,6 @@ Old `/mattress-disposal/<slug>/` URLs are kept as stubs (`redirect_to: "/<slug>/
 
 ## Style rule (permanent)
 Use American English spelling (color, center, tire, analyze, favorite, specialize) and US dates only (October 13, 2026 or 10/13/2026). Never DD/MM/YYYY. This applies to pages, pitch emails and reports.
+
+## Pitch targeting rule (permanent)
+Before drafting any pitch, confirm from the org's own website (address plus service-area page) that it actually serves that city. Skip orgs that don't serve it. The pitch must name the org's real location and coverage accurately. Record the verified location and source URL in PITCHES.md.
