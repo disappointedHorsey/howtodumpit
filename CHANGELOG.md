@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-10-15 (for haulers: price sheet template)
+- Added `/for-haulers/price-sheet-template/` (`content/for-haulers/price-sheet-template.md`) with a blank downloadable CSV (`static/downloads/junk-removal-price-sheet-template.csv`): load sizes, single items, surcharges, labor, policies. No market rates published; links to pricing calculator and dump-fees page. Linked from the /for-haulers/ hub. Verified 2026-10-15.
+
 ## 2026-10-13 (Cambridge–Somerville, MA)
 - Added Cambridge–Somerville, MA general junk guide (`content/cambridge-somerville-ma.md`, `/cambridge-somerville-ma/`) covering both cities side by side: Cambridge UTEC mattress pickup ($45/piece since July 20, 2026) vs. Somerville $55 Disposal Sticker + 311; furniture limits (1/week Cambridge, 2/week Somerville); Cambridge paid appliance permit vs. Somerville $25 White Goods Sticker; e-waste (Cambridge Recycling Center / 20-inch TV rule; Somerville DPW Yard drop-off + free 311 TV pickup); HHW days (Cambridge November 7, 2026; Somerville November 5 and 14, 2026) and paint rules. Official cambridgema.gov / somervillema.gov / mass.gov sources cited; verified 2026-10-13.
 

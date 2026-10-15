@@ -1,6 +1,6 @@
 # HowToDumpIt backlog
 
-Last updated: 2026-10-13 (Cambridge–Somerville MA)
+Last updated: 2026-10-15 (hauler: price sheet template)
 
 ## Done
 - [x] Columbus, OH mattress disposal
@@ -69,7 +69,7 @@ Shipped 2026-10-12: hub, /for-haulers/software/, /for-haulers/pricing-calculator
 - [ ] TODO: swap plain rel="nofollow" vendor homepage links on /for-haulers/software/ for tracked affiliate links (rel="sponsored nofollow") once QuoteIQ/Jobber/HighLevel/GorillaDesk/Housecall Pro approve
 - [ ] Verify Housecall Pro Essentials/MAX prices (not visible in page text 2026-10-12)
 - [ ] Verify commercial (hauler) tipping fees per city; dump-fees page currently residential-only
-- [ ] Junk removal price sheet template (downloadable)
+- [x] Junk removal price sheet template (downloadable) (shipped 2026-10-15: /for-haulers/price-sheet-template/)
 - [ ] Mattress & appliance surcharges for haulers (link mattress-disposal section)
 - [ ] Best software for a one-truck junk removal startup (under $50/mo)
 - [ ] Jobber alternatives for junk removal
