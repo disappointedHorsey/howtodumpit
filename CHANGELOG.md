@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-10-15 (Louisville, KY)
+- Added Louisville, KY general junk guide (`content/louisville-ky.md`, `/louisville-ky/`): Large Item Pickup by appointment (Urban Services District, up to 4 items, once per week), Waste Reduction Center free resident allowance (4 large items, 3 electronics, Freon appliances) and load fees, Haz Bin (7501 Grade Lane) accepted/not-accepted lists, and latex paint dry-out rule. Official louisvilleky.gov sources cited; verified 2026-10-15.
+
 ## 2026-10-15 (for haulers: price sheet template)
 - Added `/for-haulers/price-sheet-template/` (`content/for-haulers/price-sheet-template.md`) with a blank downloadable CSV (`static/downloads/junk-removal-price-sheet-template.csv`): load sizes, single items, surcharges, labor, policies. No market rates published; links to pricing calculator and dump-fees page. Linked from the /for-haulers/ hub. Verified 2026-10-15.
 

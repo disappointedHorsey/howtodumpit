@@ -1,6 +1,6 @@
 # HowToDumpIt backlog
 
-Last updated: 2026-10-15 (hauler: price sheet template)
+Last updated: 2026-10-15 (Louisville, KY guide)
 
 ## Done
 - [x] Columbus, OH mattress disposal
@@ -23,8 +23,8 @@ Last updated: 2026-10-15 (hauler: price sheet template)
 - [x] Washington, DC junk disposal guide (shipped 2026-10-12)
 - [x] Denver, CO junk disposal guide (shipped 2026-10-12)
 - [x] Cambridge–Somerville, MA junk disposal guide (shipped 2026-10-13)
-- [ ] Plano, TX paint disposal
-- [ ] Louisville, KY paint disposal
+- [ ] Plano, TX paint disposal (note 2026-10-15: plano.gov is a JS-rendered CivicPlus site; curl/fetch return empty pages, so verify via browser before building)
+- [x] Louisville, KY junk disposal guide incl. paint (shipped 2026-10-15)
 - [ ] Seattle, WA paint disposal
 
 ## Follow-ups
