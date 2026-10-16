@@ -18,3 +18,5 @@ Outbound pitches from shopfontasia@gmail.com. Pitch reply watch looks for replie
 | 2026-10-16 | Spring Back Recycling Nashville (Ryan Tiano, site manager) | ryan@springbackrecyclingtn.com | Listing / referral partnership – HowToDumpIt Nashville guide | – | Drafted 2026-10-16 (card for Adam), not sent. Verified: runs Davidson County resident mattress drop-off at Metro East and Omohundro Convenience Centers (springbackrecyclingtn.com/davidson-county-tennessee-resident-mattress-recycling/) |
 | 2026-10-16 | Honey Junk Removal, LLC | emingram@honeyjunkremoval.com | Partnership inquiry – HowToDumpIt Nashville guide | – | Drafted 2026-10-16 (card for Adam), not sent. Verified: "Nashville, Tennessee" on honeyjunkremoval.com/contact |
 | 2026-10-16 | Matt's Haul it All | matts.haul.away@gmail.com | Partnership inquiry – HowToDumpIt Nashville guide | – | Drafted 2026-10-16 (card for Adam), not sent. Verified: based in Brentwood, TN; service areas list Nashville and Davidson County (mattshaulitall.com) |
+
+- 10/16/2026 Nashville sent: Spring Back Recycling (1a1452e4a2a0015a), Honey Junk Removal (1a1452e4d8da9601), Matt's Haul it All (1a1452e5835b6d73)
