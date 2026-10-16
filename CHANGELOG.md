@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-10-16 (Nashville, TN)
+- Added Nashville, TN general junk guide (`content/nashville-tn.md`, `/nashville-tn/`): Metro Convenience Centers ($12 per mattress/box spring, 4/month; 1 free bulk item/day; volume fees), Davidson County Sheriff's Office curbside Bulk Item Removal, free scrap-metal appliance drop-off and AC/freon note, free e-waste (100 lb/day, TV up to 80 in), free HHW at East/Ezell Pike, latex paint dry-out rules. Official nashville.gov / sheriff.nashville.gov sources cited; verified 2026-10-16.
+
 ## 2026-10-15 (Louisville, KY)
 - Added Louisville, KY general junk guide (`content/louisville-ky.md`, `/louisville-ky/`): Large Item Pickup by appointment (Urban Services District, up to 4 items, once per week), Waste Reduction Center free resident allowance (4 large items, 3 electronics, Freon appliances) and load fees, Haz Bin (7501 Grade Lane) accepted/not-accepted lists, and latex paint dry-out rule. Official louisvilleky.gov sources cited; verified 2026-10-15.
 

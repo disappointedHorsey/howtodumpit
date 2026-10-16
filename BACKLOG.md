@@ -1,6 +1,6 @@
 # HowToDumpIt backlog
 
-Last updated: 2026-10-15 (Louisville, KY guide)
+Last updated: 2026-10-16 (Nashville, TN guide)
 
 ## Done
 - [x] Columbus, OH mattress disposal
@@ -25,6 +25,7 @@ Last updated: 2026-10-15 (Louisville, KY guide)
 - [x] Cambridge–Somerville, MA junk disposal guide (shipped 2026-10-13)
 - [ ] Plano, TX paint disposal (note 2026-10-15: plano.gov is a JS-rendered CivicPlus site; curl/fetch return empty pages, so verify via browser before building)
 - [x] Louisville, KY junk disposal guide incl. paint (shipped 2026-10-15)
+- [x] Nashville, TN junk disposal guide (shipped 2026-10-16)
 - [ ] Seattle, WA paint disposal
 
 ## Follow-ups
@@ -37,6 +38,7 @@ Last updated: 2026-10-15 (Louisville, KY guide)
 - [ ] San Antonio, TX: verify curbside bulky accepted-items list for mattresses
 - [ ] Cambridge, MA: confirm appliance/large-item permit fee (not shown on main City page; permit portal is JS-only) and add to page
 - [ ] Replace placeholder affiliate URLs with real tracked links once programs approve
+- [ ] Nashville, TN: find the Sheriff's Office Bulk Item Removal request phone on an official page (not on sheriff.nashville.gov/bulk-item-removal/); confirm AC/freon drop-off rule (2025 policy PDF says East Center, 1/month) and C&D limit (1 vs 2 cubic yards) with Waste Services
 - [ ] Reconcile README/CHANGELOG (still mention github.io base_url) with live howtodumpit.com setup
 
 ## Guides / hubs / tools
