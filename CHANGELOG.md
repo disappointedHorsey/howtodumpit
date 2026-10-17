@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-10-17 (Portland, OR)
+- Added Portland, OR general junk guide (`content/portland-or.md`, `/portland-or/`): City-set curbside bulky waste rates through your assigned garbage company ($18 trip fee; mattresses $14/$21/$29; coolant appliances $51; e-waste $6), free mattress drop-off at Metro Central (up to 4/day), Metro transfer station garbage and coolant-appliance fees ($51 minimum, $30 per coolant appliance), free Oregon E-Cycles electronics recycling and the Oregon landfill ban on TVs/computers/monitors, free Metro household hazardous waste drop-off (35 gallons/day) and the March 31, 2026 MetroPaint closure (PaintCare continues). Official portland.gov / oregonmetro.gov / oregon.gov (DEQ) sources cited; verified 2026-10-17.
+
 ## 2026-10-16 (Nashville, TN)
 - Added Nashville, TN general junk guide (`content/nashville-tn.md`, `/nashville-tn/`): Metro Convenience Centers ($12 per mattress/box spring, 4/month; 1 free bulk item/day; volume fees), Davidson County Sheriff's Office curbside Bulk Item Removal, free scrap-metal appliance drop-off and AC/freon note, free e-waste (100 lb/day, TV up to 80 in), free HHW at East/Ezell Pike, latex paint dry-out rules. Official nashville.gov / sheriff.nashville.gov sources cited; verified 2026-10-16.
 

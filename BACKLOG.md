@@ -1,6 +1,6 @@
 # HowToDumpIt backlog
 
-Last updated: 2026-10-16 (Nashville, TN guide)
+Last updated: 2026-10-17 (Portland, OR guide)
 
 ## Done
 - [x] Columbus, OH mattress disposal
@@ -26,6 +26,7 @@ Last updated: 2026-10-16 (Nashville, TN guide)
 - [ ] Plano, TX paint disposal (note 2026-10-15: plano.gov is a JS-rendered CivicPlus site; curl/fetch return empty pages, so verify via browser before building)
 - [x] Louisville, KY junk disposal guide incl. paint (shipped 2026-10-15)
 - [x] Nashville, TN junk disposal guide (shipped 2026-10-16)
+- [x] Portland, OR junk disposal guide (shipped 2026-10-17)
 - [ ] Seattle, WA paint disposal
 
 ## Follow-ups
@@ -39,6 +40,8 @@ Last updated: 2026-10-16 (Nashville, TN guide)
 - [ ] Cambridge, MA: confirm appliance/large-item permit fee (not shown on main City page; permit portal is JS-only) and add to page
 - [ ] Replace placeholder affiliate URLs with real tracked links once programs approve
 - [ ] Nashville, TN: find the Sheriff's Office Bulk Item Removal request phone on an official page (not on sheriff.nashville.gov/bulk-item-removal/); confirm AC/freon drop-off rule (2025 policy PDF says East Center, 1/month) and C&D limit (1 vs 2 cubic yards) with Waste Services
+- [ ] Portland, OR: confirm with Metro (503-234-3000) whether Metro South takes mattresses free (only the Metro Central page lists free mattress drop-off); confirm the curbside bulky category for window/wall AC units (City rate sheet lists portable AC only); find an official City/Metro latex-paint dry-out rule (none found; page points to Metro HHW/PaintCare); re-check Metro transfer station fees (adjusted yearly)
+- [ ] build.py prints "Last verified: 2026-10-17" (ISO) on every page; switch to US format (October 17, 2026) per the Style rule
 - [ ] Reconcile README/CHANGELOG (still mention github.io base_url) with live howtodumpit.com setup
 
 ## Guides / hubs / tools
