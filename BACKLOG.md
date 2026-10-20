@@ -1,6 +1,6 @@
 # HowToDumpIt backlog
 
-Last updated: 10/20/2026 (Fort Worth, TX; Charlotte, NC; Jacksonville, FL guides; build.py US date fix)
+Last updated: 10/21/2026 Sydney / 10/20/2026 UTC (San Jose, CA guide; earlier same day: Fort Worth, TX; Charlotte, NC; Jacksonville, FL guides; build.py US date fix)
 
 ## Done
 - [x] Columbus, OH mattress disposal
@@ -31,6 +31,8 @@ Last updated: 10/20/2026 (Fort Worth, TX; Charlotte, NC; Jacksonville, FL guides
 - [x] Charlotte, NC junk disposal guide (shipped 10/20/2026; catch-up for missed 10/19 nightly)
 - [x] Jacksonville, FL junk disposal guide (shipped 10/20/2026; catch-up for missed 10/20 nightly)
 - [ ] Seattle, WA paint disposal
+- [x] San Jose, CA junk disposal guide (shipped 10/20/2026 UTC / 10/21/2026 Sydney nightly)
+- [ ] Next nightly cities (largest uncovered with fetchable official pages): Indianapolis, IN; San Francisco, CA; Oklahoma City, OK; Las Vegas, NV; Boston, MA
 
 ## Follow-ups
 - [x] Verify freon-appliance disposal: Chicago (done 2026-10-14: DSS bulk + door removal; HCCRF no appliances/freon)
@@ -48,6 +50,9 @@ Last updated: 10/20/2026 (Fort Worth, TX; Charlotte, NC; Jacksonville, FL guides
 - [ ] Fort Worth, TX: confirm curbside bulk takes non-coolant appliances (washer/dryer); only the City Waste Wizard says so, the bulk page excludes coolant/gas/chemical appliances. The bulk schedule PDF and DOS FAQ PDF are WAF-blocked to curl; read via browser.
 - [ ] Charlotte, NC: confirm whether City bulky collection has a fee or a per-pickup item limit (none listed on charlottenc.gov pages or the eligibility PDF; admin policy PDF is a scanned image)
 - [ ] Jacksonville, FL: confirm bulk frequency in non-automated (City/Meridian) areas (Waste Wizard says garbage day; no explicit weekly statement found on a current page); find Trail Ridge Landfill resident fees on an official page
+- [ ] San Jose, CA: the City's Junk Pickup accepted-items list (sanjoseca.gov showpublisheddocument/69710) is dated May 27, 2020; confirm it's still current (sanjoseca.gov returns 403 to curl; WebFetch works). Reconcile the Residents FAQ ("unlimited junk pickups", "call your recycling collection company directly") with the Junk Pickup page (book via 311, up to 12 items per request).
+- [ ] San Jose, CA: find an official rule for bed-bug or moldy mattresses (excluded from Junk Pickup; no alternative published) and for refrigerant/freon handling (City list is silent).
+- [ ] San Jose, CA: confirm Goodwill of Silicon Valley's free mattress drop-off (1080 N. 7th St.; goodwillsv.org) on the Bye Bye Mattress locator (JS-only) before listing it as an option; check County HHW per-visit quantity limits (none on hhw.santaclaracounty.gov pages) and nearby landfill resident fees (SJEnvironment.org/Landfill-Transfer).
 - [ ] Reconcile README/CHANGELOG (still mention github.io base_url) with live howtodumpit.com setup
 
 ## Guides / hubs / tools
