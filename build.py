@@ -28,6 +28,14 @@ def url_for(p):
         rel = rel.parent
     return "/" + (str(rel).strip(".") + "/" if str(rel) != "." else "")
 
+def us_date(v):
+    """Format a verified date (YAML date or 'YYYY-MM-DD' string) as a US date, e.g. October 20, 2026."""
+    try:
+        d = v if isinstance(v, datetime.date) else datetime.date.fromisoformat(str(v).strip())
+    except ValueError:
+        return str(v)
+    return f"{d:%B} {d.day}, {d.year}"
+
 def listings_html(items, heading="Options at a glance"):
     if not items: return ""
     rows = []
@@ -118,7 +126,7 @@ def main():
             canonical=CFG["base_url"].rstrip("/") + u, body=body_html,
             hero=hero, crumbs=crumbs(u, meta["title"], titles),
             og_type="website" if u == "/" else "article",
-            updated_line=f'<p class="updated">Last verified: {meta["verified"]}</p>' if meta.get("verified") and u != "/" else "",
+            updated_line=f'<p class="updated">Last verified: {us_date(meta["verified"])}</p>' if meta.get("verified") and u != "/" else "",
             year=datetime.date.today().year)
         out = prefix_links(out)
         dest = OUT / u.strip("/") / "index.html"
