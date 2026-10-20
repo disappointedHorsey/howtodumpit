@@ -14,7 +14,7 @@ listings:
   source: https://www.charlottenc.gov/Services/Trash-and-Recycling/Collection-Guidelines
 - name: Mecklenburg County full-service drop-off centers (self-haul)
   type: Drop-off
-  cost: 'No charge for 1 large bulky item, such as a mattress set; $15 per unit for more than 1 item (County residents, July 2026 to June 2027 fees)'
+  cost: 'No charge for 1 large bulky item, such as a mattress set; $15 per unit (load) for more than 1 item (County residents, July 2026 to June 2027 fees)'
   details: 'Compost Central (140 Valleydale Rd., Charlotte, NC 28214), Foxhole (17131 Lancaster Hwy., Charlotte, NC 28277), Hickory Grove (8007 Pence Rd., Charlotte, NC 28215) and North Mecklenburg (12300 N. Statesville Rd., Huntersville, NC 28078). Monday to Saturday, 7 a.m. to 4 p.m. Limit 1 mattress and 1 box spring. County residents get a free blue entry sticker at the fee booth (show a driver''s license or other proof of residence). Debit or credit cards only (no American Express); no cash or checks.'
   source: https://wipeoutwaste.mecknc.gov/where-can-i-recycle
 ---
@@ -51,7 +51,7 @@ The City's bulky waste pages we checked don't list a fee or a per-pickup item li
 
 1. Go to **Compost Central** (140 Valleydale Rd.), **Foxhole** (17131 Lancaster Hwy.), **Hickory Grove** (8007 Pence Rd.) or **North Mecklenburg** (12300 N. Statesville Rd., Huntersville), **Monday to Saturday, 7 a.m. to 4 p.m.** The centers are closed on some holidays; see the County's holiday schedule.
 2. Get a free **blue entry sticker** at the fee booth if you don't have one; you'll be asked for a driver's license or other proof you live in Mecklenburg County. Without a sticker you pay the out-of-county rate.
-3. Pay at the fee booth. For County residents, a vehicle with **one large bulky item** (such as a sofa, chair, table or **mattress set**) is **no charge**. More than one bulky item is **$15 per unit**. Larger or weighed loads are **$65 per ton** ($22 minimum for bulky waste). Uncovered or unsecured loads can cost **50% more**. Cards only (no American Express, cash or checks).
+3. Pay at the fee booth. For County residents, a vehicle with **one large bulky item** (such as a sofa, chair, table or **mattress set**) is **no charge**. More than one bulky item is **$15 per unit** (one unit is one load: a loaded vehicle plus a loaded trailer counts as two). Larger or weighed loads are **$65 per ton** ($22 minimum for bulky waste). Uncovered or unsecured loads can cost **50% more**. Cards only (no American Express, cash or checks).
 4. The centers list a limit of **one mattress and one box spring**.
 
 *Sources: [City of Charlotte Collection Guidelines](https://www.charlottenc.gov/Services/Trash-and-Recycling/Collection-Guidelines), [Bulky item eligibility list (PDF)](https://www.charlottenc.gov/files/sharedassets/city/v/4/services/trash-and-recycling/documents/bulky-item-collection-eligibility.pdf), [Mecklenburg County Recycling and Disposal Centers](https://wipeoutwaste.mecknc.gov/where-can-i-recycle) and [Residential Disposal Fees, July 2026 to June 2027 (PDF)](https://mecknc.widen.net/s/ssfqx2zmsr/residential-fees). Checked 10/20/2026. Rules change, so confirm on the official page before you go.*
