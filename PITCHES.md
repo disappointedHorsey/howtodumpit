@@ -1,6 +1,6 @@
 # HowToDumpIt partnership pitches
 
-Outbound pitches from shopfontasia@gmail.com. Pitch reply watch looks for replies from these orgs.
+Outbound pitches. From 10/20/2026 all mail goes from Adam Wells <adam@howtodumpit.com> (Gmail send-as on shopfontasia@gmail.com; replies forward to shopfontasia). Pitch reply watch looks for replies from these orgs.
 
 | Date (UTC) | Org | To | Subject | Thread / message id | Status |
 |---|---|---|---|---|---|
@@ -18,6 +18,8 @@ Outbound pitches from shopfontasia@gmail.com. Pitch reply watch looks for replie
 | 2026-10-16 | Spring Back Recycling Nashville (Ryan Tiano, site manager) | ryan@springbackrecyclingtn.com | Listing / referral partnership – HowToDumpIt Nashville guide | 1a1452e4a2a0015a | Sent 2026-10-16, awaiting reply. Verified: Davidson County resident mattress drop-off |
 | 2026-10-16 | Honey Junk Removal, LLC | emingram@honeyjunkremoval.com | Partnership inquiry – HowToDumpIt Nashville guide | 1a1452e4d8da9601 | Sent 2026-10-16, awaiting reply. Verified: Nashville on honeyjunkremoval.com/contact |
 | 2026-10-16 | Matt's Haul it All | matts.haul.away@gmail.com | Partnership inquiry – HowToDumpIt Nashville guide | 1a1452e5835b6d73 | Sent 2026-10-16, awaiting reply. Verified: Brentwood base; serves Nashville/Davidson |
-| 2026-10-17 | Habitat for Humanity Portland Region ReStores | info.restore@habitatportlandregion.org | Featuring the ReStore in our Portland junk guide – HowToDumpIt.com | – | Drafted 2026-10-17 (card for Adam), not sent. Verified: Portland ReStore at 10445 SE Cherry Blossom Dr., Portland, OR, plus Beaverton, Gresham and Tigard stores (pdxrestore.org/store-locations/); email on pdxrestore.org/about/contact/ |
-| 2026-10-17 | Slam Dunk Junk | sales@slamdunkjunk.net | Partnership inquiry – HowToDumpIt Portland guide | – | Drafted 2026-10-17 (card for Adam), not sent. Verified: based in Clackamas, OR; Portland listed as a primary service city (slamdunkjunk.net/service-area/, slamdunkjunk.net/junk-removal-portland-oregon/); email on slamdunkjunk.net/contact-us/ |
-| 2026-10-17 | Free Geek | info@freegeek.org | Listing / referral partnership – HowToDumpIt Portland guide | – | Drafted 2026-10-17 (card for Adam), not sent. Verified: 1700 SE Grand Ave., Portland, OR 97214 (freegeek.org); paid donation pickups throughout the Portland metro area (freegeek.org/ways-give-donate-technology/pickups); email is the mailto on freegeek.org/press |
+| 2026-10-17 | Habitat for Humanity Portland Region ReStores | info.restore@habitatportlandregion.org | Featuring the ReStore in our Portland junk guide – HowToDumpIt.com | 1a15835afee39b5d | Sent 10/20/2026 from adam@howtodumpit.com, awaiting reply. Verified: Portland ReStore at 10445 SE Cherry Blossom Dr., Portland, OR, plus Beaverton, Gresham and Tigard stores (pdxrestore.org/store-locations/); email on pdxrestore.org/about/contact/ |
+| 2026-10-17 | Slam Dunk Junk | sales@slamdunkjunk.net | Partnership inquiry – HowToDumpIt Portland guide | 1a15835bf59b3fd4 | Sent 10/20/2026 from adam@howtodumpit.com, awaiting reply. Verified: based in Clackamas, OR; Portland listed as a primary service city (slamdunkjunk.net/service-area/, slamdunkjunk.net/junk-removal-portland-oregon/); email on slamdunkjunk.net/contact-us/ |
+| 2026-10-17 | Free Geek | info@freegeek.org | Listing / referral partnership – HowToDumpIt Portland guide | 1a15835cd1669047 | Sent 10/20/2026 from adam@howtodumpit.com, awaiting reply. Verified: 1700 SE Grand Ave., Portland, OR 97214 (freegeek.org); paid donation pickups throughout the Portland metro area (freegeek.org/ways-give-donate-technology/pickups); email is the mailto on freegeek.org/press |
+
+Follow-up #1 sent 10/20/2026 from adam@howtodumpit.com (in-thread) to all 13 non-repliers sent 10/12–10/16 (all except HandUp).
