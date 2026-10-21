@@ -64,3 +64,9 @@ Chairman's direction (10/21/2026): these haulers received the founding offer on 
 | 16 | Bison Junk Removal | San Jose, CA | New-prospect pitch | |
 
 Still showing the old offer ($3/$2, 10 free), to be updated only after Adam approves the new wording: content/become-a-featured-partner.md (live), content/for-haulers/index.md, PITCH-TEMPLATE.md.
+
+
+## City Featured spot holders
+| City | Holder | Claimed | Terms | Status |
+|---|---|---|---|---|
+| Charlotte, NC | Haulchemy (Oguz Gorgec, owner, info@haulchemy.com) | 10/21/2026 5:29 AM UTC (said yes) | Founding: 10 free leads, then $3/lead; monthly cap, pause or cancel anytime; disputed leads removed | 10/21/2026 6:37 AM UTC: Adam replied with answers and proposed wording; awaiting Oguz's OK plus lead phone and email; then Twilio number, publish, send live link |
