@@ -1,5 +1,7 @@
 # Featured partner pitch templates
 
+> **NOTE (10/21/2026):** Signature, intro paragraph and format rules now live in `/workspace/company/email/` (`signature.txt` for the plain-text body, `signature.html` for htmlBody, `intro-boilerplate.txt`, `EXAMPLE-habitat-portland-reply.txt`, `README.md`). Every pitch goes from adam@howtodumpit.com. Use those files for the signature block instead of the short sign-off below.
+>
 > **NOTE:** Write links WITHOUT https:// (e.g., howtodumpit.com/charlotte-nc/) because the Gmail connector wraps https links in Google redirects.
 >
 > **NOTE:** Founding members from 10/21/2026 (listed in PITCHES.md "Founding members promised 10 free") keep $3 Featured / $2 Verified and 10 free calls or emails. Email 1 below is for new prospects only.
