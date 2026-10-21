@@ -6,21 +6,23 @@ Featured partner page: https://howtodumpit.com/become-a-featured-partner/
 
 ---
 
-## 1. Haulers and local businesses: first email
+## 1. Haulers and local businesses: New prospect (approved by Adam 10/21/2026)
 
-**Subject:** A top spot for {Org} on our {City} junk disposal guide
+Fill in exactly. {Name} is "{Org short} team" unless a person's name is published on the company's site. {City-specific hassle} comes from our city page. {verified detail} must be stated on the company's own site (e.g. ", a family-run Fort Worth crew serving all of DFW"); if there's no distinctive verified detail, leave it empty so the line reads "a local crew like {Org}". Never claim the customers reach only them or that there are no competitors.
+
+**Subject:** Claim the top spot on our {City} junk guide: your first 10 customers are free
 
 Hi {Name},
 
-I run HowToDumpIt, a free guide that helps people in {City} get rid of junk the right way: donating and recycling what's usable and keeping the rest out of the landfill. Our {City} page is here: {city page URL}
+I run HowToDumpIt, a free guide that helps people in {City} get rid of junk the right way: donating and recycling what's usable, keeping the rest out of the landfill and supporting local businesses. Our {City} page: {city page URL}
 
-I'd like to offer {Org} the Featured partner spot in our {City} hauler section. You'd get the top labeled spot, your logo, a "Book now" button and a short blurb, so more local customers find you.
+{City-specific hassle}, so plenty of readers would rather call a local crew like {Org}{verified detail}.
 
-There's no upfront fee. You pay only a small referral fee for jobs you actually book, and you get a monthly report of clicks and leads. If we send you nothing, you pay nothing.
+As a founding member in {City}, you can claim our one Featured spot at the top of the page. It goes to the first hauler who says yes and stays yours for as long as you're a partner. People mostly call whoever is listed first, so the top spot is where most calls go, but the choice is yours. If someone else claims it first, you can still join as a Verified partner with a "Call now" button.
 
-It's a simple way to help your neighbors dispose of things responsibly while supporting a local business. Details: https://howtodumpit.com/become-a-featured-partner/
+No leads, no pay. Your first 10 calls or emails are free. After that, you pay only for each real customer who contacts you through us: $3 for the Featured spot or $2 as a Verified partner. There's no upfront fee, card or contract, and you can cancel anytime. Details: https://howtodumpit.com/become-a-featured-partner/
 
-Would you be open to it? A quick yes or no is perfectly fine.
+Reply "top spot" or "verified" and I'll send the exact wording for your approval.
 
 Best Regards,
 Adam Wells
@@ -31,15 +33,15 @@ https://howtodumpit.com
 
 ## 2. Haulers and local businesses: short follow-up
 
-**Subject:** Re: A top spot for {Org} on our {City} junk disposal guide
+**Subject:** Re: Claim the top spot on our {City} junk guide: your first 10 customers are free
 
 Hi {Name},
 
-Just a quick follow-up on my note about featuring {Org} on our {City} guide ({city page URL}). It's the top labeled spot with your logo and a "Book now" button, with no upfront cost. You only pay for booked jobs, and you get a monthly report.
+Just a quick follow-up on my note about our {City} guide ({city page URL}). The one Featured spot at the top is still open to the first hauler who says yes. Your first 10 calls or emails are free, then $3 each for the Featured spot or $2 as a Verified partner. No leads, no pay: no upfront fee, card or contract, and you can cancel anytime.
 
 More info: https://howtodumpit.com/become-a-featured-partner/
 
-Is this a yes or a no for now? Either answer helps.
+Reply "top spot" or "verified" and I'll send the exact wording for your approval.
 
 Best Regards,
 Adam Wells
