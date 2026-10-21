@@ -1,5 +1,8 @@
 # Changelog
 
+## 10/21/2026 (Portland, OR: Habitat ReStores)
+- Added a Habitat for Humanity Portland Region ReStores (nonprofit) donation listing to `content/portland-or.md` (`/portland-or/`) in the furniture section (four stores: Portland, Beaverton, Gresham, Tigard; drop-off hours; accepted / not-accepted furniture; building materials) and the appliances section (accepted appliances and age limits). Notes that ReSupply residential donation pickup charges a fee (no amount shown) and business pickups are free. Sources: pdxrestore.org donate, store-locations, donation guidelines and donation FAQ pages (the ReStore site linked from habitatportlandregion.org); verified October 21, 2026.
+
 ## 10/21/2026 (Indianapolis, IN)
 - Added Indianapolis, IN general junk guide (`content/indianapolis-in.md`, `/indianapolis-in/`): monthly heavy trash pickup (up to two heavy/bulky items per month, next to the trash cart, mattresses laid flat; no construction debris), Marion County Citizens' Transfer Station (2324 S. Belmont Ave., Saturdays 8 a.m. to 4 p.m., $2 car / $5 SUV or pickup, cash only), South Side Landfill (2561 Kentucky Ave.), freon appliance pickup through the Mayor's Action Center (317-327-4622; allow 10 business days), Indiana e-waste law (IC 13-20.5) banning electronics from the trash, ToxDrop (Traders Point 1st Saturday, Perry Township 2nd and 4th Saturdays, 9 a.m. to 2 p.m.; 20 gallons liquid / 75 pounds solid per visit; TVs 27 inches or less, five computer systems), RecycleForce e-waste, and IDEM paint dry-out guidance. Official indy.gov and in.gov (IDEM) sources cited; verified October 21, 2026.
 
