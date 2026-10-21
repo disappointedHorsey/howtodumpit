@@ -1,3 +1,5 @@
+SUPERSEDED 10/21/2026 - old offer, do not send
+
 # Fort Worth, Charlotte and Jacksonville pitch drafts (October 20, 2026)
 
 Drafts only. Nothing has been sent. Adam sends from adam@howtodumpit.com after review.

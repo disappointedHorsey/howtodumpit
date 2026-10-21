@@ -1,3 +1,5 @@
+SUPERSEDED 10/21/2026 - old offer, do not send
+
 # Cambridge–Somerville pitch drafts (October 13, 2026)
 
 Drafts only. Nothing has been sent. Adam presses Send himself from shopfontasia@gmail.com.

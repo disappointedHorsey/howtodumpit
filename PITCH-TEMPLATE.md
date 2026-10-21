@@ -6,7 +6,7 @@
 
 Reusable templates. Not sent anywhere from here. Replace the placeholders `{Name}`, `{Org}`, `{City}` and `{city page URL}` before using. Keep each email under about 150 words.
 
-Featured partner page: https://howtodumpit.com/become-a-featured-partner/
+Featured partner page: howtodumpit.com/become-a-featured-partner/
 
 ---
 
@@ -24,70 +24,74 @@ I run HowToDumpIt, a free guide that helps people in {City} get rid of junk the 
 
 As a founding member in {City}, you can claim our one Featured spot at the top of the page. It goes to the first hauler who says yes and stays yours for as long as you're a partner. People mostly call whoever is listed first, so the top spot is where most calls go, but the choice is yours. If someone else claims it first, you can still join as a Verified partner with a "Call now" button.
 
-No leads, no pay. Your first 5 calls or emails are free. After that, you pay only for each real customer who contacts you through us: $12 for the Featured spot or $8 as a Verified partner. There's no upfront fee, card or contract, and you can cancel or pause anytime. Details: https://howtodumpit.com/become-a-featured-partner/
+No leads, no pay. Your first 5 calls or emails are free. After that, you pay only for each real customer who contacts you through us: $12 for the Featured spot or $8 as a Verified partner. There's no upfront fee, card or contract, and you can cancel or pause anytime. Details: howtodumpit.com/become-a-featured-partner/
 
 Reply "top spot" or "verified" and I'll send the exact wording for your approval.
 
 Best Regards,
 Adam Wells
 Founder, HowToDumpIt
-https://howtodumpit.com
+howtodumpit.com
 
 ---
 
-## 2. Haulers and local businesses: short follow-up
+## 2. Haulers and local businesses: short follow-up (new prospects)
 
-**Subject:** Re: Claim the top spot on our {City} junk guide: your first 10 customers are free
+> **NOTE:** The founding members already got their email 2 on 10/21/2026 with the 10-free / $3 / $2 offer. Do not send this version to them.
+
+**Subject:** Re: Claim the top spot on our {City} junk guide: your first 5 customers are free
 
 Hi {Name},
 
-Just a quick follow-up on my note about our {City} guide ({city page URL}). The one Featured spot at the top is still open to the first hauler who says yes. Your first 10 calls or emails are free, then $3 each for the Featured spot or $2 as a Verified partner. No leads, no pay: no upfront fee, card or contract, and you can cancel anytime.
+Just a quick follow-up on my note about our {City} guide ({city page URL}). The one Featured spot at the top is still open to the first hauler who says yes. Your first 5 calls or emails are free, then $12 each for the Featured spot or $8 as a Verified partner. No leads, no pay: no upfront fee, card or contract, we bill only once you owe at least $25, and you can cancel or pause anytime.
 
-More info: https://howtodumpit.com/become-a-featured-partner/
+More info: howtodumpit.com/become-a-featured-partner/
 
 Reply "top spot" or "verified" and I'll send the exact wording for your approval.
 
 Best Regards,
 Adam Wells
 Founder, HowToDumpIt
-https://howtodumpit.com
+howtodumpit.com
 
 ---
 
 ## 3. Nonprofits (ReStores, reuse centers, furniture banks): first email
 
-**Subject:** Featuring {Org} for free on our {City} disposal guide
+> **NOTE:** Nonprofit pricing is pending Adam's decision. Do not promise a price or say "free" for partner features.
+
+**Subject:** Listing {Org} on our {City} disposal guide
 
 Hi {Name},
 
-I run HowToDumpIt, a free guide that helps people in {City} get rid of unwanted items responsibly. Whenever we can, we point them toward donating and reuse instead of the landfill. Our {City} page is here: {city page URL}
+I run HowToDumpIt, a guide that helps people in {City} get rid of unwanted items responsibly. Whenever we can, we point them toward donating and reuse instead of the landfill. Our {City} page is here: {city page URL}
 
-I'd love to feature {Org} there, completely free. Features for nonprofits are always free. You'd get a top labeled spot, your logo, a link to donate or schedule a pickup, and a short blurb. That should mean more good donations coming your way, and we can send you a monthly report of the clicks we send.
+We'd love to list {Org} there, so more people send usable items your way instead of to the landfill. I'm happy to talk about how it works.
 
-Here's how it works: https://howtodumpit.com/become-a-featured-partner/
+More about our partner listings: howtodumpit.com/become-a-featured-partner/
 
 Would you like to be included? A quick yes or no is all I need.
 
 Best Regards,
 Adam Wells
 Founder, HowToDumpIt
-https://howtodumpit.com
+howtodumpit.com
 
 ---
 
 ## 4. Nonprofits: short follow-up
 
-**Subject:** Re: Featuring {Org} for free on our {City} disposal guide
+**Subject:** Re: Listing {Org} on our {City} disposal guide
 
 Hi {Name},
 
-Just following up on my offer to feature {Org} for free on our {City} guide ({city page URL}). It's a top spot with your logo and a donation link, aimed at sending more usable items your way. There's no cost, ever.
+Just following up on my note about listing {Org} on our {City} guide ({city page URL}). We'd love to point more people with usable items your way, and I'm happy to talk about how it works.
 
-Details: https://howtodumpit.com/become-a-featured-partner/
+Details: howtodumpit.com/become-a-featured-partner/
 
 Would you like to be included? A quick yes or no is great.
 
 Best Regards,
 Adam Wells
 Founder, HowToDumpIt
-https://howtodumpit.com
+howtodumpit.com

@@ -1,3 +1,5 @@
+SUPERSEDED 10/21/2026 - old offer, do not send
+
 # San Jose, CA pitch drafts (October 21, 2026 Sydney / October 20, 2026 UTC)
 
 Drafts only. Nothing has been sent. Adam sends from adam@howtodumpit.com after review.

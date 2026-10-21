@@ -1,3 +1,5 @@
+SUPERSEDED 10/21/2026 - old offer, do not send
+
 # Hauler pitch drafts: approved new-prospect template (October 21, 2026)
 
 Drafts only. Nothing has been sent. Adam sends from adam@howtodumpit.com after review. Template approved by Adam 10/21/2026 (see PITCH-TEMPLATE.md, 'New prospect'). Verified details come from each company's own site (sources below; full notes in _pitch_drafts_fw_clt_jax.md and _pitch_drafts_san-jose-ca.md).

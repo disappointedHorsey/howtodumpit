@@ -1,6 +1,6 @@
 ---
 title: 'Become a featured partner: list your hauling business or charity'
-description: 'Free basic listings for legitimate local haulers and charities in our city guides, plus Verified partner ($8 per call or email) and Featured partner ($12 per call or email) options. No leads, no pay, and founding members get their first 5 calls or emails free.'
+description: 'Free basic listings for legitimate local haulers and charities in our city guides, plus Verified partner ($8 per call or email) and Featured partner ($12 per call or email) options. No leads, no pay, and new partners get their first 5 calls or emails free.'
 short: Become a featured partner
 ---
 # Become a featured partner
@@ -29,11 +29,12 @@ Any legitimate local junk-removal business, hauler, cleanout crew, reuse center 
 
 People mostly call whoever is listed first, so the top spot is where most calls go, but the choice is yours.
 
-## Founding member offer
+## Getting started
 
-- **Your first 5 calls or emails are free.**
+- **New partners: your first 5 calls or emails are free.**
 - **No leads, no pay.** After your free 5, you pay only for each real customer who contacts you through us.
 - **No upfront fee, no card and no contract.**
+- **Founding partners keep the terms they signed up on.**
 
 ## How billing works
 
