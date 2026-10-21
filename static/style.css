@@ -8,6 +8,7 @@ a{color:var(--brand)}a:hover{color:var(--brand-d)}
 .site-header{position:sticky;top:0;z-index:10;background:rgba(255,255,255,.92);backdrop-filter:saturate(180%) blur(8px);border-bottom:1px solid var(--line)}
 .bar{display:flex;align-items:center;justify-content:space-between;height:60px}
 .brand{display:flex;align-items:center;gap:8px;font-weight:600;font-size:1.25rem;color:var(--ink);text-decoration:none;letter-spacing:-.02em}
+.brand img{display:block;width:200px;height:auto;max-width:46vw}
 .brand b,.foot-brand b{color:var(--brand);font-weight:800}
 .logo{display:inline-grid;place-items:center;width:30px;height:30px;border-radius:8px;background:var(--brand);color:#fff;font-weight:800}
 nav a{margin-left:18px;color:var(--muted);text-decoration:none;font-weight:500;font-size:.95rem}nav a:hover{color:var(--ink)}

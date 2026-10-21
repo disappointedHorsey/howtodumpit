@@ -1,5 +1,8 @@
 # Changelog
 
+## 10/21/2026 (Logo and favicon)
+- New HowToDumpIt wordmark logo (black #111111 with a safety-yellow #FFC20E bar under "DumpIt"; IBM Plex Sans, SIL OFL 1.1, outlined to paths) in the header of every page, linked to the homepage with alt="HowToDumpIt" (`templates/page.html`, `static/style.css`). Added the "HD" monogram favicon (`favicon.ico`, SVG icon) and a 180px apple-touch-icon. Assets in `static/brand/` (served at `/static/brand/`).
+
 ## 10/21/2026 (Portland, OR: Habitat ReStores)
 - Added a Habitat for Humanity Portland Region ReStores (nonprofit) donation listing to `content/portland-or.md` (`/portland-or/`) in the furniture section (four stores: Portland, Beaverton, Gresham, Tigard; drop-off hours; accepted / not-accepted furniture; building materials) and the appliances section (accepted appliances and age limits). Notes that ReSupply residential donation pickup charges a fee (no amount shown) and business pickups are free. Sources: pdxrestore.org donate, store-locations, donation guidelines and donation FAQ pages (the ReStore site linked from habitatportlandregion.org); verified October 21, 2026.
 
