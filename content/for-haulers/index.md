@@ -12,7 +12,7 @@ HowToDumpIt normally helps households get rid of bulky junk. This section is for
 - **[Load-size pricing calculator](/for-haulers/pricing-calculator/)**: work out a job price from *your own* costs. Every assumption is yours to edit.
 - **[City disposal costs](/for-haulers/dump-fees/)**: what the city programs in our guides charge, with official links. These are residential programs, so read the notes.
 - **[Junk removal price sheet template](/for-haulers/price-sheet-template/)**: a free, blank CSV price sheet (load sizes, single items, surcharges, policies) to fill in with your own prices.
-- **[Become a featured partner](/become-a-featured-partner/)**: get a free basic listing in our city guides, or a clearly labeled Featured partner spot with no upfront fee. You pay only for booked jobs.
+- **[Become a featured partner](/become-a-featured-partner/)**: get a free basic listing in our city guides, or the clearly labeled Featured partner spot, one per city. Founding members get their first 10 calls or emails free, then $2 each, with no upfront payment, card or contract.
 
 More guides are coming: surcharges for mattresses and appliances, photo quoting, and a startup checklist.
 

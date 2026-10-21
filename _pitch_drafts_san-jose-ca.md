@@ -1,6 +1,6 @@
 # San Jose, CA pitch drafts (October 21, 2026 Sydney / October 20, 2026 UTC)
 
-Drafts only. Nothing has been sent. Adam sends from adam@howtodumpit.com after review.
+Drafts only. Nothing has been sent. Hauler drafts redrafted 10/21/2026 with the founding-member offer; nonprofit drafts unchanged. Adam sends from adam@howtodumpit.com after review.
 
 ---
 
@@ -57,20 +57,24 @@ https://howtodumpit.com
 ## 3. Bison Junk Removal (San Jose)
 
 - **To:** Info@bisonjunk.com
-- **Subject:** A top spot for Bison Junk Removal on our San Jose junk disposal guide
+- **Subject:** 10 free customer calls for Bison Junk Removal in San Jose
 - **Verification:** Verified on bisonjunk.com (home) and bisonjunk.com/areas-we-serve/: "founded in 2023 right here in San Jose, CA", locally family-owned, "not a franchise or a call center"; San Jose is first on the service-area list (plus Sunnyvale, Santa Clara, Mountain View, Cupertino and other South Bay cities); donation-first (Goodwill, Hope Thrift, other Bay Area nonprofits). CAVEAT: no street address published (city level "San Jose CA" only). Email Info@bisonjunk.com published on both pages.
+
+- **Status:** Redrafted 10/21/2026 with the founding-member offer (replaces the per-booked-job wording). Not sent.
 
 **Body:**
 
 Hi Bison Junk Removal team,
 
-I run HowToDumpIt, a free guide that helps people in San Jose get rid of junk the right way: donating and recycling what's usable and keeping the rest out of the landfill. We just published our San Jose page: https://howtodumpit.com/san-jose-ca/
+I run HowToDumpIt, a free guide helping San Jose neighbors dispose of junk responsibly, keep usable items out of the landfill and support local businesses: https://howtodumpit.com/san-jose-ca/
 
-San Jose's free Junk Pickup has to be booked through 311, waits for a confirmation email, comes only on your collection day and caps each request at 12 items, so plenty of readers would rather call a local crew. Since you're a family-owned San Jose company with a donation-first approach, I'd like to offer Bison Junk Removal the Featured partner spot in our San Jose hauler section: the top labeled spot, your logo, a "Book now" button and a short blurb.
+San Jose's free Junk Pickup must be booked through 311, waits for a confirmation email, comes only on your collection day and caps each request at 12 items, so many readers would rather call a family-owned, donation-first San Jose company like yours.
 
-It's a simple referral arrangement. There's no upfront fee; you pay only a small referral fee for jobs you actually book, and you get a monthly report of clicks and leads. If we send you nothing, you pay nothing. Details: https://howtodumpit.com/become-a-featured-partner/
+I'd like Bison Junk Removal to be our San Jose Featured partner, the one clearly labeled top spot. Ready-to-hire local customers would reach only you, while lead sites share each lead with several competitors.
 
-Would you be open to it? A quick yes or no is perfectly fine.
+Zero risk: as a founding member, your first 10 calls or emails are free, then $2 each, paid only once leads are coming in. No upfront payment, card or contract. You get your own tracking number forwarding to your phone, plus a monthly report: https://howtodumpit.com/become-a-featured-partner/
+
+Reply yes and I'll send the exact wording for your approval.
 
 Best Regards,
 Adam Wells
