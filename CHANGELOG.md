@@ -1,5 +1,8 @@
 # Changelog
 
+## 10/21/2026 (Nonprofit paid offer)
+- Per Adam's 10/21/2026 rule, nonprofits get the same paid offer as haulers: `content/become-a-featured-partner.md` nonprofit section now says nonprofits and charities can still get a standard free listing and can also choose Featured or Verified on the same terms as any partner; nonprofit pitch templates (PITCH-TEMPLATE.md sections 3-4) rewritten with the $12/$8, first-5-free offer; SF Community Thrift no-price draft superseded; PITCHES.md marks five SF haulers sent.
+
 ## 10/21/2026 (San Francisco, CA)
 - Added San Francisco, CA general junk guide (`content/san-francisco-ca.md`, `/san-francisco-ca/`): Recology Bulky Item Collection at no additional charge (two per calendar year for buildings with 5 units or fewer, one per unit in 6+ unit buildings, up to 10 items each, active Recology account required, set out 6 p.m. to 6 a.m. with a RECOLOGY sign), accepted/unaccepted bulky items (residential fridges, washers/dryers, stoves; no commercial appliances, pianos, cast iron tubs or items over 100 pounds), SF Transfer Station at 501 Tunnel Ave. with Recology's posted fees ($60 minimum per load; first 4 mattresses/day free, then $21.85; refrigerators $73.68 and washers/dryers/stoves/dishwashers $31.22 plus weight; TVs, monitors and laptops free), California retailer mattress take-back, e-waste prohibited from carts, free HHW Facility (Thursday to Saturday, 15 gallons or 125 pounds, SF residents) and free Recology HHW home pickup, paint at participating hardware stores (5 gallons), and SF311 dumping reports. Official sfenvironment.org / sf.gov sources and the City's franchised hauler Recology San Francisco cited; verified October 21, 2026.
 

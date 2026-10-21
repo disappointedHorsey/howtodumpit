@@ -1,7 +1,7 @@
 # San Francisco, CA pitch drafts (10/21/2026)
 
 Drafted 10/21/2026. NOT SENT. Awaiting Adam's approval. City page: howtodumpit.com/san-francisco-ca/ (shipped 10/21/2026).
-Haulers use PITCH-TEMPLATE.md section 1 (new prospect: $12 Featured / $8 Verified, first 5 free). Nonprofit uses section 3 (no price promises).
+Haulers use PITCH-TEMPLATE.md section 1 (new prospect: $12 Featured / $8 Verified, first 5 free). Nonprofit uses section 3 (paid offer, same as haulers, per Adam's rule 10/21/2026).
 Bodies end at the sign-off; append /workspace/company/email/signature.txt (plain) and signature.html (HTML) when creating the drafts. Send from adam@howtodumpit.com.
 City-specific hassle (from the San Francisco page, sourced to Recology San Francisco Bulky Items and FAQ pages): two no-charge bulky pickups a year (one for apartment tenants), and Recology suggests calling at least two weeks ahead.
 
@@ -122,7 +122,9 @@ Best regards,
 
 ---
 
-## 6. Community Thrift Store (nonprofit)
+## 6a. Community Thrift Store (nonprofit), old no-price draft
+
+**SUPERSEDED 10/21/2026, not sent; replaced by the paid-offer draft** (6b below).
 
 - **To:** donate@communitythriftsf.org
 - **Verified on** communitythriftsf.org (home, /about/, /pick-up/): 501(c)(3) nonprofit thrift store founded 1982, 623 Valencia St., San Francisco, CA 94110, (415) 861-4910; raises funds for 200+ Bay Area charities (donor picks the charity); free pick-up for large furniture donations in San Francisco by appointment, Sunday to Thursday; email donate@communitythriftsf.org published on the pick-up page.
@@ -138,6 +140,30 @@ We'd love to list Community Thrift Store there, so more people send usable items
 More about our partner listings: howtodumpit.com/become-a-featured-partner/
 
 Would you like to be included? A quick yes or no is all I need.
+
+Best regards,
+
+---
+
+## 6b. Community Thrift Store (nonprofit), paid-offer draft (10/21/2026)
+
+Drafted 10/21/2026. NOT SENT. Uses PITCH-TEMPLATE.md section 3 (paid offer).
+
+- **To:** donate@communitythriftsf.org
+
+**Subject:** Claim the top spot on our San Francisco junk guide: your first 5 donor pickups are free
+
+Hi Community Thrift team,
+
+I run HowToDumpIt, a free guide that helps people in San Francisco get rid of junk the right way: donating and recycling what's usable, keeping the rest out of the landfill and supporting local organizations. Our San Francisco page: howtodumpit.com/san-francisco-ca/
+
+In San Francisco, Recology's no-charge bulky pickup is limited to two appointments a year (one for apartment tenants), and Recology suggests booking at least two weeks ahead, so plenty of readers would rather donate to Community Thrift Store, a San Francisco nonprofit thrift store that raises funds for 200+ Bay Area charities.
+
+We'd love to list Community Thrift Store there. As a founding member in San Francisco, you can claim our one Featured spot at the top of the page. It goes to the first partner who says yes and stays yours for as long as you're a partner. People mostly contact whoever is listed first, so the top spot is where most donors go, but the choice is yours. If someone else claims it first, you can still join as a Verified partner with a "Call now" button.
+
+No leads, no pay. Your first 5 calls or emails are free. After that, you pay only for each real donor who contacts you through us: $12 for the Featured spot or $8 as a Verified partner. There's no upfront fee, card or contract, and you can cancel or pause anytime. Details: howtodumpit.com/become-a-featured-partner/
+
+Reply "top spot" or "verified" and I'll send the exact wording for your approval.
 
 Best regards,
 

@@ -48,7 +48,7 @@ It's a simple way to help your neighbors dispose of things responsibly, keep usa
 
 ## Nonprofits and charities
 
-Nonprofits and charities: we list you free. Email us about partner options.
+Nonprofits and charities can still get a standard free listing, and can also choose Featured or Verified on the same terms as any partner.
 
 ## Honest disclosure
 
