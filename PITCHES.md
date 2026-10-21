@@ -39,3 +39,28 @@ Outbound pitches. From 10/20/2026 all mail goes from Adam Wells <adam@howtodumpi
 Follow-up #1 sent 10/20/2026 from adam@howtodumpit.com (in-thread) to all 13 non-repliers sent 10/12–10/16 (all except HandUp).
 
 10/21/2026: Blue Star Recyclers (Tom Moloney) said yes 10/20; Adam sent proposed wording 10/21 from adam@; awaiting Tom's approval, then publish on denver-co and send link.
+
+## Founding members promised 10 free
+
+Chairman's direction (10/21/2026): these haulers received the founding offer on 10/21/2026 ($3 per lead Featured, $2 per lead Verified, first 10 calls or emails free, no leads no pay, no upfront fee or contract) and **keep 10 free leads**. Everyone pitched after 10/21/2026 gets **5 free leads** and the new prices once Adam approves them (recommended $12 Featured / $8 Verified; see /workspace/company/BUSINESS-PLAN.md). Checked against this file: no other hauler was offered 10 free. Nonprofits already pitched stay free as promised.
+
+| # | Hauler | City | How offered (10/21/2026) | Note |
+|---|---|---|---|---|
+| 1 | Mo's Hauling | Denver, CO | New-offer follow-up (email 2), in-thread | |
+| 2 | The Junk Trunk | Denver, CO | New-offer follow-up (email 2), in-thread | |
+| 3 | Rivas Rubbish Removal | Cambridge–Somerville, MA | New-offer follow-up (email 2), in-thread | |
+| 4 | Jubilee Junk Removal & Hauling | Louisville, KY | New-offer follow-up (email 2), in-thread | |
+| 5 | 502 Junk Removal | Louisville, KY | New-offer follow-up (email 2), in-thread | |
+| 6 | Honey Junk Removal, LLC | Nashville, TN | New-offer follow-up (email 2), in-thread | |
+| 7 | Matt's Haul it All | Nashville, TN | New-offer follow-up (email 2), in-thread | |
+| 8 | Slam Dunk Junk | Portland, OR | New-offer follow-up (email 2), in-thread | |
+| 9 | Green Source Junk Removal | Fort Worth, TX | New-prospect pitch | |
+| 10 | Cowtown Junkers | Fort Worth, TX | New-prospect pitch | |
+| 11 | Haulchemy | Charlotte, NC | New-prospect pitch | |
+| 12 | Dr Junk | Charlotte, NC | New-prospect pitch | |
+| 13 | Jacksonville Hauling & Junk Removal | Jacksonville, FL | New-prospect pitch | BOUNCED (Yahoo 550 5.7.9), never delivered; honor 10 free if re-contacted |
+| 14 | JDog Junk Removal & Hauling Jacksonville | Jacksonville, FL | New-prospect pitch | |
+| 15 | Trashouts Junk Removal | Jacksonville, FL | New-prospect pitch | |
+| 16 | Bison Junk Removal | San Jose, CA | New-prospect pitch | |
+
+Still showing the old offer ($3/$2, 10 free), to be updated only after Adam approves the new wording: content/become-a-featured-partner.md (live), content/for-haulers/index.md, PITCH-TEMPLATE.md.
