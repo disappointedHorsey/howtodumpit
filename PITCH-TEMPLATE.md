@@ -24,7 +24,7 @@ I run HowToDumpIt, a free guide that helps people in {City} get rid of junk the 
 
 {City-specific hassle}, so plenty of readers would rather call a local crew like {Org}{verified detail}.
 
-As a founding member in {City}, you can claim our one Featured spot at the top of the page. It goes to the first hauler who says yes and stays yours for as long as you're a partner. People mostly call whoever is listed first, so the top spot is where most calls go, but the choice is yours. If someone else claims it first, you can still join as a Verified partner with a "Call now" button.
+As one of our first partners in {City}, you can claim our one Featured spot at the top of the page. It goes to the first hauler who says yes and stays yours for as long as you're a partner. People mostly call whoever is listed first, so the top spot is where most calls go, but the choice is yours. If someone else claims it first, you can still join as a Verified partner with a "Call now" button.
 
 No leads, no pay. Your first 5 calls or emails are free. After that, you pay only for each real customer who contacts you through us: $12 for the Featured spot or $8 as a Verified partner. There's no upfront fee, card or contract, and you can cancel or pause anytime. Details: howtodumpit.com/become-a-featured-partner/
 
@@ -70,7 +70,7 @@ I run HowToDumpIt, a free guide that helps people in {City} get rid of junk the 
 
 {City-specific hassle}, so plenty of readers would rather donate to {Org}{verified detail}.
 
-We'd love to list {Org} there. As a founding member in {City}, you can claim our one Featured spot at the top of the page. It goes to the first partner who says yes and stays yours for as long as you're a partner. People mostly contact whoever is listed first, so the top spot is where most donors go, but the choice is yours. If someone else claims it first, you can still join as a Verified partner with a "Call now" button.
+We'd love to list {Org} there. As one of our first partners in {City}, you can claim our one Featured spot at the top of the page. It goes to the first partner who says yes and stays yours for as long as you're a partner. People mostly contact whoever is listed first, so the top spot is where most donors go, but the choice is yours. If someone else claims it first, you can still join as a Verified partner with a "Call now" button.
 
 No leads, no pay. Your first 5 calls or emails are free. After that, you pay only for each real donor who contacts you through us: $12 for the Featured spot or $8 as a Verified partner. There's no upfront fee, card or contract, and you can cancel or pause anytime. Details: howtodumpit.com/become-a-featured-partner/
 
