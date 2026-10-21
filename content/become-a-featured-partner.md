@@ -1,6 +1,6 @@
 ---
 title: 'Become a featured partner: list your hauling business or charity'
-description: 'Free basic listings for legitimate local haulers and charities in our city guides, plus a clearly labeled Featured partner spot. Founding members get their first 10 calls or emails free. Nonprofits are always free.'
+description: 'Free basic listings for legitimate local haulers and charities in our city guides, plus a clearly labeled Featured partner spot with no upfront fee. Nonprofits are always free.'
 short: Become a featured partner
 ---
 # Become a featured partner
@@ -13,24 +13,21 @@ Any legitimate local junk-removal business, hauler, cleanout crew, reuse center 
 
 ## The Featured partner option
 
-If you'd like more customers, you can become the **Featured partner** in a city. A Featured partner gets:
+If you'd like more visibility, you can become the **Featured partner** for your category in a city. A Featured partner gets:
 
 - **The top spot** in that city's hauler section, clearly labeled **"Featured partner"**
 - **Your logo**
-- **A "Book now" button** and **your own tracking phone number** on our page, which forwards to your real phone
+- **A "Book now" button** that goes straight to your booking page or phone number
 - **A short blurb** about what you do and why people should choose you
 
-**Only one Featured partner per city.** The ready-to-act local customers who call or email from that spot reach only you. Lead sites often share each lead with several competitors; we don't.
+**Only one Featured partner per category per city.** We keep it that way so the spot means something, for you and for our readers.
 
-### Founding member offer
+### How it's paid for
 
-- **Your first 10 calls or emails are free.**
-- **After that, it's $2 per call or email.** You only pay once leads are coming in.
-- **No upfront payment, no card and no contract** to start.
-- **Calls of 60 seconds or more count** as a call. Your tracking number forwards every call straight to your real phone.
-- **A monthly report** of the calls and emails we sent you, so you can see exactly what you're paying for.
-
-It's a simple way to help your neighbors dispose of things responsibly, keep usable items out of the landfill, and support a local business: yours.
+- **No upfront fee.** There's nothing to pay to get started.
+- **You pay only for results:** a small flat referral fee per booked job, or a percentage, agreed with you in advance.
+- **A monthly report** of the clicks and leads we sent you, so you can see exactly what you're paying for.
+- **If we send you nothing, you pay nothing.**
 
 ## Nonprofits are always free
 

@@ -1,6 +1,6 @@
 # Fort Worth, Charlotte and Jacksonville pitch drafts (October 20, 2026)
 
-Drafts only. Nothing has been sent. Hauler drafts redrafted 10/21/2026 with the founding-member offer; nonprofit drafts unchanged. Adam sends from adam@howtodumpit.com after review.
+Drafts only. Nothing has been sent. Adam sends from adam@howtodumpit.com after review.
 
 ---
 
@@ -32,24 +32,20 @@ https://howtodumpit.com
 ## 2. Green Source Junk Removal (Fort Worth)
 
 - **To:** greensourcejunk@gmail.com
-- **Subject:** 10 free customer calls for Green Source Junk Removal in Fort Worth
+- **Subject:** A top spot for Green Source Junk Removal on our Fort Worth junk disposal guide
 - **Verification:** Verified on greensourcejunk.com (home page and greensourcejunk.com/fort-worth service page): based at 2724 La Monde Terrace, Fort Worth, TX 76114; 'based in Fort Worth and serve surrounding DFW communities'. Email greensourcejunk@gmail.com published on both pages.
-
-- **Status:** Redrafted 10/21/2026 with the founding-member offer (replaces the per-booked-job wording). Not sent.
 
 **Body:**
 
 Hi Green Source team,
 
-I run HowToDumpIt, a free guide helping Fort Worth neighbors dispose of junk responsibly, keep usable items out of the landfill and support local businesses: https://howtodumpit.com/fort-worth-tx/
+I run HowToDumpIt, a free guide that helps people in Fort Worth get rid of junk the right way: donating and recycling what's usable and keeping the rest out of the landfill. We just published our Fort Worth page: https://howtodumpit.com/fort-worth-tx/
 
-Fort Worth bulk pickup comes once a month, has to go out on the right Monday, and costs $123.52 and up out of cycle, so many readers would rather call a Fort Worth-based crew like yours.
+City bulk pickup in Fort Worth is once a month, has to go out on the right Monday, and costs $123.52 and up if it's out of cycle, so plenty of readers would rather call a local crew. Since you're based right here in Fort Worth and serve the surrounding DFW communities, I'd like to offer Green Source Junk Removal the Featured partner spot in our Fort Worth hauler section: the top labeled spot, your logo, a "Book now" button and a short blurb.
 
-I'd like Green Source Junk Removal to be our Fort Worth Featured partner, the one clearly labeled top spot. Ready-to-hire local customers would reach only you, while lead sites share each lead with several competitors.
+It's a simple referral arrangement. There's no upfront fee; you pay only a small referral fee for jobs you actually book, and you get a monthly report of clicks and leads. If we send you nothing, you pay nothing. Details: https://howtodumpit.com/become-a-featured-partner/
 
-Zero risk: as a founding member, your first 10 calls or emails are free, then $2 each, paid only once leads are coming in. No upfront payment, card or contract. You get your own tracking number forwarding to your phone, plus a monthly report: https://howtodumpit.com/become-a-featured-partner/
-
-Reply yes and I'll send the exact wording for your approval.
+Would you be open to it? A quick yes or no is perfectly fine.
 
 Best Regards,
 Adam Wells
@@ -61,24 +57,20 @@ https://howtodumpit.com
 ## 3. Cowtown Junkers (Fort Worth)
 
 - **To:** hello@cowtownjunkers.com
-- **Subject:** 10 free customer calls for Cowtown Junkers in Fort Worth
+- **Subject:** A top spot for Cowtown Junkers on our Fort Worth junk disposal guide
 - **Verification:** Verified on cowtownjunkers.com (/about, /contact, /locations/fort-worth-tx): Fort Worth-based, family-run, 'Fort Worth, TX, serving all of DFW'; Fort Worth has its own location page. CAVEAT: no street address published (site metadata lists only Fort Worth, TX 76102). Email hello@cowtownjunkers.com published on /about and /contact.
-
-- **Status:** Redrafted 10/21/2026 with the founding-member offer (replaces the per-booked-job wording). Not sent.
 
 **Body:**
 
 Hi Cowtown Junkers team,
 
-I run HowToDumpIt, a free guide helping Fort Worth neighbors dispose of junk responsibly, keep usable items out of the landfill and support local businesses: https://howtodumpit.com/fort-worth-tx/
+I run HowToDumpIt, a free guide that helps people in Fort Worth get rid of junk the right way: donating and recycling what's usable and keeping the rest out of the landfill. We just published our Fort Worth page: https://howtodumpit.com/fort-worth-tx/
 
-Fort Worth bulk pickup comes once a month, and freon appliances and electronics have to be hauled to a Drop-Off Station, so many readers would rather call a Fort Worth crew serving all of DFW, like yours.
+City bulk pickup in Fort Worth is once a month, and freon appliances and electronics have to be hauled to a Drop-Off Station, so plenty of readers would rather call a local crew. Since you're a Fort Worth crew serving all of DFW, I'd like to offer Cowtown Junkers the Featured partner spot in our Fort Worth hauler section: the top labeled spot, your logo, a "Book now" button and a short blurb.
 
-I'd like Cowtown Junkers to be our Fort Worth Featured partner, the one clearly labeled top spot. Ready-to-hire local customers would reach only you, while lead sites share each lead with several competitors.
+It's a simple referral arrangement. There's no upfront fee; you pay only a small referral fee for jobs you actually book, and you get a monthly report of clicks and leads. If we send you nothing, you pay nothing. Details: https://howtodumpit.com/become-a-featured-partner/
 
-Zero risk: as a founding member, your first 10 calls or emails are free, then $2 each, paid only once leads are coming in. No upfront payment, card or contract. You get your own tracking number forwarding to your phone, plus a monthly report: https://howtodumpit.com/become-a-featured-partner/
-
-Reply yes and I'll send the exact wording for your approval.
+Would you be open to it? A quick yes or no is perfectly fine.
 
 Best Regards,
 Adam Wells
@@ -115,24 +107,20 @@ https://howtodumpit.com
 ## 5. Haulchemy (Charlotte)
 
 - **To:** info@haulchemy.com
-- **Subject:** 10 free customer calls for Haulchemy in Charlotte
+- **Subject:** A top spot for Haulchemy on our Charlotte junk disposal guide
 - **Verification:** Verified on haulchemy.com (home, /contact, /service-areas/charlotte-nc/): locally owned, family-run, serving Charlotte and surrounding NC communities; Charlotte has its own service-area page ('Charlotte is part of our regular service area'). CAVEAT: no street address published (service-area business). Email info@haulchemy.com published on /contact.
-
-- **Status:** Redrafted 10/21/2026 with the founding-member offer (replaces the per-booked-job wording). Not sent.
 
 **Body:**
 
 Hi Haulchemy team,
 
-I run HowToDumpIt, a free guide helping Charlotte neighbors dispose of junk responsibly, keep usable items out of the landfill and support local businesses: https://howtodumpit.com/charlotte-nc/
+I run HowToDumpIt, a free guide that helps people in Charlotte get rid of junk the right way: donating and recycling what's usable and keeping the rest out of the landfill. We just published our Charlotte page: https://howtodumpit.com/charlotte-nc/
 
-In Charlotte, bulky pickup has to be scheduled ahead through 311, and the County centers charge $15 a load once you bring more than one item, so many readers would rather call a family-run crew serving Charlotte regularly, like yours.
+In Charlotte, bulky pickup has to be scheduled ahead through 311, and the County centers charge $15 a load once you bring more than one item, so plenty of readers would rather call a local crew. Since you're family-run and Charlotte is part of your regular service area, I'd like to offer Haulchemy the Featured partner spot in our Charlotte hauler section: the top labeled spot, your logo, a "Book now" button and a short blurb.
 
-I'd like Haulchemy to be our Charlotte Featured partner, the one clearly labeled top spot. Ready-to-hire local customers would reach only you, while lead sites share each lead with several competitors.
+It's a simple referral arrangement. There's no upfront fee; you pay only a small referral fee for jobs you actually book, and you get a monthly report of clicks and leads. If we send you nothing, you pay nothing. Details: https://howtodumpit.com/become-a-featured-partner/
 
-Zero risk: as a founding member, your first 10 calls or emails are free, then $2 each, paid only once leads are coming in. No upfront payment, card or contract. You get your own tracking number forwarding to your phone, plus a monthly report: https://howtodumpit.com/become-a-featured-partner/
-
-Reply yes and I'll send the exact wording for your approval.
+Would you be open to it? A quick yes or no is perfectly fine.
 
 Best Regards,
 Adam Wells
@@ -144,24 +132,20 @@ https://howtodumpit.com
 ## 6. Dr Junk (Charlotte)
 
 - **To:** 4drjunk@gmail.com
-- **Subject:** 10 free customer calls for Dr Junk in Charlotte
+- **Subject:** A top spot for Dr Junk on our Charlotte junk disposal guide
 - **Verification:** Verified on drjunk.com (home and /mattress-disposal-Charlotte): address Monroe, NC 28112 (city level only); 'Cities we service' lists Charlotte, Matthews, Indian Trail and more; dedicated Charlotte mattress disposal page. Email 4drjunk@gmail.com published on both pages.
-
-- **Status:** Redrafted 10/21/2026 with the founding-member offer (replaces the per-booked-job wording). Not sent.
 
 **Body:**
 
 Hi Dr Junk team,
 
-I run HowToDumpIt, a free guide helping Charlotte neighbors dispose of junk responsibly, keep usable items out of the landfill and support local businesses: https://howtodumpit.com/charlotte-nc/
+I run HowToDumpIt, a free guide that helps people in Charlotte get rid of junk the right way: donating and recycling what's usable and keeping the rest out of the landfill. We just published our Charlotte page: https://howtodumpit.com/charlotte-nc/
 
-In Charlotte, bulky pickup has to be scheduled ahead through 311, and the County centers take only one mattress at a time, so many readers would rather call a mattress removal pro serving Charlotte from Monroe, like you.
+In Charlotte, bulky pickup has to be scheduled ahead through 311 and the County centers take only one mattress at a time, so plenty of readers would rather call a local crew. Since you serve Charlotte from Monroe and specialize in mattress removal, I'd like to offer Dr Junk the Featured partner spot in our Charlotte hauler section: the top labeled spot, your logo, a "Book now" button and a short blurb.
 
-I'd like Dr Junk to be our Charlotte Featured partner, the one clearly labeled top spot. Ready-to-hire local customers would reach only you, while lead sites share each lead with several competitors.
+It's a simple referral arrangement. There's no upfront fee; you pay only a small referral fee for jobs you actually book, and you get a monthly report of clicks and leads. If we send you nothing, you pay nothing. Details: https://howtodumpit.com/become-a-featured-partner/
 
-Zero risk: as a founding member, your first 10 calls or emails are free, then $2 each, paid only once leads are coming in. No upfront payment, card or contract. You get your own tracking number forwarding to your phone, plus a monthly report: https://howtodumpit.com/become-a-featured-partner/
-
-Reply yes and I'll send the exact wording for your approval.
+Would you be open to it? A quick yes or no is perfectly fine.
 
 Best Regards,
 Adam Wells
@@ -173,24 +157,20 @@ https://howtodumpit.com
 ## 7. Jacksonville Hauling & Junk Removal (Jacksonville)
 
 - **To:** jhjremoval@yahoo.com
-- **Subject:** 10 free customer calls for Jacksonville Hauling & Junk Removal in Jacksonville
+- **Subject:** A top spot for Jacksonville Hauling & Junk Removal on our Jacksonville junk disposal guide
 - **Verification:** Verified on jhjremoval.com (home page): Jacksonville Hauling & Junk Removal, Jacksonville, FL 32205 (no street number published), 904-775-8120; 'We serve: Atlantic Beach, Nassau County, Baldwin, St. Augustine, Jacksonville'. Email jhjremoval@yahoo.com is the site's (Cloudflare-protected) email link. No separate service-area page; service list is on the home page.
-
-- **Status:** Redrafted 10/21/2026 with the founding-member offer (replaces the per-booked-job wording). Not sent.
 
 **Body:**
 
 Hi Jacksonville Hauling team,
 
-I run HowToDumpIt, a free guide helping Jacksonville neighbors dispose of junk responsibly, keep usable items out of the landfill and support local businesses: https://howtodumpit.com/jacksonville-fl/
+I run HowToDumpIt, a free guide that helps people in Jacksonville get rid of junk the right way: donating and recycling what's usable and keeping the rest out of the landfill. We just published our Jacksonville page: https://howtodumpit.com/jacksonville-fl/
 
-In Jacksonville, bulk pickup depends on your service area and appliances have to be scheduled with the City, so many readers would rather call a locally owned, veteran-owned team like yours.
+In Jacksonville, bulk pickup depends on your service area and appliances have to be scheduled with the City, so plenty of readers would rather call a local crew. Since you're a locally owned, veteran-owned team serving Jacksonville, I'd like to offer Jacksonville Hauling & Junk Removal the Featured partner spot in our Jacksonville hauler section: the top labeled spot, your logo, a "Book now" button and a short blurb.
 
-I'd like Jacksonville Hauling & Junk Removal to be our Jacksonville Featured partner, the one clearly labeled top spot. Ready-to-hire local customers would reach only you, while lead sites share each lead with several competitors.
+It's a simple referral arrangement. There's no upfront fee; you pay only a small referral fee for jobs you actually book, and you get a monthly report of clicks and leads. If we send you nothing, you pay nothing. Details: https://howtodumpit.com/become-a-featured-partner/
 
-Zero risk: as a founding member, your first 10 calls or emails are free, then $2 each, paid only once leads are coming in. No upfront payment, card or contract. You get your own tracking number forwarding to your phone, plus a monthly report: https://howtodumpit.com/become-a-featured-partner/
-
-Reply yes and I'll send the exact wording for your approval.
+Would you be open to it? A quick yes or no is perfectly fine.
 
 Best Regards,
 Adam Wells
@@ -202,24 +182,20 @@ https://howtodumpit.com
 ## 8. JDog Junk Removal & Hauling Jacksonville (Jacksonville)
 
 - **To:** jax@jdog.com
-- **Subject:** 10 free customer calls for JDog Jacksonville in Jacksonville
+- **Subject:** A top spot for JDog Jacksonville on our Jacksonville junk disposal guide
 - **Verification:** Verified on jdogjacksonville.com/near-me/ (service-area page): 119 Watts Street, Jacksonville, FL 32204; 'full-service junk removal throughout Duval County', primary service areas start with Jacksonville, FL. Email jax@jdog.com published on that page. Note: JDog is a franchise brand; this is the locally operated Jacksonville location.
-
-- **Status:** Redrafted 10/21/2026 with the founding-member offer (replaces the per-booked-job wording). Not sent.
 
 **Body:**
 
 Hi JDog Jacksonville team,
 
-I run HowToDumpIt, a free guide helping Jacksonville neighbors dispose of junk responsibly, keep usable items out of the landfill and support local businesses: https://howtodumpit.com/jacksonville-fl/
+I run HowToDumpIt, a free guide that helps people in Jacksonville get rid of junk the right way: donating and recycling what's usable and keeping the rest out of the landfill. We just published our Jacksonville page: https://howtodumpit.com/jacksonville-fl/
 
-In Jacksonville, bulk pickup depends on your service area and appliances have to be scheduled with the City, so many readers would rather call a veteran-owned team on Watts Street serving Jacksonville and Duval County, like yours.
+In Jacksonville, bulk pickup depends on your service area and appliances have to be scheduled with the City, so plenty of readers would rather call a local crew. Since your veteran-owned team is based on Watts Street and serves Jacksonville and Duval County, I'd like to offer JDog Junk Removal & Hauling Jacksonville the Featured partner spot in our Jacksonville hauler section: the top labeled spot, your logo, a "Book now" button and a short blurb.
 
-I'd like JDog Jacksonville to be our Jacksonville Featured partner, the one clearly labeled top spot. Ready-to-hire local customers would reach only you, while lead sites share each lead with several competitors.
+It's a simple referral arrangement. There's no upfront fee; you pay only a small referral fee for jobs you actually book, and you get a monthly report of clicks and leads. If we send you nothing, you pay nothing. Details: https://howtodumpit.com/become-a-featured-partner/
 
-Zero risk: as a founding member, your first 10 calls or emails are free, then $2 each, paid only once leads are coming in. No upfront payment, card or contract. You get your own tracking number forwarding to your phone, plus a monthly report: https://howtodumpit.com/become-a-featured-partner/
-
-Reply yes and I'll send the exact wording for your approval.
+Would you be open to it? A quick yes or no is perfectly fine.
 
 Best Regards,
 Adam Wells
@@ -231,24 +207,20 @@ https://howtodumpit.com
 ## 9. Trashouts Junk Removal (Jacksonville)
 
 - **To:** support@trashoutsjunkremovers.com
-- **Subject:** 10 free customer calls for Trashouts in Jacksonville
+- **Subject:** A top spot for Trashouts on our Jacksonville junk disposal guide
 - **Verification:** Verified on trashoutsjunkremovers.com/about-us/: family-owned, 'based in Jacksonville, FL', 2119 Hilltop Blvd, Jacksonville, FL 32246, (904) 204-9505; recycles appliances, computer equipment, tires and metal. Email support@trashoutsjunkremovers.com published there. No separate service-area page found (site blocks scripted fetches); Jacksonville base and service stated on the About page.
-
-- **Status:** Redrafted 10/21/2026 with the founding-member offer (replaces the per-booked-job wording). Not sent.
 
 **Body:**
 
 Hi Trashouts team,
 
-I run HowToDumpIt, a free guide helping Jacksonville neighbors dispose of junk responsibly, keep usable items out of the landfill and support local businesses: https://howtodumpit.com/jacksonville-fl/
+I run HowToDumpIt, a free guide that helps people in Jacksonville get rid of junk the right way: donating and recycling what's usable and keeping the rest out of the landfill. We just published our Jacksonville page: https://howtodumpit.com/jacksonville-fl/
 
-In Jacksonville, bulk pickup depends on your service area and appliances have to be scheduled with the City, so many readers would rather call a family-owned company on Hilltop Blvd. that recycles appliances and electronics, like yours.
+In Jacksonville, bulk pickup depends on your service area and appliances have to be scheduled with the City, so plenty of readers would rather call a local crew. Since you're a family-owned company based on Hilltop Blvd. that recycles appliances and electronics, I'd like to offer Trashouts Junk Removal the Featured partner spot in our Jacksonville hauler section: the top labeled spot, your logo, a "Book now" button and a short blurb.
 
-I'd like Trashouts to be our Jacksonville Featured partner, the one clearly labeled top spot. Ready-to-hire local customers would reach only you, while lead sites share each lead with several competitors.
+It's a simple referral arrangement. There's no upfront fee; you pay only a small referral fee for jobs you actually book, and you get a monthly report of clicks and leads. If we send you nothing, you pay nothing. Details: https://howtodumpit.com/become-a-featured-partner/
 
-Zero risk: as a founding member, your first 10 calls or emails are free, then $2 each, paid only once leads are coming in. No upfront payment, card or contract. You get your own tracking number forwarding to your phone, plus a monthly report: https://howtodumpit.com/become-a-featured-partner/
-
-Reply yes and I'll send the exact wording for your approval.
+Would you be open to it? A quick yes or no is perfectly fine.
 
 Best Regards,
 Adam Wells
