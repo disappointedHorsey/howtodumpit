@@ -1,6 +1,6 @@
 # HowToDumpIt backlog
 
-Last updated: 10/21/2026 Sydney / 10/20/2026 UTC (San Jose, CA guide; earlier same day: Fort Worth, TX; Charlotte, NC; Jacksonville, FL guides; build.py US date fix)
+Last updated: 10/21/2026 (Indianapolis, IN guide; earlier: San Jose, CA; Fort Worth, TX; Charlotte, NC; Jacksonville, FL guides; build.py US date fix)
 
 ## Done
 - [x] Columbus, OH mattress disposal
@@ -32,7 +32,8 @@ Last updated: 10/21/2026 Sydney / 10/20/2026 UTC (San Jose, CA guide; earlier sa
 - [x] Jacksonville, FL junk disposal guide (shipped 10/20/2026; catch-up for missed 10/20 nightly)
 - [ ] Seattle, WA paint disposal
 - [x] San Jose, CA junk disposal guide (shipped 10/20/2026 UTC / 10/21/2026 Sydney nightly)
-- [ ] Next nightly cities (largest uncovered with fetchable official pages): Indianapolis, IN; San Francisco, CA; Oklahoma City, OK; Las Vegas, NV; Boston, MA
+- [x] Indianapolis, IN junk disposal guide (shipped 10/21/2026)
+- [ ] Next nightly cities (largest uncovered with fetchable official pages): San Francisco, CA; Oklahoma City, OK; Las Vegas, NV; Boston, MA
 
 ## Follow-ups
 - [x] Verify freon-appliance disposal: Chicago (done 2026-10-14: DSS bulk + door removal; HCCRF no appliances/freon)
@@ -53,6 +54,8 @@ Last updated: 10/21/2026 Sydney / 10/20/2026 UTC (San Jose, CA guide; earlier sa
 - [ ] San Jose, CA: the City's Junk Pickup accepted-items list (sanjoseca.gov showpublisheddocument/69710) is dated May 27, 2020; confirm it's still current (sanjoseca.gov returns 403 to curl; WebFetch works). Reconcile the Residents FAQ ("unlimited junk pickups", "call your recycling collection company directly") with the Junk Pickup page (book via 311, up to 12 items per request).
 - [ ] San Jose, CA: find an official rule for bed-bug or moldy mattresses (excluded from Junk Pickup; no alternative published) and for refrigerant/freon handling (City list is silent).
 - [ ] San Jose, CA: confirm Goodwill of Silicon Valley's free mattress drop-off (1080 N. 7th St.; goodwillsv.org) on the Bye Bye Mattress locator (JS-only) before listing it as an option; check County HHW per-visit quantity limits (none on hhw.santaclaracounty.gov pages) and nearby landfill resident fees (SJEnvironment.org/Landfill-Transfer).
+- [ ] Indianapolis, IN: confirm whether freon appliance pickup (via Mayor's Action Center) has a fee or prep rules (door removal, food removed) and whether it counts toward the two-item heavy trash limit; none on indy.gov Trash 101 / Report a Trash Pickup Issue pages.
+- [ ] Indianapolis, IN: find South Side Landfill resident rates (City says volume-based; pricing page not verified) and an official City rule for bed-bug mattresses; confirm ToxDrop is no-cost on an indy.gov page (only an Indy DPW social post says "no cost"); confirm the heavy trash service area (excluded towns such as Beech Grove, Lawrence, Speedway not checked); check RecycleForce TV size limits and donation fees on its own site (Squarespace, JS-heavy); no City latex-paint dry-out rule found (page uses IDEM guidance). indy.gov pages are JS-rendered (curl gets an empty shell); WebFetch renders them.
 - [ ] Reconcile README/CHANGELOG (still mention github.io base_url) with live howtodumpit.com setup
 
 ## Guides / hubs / tools
