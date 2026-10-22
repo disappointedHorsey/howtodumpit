@@ -1,5 +1,9 @@
 # Changelog
 
+## 10/22/2026 (Oklahoma City, OK)
+- Added Oklahoma City, OK general junk guide (`content/oklahoma-city-ok.md`, `/oklahoma-city-ok/`): monthly curbside bulky waste for single-residential households (set out loose by 6 a.m., no more than 3 days early, 5-foot clearance, three-day M-W / W-F windows, no holiday changes), first 4 cubic yards included in the bundled bill with excess bulky billed per cubic yard ($14.59 from November 2025, $15.32 from November 2026 per the City rate table), bed-bug mattress wrap-and-label rule, freon appliances (remove doors, call (405) 297-2833 to schedule in your bulky window), Free Landfill Days (typically May and September; 2026: May 2 and September 12), TV/computer options from the City's Reuse and Repurpose list (Best Buy TVs fee required; Best Buy, Staples, Goodwill/Dell Reconnect), the spring Special Collection for computers, Oklahoma DEQ OCERA manufacturer take-back (TVs not covered), and the free Household Hazardous Waste Collection Center at 1621 S. Portland Ave. (Tue-Fri 9:30 a.m.-6 p.m., Sat 8:30-11:30 a.m.; City water bill required; latex paint may be dried and trashed). Official okc.gov and oklahoma.gov/deq sources cited; verified October 22, 2026.
+- Oklahoma City pitch drafts (not sent): `_pitch_drafts_oklahoma-city-ok.md`; PITCHES.md rows for All-Around Junk Removal by Tierney, Payne-Less Junk Removal and Central Oklahoma Habitat for Humanity ReStores.
+
 ## 10/21/2026 (Nonprofit paid offer)
 - Per Adam's 10/21/2026 rule, nonprofits get the same paid offer as haulers: `content/become-a-featured-partner.md` nonprofit section now says nonprofits and charities can still get a standard free listing and can also choose Featured or Verified on the same terms as any partner; nonprofit pitch templates (PITCH-TEMPLATE.md sections 3-4) rewritten with the $12/$8, first-5-free offer; SF Community Thrift no-price draft superseded; PITCHES.md marks five SF haulers sent.
 

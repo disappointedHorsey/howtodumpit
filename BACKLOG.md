@@ -1,6 +1,6 @@
 # HowToDumpIt backlog
 
-Last updated: 10/21/2026 (San Francisco, CA guide; Indianapolis, IN guide; earlier: San Jose, CA; Fort Worth, TX; Charlotte, NC; Jacksonville, FL guides; build.py US date fix)
+Last updated: 10/22/2026 (Oklahoma City, OK guide; 10/21/2026: San Francisco, CA guide; Indianapolis, IN guide; earlier: San Jose, CA; Fort Worth, TX; Charlotte, NC; Jacksonville, FL guides; build.py US date fix)
 
 ## Done
 - [x] Columbus, OH mattress disposal
@@ -34,7 +34,8 @@ Last updated: 10/21/2026 (San Francisco, CA guide; Indianapolis, IN guide; earli
 - [x] San Jose, CA junk disposal guide (shipped 10/20/2026 UTC / 10/21/2026 Sydney nightly)
 - [x] Indianapolis, IN junk disposal guide (shipped 10/21/2026)
 - [x] San Francisco, CA junk disposal guide (shipped 10/21/2026; first city in the nightly list below)
-- [ ] Next nightly cities, in order (largest uncovered with fetchable official pages; San Francisco done 10/21/2026, do not rebuild): Oklahoma City, OK; Las Vegas, NV; Boston, MA
+- [x] Oklahoma City, OK junk disposal guide (shipped 10/22/2026)
+- [ ] Next nightly cities, in order (largest uncovered with fetchable official pages; San Francisco and Oklahoma City done, do not rebuild): Las Vegas, NV (next); Boston, MA
 
 ## Follow-ups
 - [x] Verify freon-appliance disposal: Chicago (done 2026-10-14: DSS bulk + door removal; HCCRF no appliances/freon)
@@ -58,6 +59,7 @@ Last updated: 10/21/2026 (San Francisco, CA guide; Indianapolis, IN guide; earli
 - [ ] San Francisco, CA: Recology's pages don't publish fridge prep rules (food out, doors taped/removed) or say whether window/portable AC units count as accepted "appliances"; no official bed-bug mattress rule found; no SF rule allowing dried latex paint in the black bin (page sends all paint to HHW/hardware stores); the Recology accepted-items help center (recologysf.zendesk.com) is gone; Transfer Station fees are Recology's posted schedule (re-check yearly).
 - [ ] Indianapolis, IN: confirm whether freon appliance pickup (via Mayor's Action Center) has a fee or prep rules (door removal, food removed) and whether it counts toward the two-item heavy trash limit; none on indy.gov Trash 101 / Report a Trash Pickup Issue pages.
 - [ ] Indianapolis, IN: find South Side Landfill resident rates (City says volume-based; pricing page not verified) and an official City rule for bed-bug mattresses; confirm ToxDrop is no-cost on an indy.gov page (only an Indy DPW social post says "no cost"); confirm the heavy trash service area (excluded towns such as Beech Grove, Lawrence, Speedway not checked); check RecycleForce TV size limits and donation fees on its own site (Squarespace, JS-heavy); no City latex-paint dry-out rule found (page uses IDEM guidance). indy.gov pages are JS-rendered (curl gets an empty shell); WebFetch renders them.
+- [ ] Oklahoma City, OK: confirm whether TVs go out with curbside bulky waste (the Bulky Waste page doesn't list TVs/electronics; the Free Landfill Day page says "televisions are accepted" but also lists e-waste as not accepted; the What Goes Where tool is JS-only and okc.gov returns 403 to curl, so check it via browser); confirm whether the freon-appliance pickup has a fee or counts toward the 4-cubic-yard allowance; check the 2027 Free Landfill Day and spring Special Collection dates when posted; the City's Reuse and Repurpose list still shows an old HHW address (3738 SW 15th St.) and Radio Shack, so re-check retailer TV/computer programs and fees (Best Buy "fee required" amount not on the City page); no official mattress-specific recycling or donation option found.
 - [ ] Reconcile README/CHANGELOG (still mention github.io base_url) with live howtodumpit.com setup
 
 ## Guides / hubs / tools
