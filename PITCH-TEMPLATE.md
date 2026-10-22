@@ -16,7 +16,7 @@ Featured partner page: howtodumpit.com/become-a-featured-partner/
 
 Fill in exactly. {Name} is "{Org short} team" unless a person's name is published on the company's site. {City-specific hassle} comes from our city page. {verified detail} must be stated on the company's own site (e.g. ", a family-run Fort Worth crew serving all of DFW"); if there's no distinctive verified detail, leave it empty so the line reads "a local crew like {Org}". Never claim the customers reach only them or that there are no competitors.
 
-**Subject:** Claim the top spot on our {City} junk guide: your first 5 customers are free
+**Subject:** Adam from HowToDumpIt: Claim the top spot on our {City} junk guide: your first 5 customers are free
 
 Hi {Name},
 
@@ -41,7 +41,7 @@ howtodumpit.com
 
 > **NOTE:** The founding members already got their email 2 on 10/21/2026 with the 10-free / $3 / $2 offer. Do not send this version to them.
 
-**Subject:** Re: Claim the top spot on our {City} junk guide: your first 5 customers are free
+**Subject:** Adam from HowToDumpIt: Re: Claim the top spot on our {City} junk guide: your first 5 customers are free
 
 Hi {Name},
 
@@ -62,7 +62,7 @@ howtodumpit.com
 
 > **NOTE (10/21/2026):** Adam's rule: nonprofits get the same paid offer as haulers ($12 Featured / $8 Verified per lead, first 5 calls or emails free, no upfront fee, card or contract, cancel or pause anytime). The earlier no-price nonprofit template ("Listing {Org} on our {City} disposal guide") is SUPERSEDED 10/21/2026; do not use it. Fill placeholders as in section 1; {verified detail} must be on the org's own site.
 
-**Subject:** Claim the top spot on our {City} junk guide: your first 5 donor pickups are free
+**Subject:** Adam from HowToDumpIt: Claim the top spot on our {City} junk guide: your first 5 donor pickups are free
 
 Hi {Name},
 
@@ -85,7 +85,7 @@ howtodumpit.com
 
 ## 4. Nonprofits: short follow-up (paid offer)
 
-**Subject:** Re: Claim the top spot on our {City} junk guide: your first 5 donor pickups are free
+**Subject:** Adam from HowToDumpIt: Re: Claim the top spot on our {City} junk guide: your first 5 donor pickups are free
 
 Hi {Name},
 
