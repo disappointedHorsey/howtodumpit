@@ -101,12 +101,17 @@ def main():
         dest = OUT / u.strip("/") / "index.html"
         dest.parent.mkdir(parents=True, exist_ok=True)
         dest.write_text(prefix_links(
-            f'<!doctype html><html lang="en"><head><meta charset="utf-8"><title>{html.escape(meta.get("title",""))}</title>'
+            f'<!doctype html><html lang="en"><head><meta charset="utf-8">'
+            '<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">'
+            f'<title>{html.escape(meta.get("title",""))}</title>'
             f'<link rel="canonical" href="{tgt}">'
-            f'<meta http-equiv="refresh" content="0; url={meta["redirect_to"]}"></head>'
+            f'<meta http-equiv="refresh" content="0; url={meta["redirect_to"]}">'
+            f'<style>body{{font:16px/1.6 system-ui,sans-serif;margin:0;padding:24px max(16px,env(safe-area-inset-left))}}a{{color:#0f766e;overflow-wrap:anywhere}}</style></head>'
             f'<body><p>This guide moved to <a href="{meta["redirect_to"]}">{tgt}</a>.</p></body></html>'))
     for u, meta, body, p in pages:
         body_html = markdown.markdown(body, extensions=["tables", "toc", "attr_list"])
+        # wrap every table so wide tables scroll inside their own box on phones, not the whole page
+        body_html = body_html.replace("<table>", '<div class="table-wrap" role="region" aria-label="Table (scroll sideways to see more)" tabindex="0"><table>').replace("</table>", "</table></div>")
         body_html = body_html.replace("<!--LISTINGS-->", listings_html(meta.get("listings"), meta.get("listings_title", "Options at a glance")))
         body_html = body_html.replace("<!--CITY_GRID-->", city_cards(pages))
         if meta.get("list_children"):

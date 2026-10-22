@@ -28,3 +28,15 @@ Use American English spelling (color, center, tire, analyze, favorite, specializ
 
 ## Pitch targeting rule (permanent)
 Before drafting any pitch, confirm from the org's own website (address plus service-area page) that it actually serves that city. Skip orgs that don't serve it. The pitch must name the org's real location and coverage accurately. Record the verified location and source URL in PITCHES.md.
+
+## Mobile rule (permanent, Adam 10/22/2026)
+The site must work on iPhone and Android phones. **Every change must be checked at 320px, 375px (iPhone) and 412px (Android) before pushing**, plus a desktop glance at 1280px.
+- Automated check (all pages in public/, at 320/375/390/412/1280px; fails on missing viewport tag, horizontal scroll, body text under 16px or anything sticking out past the screen edge; warns on tap targets under 44px):
+  `cd /workspace/site && ./build.sh && /workspace/.mobile-venv/bin/python scripts/mobile_check.py`
+  Add `--shots /tmp/shots` to save screenshots and look at them. Exit code must be 0 before you push.
+  One-time setup if the venv is missing: `python3 -m venv /workspace/.mobile-venv && /workspace/.mobile-venv/bin/pip install -r scripts/requirements-dev.txt` (uses /usr/bin/google-chrome; otherwise `/workspace/.mobile-venv/bin/playwright install chromium`).
+- CSS is mobile-first (static/style.css): base rules are for phones, `@media (min-width:...)` adds desktop. Don't add fixed pixel widths; images stay `max-width:100%`.
+- Every template/page keeps `<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">` (redirect stubs too, set in build.py).
+- Markdown tables are auto-wrapped in a `.table-wrap` box (build.py) so wide tables scroll sideways inside the box, never the whole page.
+- Form fields must be 16px+ text (or iOS zooms in) and buttons/links you tap at least 44px tall.
+- When you change static/style.css, bump the `?v=` in templates/page.html so phones don't keep the old CSS.
