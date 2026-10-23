@@ -8,7 +8,7 @@ short: Software compared
 
 We read each vendor's official pricing page on **October 12, 2026**. All prices are in USD and change often, so check the linked page before you buy. **We haven't tested these tools hands-on yet**, and none of them is built only for junk removal. The pros and cons below come from the published plans, not from our own use.
 
-**Affiliate disclosure:** HowToDumpIt is an independent information guide. Some links on these pages may become affiliate links, and we may earn a commission if you sign up, at no extra cost to you. Right now the software links go to each vendor's official homepage and are not tracked. Our recommendations aren't paid placements.
+**Affiliate disclosure:** HowToDumpIt is an independent information guide. Some links on this page are affiliate links, and we may earn a commission if you sign up, at no extra cost to you. Right now only the "Start a QuoteIQ trial" link is an affiliate link; the other software links go to each vendor's official homepage and are not tracked. Our recommendations aren't paid placements.
 
 ## At a glance
 
@@ -23,6 +23,8 @@ We read each vendor's official pricing page on **October 12, 2026**. All prices 
 ## QuoteIQ
 
 Source: [myquoteiq.com/pricing](https://myquoteiq.com/pricing/) (page updated September 15, 2026; checked October 12, 2026). Website: <a href="https://myquoteiq.com/" rel="nofollow">myquoteiq.com</a>
+
+**Try it:** <a href="https://admin-quoteiq.web.app/register?via=d83c2c" rel="sponsored nofollow">Start a QuoteIQ trial</a> (affiliate link; we may earn a commission at no extra cost to you).
 
 - **Plans (monthly):** Essentials $29.99 (1 user), Beginner $99.99 (2), Pro $199.99 (4), Elite $299.99 (10), Max $699.99 (20). Extra users $25/mo each. Annual billing works out to about two months free.
 - **Essentials includes:** estimates, invoices, scheduling, online payments, a price book and online booking. Photo documentation (QuoteIQ Cam) starts at Beginner. QuickBooks, job costing and text automation start at Pro. InstaQuote (customer self-quoting) and route optimization start at Elite.

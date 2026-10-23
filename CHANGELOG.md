@@ -1,5 +1,11 @@
 # Changelog
 
+## 10/23/2026 (QuoteIQ affiliate link)
+- /for-haulers/software/: added a "Try it: Start a QuoteIQ trial" call to action in the QuoteIQ section linking to the approved QuoteIQ (Rewardful) referral link https://admin-quoteiq.web.app/register?via=d83c2c with rel="sponsored nofollow", followed by "(affiliate link; we may earn a commission at no extra cost to you)". The official myquoteiq.com/pricing source link and the plain myquoteiq.com homepage link stay as they were. No prices or facts changed.
+- Affiliate disclosure near the top of /for-haulers/software/ and on /for-haulers/ updated: links are now affiliate links where marked, we may earn a commission, and only the "Start a QuoteIQ trial" link is tracked; other vendor links stay untracked homepage links.
+- BACKLOG: QuoteIQ marked done in the tracked affiliate links TODO; Jobber, HighLevel, GorillaDesk and Housecall Pro still pending.
+- Mobile check: 45 pages x 320/375/390/412/1280px, 0 FAIL, 0 WARN.
+
 ## 10/23/2026 (Brand recolor + US dates)
 - Site recolored from teal to the brand palette (commit ca2b53e): black #111111 and safety yellow #FFC20E (from the logo files), plus #E6A800 (yellow hover), #FFF6D6 (light yellow boxes), #525252 (muted text), #E5E5E5 (lines), #FAFAFA (page background), #D4D4D4 (footer text). Black hero and footer with yellow bars; black links with a yellow underline; yellow buttons with black text; black/yellow focus rings; yellow 3px header rule; theme-color #111111. All text pairs meet WCAG AA (lowest is 7.2:1). CSS cache version v=20261023b. No wording or facts changed.
 - 28 reader-visible ISO dates changed to US format (e.g. 2026-10-12 to October 12, 2026) in 16 content files: for-haulers/software (8), seattle-wa (4), for-haulers/dump-fees (2), phoenix-az (2), and 1 each in austin-tx, chicago-il, columbus-oh, dallas-tx, denver-co, houston-tx, los-angeles-ca, new-york-ny, philadelphia-pa, san-antonio-tx, san-diego-ca, washington-dc. Front matter `verified:` and the sitemap stay ISO (machine-readable).

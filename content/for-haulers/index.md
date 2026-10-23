@@ -16,4 +16,4 @@ HowToDumpIt normally helps households get rid of bulky junk. This section is for
 
 More guides are coming: surcharges for mattresses and appliances, photo quoting, and a startup checklist.
 
-**Affiliate disclosure:** HowToDumpIt is an independent information guide. Some links on these pages may become affiliate links, and we may earn a commission if you sign up, at no extra cost to you. Right now the software links go to each vendor's official homepage and are not tracked. Our recommendations aren't paid placements.
+**Affiliate disclosure:** HowToDumpIt is an independent information guide. Some links on these pages are affiliate links, and we may earn a commission if you sign up, at no extra cost to you. On the software page, only the "Start a QuoteIQ trial" link is an affiliate link; the other software links go to each vendor's official homepage and are not tracked. Our recommendations aren't paid placements.
