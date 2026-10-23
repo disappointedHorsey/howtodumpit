@@ -11,8 +11,7 @@ Rule: every listing needs a `source:` URL to an official/primary page, checked o
 ## Deploy (GitHub Pages)
 - Repo: disappointedHorsey/howtodumpit. `.github/workflows/pages.yml` runs on push to `main` (or manually): Python 3.13 -> `./build.sh` -> deploys `public/` with actions/configure-pages, upload-pages-artifact, deploy-pages.
 - One-time: Settings -> Pages -> Source = "GitHub Actions" (or API `POST /repos/disappointedHorsey/howtodumpit/pages` `{"build_type":"workflow"}`, needs Pages + Administration write).
-- Temporary URL: https://disappointedhorsey.github.io/howtodumpit/ (`base_url` in site.yaml). build.py derives a path prefix from `base_url` and prepends it to root-relative `href`/`src` links, so the site works under `/howtodumpit/`.
-- When howtodumpit.com is registered: set `base_url: "https://howtodumpit.com"` (prefix becomes empty), add the custom domain in Pages settings (or a `static/CNAME`), and set DNS.
+- Live URL: https://howtodumpit.com (`base_url` in site.yaml is `https://howtodumpit.com`, so the path prefix is empty). build.py derives a path prefix from `base_url` and prepends it to root-relative `href`/`src` links.
 
 ## Content format (city guides) — nightly routine
 Each city is ONE general junk guide at `content/<city-slug>.md` -> `/<city-slug>/` (e.g. `/chicago-il/`). Required front matter: `title` ("Junk Disposal in <City>, <ST>: Mattresses, Couches, Appliances, TVs & Paint"), `description`, `verified`, `city`, `state`, `short`, optional `listings` (+ `listings_title`). Body sections, in order:
