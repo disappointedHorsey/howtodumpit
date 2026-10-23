@@ -1,13 +1,13 @@
 ---
-title: 'Junk disposal in Indianapolis, IN: mattresses, couches, appliances, TVs & paint'
+title: 'Junk Disposal in Indianapolis, IN: Mattresses, Couches, Appliances, TVs & Paint'
 description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in Indianapolis, IN: monthly heavy trash pickup (up to two bulky items per month), Mayor''s Action Center pickup for freon appliances, the Citizens'' Transfer Station, and Saturday ToxDrop days for Marion County household hazardous waste and electronics, with links to official indy.gov and IDEM sources.'
 verified: '2026-10-21'
 city: Indianapolis
 state: IN
 short: Indianapolis, IN
-listings_title: Mattress options at a glance
+listings_title: Mattress Options at a Glance
 listings:
-- name: Heavy trash pickup (curbside, once a month)
+- name: Heavy Trash Pickup (Curbside, Once a Month)
   type: Curbside pickup
   cost: No fee listed on the City's heavy trash pages
   details: 'Up to TWO heavy/bulky items per month, placed at the curb next to your trash cart on your heavy trash pickup day. Lay box springs and mattresses flat on the ground, not leaning on other objects. Find your heavy trash day with the City''s Find Your Trash Pickup Day lookup.'
@@ -23,13 +23,13 @@ listings:
   details: '2561 Kentucky Ave. Monday to Friday, 5 a.m. to 7 p.m.; Saturday, 5 a.m. to 3 p.m.; closed Sunday.'
   source: https://www.indy.gov/activity/trash-101
 ---
-# Junk disposal in Indianapolis, IN: mattresses, couches, furniture, appliances, TVs & electronics, paint & hazardous waste
+# Junk Disposal in Indianapolis, IN: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 
 Here's how to legally get rid of bulky junk in Indianapolis and Marion County, Indiana, item by item. The City picks up **heavy trash** such as mattresses and furniture **once a month**, but you're limited to **two heavy/bulky items per month**. **Appliances with freon** (fridges, freezers, AC units) need a **separate pickup** arranged through the Mayor's Action Center. **Electronics can't go in the trash at all** under Indiana law, and household hazardous waste goes to the City's Saturday **ToxDrop** sites. Every option links to the official page we checked. Where we couldn't verify something, we say so. Check the linked page or call the Mayor's Action Center at 317-327-4622 before you set anything out.
 
-## Quick answer by item
+## Quick Answer by Item
 
-| Item | Best verified option |
+| Item | Best Verified Option |
 |---|---|
 | Mattress | Heavy trash pickup, once a month, next to your trash cart (lay it flat); limit two heavy items per month |
 | Couch / furniture | Heavy trash pickup, same two-item monthly limit; or the Citizens' Transfer Station on Saturdays ($2 car, $5 SUV/pickup, cash) |
@@ -37,13 +37,13 @@ Here's how to legally get rid of bulky junk in Indianapolis and Marion County, I
 | TV / computer | Not allowed in the trash or heavy trash (Indiana law). ToxDrop takes TVs 27 inches or less and up to five computer systems per visit; RecycleForce also takes electronics |
 | Paint / chemicals | ToxDrop on the first, second and fourth Saturdays, 9 a.m. to 2 p.m. (Marion County residents only; 20 gallons liquid or 75 pounds solid per visit) |
 
-## Mattresses and box springs {#mattresses}
+## Mattresses and Box Springs {#mattresses}
 
 **Mattress short answer:** Put it at the curb **next to your trash cart** on your **heavy trash pickup day**, which comes **once a month**. Lay it **flat on the ground**, not leaning on anything. It counts toward your limit of **two heavy/bulky items per month**.
 
 <!--LISTINGS-->
 
-### Step by step: heavy trash pickup
+### Step by Step: Heavy Trash Pickup
 
 1. Find your heavy trash day. Enter your address in the City's [Find Your Trash Pickup Day](https://www.indy.gov/activity/trash-pickup) lookup. The heavy trash day varies by address and comes once a month.
 2. Count your items. You can put out **up to two** heavy/bulky items, and you're **limited to two per month**. ([Trash 101](https://www.indy.gov/activity/trash-101))
@@ -54,7 +54,7 @@ Here's how to legally get rid of bulky junk in Indianapolis and Marion County, I
 
 **More than two items?** Haul the extra to the **Marion County Citizens' Transfer Station**, 2324 S. Belmont Ave., open **Saturdays 8 a.m. to 4 p.m.** The fee is **$2 per carload or $5 per SUV or pickup truckload, cash only**, with up to two trips per day. Trailers, moving trucks and loads over 3/4 ton aren't allowed. **South Side Landfill**, 2561 Kentucky Ave., is another option (Monday to Friday 5 a.m. to 7 p.m., Saturday 5 a.m. to 3 p.m.). The City says landfill pricing is based on volume; we couldn't verify the current rates, so check with the landfill before you go. ([Trash 101](https://www.indy.gov/activity/trash-101))
 
-### What not to do
+### What Not to Do
 
 - **Don't** dump it. Indiana says it's illegal to open dump or open burn solid waste. ([IDEM: Household Hazardous Wastes](https://www.in.gov/idem/health/household-hazardous-wastes/index))
 - **Don't** put out more than two heavy items in a month, and don't stuff bulky items into your cart. Bulky items that don't fit in the cart can't go in it. ([Trash 101](https://www.indy.gov/activity/trash-101))
@@ -63,7 +63,7 @@ We couldn't find an official City rule for mattresses with bed bugs. Ask the May
 
 *Sources: [Trash 101](https://www.indy.gov/activity/trash-101), [Find Your Trash Pickup Day](https://www.indy.gov/activity/trash-pickup) and [Report a Trash Pickup Issue](https://www.indy.gov/activity/report-a-trash-pickup-issue) on indy.gov. Checked 10/21/2026. Rules change, so confirm on the official page before you go.*
 
-## Couches and furniture {#furniture}
+## Couches and Furniture {#furniture}
 
 **Curbside:** Household furniture (for example a **couch, desk, dresser, table or chairs**) goes out as **heavy trash** on your monthly heavy trash day, next to your trash cart, with the same **two items per month** limit as mattresses. ([Trash 101](https://www.indy.gov/activity/trash-101))
 
@@ -78,7 +78,7 @@ Other items the City lists as heavy trash:
 
 **Drop-off:** Extra household trash and heavy trash can go to the **Citizens' Transfer Station** (2324 S. Belmont Ave., Saturdays 8 a.m. to 4 p.m., $2 car / $5 SUV or pickup, cash only) or **South Side Landfill** (2561 Kentucky Ave.). See the details in the mattress section above. ([Trash 101](https://www.indy.gov/activity/trash-101))
 
-## Appliances (fridges, freezers, AC: freon) {#appliances}
+## Appliances (Fridges, Freezers, AC: Freon) {#appliances}
 
 **Appliances containing freon or refrigerants can't go in your trash cart**, and they aren't part of regular heavy trash. To get rid of one, **contact the Mayor's Action Center to arrange a pickup**. ([Trash 101](https://www.indy.gov/activity/trash-101))
 
@@ -88,7 +88,7 @@ Other items the City lists as heavy trash:
 
 **Appliances without freon** (for example a stove or water heater) go out as **heavy trash** on your monthly heavy trash day and count toward the two-item limit. ([Trash 101](https://www.indy.gov/activity/trash-101))
 
-## TVs, computers and electronics (e-waste) {#electronics}
+## TVs, Computers and Electronics (E-Waste) {#electronics}
 
 **Electronics can't go in the trash in Indianapolis.** Indiana's Electronic Waste law (IC 13-20.5) prohibits households, small businesses and schools from throwing e-waste in the trash, so you **can't** put electronics out with curbside or heavy trash pickup. Haulers **won't collect televisions** with electronic components intact. ([Trash 101](https://www.indy.gov/activity/trash-101))
 
@@ -102,7 +102,7 @@ Other items the City lists as heavy trash:
 
 Wipe personal data from phones and computers before you drop them off.
 
-## Paint and household hazardous waste {#hazardous}
+## Paint and Household Hazardous Waste {#hazardous}
 
 Household hazardous waste (HHW) **can't go in your trash cart**. Take it to a City **ToxDrop** day. ToxDrop is only for **residents of Marion County** and doesn't accept commercial waste. ([ToxDrop Drop-off Sites](https://www.indy.gov/activity/hazardous-waste-dropoff-sites), [Trash 101](https://www.indy.gov/activity/trash-101))
 

@@ -1,4 +1,4 @@
 ---
-title: "Chicago, IL mattress disposal (moved)"
+title: "Chicago, IL Mattress Disposal (Moved)"
 redirect_to: "/chicago-il/"
 ---

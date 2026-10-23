@@ -1,16 +1,16 @@
 ---
-title: 'Junk removal price sheet template (free CSV download)'
+title: 'Junk Removal Price Sheet Template (Free CSV Download)'
 description: 'A free, blank junk-removal price sheet template for haulers: load sizes, single items, surcharges and policies. Fill in your own prices; we publish no market rates.'
 verified: '2026-10-15'
-short: Price sheet template
+short: Price Sheet Template
 ---
-# Junk removal price sheet template (free download)
+# Junk Removal Price Sheet Template (Free Download)
 
-**[Download the price sheet template (CSV)](/static/downloads/junk-removal-price-sheet-template.csv)**. It opens in Excel, Google Sheets, Numbers or LibreOffice.
+**[Download the Price Sheet Template (CSV)](/static/downloads/junk-removal-price-sheet-template.csv)**. It opens in Excel, Google Sheets, Numbers or LibreOffice.
 
 **The template is blank on purpose.** We don't publish "typical" junk-removal prices because we haven't verified any. Every price on the sheet should come from **your own** costs and the fees at **your** disposal facility.
 
-## What's on the sheet
+## What's on the Sheet
 
 | Section | Rows |
 |---|---|
@@ -20,7 +20,7 @@ short: Price sheet template
 | Labor | Labor-only rate per person per hour |
 | Policies | Payment methods, cancellation/no-show, items you don't take |
 
-## How to fill it in
+## How to Fill It In
 
 1. **Start with your costs.** Use the [load-size pricing calculator](/for-haulers/pricing-calculator/) to turn your labor, truck, disposal and overhead costs plus your target margin into a price for each load size. Copy those numbers into the "Load size" rows.
 2. **Get your facility's real fees.** Call or check the website of the transfer station or landfill you actually use and ask for its **commercial** rate, plus any per-item fees (mattresses, tires, freon appliances). Our [city disposal costs](/for-haulers/dump-fees/) page lists **residential** city programs only. Those are not commercial tipping fees.
@@ -30,8 +30,8 @@ short: Price sheet template
 
 ## Related
 
-- [Junk removal software compared](/for-haulers/software/): several tools can store a price list and send quotes.
-- [Load-size pricing calculator](/for-haulers/pricing-calculator/)
-- [City disposal costs](/for-haulers/dump-fees/)
+- [Junk Removal Software Compared](/for-haulers/software/): several tools can store a price list and send quotes.
+- [Load-Size Pricing Calculator](/for-haulers/pricing-calculator/)
+- [City Disposal Costs](/for-haulers/dump-fees/)
 
 **Affiliate disclosure:** HowToDumpIt is an independent information guide. Some links in this section may become affiliate links, and we may earn a commission at no extra cost to you. This page has no affiliate links.

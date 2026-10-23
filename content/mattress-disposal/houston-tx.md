@@ -1,4 +1,4 @@
 ---
-title: "Houston, TX mattress disposal (moved)"
+title: "Houston, TX Mattress Disposal (Moved)"
 redirect_to: "/houston-tx/"
 ---

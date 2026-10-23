@@ -15,11 +15,11 @@ Rule: every listing needs a `source:` URL to an official/primary page, checked o
 - When howtodumpit.com is registered: set `base_url: "https://howtodumpit.com"` (prefix becomes empty), add the custom domain in Pages settings (or a `static/CNAME`), and set DNS.
 
 ## Content format (city guides) — nightly routine
-Each city is ONE general junk guide at `content/<city-slug>.md` -> `/<city-slug>/` (e.g. `/chicago-il/`). Required front matter: `title` ("Junk disposal in <City>, <ST>: mattresses, couches, appliances, TVs & paint"), `description`, `verified`, `city`, `state`, `short`, optional `listings` (+ `listings_title`). Body sections, in order:
-1. `# Junk disposal in <City>, <ST>: mattresses, couches, furniture, appliances, TVs & electronics, paint & hazardous waste`
-2. `## Quick answer by item` table (Mattress / Couch-furniture / Fridge-AC (freon) / TV-computer / Paint-chemicals)
-3. `## Mattresses and box springs {#mattresses}` (with `<!--LISTINGS-->`). The "Book a junk pickup" affiliate box is auto-inserted right before this heading.
-4. `## Couches and furniture {#furniture}`, `## Appliances (fridges, freezers, AC: freon) {#appliances}`, `## TVs, computers and electronics (e-waste) {#electronics}`, `## Paint and household hazardous waste {#hazardous}`
+Each city is ONE general junk guide at `content/<city-slug>.md` -> `/<city-slug>/` (e.g. `/chicago-il/`). Required front matter: `title` ("Junk Disposal in <City>, <ST>: Mattresses, Couches, Appliances, TVs & Paint"), `description`, `verified`, `city`, `state`, `short`, optional `listings` (+ `listings_title`). Body sections, in order:
+1. `# Junk Disposal in <City>, <ST>: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste`
+2. `## Quick Answer by Item` table (Mattress / Couch-furniture / Fridge-AC (freon) / TV-computer / Paint-chemicals)
+3. `## Mattresses and Box Springs {#mattresses}` (with `<!--LISTINGS-->`). The "Book a Junk Pickup" affiliate box is auto-inserted right before this heading.
+4. `## Couches and Furniture {#furniture}`, `## Appliances (Fridges, Freezers, AC: Freon) {#appliances}`, `## TVs, Computers and Electronics (E-Waste) {#electronics}`, `## Paint and Household Hazardous Waste {#hazardous}`
 Rules: only facts verified on official city/county/solid-waste-authority pages, each with an inline source link; if an item can't be verified, say so and point to the official page / 311. Never invent fees, phones, addresses or rules.
 Old `/mattress-disposal/<slug>/` URLs are kept as stubs (`redirect_to: "/<slug>/"` front matter -> meta-refresh + canonical page, excluded from sitemap). New cities do NOT need a stub. `/mattress-disposal/` is a hub listing all city guides.
 
@@ -40,3 +40,8 @@ The site must work on iPhone and Android phones. **Every change must be checked 
 - Markdown tables are auto-wrapped in a `.table-wrap` box (build.py) so wide tables scroll sideways inside the box, never the whole page.
 - Form fields must be 16px+ text (or iOS zooms in) and buttons/links you tap at least 44px tall.
 - When you change static/style.css, bump the `?v=` in templates/page.html so phones don't keep the old CSS.
+
+## Capitalization rule (permanent, Adam 10/23/2026)
+RULE (10/23/2026, Adam): Title Case for nav, headings, titles, buttons and table headers (e.g. 'For Haulers'); sentence case in body text; brand names as written. Check capitalization on every site change.
+- Title Case covers: nav/menu items, header and footer links, buttons and calls to action, front-matter `title`/`short`/`listings_title`, listing names (card titles), the HTML <title>, H1/H2/H3 headings, breadcrumbs and table column headers. US Title Case: lowercase a, an, the, and, but, or, nor, for, as, at, by, in, of, on, per, to, via, vs unless first word, first word after a colon or "(", or last word; capitalize both parts of hyphenated words (Drop-Off, E-Waste, On-Demand).
+- Keep brand names as written (QuoteIQ, HighLevel, GorillaDesk, Housecall Pro, Jobber, 1-800-GOT-JUNK, LoadUp, ReStore, HowToDumpIt), acronyms (ID, FAQ, HHW, DPW, LASAN) and city names. Slugs, URLs and file names stay lowercase.

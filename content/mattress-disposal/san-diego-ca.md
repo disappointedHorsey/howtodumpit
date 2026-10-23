@@ -1,4 +1,4 @@
 ---
-title: "San Diego, CA mattress disposal (moved)"
+title: "San Diego, CA Mattress Disposal (Moved)"
 redirect_to: "/san-diego-ca/"
 ---

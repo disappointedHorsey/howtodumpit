@@ -1,5 +1,16 @@
 # Changelog
 
+## 10/23/2026 (Capitalization pass, Title Case)
+- Per Adam's 10/23/2026 rule: Title Case for navigation, header/footer links, buttons and calls to action, page titles (front-matter `title`/`short`/`listings_title`, HTML <title>), H1/H2/H3 headings, listing card titles, breadcrumbs and table column headers; sentence case kept in body text; brand names, city names and acronyms unchanged.
+- Header nav: "City guides" -> "City Guides", "For haulers" -> "For Haulers". Footer: "City Guides", "Mattress Disposal", "Become a Featured Partner". Skip link "Skip to Content".
+- build.py: "Book a Junk Pickup" CTA heading, "Read Guide" card button, "Options at a Glance" default listings heading, "Find Your City" search label.
+- Content (45 files): all page titles and `short` labels (e.g. "For Haulers", "Software Compared", "Pricing Calculator", "City Disposal Costs", "Price Sheet Template", "Mattress Disposal"), the 13 redirect-stub titles, homepage hero, every H1/H2/H3 (e.g. "Quick Answer by Item", "Step by Step: Free Drop-Off", "What Not to Do"), every `listings_title` ("Mattress Options at a Glance"), listing card names, and table headers ("Best Verified Option", "Entry Price (Official)", "Cost / Eligibility (As Stated)").
+- Calls to action: "Start a QuoteIQ Trial" (link text and the disclosures that quote it), "Download the Price Sheet Template (CSV)", "Call Now" button, "Featured Partner (Paid)" label; /for-haulers/ and price-sheet related-page link titles.
+- Fixes: "enquiry" -> "inquiry" (American English) on /become-a-featured-partner/.
+- /for-haulers/software/: QuoteIQ cons now explain "IQ Credits" (QuoteIQ's name for its AI usage allowance).
+- README: city-guide title/heading templates updated to Title Case; new permanent capitalization rule added next to the mobile rule. No facts, prices, URLs, slugs or file names changed.
+- Mobile check: 45 pages x 320/375/390/412/1280px, 0 FAIL, 0 WARN. Phone nav stays one row of three 44px buttons at 320px.
+
 ## 10/23/2026 (QuoteIQ affiliate link)
 - /for-haulers/software/: added a "Try it: Start a QuoteIQ trial" call to action in the QuoteIQ section linking to the approved QuoteIQ (Rewardful) referral link https://admin-quoteiq.web.app/register?via=d83c2c with rel="sponsored nofollow", followed by "(affiliate link; we may earn a commission at no extra cost to you)". The official myquoteiq.com/pricing source link and the plain myquoteiq.com homepage link stay as they were. No prices or facts changed.
 - Affiliate disclosure near the top of /for-haulers/software/ and on /for-haulers/ updated: links are now affiliate links where marked, we may earn a commission, and only the "Start a QuoteIQ trial" link is tracked; other vendor links stay untracked homepage links.

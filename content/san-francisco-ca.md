@@ -1,35 +1,35 @@
 ---
-title: 'Junk disposal in San Francisco, CA: mattresses, couches, appliances, TVs & paint'
+title: 'Junk Disposal in San Francisco, CA: Mattresses, Couches, Appliances, TVs & Paint'
 description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in San Francisco, CA: Recology''s no-charge Bulky Item Collection (two per year for buildings with five units or fewer, one per unit in larger buildings, up to 10 items each), the SF Transfer Station at 501 Tunnel Ave., California mattress retailer take-back, the ban on e-waste in carts, and free household hazardous waste drop-off and home pickup, with links to official sources.'
 verified: '2026-10-21'
 city: San Francisco
 state: CA
 short: San Francisco, CA
-listings_title: Mattress options at a glance
+listings_title: Mattress Options at a Glance
 listings:
-- name: Recology Bulky Item Collection (curbside, by appointment)
+- name: Recology Bulky Item Collection (Curbside, by Appointment)
   type: Curbside pickup (by appointment)
   cost: 'No additional charge: two collections per year for buildings with 5 units or fewer; one per unit in buildings with 6 or more units'
   details: 'For San Francisco residents with an active Recology residential or apartment account. Up to 10 items per appointment. Schedule with Recology at (415) 330-1300 or customerservice@recologySF.com, or with the online Bulky Item form. Set items at the curb in front of your residence no earlier than 6 p.m. the day before and no later than 6 a.m. on pickup day, with a sign that reads RECOLOGY. Don''t block the sidewalk.'
   source: https://www.recology.com/recology-san-francisco/bulky-items/
-- name: SF Transfer Station (public disposal area)
+- name: SF Transfer Station (Public Disposal Area)
   type: Drop-off
   cost: 'First 4 mattresses or box springs per day at no charge (intact, reasonably dry, free of mold, insects and severe damage and stains); after that, $21.85 per unit'
   details: '501 Tunnel Ave., San Francisco, CA 94134 (enter on Recycle Road), (415) 330-1400. Open Monday to Friday, 7 a.m. to 4:30 p.m.; Saturday and Sunday, 7:30 a.m. to 4 p.m.; closed Christmas Day and New Year''s Day. Recology lists a $60 minimum disposal fee per load. Visa, MasterCard and cash; no checks. Loads must be tarped and tied down.'
   source: https://www.recology.com/recology-san-francisco/sf-transfer-station/
-- name: Retailer take-back when a new mattress is delivered (California law)
+- name: Retailer Take-Back When a New Mattress Is Delivered (California Law)
   type: Take-back
   cost: No additional cost for the old mattress (delivery or setup fees for the new product may still apply)
   details: 'California law requires the retailer delivering your new mattress to offer to take back your old one. The retailer has up to 30 days to take it back and may refuse a mattress that poses a health or safety risk. Bye Bye Mattress (the state program) also lists no-cost drop-off locations.'
   source: https://byebyemattress.com/california/
 ---
-# Junk disposal in San Francisco, CA: mattresses, couches, furniture, appliances, TVs & electronics, paint & hazardous waste
+# Junk Disposal in San Francisco, CA: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 
 Here's how to legally get rid of bulky junk in San Francisco, California, item by item. The City's garbage company, **Recology**, picks up bulky items at the curb **by appointment at no additional charge**: **two collections per year** for buildings with five units or fewer, and **one per unit** in buildings with six or more units, with **up to 10 items** each time. That covers mattresses, couches, residential appliances (including refrigerators) and electronics. **E-waste is prohibited from your trash and recycling carts**, and paint and chemicals go to the **free Household Hazardous Waste Facility** or Recology's **free home pickup**. Every option links to the official page we checked. Where we couldn't verify something, we say so. Check the linked page or call Recology at (415) 330-1300 before you set anything out.
 
-## Quick answer by item
+## Quick Answer by Item
 
-| Item | Best verified option |
+| Item | Best Verified Option |
 |---|---|
 | Mattress | No-charge Recology Bulky Item Collection (up to 10 items, two per year in smaller buildings), retailer take-back with a new mattress, or the SF Transfer Station (first 4 per day free if intact, dry and free of mold and insects) |
 | Couch / furniture | No-charge Recology Bulky Item Collection; wrap glass and mirrors and tape display cases; Recology's list excludes pianos, cast iron tubs and anything over 100 pounds |
@@ -37,13 +37,13 @@ Here's how to legally get rid of bulky junk in San Francisco, California, item b
 | TV / computer | Prohibited from trash and recycling carts. Recology Bulky Item Collection, or free drop-off at the SF Transfer Station (TVs of all sizes, monitors, laptops) |
 | Paint / chemicals | Free Household Hazardous Waste Facility at 501 Tunnel Ave. (Thursday to Saturday, 8 a.m. to 4 p.m., 15 gallons or 125 pounds per trip), free Recology home pickup, or up to 5 gallons of paint at a participating hardware store |
 
-## Mattresses and box springs {#mattresses}
+## Mattresses and Box Springs {#mattresses}
 
 **Mattress short answer:** Book a **Recology Bulky Item Collection**. Mattresses and foundations are on the accepted list, and residents get **two no-charge collections per year** (buildings with five units or fewer) or **one per unit** (buildings with six or more units), **up to 10 items** each. If you're buying a new mattress, California law requires the retailer to **offer to take the old one back** at no additional cost.
 
 <!--LISTINGS-->
 
-### Step by step: Recology Bulky Item Collection
+### Step by Step: Recology Bulky Item Collection
 
 1. Check that you qualify. The program is **only for residents of the City of San Francisco**, and the property must have an **active residential or apartment account** with Recology Sunset Scavenger or Recology Golden Gate. Tenants in an apartment building get **one collection per year** and can contact Recology directly to schedule. Unused collections don't carry over. ([Recology FAQ](https://www.recology.com/recology-san-francisco/residential-curbside-collection/))
 2. Schedule with Recology at **(415) 330-1300** or **customerservice@recologySF.com**, or with the online Bulky Item Recycling form. Be ready to list all of your items. Recology recommends calling **at least two weeks** before you're ready. ([Recology: Bulky Items](https://www.recology.com/recology-san-francisco/bulky-items/), [How do I schedule a Bulky Item Recycling pickup?](https://www.recology.com/faq/sf-bulky-item-collection/), [SF Environment](https://www.sfenvironment.org/bulky-items))
@@ -54,7 +54,7 @@ Here's how to legally get rid of bulky junk in San Francisco, California, item b
 
 **Need it gone sooner, or used up your collections?** Recology says it can't schedule more than your yearly allotment and won't take payment to collect sooner. Its suggested options are the **SF Transfer Station** (fees may apply; see the listing above), **local charities**, or a **junk removal company**. ([Recology FAQ](https://www.recology.com/recology-san-francisco/residential-curbside-collection/))
 
-### What not to do
+### What Not to Do
 
 - **Don't** put a mattress on the sidewalk without a scheduled pickup. You must schedule before placing items at the curb. ([SF Environment: bulky items](https://www.sfenvironment.org/bulky-items))
 - **Don't** dump it. To report a dumped mattress or furniture on a street or sidewalk, use SF311 (dial 311, or 415-701-2311 from outside San Francisco); the City's expected response time for a mattress is 4 business hours. You can also report the person or business who dumped it. ([Request street or sidewalk cleaning](https://www.sf.gov/request-street-or-sidewalk-cleaning), [Report illegal dumping activity](https://www.sf.gov/report-illegal-dumping-activity))
@@ -63,7 +63,7 @@ At the Transfer Station, mattresses are taken at no charge only if they're **int
 
 *Sources: Recology San Francisco [Bulky Items](https://www.recology.com/recology-san-francisco/bulky-items/), [Bulky Item FAQ](https://www.recology.com/recology-san-francisco/residential-curbside-collection/), [Accepted Bulky Items](https://www.recology.com/recology-san-francisco/accepted-bulky-items/) and [SF Transfer Station](https://www.recology.com/recology-san-francisco/sf-transfer-station/); [SF Environment](https://www.sfenvironment.org/bulky-items); [Bye Bye Mattress California](https://byebyemattress.com/california/). Checked 10/21/2026. Rules change, so confirm on the official page before you go.*
 
-## Couches and furniture {#furniture}
+## Couches and Furniture {#furniture}
 
 **Curbside:** Living room furniture, display cases, garage items and other household furniture are on Recology's [list of accepted bulky items](https://www.recology.com/recology-san-francisco/accepted-bulky-items/). Book them the same way as a mattress (up to 10 items per appointment). Prep rules from Recology's [FAQ](https://www.recology.com/recology-san-francisco/residential-curbside-collection/):
 
@@ -77,7 +77,7 @@ At the Transfer Station, mattresses are taken at no charge only if they're **int
 
 **Drop-off:** The **SF Transfer Station**, 501 Tunnel Ave., is open to all City residents and businesses seven days a week. General refuse is **$274.57 per ton**, with a **$60 minimum disposal fee per load**. Loads must be tarped and tied down, or Recology adds a $20 fee. ([SF Transfer Station](https://www.recology.com/recology-san-francisco/sf-transfer-station/), [SF Environment](https://www.sfenvironment.org/bulky-items))
 
-## Appliances (fridges, freezers, AC: freon) {#appliances}
+## Appliances (Fridges, Freezers, AC: Freon) {#appliances}
 
 **Curbside:** Recology's Bulky Item Collection accepts **residential refrigerators, residential washers and dryers, residential stoves, kitchen appliances and other appliances**. **Commercial refrigerators, washers, stoves and vending machines are not accepted.** ([Accepted Bulky Items](https://www.recology.com/recology-san-francisco/accepted-bulky-items/))
 
@@ -89,7 +89,7 @@ At the Transfer Station, mattresses are taken at no charge only if they're **int
 - **Washers, dryers, stoves, dishwashers:** **$31.22 each** as a surcharge, plus weight.
 - A **$60 minimum disposal fee** applies to all loads.
 
-## TVs, computers and electronics (e-waste) {#electronics}
+## TVs, Computers and Electronics (E-Waste) {#electronics}
 
 **Electronics can't go in your carts.** Recology says electronic and universal waste, such as consumer batteries, cell phones and TVs, is **prohibited from the trash and recycling carts** because it contains heavy metals such as lead, mercury and cadmium. ([SF Transfer Station](https://www.recology.com/recology-san-francisco/sf-transfer-station/))
 
@@ -99,7 +99,7 @@ At the Transfer Station, mattresses are taken at no charge only if they're **int
 
 If a device still works, SF Environment suggests donating it. Wipe personal data from phones and computers before you let them go. ([SF Environment](https://www.sfenvironment.org/bulky-items))
 
-## Paint and household hazardous waste {#hazardous}
+## Paint and Household Hazardous Waste {#hazardous}
 
 Hazardous items can't go in your black, green or blue bin; SF Environment says doing so is **illegal**. San Francisco residents have three free options. ([SF Environment: household hazardous waste](https://www.sfenvironment.org/hhw-safe-disposal))
 

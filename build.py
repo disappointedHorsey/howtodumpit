@@ -36,7 +36,7 @@ def us_date(v):
         return str(v)
     return f"{d:%B} {d.day}, {d.year}"
 
-def listings_html(items, heading="Options at a glance"):
+def listings_html(items, heading="Options at a Glance"):
     if not items: return ""
     rows = []
     for it in items:
@@ -48,7 +48,7 @@ def listings_html(items, heading="Options at a glance"):
     return f'<h3>{html.escape(heading)}</h3><ul class="listings">' + "".join(rows) + "</ul>"
 
 AFFILIATE_CTA = (
-    '<aside class="cta" aria-labelledby="cta-h"><h2 id="cta-h">Book a junk pickup</h2>'
+    '<aside class="cta" aria-labelledby="cta-h"><h2 id="cta-h">Book a Junk Pickup</h2>'
     '<p>Can\'t wait for the city, or can\'t carry it to the curb? A paid junk-removal crew can haul it from inside your home.</p>'
     '<div class="cta-btns">'
     '<a class="btn" href="https://www.1800gotjunk.com/" rel="sponsored nofollow" target="_blank">1-800-GOT-JUNK &rarr;</a>'
@@ -75,8 +75,8 @@ def city_cards(pages):
         cards.append(f'<li class="card" data-search="{html.escape(label.lower())} {html.escape(cm.get("slug_search",""))}">'
                      f'<a href="{cu}"><span class="card-city">{html.escape(label)}</span>'
                      f'<span class="card-item">Mattresses, couches, appliances &amp; more</span>'
-                     f'<span class="card-go">Read guide &rarr;</span></a></li>')
-    return ('<div class="search"><label for="city-q" class="sr">Find your city</label>'
+                     f'<span class="card-go">Read Guide &rarr;</span></a></li>')
+    return ('<div class="search"><label for="city-q" class="sr">Find Your City</label>'
             '<input id="city-q" type="search" placeholder="Search your city, e.g. Houston" autocomplete="off"></div>'
             '<ul class="cards" id="city-list">' + "".join(cards) + '</ul>'
             '<p id="no-match" class="no-match" hidden>No guide for that city yet. Check your city\'s official sanitation or 311 page.</p>')
@@ -112,7 +112,7 @@ def main():
         body_html = markdown.markdown(body, extensions=["tables", "toc", "attr_list"])
         # wrap every table so wide tables scroll inside their own box on phones, not the whole page
         body_html = body_html.replace("<table>", '<div class="table-wrap" role="region" aria-label="Table (scroll sideways to see more)" tabindex="0"><table>').replace("</table>", "</table></div>")
-        body_html = body_html.replace("<!--LISTINGS-->", listings_html(meta.get("listings"), meta.get("listings_title", "Options at a glance")))
+        body_html = body_html.replace("<!--LISTINGS-->", listings_html(meta.get("listings"), meta.get("listings_title", "Options at a Glance")))
         body_html = body_html.replace("<!--CITY_GRID-->", city_cards(pages))
         if meta.get("list_children"):
             body_html += city_cards(pages)

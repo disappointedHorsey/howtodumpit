@@ -1,4 +1,4 @@
 ---
-title: "Austin, TX mattress disposal (moved)"
+title: "Austin, TX Mattress Disposal (Moved)"
 redirect_to: "/austin-tx/"
 ---

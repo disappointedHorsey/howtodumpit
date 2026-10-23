@@ -1,30 +1,30 @@
 ---
-title: 'Junk disposal in Charlotte, NC: mattresses, couches, appliances, TVs & paint'
+title: 'Junk Disposal in Charlotte, NC: Mattresses, Couches, Appliances, TVs & Paint'
 description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in Charlotte, NC: scheduled City bulky item pickup through 311 or online, Mecklenburg County full-service drop-off centers (one bulky item free per visit), free county e-waste and household hazardous waste drop-off, and the North Carolina landfill ban on TVs and computers, with links to official City of Charlotte and Mecklenburg County sources.'
 verified: '2026-10-20'
 city: Charlotte
 state: NC
 short: Charlotte, NC
-listings_title: Mattress options at a glance
+listings_title: Mattress Options at a Glance
 listings:
-- name: City of Charlotte bulky item collection
+- name: City of Charlotte Bulky Item Collection
   type: Curbside pickup (scheduled)
   cost: No fee listed on the City's bulky waste pages
   details: 'For homes that currently get City of Charlotte garbage collection. Mattresses and box springs are on the City''s eligible list. Schedule online, in the CLT+ app or by calling 311 (704-336-7600); unscheduled items are not collected. Set items out by 6 a.m. on your scheduled day and no sooner than the day before, within 6 feet of the curb and 3 feet apart. To cancel or change, call 311 by noon on the business day before.'
   source: https://www.charlottenc.gov/Services/Trash-and-Recycling/Collection-Guidelines
-- name: Mecklenburg County full-service drop-off centers (self-haul)
+- name: Mecklenburg County Full-Service Drop-Off Centers (Self-Haul)
   type: Drop-off
   cost: 'No charge for 1 large bulky item, such as a mattress set; $15 per unit (load) for more than 1 item (County residents, July 2026 to June 2027 fees)'
   details: 'Compost Central (140 Valleydale Rd., Charlotte, NC 28214), Foxhole (17131 Lancaster Hwy., Charlotte, NC 28277), Hickory Grove (8007 Pence Rd., Charlotte, NC 28215) and North Mecklenburg (12300 N. Statesville Rd., Huntersville, NC 28078). Monday to Saturday, 7 a.m. to 4 p.m. Limit 1 mattress and 1 box spring. County residents get a free blue entry sticker at the fee booth (show a driver''s license or other proof of residence). Debit or credit cards only (no American Express); no cash or checks.'
   source: https://wipeoutwaste.mecknc.gov/where-can-i-recycle
 ---
-# Junk disposal in Charlotte, NC: mattresses, couches, furniture, appliances, TVs & electronics, paint & hazardous waste
+# Junk Disposal in Charlotte, NC: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 
 Here's how to legally get rid of bulky junk in Charlotte, North Carolina, item by item. If the City of Charlotte collects your garbage, it also picks up **bulky items you schedule in advance** through 311, the CLT+ app or online. For drop-off, **Mecklenburg County** runs four **full-service drop-off centers** that take bulky waste, appliances, electronics and household hazardous waste. Every option links to the official page we checked. Where we couldn't verify something, we say so. Check the linked page or call CharMeck 311 (704-336-7600) before you set anything out or load up the car.
 
-## Quick answer by item
+## Quick Answer by Item
 
-| Item | Best verified option |
+| Item | Best Verified Option |
 |---|---|
 | Mattress | Schedule City bulky item collection (311, CLT+ app or online), or take it to a County full-service center (one bulky item free, then $15 per unit) |
 | Couch / furniture | Schedule City bulky item collection, or a County full-service center (one bulky item free, then $15 per unit) |
@@ -32,13 +32,13 @@ Here's how to legally get rid of bulky junk in Charlotte, North Carolina, item b
 | TV / computer | Banned from North Carolina landfills. Free County e-waste drop-off at full-service centers (limit 2 TVs or monitors), or schedule City bulky collection |
 | Paint / chemicals | Free household hazardous waste drop-off for County residents at full-service centers (paint up to 100 pounds) |
 
-## Mattresses and box springs {#mattresses}
+## Mattresses and Box Springs {#mattresses}
 
 **Mattress short answer:** If you get City of Charlotte garbage collection, **schedule a bulky item pickup** online, in the CLT+ app or by calling **311 (704-336-7600)**, then set it at the curb by **6 a.m.** on your scheduled day. Or haul it to a **Mecklenburg County full-service center**, where **one large bulky item, such as a mattress set, is free** for County residents.
 
 <!--LISTINGS-->
 
-### Step by step: City bulky item collection
+### Step by Step: City Bulky Item Collection
 
 1. Make sure you're eligible. You must **currently receive garbage collection from the City of Charlotte**. ([Collection Guidelines](https://www.charlottenc.gov/Services/Trash-and-Recycling/Collection-Guidelines))
 2. Schedule it **online**, in the **CLT+ app**, or by calling **311 (704-336-7600)**. **Mattresses** and **box springs** are both on the City's [bulky item eligibility list (PDF)](https://www.charlottenc.gov/files/sharedassets/city/v/4/services/trash-and-recycling/documents/bulky-item-collection-eligibility.pdf). Items put out without scheduling won't be collected.
@@ -47,7 +47,7 @@ Here's how to legally get rid of bulky junk in Charlotte, North Carolina, item b
 
 The City's bulky waste pages we checked don't list a fee or a per-pickup item limit. Ask 311 when you schedule if you have a lot of items.
 
-### Step by step: drop-off at a County full-service center
+### Step by Step: Drop-Off at a County Full-Service Center
 
 1. Go to **Compost Central** (140 Valleydale Rd.), **Foxhole** (17131 Lancaster Hwy.), **Hickory Grove** (8007 Pence Rd.) or **North Mecklenburg** (12300 N. Statesville Rd., Huntersville), **Monday to Saturday, 7 a.m. to 4 p.m.** The centers are closed on some holidays; see the County's holiday schedule.
 2. Get a free **blue entry sticker** at the fee booth if you don't have one; you'll be asked for a driver's license or other proof you live in Mecklenburg County. Without a sticker you pay the out-of-county rate.
@@ -56,19 +56,19 @@ The City's bulky waste pages we checked don't list a fee or a per-pickup item li
 
 *Sources: [City of Charlotte Collection Guidelines](https://www.charlottenc.gov/Services/Trash-and-Recycling/Collection-Guidelines), [Bulky item eligibility list (PDF)](https://www.charlottenc.gov/files/sharedassets/city/v/4/services/trash-and-recycling/documents/bulky-item-collection-eligibility.pdf), [Mecklenburg County Recycling and Disposal Centers](https://wipeoutwaste.mecknc.gov/where-can-i-recycle) and [Residential Disposal Fees, July 2026 to June 2027 (PDF)](https://mecknc.widen.net/s/ssfqx2zmsr/residential-fees). Checked 10/20/2026. Rules change, so confirm on the official page before you go.*
 
-## Couches and furniture {#furniture}
+## Couches and Furniture {#furniture}
 
 **City pickup:** **Couches, recliners, chairs, tables, desks, dressers, chests, china cabinets and entertainment centers** are all on the City's bulky item eligibility list. Dressers, desks, chests and cabinets must be **empty**; remove dresser doors, and tape an **X** over any glass. Tables longer than 5 feet should be cut in half. Schedule and set out as described for mattresses above. The City asks residents to consider donating usable items, since non-recyclable bulky items go to the landfill. ([Bulky item eligibility list (PDF)](https://www.charlottenc.gov/files/sharedassets/city/v/4/services/trash-and-recycling/documents/bulky-item-collection-eligibility.pdf), [Collection Guidelines](https://www.charlottenc.gov/Services/Trash-and-Recycling/Collection-Guidelines))
 
 **Self-haul:** County full-service centers take **furniture**. For County residents, **one large bulky item is free** and more than one is **$15 per unit**. Separate bulky waste from yard waste and construction debris before you arrive; mixed loads are charged at the construction and demolition rate. ([Recycling and Disposal Centers](https://wipeoutwaste.mecknc.gov/where-can-i-recycle), [Residential Disposal Fees (PDF)](https://mecknc.widen.net/s/ssfqx2zmsr/residential-fees))
 
-## Appliances (fridges, freezers, AC: freon) {#appliances}
+## Appliances (Fridges, Freezers, AC: Freon) {#appliances}
 
 **City pickup:** Appliances are bulky waste and must be scheduled. The City's eligibility list includes **refrigerators and wine coolers** and **freezers** (both must be **empty**, with the **door removed**), **window air conditioners** (window units only), **dishwashers**, **washers**, **dryers**, **stoves**, **hot water heaters** and **microwaves**. **Central air conditioning or heating units** and **furnaces** are **not** eligible. ([Bulky item eligibility list (PDF)](https://www.charlottenc.gov/files/sharedassets/city/v/4/services/trash-and-recycling/documents/bulky-item-collection-eligibility.pdf))
 
 **Self-haul:** County full-service centers accept **appliances** (stoves, refrigerators, washers, dryers, water heaters) and **white goods** such as stoves and **empty** refrigerators and freezers. The staffed recycling center at William R. Davie Park does **not** take appliances or AC units. ([Recycling and Disposal Centers](https://wipeoutwaste.mecknc.gov/where-can-i-recycle))
 
-## TVs, computers and electronics (e-waste) {#electronics}
+## TVs, Computers and Electronics (E-Waste) {#electronics}
 
 In North Carolina, it's **illegal to dispose of a TV or computer in a landfill**, and your curbside collector won't pick up TVs or computers with your trash. ([Mecklenburg County: Electronic Waste Disposal](https://wipeoutwaste.mecknc.gov/services/electronic-waste-disposal))
 
@@ -78,7 +78,7 @@ In North Carolina, it's **illegal to dispose of a TV or computer in a landfill**
 
 Wipe personal data from phones and computers before you drop them off.
 
-## Paint and household hazardous waste {#hazardous}
+## Paint and Household Hazardous Waste {#hazardous}
 
 **Paint and other hazardous waste** are **not** eligible for City bulky collection, and hazardous waste isn't allowed in City garbage carts. ([Bulky item eligibility list (PDF)](https://www.charlottenc.gov/files/sharedassets/city/v/4/services/trash-and-recycling/documents/bulky-item-collection-eligibility.pdf), [City of Charlotte FAQ](https://www.charlottenc.gov/Services/Trash-and-Recycling/FAQ))
 

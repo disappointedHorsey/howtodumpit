@@ -1,4 +1,4 @@
 ---
-title: "Columbus, OH mattress disposal (moved)"
+title: "Columbus, OH Mattress Disposal (Moved)"
 redirect_to: "/columbus-oh/"
 ---

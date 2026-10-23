@@ -1,10 +1,10 @@
 ---
-title: 'Junk removal pricing calculator (load-size estimate from your own costs)'
+title: 'Junk Removal Pricing Calculator (Load-Size Estimate From Your Own Costs)'
 description: 'A free calculator for junk-removal jobs: enter your own labor, truck, disposal and overhead costs and your target margin to estimate a price by load size. All assumptions are editable.'
 verified: '2026-10-12'
-short: Pricing calculator
+short: Pricing Calculator
 ---
-# Junk removal pricing calculator
+# Junk Removal Pricing Calculator
 
 **This is an estimate, not a market rate.** It works out a price from **your** costs and **your** target margin. The numbers already in the boxes are **placeholders only**, so replace every one with your own figures. We don't publish "typical" market prices because we haven't verified any.
 
@@ -44,7 +44,7 @@ short: Pricing calculator
 })();
 </script>
 
-## How the math works
+## How the Math Works
 
 1. **Labor** = crew × hours × cost per person-hour.
 2. **Truck** = hours × truck cost per hour.

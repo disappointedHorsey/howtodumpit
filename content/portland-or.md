@@ -1,30 +1,30 @@
 ---
-title: 'Junk disposal in Portland, OR: mattresses, couches, appliances, TVs & paint'
+title: 'Junk Disposal in Portland, OR: Mattresses, Couches, Appliances, TVs & Paint'
 description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in Portland, OR: City-set curbside bulky waste rates through your garbage company, free mattress drop-off at Metro Central, free Oregon E-Cycles electronics recycling, and free household hazardous waste and paint drop-off at Metro, with links to official City of Portland, Metro and Oregon DEQ sources.'
 verified: '2026-10-17'
 city: Portland
 state: OR
 short: Portland, OR
-listings_title: Mattress options at a glance
+listings_title: Mattress Options at a Glance
 listings:
-- name: Metro Central Transfer Station (self-haul)
+- name: Metro Central Transfer Station (Self-Haul)
   type: Drop-off
   cost: 'Free, up to 4 mattresses or box springs per customer per day'
   details: '6161 NW 61st Ave., Portland, OR 97210. Open to the general public 8 a.m. to 5 p.m. daily; closed to the public on the Fourth of July, Thanksgiving, Christmas and New Year''s Day. Car beds, foldout sofa beds, futons, crib mattresses, waterbeds and air mattresses are not free; they are charged as garbage. Questions: Metro, 503-234-3000.'
   source: https://www.oregonmetro.gov/tools-living/garbage-and-recycling/garbage-recycling-hazardous-waste-disposal-portland
-- name: Curbside bulky waste pickup (your garbage company)
+- name: Curbside Bulky Waste Pickup (Your Garbage Company)
   type: Curbside pickup
   cost: '$18 pickup fee per trip, plus $14 (twin/single or box spring only), $21 (queen/full) or $29 (king) per mattress; box spring included with a mattress'
   details: 'For houses, duplexes, triplexes and fourplexes in Portland. Rates are set by the City; your garbage company decides each item''s category. Contact your garbage company for a quote and date; it must pick up within seven days of your request. Set items out by 6:00 a.m. on pickup day and not more than 24 hours early. Renters ask their landlord; apartment residents ask their property manager.'
   source: https://www.portland.gov/bps/garbage-recycling/bulky-waste
 ---
-# Junk disposal in Portland, OR: mattresses, couches, furniture, appliances, TVs & electronics, paint & hazardous waste
+# Junk Disposal in Portland, OR: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 
 Here's how to legally get rid of bulky junk in Portland, Oregon, item by item. In Portland, each home is assigned a **garbage company** ([look yours up](https://www.portland.gov/bps/garbage-recycling/home-recycling/find-my-hauler)), and that company picks up oversized items from the curb at **rates set by the City**. For drop-off, the regional government **Metro** runs the **Metro Central** transfer station in Northwest Portland (and Metro South in Oregon City), including free household hazardous waste drop-off. Every option links to the official page we checked. Where we couldn't verify something, we say so. Check the linked page, ask Metro's recycling experts (503-234-3000), or call PDX 311 (311 or 503-823-4000) before you load up the car.
 
-## Quick answer by item
+## Quick Answer by Item
 
-| Item | Best verified option |
+| Item | Best Verified Option |
 |---|---|
 | Mattress | Free drop-off at Metro Central (up to 4 mattresses or box springs per day), or curbside pickup through your garbage company ($18 trip fee plus $14 to $29 per mattress) |
 | Couch / furniture | Curbside pickup through your garbage company ($18 trip fee plus $14 to $29 per item), or self-haul to a Metro transfer station as garbage ($51 minimum) |
@@ -32,13 +32,13 @@ Here's how to legally get rid of bulky junk in Portland, Oregon, item by item. I
 | TV / computer | Free Oregon E-Cycles drop-off (up to 7 items at a time), including Metro Central and Metro South; TVs, computers and monitors are banned from Oregon landfills |
 | Paint / chemicals | Free household hazardous waste drop-off at Metro Central or Metro South (up to 35 gallons per day), including paint, stains and sealants |
 
-## Mattresses and box springs {#mattresses}
+## Mattresses and Box Springs {#mattresses}
 
 **Mattress short answer:** If you can haul it, take it to **Metro Central** (6161 NW 61st Ave.), which accepts **up to four mattresses or box springs per customer per day for free**. If you live in a house, duplex, triplex or fourplex, your **garbage company** can pick it up from the curb for an **$18 trip fee plus $14 to $29** per mattress, depending on size.
 
 <!--LISTINGS-->
 
-### Step by step: free drop-off at Metro Central
+### Step by Step: Free Drop-Off at Metro Central
 
 1. Check whether it's still usable. The City suggests donating clean mattresses and other usable items; Metro's [Find a Recycler](https://www.oregonmetro.gov/findarecycler) tool suggests donation options. ([City of Portland](https://www.portland.gov/bps/garbage-recycling/bulky-waste))
 2. Make sure it qualifies. Regular mattresses and box springs are free. **Car beds, foldout sofa beds, futons, crib mattresses, waterbeds and air mattresses** are accepted only as garbage and charged the garbage rate. If a mattress is part of a mixed garbage load, you get a **$2.40 credit** per mattress or box spring.
@@ -47,21 +47,21 @@ Here's how to legally get rid of bulky junk in Portland, Oregon, item by item. I
 
 Metro's [Metro South page](https://www.oregonmetro.gov/tools-living/garbage-and-recycling/garbage-recycling-hazardous-waste-disposal-oregon-city) (2001 Washington St., Oregon City) doesn't list free mattress drop-off, so use Metro Central or call Metro first. The City also points to the statewide **Bye Bye Mattress** program for [other free drop-off locations](https://byebyemattress.com/oregon/). ([Metro Central](https://www.oregonmetro.gov/tools-living/garbage-and-recycling/garbage-recycling-hazardous-waste-disposal-portland))
 
-### Step by step: curbside pickup through your garbage company
+### Step by Step: Curbside Pickup Through Your Garbage Company
 
 1. [Find your garbage company](https://www.portland.gov/bps/garbage-recycling/home-recycling/find-my-hauler). Renters need their landlord to request the pickup, because the landlord holds the garbage account. Apartment residents should ask the property manager.
 2. Get a quote and a pickup date. The cost is an **$18 pickup fee per trip** plus a per-item charge: **$29** for a king mattress, **$21** for a queen or full, and **$14** for a twin or single (each including the box spring), or **$14** for a box spring on its own. The garbage company decides which category an item falls into, and may charge more if the pickup needs extra time or staff. Sending photos helps get an accurate quote. You can also use the City's [bulky waste cost calculator](https://www.portlandmaps.com/bps/swr-calculators/#/bulky-waste/).
 3. Call **at least a week ahead**. Under City rules, your garbage company must pick up **within seven days** of your request, and the pickup day may differ from your regular collection day.
 4. Set it out **by 6:00 a.m.** on the scheduled day, but **not more than 24 hours early**. If it isn't out in time, you'll pay the pickup fee plus another fee for a second trip.
 
-### What not to do
+### What Not to Do
 
 - **Don't** set a mattress on the curb before your scheduled pickup day. The City warns early set-outs soak up rain, get too heavy to lift and attract illegal dumping and pests.
 - **Don't** start a "free pile" on the sidewalk. The City asks residents to use donation and reuse resources instead.
 
 *Sources: [Bulky waste collection rates](https://www.portland.gov/bps/garbage-recycling/bulky-waste), [Large household waste disposal options](https://www.portland.gov/bps/garbage-recycling/home-recycling/bulky-waste-disposal) and [Metro Central transfer station](https://www.oregonmetro.gov/tools-living/garbage-and-recycling/garbage-recycling-hazardous-waste-disposal-portland). Checked 10/17/2026. Rules change, so confirm on the official page before you go.*
 
-## Couches and furniture {#furniture}
+## Couches and Furniture {#furniture}
 
 **Curbside pickup:** Your garbage company picks up furniture from the curb for the **$18 trip fee** plus a City-set per-item charge ([Bulky waste collection rates](https://www.portland.gov/bps/garbage-recycling/bulky-waste)):
 
@@ -85,7 +85,7 @@ These rates apply to houses, duplexes, triplexes and fourplexes. Follow the same
 
 Check before you go: call the donation team at 971-229-8888 or email pickups@habitatportlandregion.org. ([ReStore donations](https://pdxrestore.org/donate/), [store locations](https://pdxrestore.org/store-locations/), [donation guidelines](https://pdxrestore.org/donate/guidelines/), [donation FAQ](https://pdxrestore.org/donate/faq-donations-pickups/). Checked 10/21/2026.)
 
-## Appliances (fridges, freezers, AC: freon) {#appliances}
+## Appliances (Fridges, Freezers, AC: Freon) {#appliances}
 
 **Self-haul to Metro:** Metro Central and Metro South accept **coolant appliances** (air conditioners, freezers, refrigerators and dehumidifiers) for **$30 per appliance**, with a limit of **five per person per day**. Metal **dishwashers, microwaves, water heaters, stoves, ovens, washers and dryers** are accepted **free** from residential customers; dishwashers with a plastic casing are charged as garbage. ([Metro Central](https://www.oregonmetro.gov/tools-living/garbage-and-recycling/garbage-recycling-hazardous-waste-disposal-portland), [Metro South](https://www.oregonmetro.gov/tools-living/garbage-and-recycling/garbage-recycling-hazardous-waste-disposal-oregon-city))
 
@@ -95,7 +95,7 @@ Working appliances can also be donated. The City lists them among items that can
 
 **Donate to a Habitat for Humanity ReStore (nonprofit):** The four Habitat ReStores (locations and drop-off hours under [Couches and furniture](#furniture)) accept new or gently used **kitchen and laundry appliances** and small appliances such as vacuum cleaners and coffee makers, clean and complete with all pieces. They don't accept non-working appliances; fridges, freezers and other large appliances over 10 years old; air conditioners and other temperature-control units over 3 years old; or dishwashers and water heaters over 5 years old. ([ReStore donation guidelines](https://pdxrestore.org/donate/guidelines/))
 
-## TVs, computers and electronics (e-waste) {#electronics}
+## TVs, Computers and Electronics (E-Waste) {#electronics}
 
 Oregon law has banned disposing of **computers, monitors and televisions** since **January 1, 2010**, and disposal sites can't knowingly accept them. Portland's garbage guide lists computers, monitors and TVs as not allowed in your garbage cart. ([Oregon DEQ disposal ban fact sheet (PDF)](https://www.oregon.gov/deq/FilterDocs/DisposalBanofCEDs.pdf), [City of Portland: what goes in the garbage](https://www.portland.gov/bps/garbage-recycling/garbage))
 
@@ -106,7 +106,7 @@ Oregon law has banned disposing of **computers, monitors and televisions** since
 
 Wipe personal data from phones and computers before you drop them off.
 
-## Paint and household hazardous waste {#hazardous}
+## Paint and Household Hazardous Waste {#hazardous}
 
 Metro's household hazardous waste facilities take hazardous waste **free from households**, with a daily limit of **35 gallons** (measured by container size). Locations:
 
