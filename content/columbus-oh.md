@@ -66,7 +66,7 @@ If you can't wait for a scheduled pickup, a paid junk removal service is the fal
 
 Report it through 311, or call the Franklin County Environmental Justice Program at (614) 871-5322.
 
-*Source: City of Columbus Division of Refuse Collection pages, checked 2026-10-11. Rules change, so confirm with 311 before you set anything out.*
+*Source: City of Columbus Division of Refuse Collection pages, checked October 11, 2026. Rules change, so confirm with 311 before you set anything out.*
 
 ## Couches and furniture {#furniture}
 

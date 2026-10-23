@@ -61,7 +61,7 @@ NYC311 treats bed frames as bulk items. If the frame is in pieces, tie the piece
 
 DSNY only collects from the curb. If you need someone to carry it out of an apartment, a paid junk-removal service is the fallback (see the box above).
 
-*Sources: [DSNY Large Items](https://nyc.gov/site/dsny/collection/get-rid-of/large-items.page); [DSNY Furniture, Mattresses & Rugs](https://nyc.gov/site/dsny/collection/get-rid-of/furniture-mattresses.page); [DSNY Collection Laws for Residents](https://www.nyc.gov/site/dsny/collection/residents/collection-laws-residents.page); [NYC311 Mattress or Box Spring Disposal](https://portal.311.nyc.gov/article/?kanumber=KA-02378). Checked 2026-10-12. Rules change, so confirm with 311 before you set anything out.*
+*Sources: [DSNY Large Items](https://nyc.gov/site/dsny/collection/get-rid-of/large-items.page); [DSNY Furniture, Mattresses & Rugs](https://nyc.gov/site/dsny/collection/get-rid-of/furniture-mattresses.page); [DSNY Collection Laws for Residents](https://www.nyc.gov/site/dsny/collection/residents/collection-laws-residents.page); [NYC311 Mattress or Box Spring Disposal](https://portal.311.nyc.gov/article/?kanumber=KA-02378). Checked October 12, 2026. Rules change, so confirm with 311 before you set anything out.*
 
 ## Couches and furniture {#furniture}
 

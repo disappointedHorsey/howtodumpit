@@ -9,7 +9,7 @@ listings_title: Mattress options at a glance
 listings:
 - name: SPU Special Item Pickup
   type: City pickup (paid)
-  cost: $31 per item (per SPU, checked 2026-10-12), billed on your combined utility bill
+  cost: $31 per item (per SPU, checked October 12, 2026), billed on your combined utility bill
   details: 'Mattresses and box springs are on SPU''s list of large items. Items must be under 300 lbs, 8 ft tall, 4 ft in diameter, and covered on rainy days. The utility account holder must schedule, online or at (206) 684-3000. Single-family: collected on your next regular garbage day after booking; out by 7:00 a.m. at your normal collection point. Renters in 5+ unit buildings must ask the property manager or owner.'
   source: https://www.seattle.gov/utilities/your-services/collection-and-disposal/garbage/special-item-collections
 ---
@@ -30,7 +30,7 @@ Here's how to legally get rid of bulky junk in Seattle, item by item. Every opti
 ## Mattresses and box springs {#mattresses}
 
 
-**Mattress short answer:** Seattle Public Utilities (SPU) will pick up a mattress or box spring through **Special Item Pickup** for **$31 per item** (SPU's posted price on 2026-10-12), charged to your utility bill. The **utility account holder** schedules it online or at **(206) 684-3000**. Renters go through their landlord.
+**Mattress short answer:** Seattle Public Utilities (SPU) will pick up a mattress or box spring through **Special Item Pickup** for **$31 per item** (SPU's posted price on October 12, 2026), charged to your utility bill. The **utility account holder** schedules it online or at **(206) 684-3000**. Renters go through their landlord.
 
 <!--LISTINGS-->
 
@@ -49,11 +49,11 @@ If your building has 5+ units, the property manager or owner has to book the pic
 
 SPU's "Where Does It Go?" tool lists reuse and donation options for items in good condition. For same-day haul-away, use a paid junk-removal service.
 
-*Source: [Seattle Public Utilities: Special Item Pickup](https://www.seattle.gov/utilities/your-services/collection-and-disposal/garbage/special-item-collections). Checked 2026-10-12. Prices change, so confirm with SPU before booking.*
+*Source: [Seattle Public Utilities: Special Item Pickup](https://www.seattle.gov/utilities/your-services/collection-and-disposal/garbage/special-item-collections). Checked October 12, 2026. Prices change, so confirm with SPU before booking.*
 
 ## Couches and furniture {#furniture}
 
-Sofas, chairs, tables, dressers, cabinets and other furniture larger than 2'×2'×2' are picked up through **SPU Special Item Pickup** at **$31 per item** (SPU price on 2026-10-12), billed to the utility account. Limits: 300 lbs, 8 ft tall, 4 ft diameter. The account holder schedules online or at (206) 684-3000. ([SPU Special Item Pickup](https://www.seattle.gov/utilities/your-services/collection-and-disposal/garbage/special-item-collections))
+Sofas, chairs, tables, dressers, cabinets and other furniture larger than 2'×2'×2' are picked up through **SPU Special Item Pickup** at **$31 per item** (SPU price on October 12, 2026), billed to the utility account. Limits: 300 lbs, 8 ft tall, 4 ft diameter. The account holder schedules online or at (206) 684-3000. ([SPU Special Item Pickup](https://www.seattle.gov/utilities/your-services/collection-and-disposal/garbage/special-item-collections))
 
 ## Appliances (fridges, freezers, AC: freon) {#appliances}
 

@@ -73,7 +73,7 @@ If the mattress is still usable, Chicago Furniture Bank drop-off or their schedu
 
 Report fly dumping (including dumped mattresses) through **311**. Illegal dumping endangers public health and can attract pests.
 
-*Sources: City of Chicago Garbage Fee FAQ; Sanitation Code Violation / DSS guidance; Division and Sanitation Offices; Municipal Code §7-28-370 (bed-bug disposal); Chicago Furniture Bank donation page — checked 2026-10-11. Rules change, so confirm with 311 before you set anything out.*
+*Sources: City of Chicago Garbage Fee FAQ; Sanitation Code Violation / DSS guidance; Division and Sanitation Offices; Municipal Code §7-28-370 (bed-bug disposal); Chicago Furniture Bank donation page — checked October 11, 2026. Rules change, so confirm with 311 before you set anything out.*
 
 ## Couches and furniture {#furniture}
 

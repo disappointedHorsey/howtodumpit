@@ -60,7 +60,7 @@ Denver lists private metro facilities that can take household trash and large it
 
 Use a listed private drop-off (call for fees), donate usable furniture if a local nonprofit accepts it, or hire a paid junk-removal service.
 
-*Sources: [Denver Large Item Pickup](https://www.denvergov.org/My-Property/Recycle-Compost-Trash/Large-Item-Pickup). Checked 2026-10-12. Rules change, so confirm with 311 before you set anything out.*
+*Sources: [Denver Large Item Pickup](https://www.denvergov.org/My-Property/Recycle-Compost-Trash/Large-Item-Pickup). Checked October 12, 2026. Rules change, so confirm with 311 before you set anything out.*
 
 ## Couches and furniture {#furniture}
 

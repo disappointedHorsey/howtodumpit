@@ -65,7 +65,7 @@ DPW bulk does not apply. Use your building's private hauler, or ask the property
 
 Self-haul to Fort Totten during resident hours, or use a paid junk-removal service.
 
-*Sources: [DPW Bulk Trash Collection](https://dpw.dc.gov/node/1652581); [Zero Waste DC special waste / mattresses](https://zerowaste.dc.gov/page/special-waste-residents); [Residential collection info](https://zerowaste.dc.gov/page/residential-collection-information-requests). Checked 2026-10-12. Rules change, so confirm with 311 before you set anything out.*
+*Sources: [DPW Bulk Trash Collection](https://dpw.dc.gov/node/1652581); [Zero Waste DC special waste / mattresses](https://zerowaste.dc.gov/page/special-waste-residents); [Residential collection info](https://zerowaste.dc.gov/page/residential-collection-information-requests). Checked October 12, 2026. Rules change, so confirm with 311 before you set anything out.*
 
 ## Couches and furniture {#furniture}
 

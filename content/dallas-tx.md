@@ -49,7 +49,7 @@ Set-outs over 10 cubic yards (or with prohibited items) are generally collected 
 
 Use a paid junk-removal service (see above).
 
-*Source: [Dallas Sanitation: Brush and Bulky Item Collection](https://dallascityhall.com/departments/sanitation/pages/brush_and_bulky.aspx). Checked 2026-10-12. Rules change, so confirm with 3-1-1 before you set anything out.*
+*Source: [Dallas Sanitation: Brush and Bulky Item Collection](https://dallascityhall.com/departments/sanitation/pages/brush_and_bulky.aspx). Checked October 12, 2026. Rules change, so confirm with 3-1-1 before you set anything out.*
 
 ## Couches and furniture {#furniture}
 

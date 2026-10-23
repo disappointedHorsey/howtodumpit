@@ -57,7 +57,7 @@ Mattresses with blood stains or bed bugs, bagged garbage, bed linens, brush and 
 
 Call 3-1-1 or 210-207-6000.
 
-*Sources: [Bulky Waste Collection Centers](https://www.sa.gov/Directory/Departments/SWMD/Brush-Bulky/Bulky-Drop-Off); [Brush & Bulky Items](https://www.sa.gov/Directory/Departments/SWMD/Brush-Bulky). Checked 2026-10-12. Rules change, so confirm with 3-1-1 before you set anything out.*
+*Sources: [Bulky Waste Collection Centers](https://www.sa.gov/Directory/Departments/SWMD/Brush-Bulky/Bulky-Drop-Off); [Brush & Bulky Items](https://www.sa.gov/Directory/Departments/SWMD/Brush-Bulky). Checked October 12, 2026. Rules change, so confirm with 3-1-1 before you set anything out.*
 
 ## Couches and furniture {#furniture}
 

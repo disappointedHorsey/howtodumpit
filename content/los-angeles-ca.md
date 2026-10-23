@@ -58,7 +58,7 @@ LASAN runs a monthly drop-off at five sites: East Valley District Yard (11050 Pe
 
 City pickup runs on your trash day. For same-day haul-away from inside the home, a paid junk-removal service is the fallback.
 
-*Sources: [LASAN Schedule a Bulky Item Pickup](https://sanitation.lacity.gov/services/schedule-bulky-item-pickup); [LASAN Bulky Item drop-off flyer](https://sanitation.lacity.gov/media/866). Checked 2026-10-12. Rules change, so confirm with LASAN or 311 before you set anything out.*
+*Sources: [LASAN Schedule a Bulky Item Pickup](https://sanitation.lacity.gov/services/schedule-bulky-item-pickup); [LASAN Bulky Item drop-off flyer](https://sanitation.lacity.gov/media/866). Checked October 12, 2026. Rules change, so confirm with LASAN or 311 before you set anything out.*
 
 ## Couches and furniture {#furniture}
 

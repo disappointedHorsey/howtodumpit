@@ -55,7 +55,7 @@ Mattress pads/toppers, crib mattresses, air mattresses, waterbeds, sofa beds, sl
 
 The City doesn't do curbside bulky pickup, and Bye Bye Mattress doesn't pick up from individuals. A paid junk-removal service is the option (see the box above).
 
-*Sources: [City of San Diego: Recycling Mattresses and Box Springs](https://www.sandiego.gov/environmental-services/recycling/residential/mattresses); [Bye Bye Mattress facility finder](https://byebyemattress.com/find-a-facility/). Checked 2026-10-12. Rules change, so confirm on the City page before you go.*
+*Sources: [City of San Diego: Recycling Mattresses and Box Springs](https://www.sandiego.gov/environmental-services/recycling/residential/mattresses); [Bye Bye Mattress facility finder](https://byebyemattress.com/find-a-facility/). Checked October 12, 2026. Rules change, so confirm on the City page before you go.*
 
 ## Couches and furniture {#furniture}
 

@@ -106,7 +106,7 @@ def main():
             f'<title>{html.escape(meta.get("title",""))}</title>'
             f'<link rel="canonical" href="{tgt}">'
             f'<meta http-equiv="refresh" content="0; url={meta["redirect_to"]}">'
-            f'<style>body{{font:16px/1.6 system-ui,sans-serif;margin:0;padding:24px max(16px,env(safe-area-inset-left))}}a{{color:#0f766e;overflow-wrap:anywhere}}</style></head>'
+            f'<style>body{{font:16px/1.6 system-ui,sans-serif;margin:0;padding:24px max(16px,env(safe-area-inset-left))}}a{{color:#111111;text-decoration-color:#FFC20E;text-decoration-thickness:3px;overflow-wrap:anywhere}}</style></head>'
             f'<body><p>This guide moved to <a href="{meta["redirect_to"]}">{tgt}</a>.</p></body></html>'))
     for u, meta, body, p in pages:
         body_html = markdown.markdown(body, extensions=["tables", "toc", "attr_list"])

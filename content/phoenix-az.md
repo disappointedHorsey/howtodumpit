@@ -54,7 +54,7 @@ Per Phoenix City Code, **all mattresses or furniture known or suspected to be in
 
 Self-haul to a city transfer station (see listing above) or use a paid junk-removal service.
 
-*Sources: [City of Phoenix Bulk Trash](https://www.phoenix.gov/administration/departments/publicworks/residential-trash-recycling/bulk-trash-pickup.html); [New Bulk Trash Program FAQ](https://www.phoenix.gov/newsroom/public-works-news/3227.html); [Appointment bulk trash flyer (PDF)](https://www.phoenix.gov/content/dam/phoenix/publicworkssite/documents/Flyer_English_Appointment_Bulk_Trash.pdf). Checked 2026-10-12. Rules change, so confirm with the City before you set anything out.*
+*Sources: [City of Phoenix Bulk Trash](https://www.phoenix.gov/administration/departments/publicworks/residential-trash-recycling/bulk-trash-pickup.html); [New Bulk Trash Program FAQ](https://www.phoenix.gov/newsroom/public-works-news/3227.html); [Appointment bulk trash flyer (PDF)](https://www.phoenix.gov/content/dam/phoenix/publicworkssite/documents/Flyer_English_Appointment_Bulk_Trash.pdf). Checked October 12, 2026. Rules change, so confirm with the City before you set anything out.*
 
 ## Couches and furniture {#furniture}
 
@@ -70,6 +70,6 @@ Phoenix **transfer stations** accept CRT and non-CRT TVs. Residents can bring **
 
 ## Paint and household hazardous waste {#hazardous}
 
-Phoenix solid waste customers can get a **free HHW home collection** (one per customer per calendar year). **As of 2026-10-12, the City's request form says reservations are currently closed.** To find out when they reopen, email **hhwcollection@phoenix.gov**. Transfer stations do not accept regulated hazardous waste. ([myPHX311 HHW](https://myphx311.phoenix.gov/householdhazardouswaste/); [Phoenix HHW](https://www.phoenix.gov/administration/departments/publicworks/residential-trash-recycling/household-hazardous-waste-collection.html))
+Phoenix solid waste customers can get a **free HHW home collection** (one per customer per calendar year). **As of October 12, 2026, the City's request form says reservations are currently closed.** To find out when they reopen, email **hhwcollection@phoenix.gov**. Transfer stations do not accept regulated hazardous waste. ([myPHX311 HHW](https://myphx311.phoenix.gov/householdhazardouswaste/); [Phoenix HHW](https://www.phoenix.gov/administration/departments/publicworks/residential-trash-recycling/household-hazardous-waste-collection.html))
 
 *Rules, hours and fees change. Confirm on the linked official page before you set anything out or drive anywhere.*

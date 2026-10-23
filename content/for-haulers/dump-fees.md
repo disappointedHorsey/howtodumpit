@@ -34,13 +34,13 @@ The facts were checked on the official pages linked below. Each guide shows its 
 | [San Antonio, TX](/san-antonio-tx/) | Curbside brush & bulky collection | See official page | [official page](https://www.sa.gov/Directory/Departments/SWMD/Brush-Bulky) |
 | [San Diego, CA](/san-diego-ca/) | Miramar Landfill Mattress Collection Site (Bye Bye Mattress) | Free; no drop-off limit (landfill fees may apply if mixed with other waste) | [official page](https://www.sandiego.gov/environmental-services/recycling/residential/mattresses) |
 | [San Diego, CA](/san-diego-ca/) | Other Bye Bye Mattress collection sites | See site | [official page](https://byebyemattress.com/find-a-facility/) |
-| [Seattle, WA](/seattle-wa/) | SPU Special Item Pickup | $31 per item (per SPU, checked 2026-10-12), billed on your combined utility bill | [official page](https://www.seattle.gov/utilities/your-services/collection-and-disposal/garbage/special-item-collections) |
+| [Seattle, WA](/seattle-wa/) | SPU Special Item Pickup | $31 per item (per SPU, checked October 12, 2026), billed on your combined utility bill | [official page](https://www.seattle.gov/utilities/your-services/collection-and-disposal/garbage/special-item-collections) |
 | [Washington, DC](/washington-dc/) | DPW bulk trash collection (appointment) | No extra fee for households that get DPW trash collection | [official page](https://dpw.dc.gov/node/1652581) |
 | [Washington, DC](/washington-dc/) | Fort Totten Transfer Station (self-haul) | For District residents with proof of residency (hours and vehicle limits apply) | [official page](https://dpw.dc.gov/node/1652581) |
 
 ## Other fees noted in our guides
 
-- **Seattle, WA:** SPU Special Item Pickup is $31 per item, or $39 for items containing CFCs such as fridges and freezers made before 2005 (SPU price on 2026-10-12). See the [Seattle guide](/seattle-wa/).
+- **Seattle, WA:** SPU Special Item Pickup is $31 per item, or $39 for items containing CFCs such as fridges and freezers made before 2005 (SPU price on October 12, 2026). See the [Seattle guide](/seattle-wa/).
 - **Dallas, TX:** set-outs over 10 cubic yards, or with prohibited items, are generally collected **and billed at $60 per 5 cubic yards**. See the [Dallas guide](/dallas-tx/).
 - **Columbus, OH:** SWACO lists e-waste fees, for example LCD TV $15 and CRTs $25–$45 by size ("fees subject to change"). See the [Columbus guide](/columbus-oh/).
 - **New York, NY:** DSNY lists $50 / $100 / $200 fines for first / second / third offenses under its collection laws. See the [NYC guide](/new-york-ny/).
