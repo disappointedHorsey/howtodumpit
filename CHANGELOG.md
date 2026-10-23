@@ -1,5 +1,10 @@
 # Changelog
 
+## 10/23/2026 (Nightly: Las Vegas, NV guide)
+- New /las-vegas-nv/ general junk disposal guide (mattresses, couches/furniture, appliances, TVs/electronics, paint/HHW) with Quick Answer table, step-by-step mattress section and two listings (every-other-week curbside bulk pickup; Republic Services transfer stations and Apex Landfill). Sources: Republic Services Southern Nevada pages and PDFs (bulk item setout, refrigerators/freezers/window AC, Cheyenne Transfer Station, 2026 HHW calendar), City of Las Vegas Republic rate sheet (July 1, 2026-June 30, 2027), LVMC ch. 9.08, Southern Nevada Health District HHW page, NDEP "Where Can I Recycle". verified: 2026-10-23. Unknown fees left unstated.
+- Home listing and sitemap updated by build. Mobile check: 46 pages x 320/375/390/412/1280px, 0 FAIL, 0 WARN. Commit 20a30bf; live URL returns 200.
+- Las Vegas pitch drafts (not sent) in _pitch_drafts_las-vegas-nv.md; PITCHES.md rows added.
+
 ## 10/23/2026 (Capitalization pass, Title Case)
 - Per Adam's 10/23/2026 rule: Title Case for navigation, header/footer links, buttons and calls to action, page titles (front-matter `title`/`short`/`listings_title`, HTML <title>), H1/H2/H3 headings, listing card titles, breadcrumbs and table column headers; sentence case kept in body text; brand names, city names and acronyms unchanged.
 - Header nav: "City guides" -> "City Guides", "For haulers" -> "For Haulers". Footer: "City Guides", "Mattress Disposal", "Become a Featured Partner". Skip link "Skip to Content".
