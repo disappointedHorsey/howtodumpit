@@ -1,5 +1,10 @@
 # Changelog
 
+## 10/23/2026 (Brand recolor + US dates)
+- Site recolored from teal to the brand palette (commit ca2b53e): black #111111 and safety yellow #FFC20E (from the logo files), plus #E6A800 (yellow hover), #FFF6D6 (light yellow boxes), #525252 (muted text), #E5E5E5 (lines), #FAFAFA (page background), #D4D4D4 (footer text). Black hero and footer with yellow bars; black links with a yellow underline; yellow buttons with black text; black/yellow focus rings; yellow 3px header rule; theme-color #111111. All text pairs meet WCAG AA (lowest is 7.2:1). CSS cache version v=20261023b. No wording or facts changed.
+- 28 reader-visible ISO dates changed to US format (e.g. 2026-10-12 to October 12, 2026) in 16 content files: for-haulers/software (8), seattle-wa (4), for-haulers/dump-fees (2), phoenix-az (2), and 1 each in austin-tx, chicago-il, columbus-oh, dallas-tx, denver-co, houston-tx, los-angeles-ca, new-york-ny, philadelphia-pa, san-antonio-tx, san-diego-ca, washington-dc. Front matter `verified:` and the sitemap stay ISO (machine-readable).
+- Mobile check: 45 pages x 320/375/390/412/1280px, 0 FAIL, 0 WARN.
+
 ## 10/22/2026 (Mobile responsive overhaul, T23)
 - Site-wide mobile fix (commit 22955fe): mobile-first `static/style.css`; phone header shows the wordmark on top and three full-width 44px nav buttons (desktop keeps the one-line sticky bar); wide tables scroll sideways inside their own box (build.py wraps every Markdown table in `.table-wrap`); long emails/URLs wrap; calculator inputs 16px+ and 48px tall (no iOS zoom); CTA buttons full width and 48px tall on phones; 44px footer/breadcrumb tap targets; safe-area insets (`viewport-fit=cover` + `env(safe-area-inset-*)`); viewport tag added to the 12 `/mattress-disposal/<city>/` redirect stubs; CSS cache-bust `?v=20261022m`. No page wording or facts changed.
 - New permanent check: `scripts/mobile_check.py` (all pages at 320/375/390/412/1280px). Before: 99 failures (every page scrolled sideways at 320px; dump-fees and software tables scrolled the page at 375-412px; redirect stubs had no viewport tag). After: 0 failures, 0 warnings. README has the mobile rule.
