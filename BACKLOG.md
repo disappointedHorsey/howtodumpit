@@ -1,6 +1,6 @@
 # HowToDumpIt backlog
 
-Last updated: 10/23/2026 (Las Vegas, NV guide; 10/22/2026: Oklahoma City, OK guide; 10/21/2026: San Francisco, CA guide; Indianapolis, IN guide; earlier: San Jose, CA; Fort Worth, TX; Charlotte, NC; Jacksonville, FL guides; build.py US date fix)
+Last updated: 10/24/2026 (Boston, MA guide; 10/23/2026: Las Vegas, NV guide; 10/22/2026: Oklahoma City, OK guide; 10/21/2026: San Francisco, CA guide; Indianapolis, IN guide; earlier: San Jose, CA; Fort Worth, TX; Charlotte, NC; Jacksonville, FL guides; build.py US date fix)
 
 ## Done
 - [x] Columbus, OH mattress disposal
@@ -17,6 +17,7 @@ Last updated: 10/23/2026 (Las Vegas, NV guide; 10/22/2026: Oklahoma City, OK gui
 - [x] Seattle, WA mattress disposal (2026-10-12)
 - [x] Site redesign: sticky header, hero + city search, city cards, affiliate CTA, breadcrumbs, OG meta (2026-10-12)
 - [x] Las Vegas, NV general junk disposal guide (shipped 10/23/2026, commit 20a30bf)
+- [x] Boston, MA general junk disposal guide (shipped 10/24/2026)
 
 ## Priority unbuilt (city pages)
 - [x] Chicago, IL couch disposal (covered in general Chicago guide)
@@ -36,11 +37,13 @@ Last updated: 10/23/2026 (Las Vegas, NV guide; 10/22/2026: Oklahoma City, OK gui
 - [x] Indianapolis, IN junk disposal guide (shipped 10/21/2026)
 - [x] San Francisco, CA junk disposal guide (shipped 10/21/2026; first city in the nightly list below)
 - [x] Oklahoma City, OK junk disposal guide (shipped 10/22/2026)
-- [ ] Next nightly cities, in order (largest uncovered with fetchable official pages; San Francisco, Oklahoma City and Las Vegas done, do not rebuild): Boston, MA (next)
+- [x] Boston, MA junk disposal guide (shipped 10/24/2026; separate from the Cambridge–Somerville guide)
+- [ ] Next nightly cities, in order (largest uncovered with fetchable official pages; San Francisco, Oklahoma City, Las Vegas and Boston done, do not rebuild): El Paso, TX (next), then Detroit, MI (both official sites return 200 to curl as of 10/24/2026)
 
 ## Follow-ups
 - [ ] Las Vegas, NV (10/23/2026) unverified: fee for fridge/freezer/AC drop-off at Republic transfer stations/Apex (not published); resident transfer-station and landfill fees; whether non-freon appliances (washer/dryer) go out with every-other-week bulk; whether Clark County HHW drop-off is free/residents-only (2026 calendar lists no fee); bed-bug mattress rule beyond wrapping soiled mattresses in plastic; any official mattress recycling program (none found); LVMC 9.08 read via search index only (Municode blocks fetch); SNHD vs. Clark County guide conflict on dried-paint can lid (page avoids specifying); apartment/multifamily bulky handling (page says only individual curbside service). Re-check Opportunity Village for a published email (pitch skipped).
 - [x] Verify freon-appliance disposal: Chicago (done 2026-10-14: DSS bulk + door removal; HCCRF no appliances/freon)
+- [ ] Boston, MA (10/24/2026) unverified: whether City mattress and special item pickups have any fee (boston.gov pages list none; page says so and points to 311); City rule for non-freon appliances such as washers and dryers (not on the special item list; page says check the Trash Day app or 311); any furniture size or quantity limit for curbside trash (none published); 2027 Zero Waste Day dates (only the 11/21/2026 rescheduled event is listed). Re-check Boston Building Resources for a published email (pitch skipped).
 - [ ] Verify freon-appliance disposal: Los Angeles (household), Dallas, San Diego
 - [ ] Verify furniture disposal option for San Diego (no city curbside bulky pickup)
 - [ ] Re-check Phoenix HHW home-collection reservations (closed as of 2026-10-12)

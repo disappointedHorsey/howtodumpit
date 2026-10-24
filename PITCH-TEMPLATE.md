@@ -2,6 +2,8 @@
 
 > **NOTE (10/21/2026):** Signature, intro paragraph and format rules now live in `/workspace/company/email/` (`signature.txt` for the plain-text body, `signature.html` for htmlBody, `intro-boilerplate.txt`, `EXAMPLE-habitat-portland-reply.txt`, `README.md`). Every pitch goes from adam@howtodumpit.com. Use those files for the signature block instead of the short sign-off below.
 >
+> **NOTE (10/24/2026, STATUS rule 19c, HARD RULE):** Greet by first name when known: `{Name}` is the person's first name (e.g. "Hi Tom,") whenever we have one, from a reply's signature or From header or from the org's own site (see the First name column in PITCHES.md). Use "{Org short} team" only when no name is known. Anyone who replies gets their first name recorded in PITCHES.md and is greeted by it in every later email. Never guess a name from an email handle.
+>
 > **NOTE:** Write links WITHOUT https:// (e.g., howtodumpit.com/charlotte-nc/) because the Gmail connector wraps https links in Google redirects.
 >
 > **NOTE:** Founding members from 10/21/2026 (listed in PITCHES.md "Founding members promised 10 free") keep $3 Featured / $2 Verified and 10 free calls or emails. Email 1 below is for new prospects only.
@@ -14,7 +16,7 @@ Featured partner page: howtodumpit.com/become-a-featured-partner/
 
 ## 1. Haulers and local businesses: New prospect (approved by Adam 10/21/2026)
 
-Fill in exactly. {Name} is "{Org short} team" unless a person's name is published on the company's site. {City-specific hassle} comes from our city page. {verified detail} must be stated on the company's own site (e.g. ", a family-run Fort Worth crew serving all of DFW"); if there's no distinctive verified detail, leave it empty so the line reads "a local crew like {Org}". Never claim the customers reach only them or that there are no competitors.
+Fill in exactly. {Name} is the person's first name when known (rule 19c: from a reply or the company's own site; see PITCHES.md First name column), otherwise "{Org short} team". {City-specific hassle} comes from our city page. {verified detail} must be stated on the company's own site (e.g. ", a family-run Fort Worth crew serving all of DFW"); if there's no distinctive verified detail, leave it empty so the line reads "a local crew like {Org}". Never claim the customers reach only them or that there are no competitors.
 
 **Subject:** Adam from HowToDumpIt: Claim the top spot on our {City} junk guide: your first 5 customers are free
 
