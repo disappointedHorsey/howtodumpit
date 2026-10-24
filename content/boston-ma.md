@@ -77,7 +77,7 @@ Live in **Cambridge or Somerville**? Those cities run their own programs. See ou
 
 **Illegal dumping** (vacant lots, public property, parks and playgrounds) can bring a fine of **$100 to $10,000**. ([City of Boston: Trash and Recycling](https://www.boston.gov/trash-and-recycling))
 
-**Still usable?** The City asks you to think about reuse or donation before you trash something. Its [Zero Waste Directory](https://www.boston.gov/bostons-zero-waste-directory) lists places to donate or recycle items that are too good to trash.
+**Still usable?** The City asks you to think about reuse or donation before you trash something. Its [Zero Waste Directory](https://www.boston.gov/departments/public-works/bostons-zero-waste-directory) lists places to donate or recycle items that are too good to trash.
 
 ## Appliances (Fridges, Freezers, AC: Freon) {#appliances}
 
@@ -106,7 +106,7 @@ Live in **Cambridge or Somerville**? Those cities run their own programs. See ou
 
 **Zero Waste Day drop-off:** The City's Zero Waste Days take electronics such as **cell phones, computers, computer monitors and TVs, cords and chargers, keyboards, microwaves, printers, tablets and VCR/DVD players**. ([City of Boston: Zero Waste Day Drop-Offs](https://www.boston.gov/departments/public-works/zero-waste-day)) See the paint section below for the date, location and rules.
 
-**Other options:** Many retailers accept some electronics for recycling. The City's [Zero Waste Directory](https://www.boston.gov/bostons-zero-waste-directory) lists locations. Programs change, so call before you go.
+**Other options:** Many retailers accept some electronics for recycling. The City's [Zero Waste Directory](https://www.boston.gov/departments/public-works/bostons-zero-waste-directory) lists locations. Programs change, so call before you go.
 
 ## Paint and Household Hazardous Waste {#hazardous}
 
@@ -127,7 +127,7 @@ The City says **latex and acrylic (water-based) paint is not hazardous**. **Let 
 
 **Alkaline batteries** (regular AAA, AA, C, D and 9-volt) **aren't hazardous**. The City says to put them in your regular trash. ([City of Boston: Zero Waste Day Drop-Offs](https://www.boston.gov/departments/public-works/zero-waste-day))
 
-**Can't make it to an event?** The City points you to its [Zero Waste Directory](https://www.boston.gov/bostons-zero-waste-directory) for other places to drop off electronics, batteries, light bulbs and more.
+**Can't make it to an event?** The City points you to its [Zero Waste Directory](https://www.boston.gov/departments/public-works/bostons-zero-waste-directory) for other places to drop off electronics, batteries, light bulbs and more.
 
 Questions? Contact Boston 311 (dial **311** or **617-635-4500**, email 311@boston.gov) or the Zero Waste team at zerowaste@boston.gov. ([City of Boston: Zero Waste Day Drop-Offs](https://www.boston.gov/departments/public-works/zero-waste-day))
 
