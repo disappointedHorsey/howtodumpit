@@ -94,7 +94,7 @@ Durable-intent only (not spam):
 
 ## Hauler section (/for-haulers/) — alternate with city guides in the nightly routine
 Shipped 2026-10-12: hub, /for-haulers/software/, /for-haulers/pricing-calculator/, /for-haulers/dump-fees/
-- [ ] TODO: swap plain rel="nofollow" vendor homepage links on /for-haulers/software/ for tracked affiliate links (rel="sponsored nofollow") once QuoteIQ/Jobber/HighLevel/GorillaDesk/Housecall Pro approve. QuoteIQ: [x] done 10/23/2026 (Rewardful link ?via=d83c2c live). Jobber, HighLevel, GorillaDesk, Housecall Pro: still pending
+- [ ] TODO: swap plain rel="nofollow" vendor homepage links on /for-haulers/software/ for tracked affiliate links (rel="sponsored nofollow") once QuoteIQ/Jobber/HighLevel/GorillaDesk/Housecall Pro approve. QuoteIQ: [x] done 10/23/2026 (Rewardful link ?via=d83c2c live). HighLevel: [x] done 10/25/2026 (?fp_ref=adam-3840d1 live). Jobber, GorillaDesk, Housecall Pro: still pending
 - [ ] Verify Housecall Pro Essentials/MAX prices (not visible in page text 2026-10-12)
 - [ ] Verify commercial (hauler) tipping fees per city; dump-fees page currently residential-only
 - [x] Junk removal price sheet template (downloadable) (shipped 2026-10-15: /for-haulers/price-sheet-template/)

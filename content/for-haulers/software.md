@@ -6,9 +6,9 @@ short: Software Compared
 ---
 # Junk Removal Software Compared (2026)
 
-We read each vendor's official pricing page on **October 12, 2026**. All prices are in USD and change often, so check the linked page before you buy. **We haven't tested these tools hands-on yet**, and none of them is built only for junk removal. The pros and cons below come from the published plans, not from our own use.
+We read each vendor's official pricing page on **October 12, 2026** (HighLevel's was rechecked on **October 25, 2026**). All prices are in USD and change often, so check the linked page before you buy. **We haven't tested these tools hands-on yet**, and none of them is built only for junk removal. The pros and cons below come from the published plans, not from our own use.
 
-**Affiliate disclosure:** HowToDumpIt is an independent information guide. Some links on this page are affiliate links, and we may earn a commission if you sign up, at no extra cost to you. Right now only the "Start a QuoteIQ Trial" link is an affiliate link; the other software links go to each vendor's official homepage and are not tracked. Our recommendations aren't paid placements.
+**Affiliate disclosure:** HowToDumpIt is an independent information guide. Some links on this page are affiliate links, and we may earn a commission if you sign up, at no extra cost to you. Right now only the "Start a QuoteIQ Trial" and "Try HighLevel" links are affiliate links; the other software links go to each vendor's official homepage and are not tracked. Our recommendations aren't paid placements.
 
 ## At a Glance
 
@@ -18,7 +18,7 @@ We read each vendor's official pricing page on **October 12, 2026**. All prices 
 | Jobber | $29/mo billed annually, $49/mo no commitment (Core) | 1 | 14 days on Grow, no card | All-round scheduling, quotes and invoicing |
 | Housecall Pro | $59/mo billed annually (Basic) | not stated for Basic | 14 days on MAX, no card | Teams wanting financing, price book and job costing from the start |
 | GorillaDesk | $49/mo (Basic) | Unlimited admin users | Free trial offered | Route-based recurring work; unlimited free users |
-| HighLevel | $970/year (Starter) | Unlimited users | 14 days | Marketing, lead follow-up and booking, not job management |
+| HighLevel | $970/year or $97/mo (Starter) | Unlimited users | 14 days | Marketing, lead follow-up and booking, not job management |
 
 ## QuoteIQ
 
@@ -62,12 +62,18 @@ Source: [gorilladesk.com/pricing](https://gorilladesk.com/pricing/) (checked Oct
 
 ## HighLevel
 
-Source: [gohighlevel.com/pricing](https://www.gohighlevel.com/pricing) (checked October 12, 2026). Website: <a href="https://www.gohighlevel.com/" rel="nofollow">gohighlevel.com</a>
+Source: [gohighlevel.com/pricing](https://www.gohighlevel.com/pricing) and [gohighlevel.com](https://www.gohighlevel.com/) (checked October 25, 2026). Website: <a href="https://www.gohighlevel.com/" rel="nofollow">gohighlevel.com</a>
 
-- **Plans:** $970/yr Starter (3 sub-accounts), $2,970/yr Unlimited, $4,970/yr Pro (SaaS mode). Contacts and users are unlimited. Its FAQ also quotes $97, $297 and $497 a month.
-- **Includes:** CRM and pipelines, a website and funnel builder, email and SMS marketing, booking calendars, payments and invoicing, and review management.
-- **Pros:** strong for capturing and following up leads (missed calls, quote follow-ups, reviews).
-- **Cons:** it's marketing and CRM software, not dispatch or job management. Usage fees apply for SMS, phone, email and AI. It's priced and pitched mainly at agencies. A one-truck hauler will probably still need one of the tools above.
+**Try it:** <a href="https://www.gohighlevel.com/?fp_ref=adam-3840d1" rel="sponsored nofollow">Try HighLevel</a> (affiliate link; we may earn a commission at no extra cost to you).
+
+HighLevel is an all-in-one CRM and marketing platform. Its feature lists focus on capturing leads, following up and getting reviews; we didn't see crew dispatch or route planning on them.
+
+- **Plans:** Starter $970/yr or $97/mo (3 sub-accounts), Unlimited $2,970/yr or $297/mo, Agency Pro $4,970/yr or $497/mo (SaaS mode). Contacts and users are unlimited on every plan. Each plan has a 14-day free trial; billing starts automatically when the trial ends unless you cancel.
+- **Usage fees:** phone numbers, calls, SMS, emails and AI features are billed by usage on top of the plan, and these fees can apply during the trial.
+- **Features a junk-removal business might use:** a CRM with sales pipelines; missed-call text-back; workflow automations for follow-up texts and emails; booking calendars and appointment reminders; automated review requests; estimates, invoicing and text-to-pay; a website and form builder; and a mobile app.
+- **How a hauler might use it:** text back a caller you missed while on a job, follow up on quotes that haven't been booked, send a reminder before a pickup and ask for a review afterward. Each of these has to be set up by you first.
+- **Pros:** built around lead capture and follow-up; unlimited users and contacts; a free trial on every plan.
+- **Cons:** it's marketing and CRM software rather than a dispatch or job-management tool, so a hauler will probably still need one of the tools above. It's priced and pitched mainly at agencies, and HighLevel says its automations need setup and ongoing human oversight. Usage fees make the monthly cost harder to predict.
 
 ## Which Should You Pick?
 
