@@ -38,7 +38,7 @@ Last updated: 10/24/2026 (Boston, MA guide; 10/23/2026: Las Vegas, NV guide; 10/
 - [x] San Francisco, CA junk disposal guide (shipped 10/21/2026; first city in the nightly list below)
 - [x] Oklahoma City, OK junk disposal guide (shipped 10/22/2026)
 - [x] Boston, MA junk disposal guide (shipped 10/24/2026; separate from the Cambridge–Somerville guide)
-- [ ] Next nightly cities, in order (largest uncovered with fetchable official pages; San Francisco, Oklahoma City, Las Vegas and Boston done, do not rebuild): El Paso, TX (next), then Detroit, MI (both official sites return 200 to curl as of 10/24/2026)
+- [ ] Next nightly cities, in order (largest uncovered with fetchable official pages; San Francisco, Oklahoma City, Las Vegas, Boston and El Paso done, do not rebuild): Detroit, MI (next) (both official sites return 200 to curl as of 10/24/2026)
 
 ## Follow-ups
 - [ ] Las Vegas, NV (10/23/2026) unverified: fee for fridge/freezer/AC drop-off at Republic transfer stations/Apex (not published); resident transfer-station and landfill fees; whether non-freon appliances (washer/dryer) go out with every-other-week bulk; whether Clark County HHW drop-off is free/residents-only (2026 calendar lists no fee); bed-bug mattress rule beyond wrapping soiled mattresses in plastic; any official mattress recycling program (none found); LVMC 9.08 read via search index only (Municode blocks fetch); SNHD vs. Clark County guide conflict on dried-paint can lid (page avoids specifying); apartment/multifamily bulky handling (page says only individual curbside service). Re-check Opportunity Village for a published email (pitch skipped).
@@ -107,3 +107,5 @@ Shipped 2026-10-12: hub, /for-haulers/software/, /for-haulers/pricing-calculator
 Rules: official vendor pages only, dated; no invented market rates; FTC disclosure on every page.
 
 - [ ] Brisbane QLD (first Australian city; official Brisbane City Council sources only; demand: https://x.com/twtrrr/status/2108376410910068911)
+
+- [ ] El Paso, TX follow-ups (unverified on official pages 10/25/2026): freon appliance handling/fee at special pickup and Collection Stations; Collection Station fees (none listed); full HHW accepted list; landfill resident fees; mattress bagging/bed-bug rule; latex paint dry-out rule; whether furniture can go with regular trash.
