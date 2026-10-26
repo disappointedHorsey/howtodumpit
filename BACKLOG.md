@@ -18,6 +18,7 @@ Last updated: 10/24/2026 (Boston, MA guide; 10/23/2026: Las Vegas, NV guide; 10/
 - [x] Site redesign: sticky header, hero + city search, city cards, affiliate CTA, breadcrumbs, OG meta (2026-10-12)
 - [x] Las Vegas, NV general junk disposal guide (shipped 10/23/2026, commit 20a30bf)
 - [x] Boston, MA general junk disposal guide (shipped 10/24/2026)
+- [x] Detroit, MI general junk disposal guide (shipped 10/26/2026, commit 1f01274)
 
 ## Priority unbuilt (city pages)
 - [x] Chicago, IL couch disposal (covered in general Chicago guide)
@@ -38,7 +39,7 @@ Last updated: 10/24/2026 (Boston, MA guide; 10/23/2026: Las Vegas, NV guide; 10/
 - [x] San Francisco, CA junk disposal guide (shipped 10/21/2026; first city in the nightly list below)
 - [x] Oklahoma City, OK junk disposal guide (shipped 10/22/2026)
 - [x] Boston, MA junk disposal guide (shipped 10/24/2026; separate from the Cambridge–Somerville guide)
-- [ ] Next nightly cities, in order (largest uncovered with fetchable official pages; San Francisco, Oklahoma City, Las Vegas, Boston and El Paso done, do not rebuild): Detroit, MI (next) (both official sites return 200 to curl as of 10/24/2026)
+- [ ] Next nightly cities, in order (largest uncovered with fetchable official pages; San Francisco, Oklahoma City, Las Vegas, Boston, El Paso and Detroit done, do not rebuild): Baltimore, MD (next) (baltimorecity.gov DPW bulk trash and drop-off center pages return 200 to curl as of 10/26/2026). Memphis, TN is larger but memphistn.gov/solid-waste/ returns a Cloudflare block page to curl (10/26/2026); retry Memphis after Baltimore.
 
 ## Follow-ups
 - [ ] Las Vegas, NV (10/23/2026) unverified: fee for fridge/freezer/AC drop-off at Republic transfer stations/Apex (not published); resident transfer-station and landfill fees; whether non-freon appliances (washer/dryer) go out with every-other-week bulk; whether Clark County HHW drop-off is free/residents-only (2026 calendar lists no fee); bed-bug mattress rule beyond wrapping soiled mattresses in plastic; any official mattress recycling program (none found); LVMC 9.08 read via search index only (Municode blocks fetch); SNHD vs. Clark County guide conflict on dried-paint can lid (page avoids specifying); apartment/multifamily bulky handling (page says only individual curbside service). Re-check Opportunity Village for a published email (pitch skipped).
@@ -68,6 +69,10 @@ Last updated: 10/24/2026 (Boston, MA guide; 10/23/2026: Las Vegas, NV guide; 10/
 - [ ] Reconcile README/CHANGELOG (still mention github.io base_url) with live howtodumpit.com setup
 
 ## Guides / hubs / tools
+- [ ] Hot tub removal guide (national hub; added 10/26/2026 by weekly opportunity scan). Repeated Reddit asks (r/hottub, r/tampa, r/kelowna); high-value hauler job, so it suits Featured partner leads. Cover: drain and disconnect, give away free (Marketplace/Craigslist), dealer haul-away, junk removal, DIY cut-up + dumpster; link to city guides for local bulky/landfill rules. No price ranges unless from an official or vendor source.
+- [ ] E-bike and scooter battery disposal guide (national hub; added 10/26/2026). Evidence: r/RadPowerBikes thread "NO ONE WILL TAKE THIS DAMN THING" (reddit.com/r/RadPowerBikes/comments/1uktxby), r/ebikes. Facts only from EPA (epa.gov/recycle/used-lithium-ion-batteries), The Battery Network (participating brands only; damaged batteries: isolate in sand/kitty litter, call manufacturer), and city pages (e.g. SF Environment: Recology free pickup for damaged batteries). Fire-safety angle; link to each city guide's HHW section.
+- [ ] Propane tank disposal guide (national hub; added 10/26/2026). Evidence: r/homeowners thread, 231-upvote top answer "Tank exchange" (reddit.com/r/homeowners/comments/1uo8dcf). Cover tank exchange cages, propane suppliers, HHW size limits (e.g. Wake County up to 20 lb; StopWaste 5 gallons or smaller); 1 lb camping cylinders.
+- [ ] Quality rule for all national hubs (Google spam policy on scaled content, developers.google.com/search/docs/essentials/spam-policies): original, fact-checked main content with sources and "Last verified"; no near-duplicate city templates.
 - [ ] Mattress hub guide (expand)
 - [ ] State mattress laws guide
 - [ ] Cut-up-a-mattress guide
@@ -109,3 +114,7 @@ Rules: official vendor pages only, dated; no invented market rates; FTC disclosu
 - [ ] Brisbane QLD (first Australian city; official Brisbane City Council sources only; demand: https://x.com/twtrrr/status/2108376410910068911)
 
 - [ ] El Paso, TX follow-ups (unverified on official pages 10/25/2026): freon appliance handling/fee at special pickup and Collection Stations; Collection Station fees (none listed); full HHW accepted list; landfill resident fees; mattress bagging/bed-bug rule; latex paint dry-out rule; whether furniture can go with regular trash.
+- [ ] Detroit, MI follow-ups (unverified or conflicting on official pages 10/26/2026): bed-bug/soiled mattress rule; who removes refrigerant and at what cost, and whether drop-off centers take fridges/AC units; DPW paid pickup rates (estimate only); latex paint dry-out rule; whether Recycle Here! takes furniture. Source conflicts: Davison Yard address (8221 vs 7901 W. Davison), drop-off volume limit (1 cu yd on drop-off page vs 2 cu yd in 2026 curbside PDF; page uses 1,000 lb/day), bulk frequency (weekly vs bi-weekly; page points to schedule tool), J. Fons Saturday hours (8-12 vs 8-1; page uses 8-12), HHW microwaves vs 'no appliances'.
+
+- (added 10/26/2026, from Rules Agent run 4) National piano disposal hub: city bulky pickup and donation programs often refuse pianos (link our verified SF and Portland pages); high-value hauler job for Featured leads. Demand: reddit.com/r/askportland/comments/1w3uqjr/how_to_yeet_a_piano/ . Verify all rules on official sources before publishing.
+- (added 10/26/2026, from Rules Agent run 4) Companion page: above-ground pool removal (e.g. Somerville, MA requires private disposal of metal pools: somervillema.gov/trash-and-recycling). Verify on official sources.
