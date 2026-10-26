@@ -1,6 +1,6 @@
 # Detroit, MI pitch drafts (10/26/2026)
 
-Drafted 10/26/2026. NOT SENT. No Gmail drafts created. City page: howtodumpit.com/detroit-mi/ (shipped 10/26/2026, commit 1f01274).
+Drafted 10/26/2026. SENT 10/26/2026 (US date; 27/10 Sydney) on Adam's say-so: Metro Load Runners 1a17a814d2896f75, Penguin 1a17a8152be854a8, Furniture Bank 1a17a815b41e08c2. City page: howtodumpit.com/detroit-mi/ (shipped 10/26/2026, commit 1f01274).
 Offer: new-prospect paid offer (STATUS rule 15) for all three, nonprofit included (rule 17): $12 Featured / $8 Verified per lead, first 5 free, $25 minimum, plus the standard rule 18 terms. Detroit's Featured spot is open, so each is offered Featured with Verified as fallback.
 From: adam@howtodumpit.com. Subjects start with "Adam from HowToDumpIt: ". Links without https://. Plain-text body with signature.txt.
 City-specific hassle (from the Detroit page, sourced to detroitmi.gov Yard and Bulk Waste Guide and Paid Pick-Up page): curbside bulk limit 2 cubic yards / 1,000 pounds; fine up to $1,500 for a first offense over the limit; DPW paid pickup won't remove debris from garages, alleys or yards.
