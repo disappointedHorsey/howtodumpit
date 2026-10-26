@@ -116,3 +116,6 @@ th{background:#f5f5f5}
   .site-footer{padding-top:36px;font-size:.92rem}
   .site-footer a{padding:0}.small{font-size:.82rem;line-height:1.65}
 }
+/* Narrow phones (320px): let the three nav buttons shrink and wrap so none is cut off */
+.site-header nav a{min-width:0}
+@media (max-width:374px){.site-header nav{gap:4px}.site-header nav a{white-space:normal;font-size:.85rem;padding:4px}}
