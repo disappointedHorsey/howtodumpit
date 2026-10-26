@@ -1,10 +1,10 @@
 ---
-title: "Mattress Disposal by City: Free Pickup, Drop-Off & Recycling"
-description: "Where and how to get rid of an old mattress in each city we cover: free bulk pickup, bagging rules, drop-off and recycling sites. Each city guide also covers couches, appliances, electronics and paint."
+title: "Junk Removal by City: Get Rid of Mattresses, Couches, Appliances & More"
+description: "How to get rid of bulky junk in each city we cover: mattresses, couches and furniture, appliances, TVs and electronics, and paint, with free pickup, drop-off and recycling options from official sources."
 verified: 2026-10-12
 list_children: true
-short: "Mattress Disposal"
+short: "Junk Removal"
 ---
-# Mattress Disposal by City
+# Junk Removal by City
 
-Mattress rules vary a lot by city. Some cities pick them up free, some require a sealed plastic bag (NYC, Philadelphia), some are appointment-only (Phoenix), and some only take them at a drop-off site (San Diego). Pick your city below. Each guide opens with mattresses and also covers couches, appliances, TVs and electronics, and paint and hazardous waste.
+Getting rid of bulky junk works differently in every city. Some cities pick up big items at the curb for free, some need an appointment first, and some only take them at a drop-off site. Fridges and other freon appliances, TVs and paint usually have their own rules. Pick your city below for a plain guide to mattresses, couches and furniture, appliances, TVs and electronics, and paint and hazardous waste, with links to the official sources.
