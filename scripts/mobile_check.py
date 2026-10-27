@@ -74,6 +74,9 @@ def main():
             ctx = br.new_context(viewport={"width": w, "height": 800}, device_scale_factor=2 if mobile else 1,
                                  is_mobile=mobile, has_touch=mobile)
             pg = ctx.new_page()
+            # Local layout check must not wait on GoatCounter (or other visitor tools).
+            pg.route("**/*goatcounter.com/**", lambda route: route.abort())
+            pg.route("**/gc.zgo.at/**", lambda route: route.abort())
             for u in pages:
                 html_text = (PUBLIC / u.strip("/") / "index.html").read_text()
                 if 'http-equiv="refresh"' in html_text:

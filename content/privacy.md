@@ -1,18 +1,18 @@
 ---
 title: 'Privacy & Cookie Policy'
-description: 'How HowToDumpIt handles your information: no forms, no analytics and no cookies set by our own pages, plus how affiliate links, email and your privacy rights work, including California (CCPA/CPRA, CalOPPA) rights and Global Privacy Control.'
+description: 'How HowToDumpIt handles your information: GoatCounter visitor counts (no cookies, no personal data), Google Search Console for search appearance, affiliate links, email and your privacy rights, including California (CCPA/CPRA, CalOPPA) rights and Global Privacy Control.'
 short: Privacy & Cookie Policy
 ---
 # Privacy & Cookie Policy
 
-**Last updated October 25, 2026**
+**Last updated: October 28, 2026**
 
 HowToDumpIt (howtodumpit.com) is a free information guide to getting rid of junk legally and cheaply. This page explains, in plain words, what information we collect, how cookies and affiliate links work on this site, and the choices you have.
 
 ## The Short Version
 
 - You can read every page without giving us any personal information. There are no accounts and no forms.
-- Our own pages don't set cookies, and we don't use analytics, advertising or tracking scripts.
+- Our own pages don't set cookies. We use GoatCounter, a privacy-friendly visitor counter with no cookies and no personal data, and Google Search Console (no code or cookies on our pages). We don't use advertising or tracking scripts.
 - Some links are affiliate or referral links. If you click one, the partner's site may set its own cookies, and we may earn a commission at no extra cost to you.
 - We don't sell your personal information or share it for targeted advertising.
 - California residents: see [Your California Privacy Rights](#your-california-privacy-rights) and [Do Not Sell or Share My Personal Information](#do-not-sell-or-share-my-personal-information).
@@ -20,7 +20,7 @@ HowToDumpIt (howtodumpit.com) is a free information guide to getting rid of junk
 
 ## Information We Collect
 
-**When you browse.** Our pages don't use forms, accounts, analytics, ad networks, social media widgets or embedded videos. The small scripts on the site (the city search box and the pricing calculator for haulers) run only in your browser and don't send what you type anywhere.
+**When you browse.** Our pages don't use forms, accounts, ad networks, social media widgets or embedded videos. The small scripts on the site (the city search box and the pricing calculator for haulers) run only in your browser and don't send what you type anywhere. We also load GoatCounter to count visits; see [Visitor Counts and Search Console](#visitor-counts-and-search-console) below.
 
 **Our web host.** The site is hosted on GitHub Pages. GitHub says that when a GitHub Pages site is visited, the visitor's IP address is logged and stored for security purposes. GitHub handles that data under the [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement). We don't receive these logs.
 
@@ -34,9 +34,13 @@ HowToDumpIt (howtodumpit.com) is a free information guide to getting rid of junk
 
 **Affiliate and referral links.** Some links on this site are affiliate or referral links, marked as sponsored or affiliate links. They may be run through affiliate networks such as Rakuten Advertising or through a partner's own referral program. When you click one, you leave our site, and the partner, the affiliate network or both may set cookies or use similar technology on their site to record that you came from HowToDumpIt. That lets them pay us a commission if you buy or sign up. It never costs you anything extra. Those cookies are controlled by the partner and the network under their own privacy policies, so please read them. We don't receive your name or contact details from these programs; we may receive reports such as clicks, sign-ups or sales and the commission earned.
 
-**Analytics.** We don't use analytics right now. We may add analytics later to see how many people read our guides. If we do, we'll update this page first, say which tool we use, and honor your opt-out choices.
-
 **Your controls.** You can block or delete cookies in your browser settings. Blocking cookies on a partner's site won't affect how our guides work.
+
+## Visitor Counts and Search Console
+
+**GoatCounter.** We use [GoatCounter](https://www.goatcounter.com/), a privacy-friendly visitor counter. It uses no cookies and collects no personal data. Per GoatCounter's docs, it counts page views and referrers, and stores aggregate details such as browser, screen size and country-level location. It does not store IP addresses, the full User-Agent header or any tracker ID in the browser.
+
+**Google Search Console.** We use Google Search Console to see how our pages appear in Google search. It adds no code or cookies to our pages.
 
 ## How We Use and Share Information
 
@@ -64,11 +68,11 @@ In the past 12 months we have collected these categories of personal information
 | Identifiers | Your IP address, logged by our web host (GitHub Pages) when you visit | Collected automatically by our host | Site security, handled by GitHub |
 | Professional or commercial information | For haulers and charities who contact us: business name, city served, what you haul or accept, and anything else you choose to send | You | To set up and manage a listing or partnership |
 
-We don't collect sensitive personal information (such as Social Security numbers, financial account details, precise location, health information or account logins).
+We don't collect sensitive personal information (such as Social Security numbers, financial account details, precise location, health information or account logins). GoatCounter visitor counts are not personal information: they are aggregate page-view stats with no cookies and no personal data.
 
 ### How We Use It
 
-We use personal information only for these business purposes: answering your questions, setting up and managing listings and partnerships, keeping the site secure, and meeting legal, tax and accounting duties.
+We use personal information only for these business purposes: answering your questions, setting up and managing listings and partnerships, keeping the site secure, and meeting legal, tax and accounting duties. We use GoatCounter counts to see how many people read our guides, and Google Search Console to see how our pages appear in Google search.
 
 ### Who We Disclose It To
 
@@ -78,7 +82,7 @@ We disclose personal information only to service providers that help us run HowT
 
 **No.** We have not sold or shared personal information in the past 12 months, and we have no actual knowledge of selling or sharing the personal information of anyone under 16.
 
-Our own pages don't set cookies and don't load third-party advertising, analytics or tracking code. The one thing to know about is affiliate links: if you click an affiliate or referral link, you go to the partner's website, and the partner or its affiliate network (such as Rakuten Advertising) may set cookies there to record that you came from HowToDumpIt so they can pay us a commission. Those cookies are placed on the partner's site, not ours, and are covered by the partner's and network's own privacy policies, including any opt-out choices they offer. We don't pass your personal information to them.
+Our own pages don't set cookies and don't load advertising or tracking code meant to follow you around the web. We do load GoatCounter (no cookies, no personal data) for visitor counts, and we use Google Search Console with no code on our pages. The other thing to know about is affiliate links: if you click an affiliate or referral link, you go to the partner's website, and the partner or its affiliate network (such as Rakuten Advertising) may set cookies there to record that you came from HowToDumpIt so they can pay us a commission. Those cookies are placed on the partner's site, not ours, and are covered by the partner's and network's own privacy policies, including any opt-out choices they offer. We don't pass your personal information to them.
 
 ### Do Not Sell or Share My Personal Information
 
@@ -130,7 +134,7 @@ This site is for adults dealing with household junk. It isn't directed at childr
 
 ## Changes to This Policy
 
-If we change how we handle information, for example by adding analytics or partner contact forms, we'll update this page and the date at the top.
+If we change how we handle information, for example by adding partner contact forms or a different visitor tool, we'll update this page and the date at the top.
 
 ## Contact Us
 
