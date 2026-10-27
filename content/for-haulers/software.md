@@ -1,7 +1,8 @@
 ---
 title: 'Junk Removal Software Compared: QuoteIQ vs Jobber vs HighLevel vs GorillaDesk vs Housecall Pro'
-description: 'Prices and features for five field-service and CRM tools a junk removal business might use, taken from each vendor''s official pricing page (checked October 12, 2026), with honest pros and cons.'
+description: 'Prices and features for five field-service and CRM tools a junk removal business might use, taken from each vendor''s official pricing page (checked October 12, 2026; HighLevel rechecked October 25, 2026), with honest pros and cons.'
 verified: '2026-10-12'
+verified_note: 'QuoteIQ, Jobber, Housecall Pro and GorillaDesk on October 12, 2026; HighLevel on October 25, 2026'
 short: Software Compared
 ---
 # Junk Removal Software Compared (2026)

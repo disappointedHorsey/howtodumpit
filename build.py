@@ -213,6 +213,7 @@ def main():
             og_type="website" if u == "/" else "article",
             after=CITY_REQUEST if (u == "/" or meta.get("city")) else "",
             updated_line=(f'<p class="updated">Last updated: {us_date(newest)}</p>' if meta.get("list_children")
+                          else f'<p class="updated">Last verified: {html.escape(meta["verified_note"])}</p>' if meta.get("verified_note")
                           else f'<p class="updated">Last verified: {us_date(meta["verified"])}</p>' if meta.get("verified") and u != "/" else ""),
             year=datetime.date.today().year)
         out = prefix_links(mark_current(out, u))

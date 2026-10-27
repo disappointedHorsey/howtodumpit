@@ -1,6 +1,6 @@
 ---
 title: 'Become a Featured Partner: List Your Hauling Business or Charity'
-description: 'Free basic listings for legitimate local haulers and charities in our city guides, plus Verified partner ($8 per call or email) and Featured partner ($12 per call or email) options. No leads, no pay, and new partners get their first 5 calls or emails free.'
+description: 'Free basic listings for legitimate local haulers and charities in our city guides, plus Verified Partner ($8 per call or email) and Featured Partner ($12 per call or email) options. No leads, no pay, and new partners get their first 5 calls or emails free.'
 short: Become a Featured Partner
 ---
 # Become a Featured Partner
@@ -23,8 +23,8 @@ Any legitimate local junk removal business, hauler, cleanout crew, reuse center 
 ### 3. Featured Partner: $12 per Call or Email
 
 - **The one Featured spot at the top** of a city's hauler section, clearly labeled **"Featured Partner (Paid)"**
-- Everything a Verified partner gets, plus your logo and a short blurb
-- **Only one Featured partner per city, first come, first served.** It goes to the first hauler who says yes and stays yours for as long as you're a partner.
+- Everything a Verified Partner gets, plus your logo and a short blurb
+- **Only one Featured Partner per city, first come, first served.** It goes to the first hauler who says yes and stays yours for as long as you're a partner.
 - You pay **$12 for each tracked call (60 seconds or more) or email** we send you
 
 People mostly call whoever is listed first, so the top spot is where most calls go, but the choice is yours.
@@ -56,4 +56,4 @@ Featured spots are always labeled **"Featured Partner (Paid)"** on our city page
 
 ## Get in Touch
 
-Want a free listing, a Verified partner listing or the Featured spot in your city? Email Adam Wells, Founder, at [adam@howtodumpit.com](mailto:adam@howtodumpit.com). Tell us your business or organization name, the city you serve, and what you haul or accept.
+Want a free listing, a Verified Partner listing or the Featured spot in your city? Email Adam Wells, Founder, at [adam@howtodumpit.com](mailto:adam@howtodumpit.com). Tell us your business or organization name, the city you serve, and what you haul or accept.
