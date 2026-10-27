@@ -63,7 +63,7 @@ DPW bulk does not apply. Use your building's private hauler, or ask the property
 
 ### Need It Gone Today?
 
-Self-haul to Fort Totten during resident hours, or use a paid junk-removal service.
+Self-haul to Fort Totten during resident hours, or use a paid junk removal service.
 
 *Sources: [DPW Bulk Trash Collection](https://dpw.dc.gov/node/1652581); [Zero Waste DC special waste / mattresses](https://zerowaste.dc.gov/page/special-waste-residents); [Residential collection info](https://zerowaste.dc.gov/page/residential-collection-information-requests). Checked October 12, 2026. Rules change, so confirm with 311 before you set anything out.*
 
@@ -77,7 +77,7 @@ Major appliances are accepted on DPW bulk routes and at Fort Totten. Official gu
 
 ## TVs, Computers and Electronics (E-Waste) {#electronics}
 
-Covered electronic equipment is **banned from DC trash** (Sustainable Solid Waste Management Amendment Act). Electronics and TVs are **not** acceptable bulk items.
+Covered electronic equipment is **banned from DC trash** (Sustainable Solid Waste Management Amendment Act). So TVs can't go out with bulk either.
 
 Verified options:
 

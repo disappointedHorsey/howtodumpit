@@ -1,6 +1,6 @@
 ---
 title: 'Junk Removal Pricing Calculator (Load-Size Estimate From Your Own Costs)'
-description: 'A free calculator for junk-removal jobs: enter your own labor, truck, disposal and overhead costs and your target margin to estimate a price by load size. All assumptions are editable.'
+description: 'A free calculator for junk removal jobs: enter your own labor, truck, disposal and overhead costs and your target margin to estimate a price by load size. All assumptions are editable.'
 verified: '2026-10-12'
 short: Pricing Calculator
 ---
@@ -56,4 +56,4 @@ short: Pricing Calculator
 
 Need real disposal costs? Start with our [city disposal costs](/for-haulers/dump-fees/) page (residential programs only) and your local facility's commercial rate.
 
-**Affiliate disclosure:** HowToDumpIt is an independent information guide. This calculator contains no affiliate links.
+**Affiliate disclosure:** This page has no affiliate links.

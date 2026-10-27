@@ -15,7 +15,7 @@ listings:
 - name: Republic Services Transfer Stations and Apex Landfill
   type: Drop-off
   cost: 'Varies; call the facility for current rates'
-  details: 'Cheyenne Transfer Station, 315 W. Cheyenne Ave., North Las Vegas (702-599-5624) and Henderson Transfer Station, 560 Cape Horn Dr., Henderson (702-599-5768), both open 7 a.m. to 3 p.m., seven days a week. Apex Landfill, 13550 N. US Highway 93 (702-599-5920), 8 a.m. to 4 p.m. daily. Republic asks you to call for current rates and accepted materials.'
+  details: 'Cheyenne Transfer Station, 315 W. Cheyenne Ave., North Las Vegas (702-599-5624) and Henderson Transfer Station, 560 Cape Horn Dr., Henderson (702-599-5768), both open 7 a.m. to 3 p.m., seven days a week. Apex Landfill, 13550 N. US Highway 93 (702-599-5920), 8 a.m. to 4 p.m. daily.'
   source: https://www.republicservices.com/municipality/southern-nevada/service-information
 ---
 # Junk Disposal in Las Vegas, NV: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste

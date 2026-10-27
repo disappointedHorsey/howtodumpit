@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Tiny static site generator: content/**/*.md (YAML front matter) -> public/.
 Usage: .venv/bin/python build.py   (or ./build.sh)"""
-import datetime, html, pathlib, re, shutil, string, urllib.parse
+import datetime, difflib, html, pathlib, re, shutil, string, urllib.parse
 import markdown, yaml
 
 ROOT = pathlib.Path(__file__).parent
@@ -48,13 +48,90 @@ def listings_html(items, heading="Options at a Glance"):
     return f'<h3>{html.escape(heading)}</h3><ul class="listings">' + "".join(rows) + "</ul>"
 
 AFFILIATE_CTA = (
-    '<aside class="cta" aria-labelledby="cta-h"><h2 id="cta-h">Book a Junk Pickup</h2>'
-    '<p>Can\'t wait for the city, or can\'t carry it to the curb? A paid junk-removal crew can haul it from inside your home.</p>'
+    '<aside class="cta" aria-labelledby="cta-h"><h2 id="cta-h">Book Paid Junk Removal</h2>'
+    '<p>Can\'t wait for the city, or can\'t carry it to the curb? A paid junk removal crew can haul it from inside your home.</p>'
     '<div class="cta-btns">'
     '<a class="btn" href="https://www.1800gotjunk.com/" rel="sponsored nofollow" target="_blank">1-800-GOT-JUNK &rarr;</a>'
     '<a class="btn btn-alt" href="https://goloadup.com/" rel="sponsored nofollow" target="_blank">LoadUp &rarr;</a></div>'
     '<p class="disclosure"><strong>Affiliate disclosure:</strong> HowToDumpIt is an information guide and does not haul anything. '
     'We may earn a commission if you book through these links, at no extra cost to you. Prices and service areas are set by the provider.</p></aside>')
+
+A_TAG = re.compile(r'(\s?)<a\b([^>]*?)href="([^"]+)"([^>]*)>(.*?)</a>', re.S)
+
+def dedupe_links(body_html):
+    """Comms rule: link each target once per section (h2 to next h2).
+    A repeat link to the same page in the same section becomes plain text; a repeat citation
+    in brackets, e.g. "(City of X: Trash)", or a repeat listing "source" link is dropped.
+    Keeps pages free of duplicate links for nightly guides too."""
+    parts = re.split(r'(?=<h2[\s>])', body_html)
+    out = []
+    for part in parts:
+        seen = set()
+        def fix(m):
+            sp, pre, href, post, text = m.groups()
+            k = href.split("#")[0].rstrip("/") if not href.startswith("#") else href
+            if k not in seen:
+                seen.add(k); return m.group(0)
+            if re.sub(r"<[^>]+>", "", text).strip().lower() == "source":
+                return ""
+            return sp + "\x00" + text.replace("(", "\x03").replace(")", "\x04") + "\x01"
+        part = A_TAG.sub(fix, part)
+        def paren(pm):
+            inner = pm.group(1)
+            inner = re.sub(r"(,|;| and)\s*\x00[^\x00\x01]*\x01", "", inner)
+            inner = re.sub(r"^\s*\x00[^\x00\x01]*\x01\s*(,|;|and)\s*", "", inner)
+            if re.fullmatch(r"\s*\x00[^\x00\x01]*\x01\s*", inner): return "\x02"
+            return "(" + inner + ")"
+        part = re.sub(r"\(([^()]*\x00[^()]*)\)", paren, part)
+        part = re.sub(r"\s*\x02", "", part)
+        part = part.replace("\x00", "").replace("\x01", "").replace("\x03", "(").replace("\x04", ")")
+        out.append(part)
+    return "".join(out)
+
+def _skey(x):
+    return " ".join(re.sub(r"[^a-z0-9$ ]+", " ", html.unescape(re.sub(r"<[^>]+>", " ", x)).lower()).split())
+
+def _sents(x):
+    return [t for t in re.split(r"(?<=[.!?])\s+(?=[A-Z0-9\"(])", x) if t.strip()]
+
+def trim_listing_repeats(body_html):
+    """Comms rule: say each thing once. A listing card sentence that the guide text below
+    already says word for word is dropped from the card (name, cost, type and source stay)."""
+    m = re.search(r'<ul class="listings">.*?</ul>', body_html, re.S)
+    if not m: return body_html
+    rest = body_html[:m.start()] + body_html[m.end():]
+    rest_text = re.sub(r"<[^>]+>", " ", rest)
+    rest_keys = {_skey(t) for blk in re.split(r"\n|  +", rest_text) for t in _sents(blk)}
+    rest_keys |= {_skey(t) for t in _sents(" ".join(rest_text.split()))}
+    seen = set()
+    def fix_p(pm):
+        inner, src = pm.group(1), pm.group(2) or ""
+        keep = []
+        for t in _sents(inner):
+            k = _skey(t)
+            if len(k.split()) >= 4 and (k in rest_keys or k in seen or any(
+                    difflib.SequenceMatcher(None, k.split(), r.split(), autojunk=False).ratio() >= 0.85
+                    for r in rest_keys if abs(len(r) - len(k)) < len(k) * 0.4)): continue
+            seen.add(k); keep.append(t)
+        txt = " ".join(keep)
+        if not txt and not src: return ""
+        return "<p>" + txt + src + "</p>"
+    ul = re.sub(r'<p>((?:(?!<strong>Cost).)*?)( <a class="src"[^>]*>source</a>)?</p>', fix_p, m.group(0))
+    return body_html[:m.start()] + ul + body_html[m.end():]
+
+# Residents and towns asking for a new city guide (home page and the end of every city guide).
+# Haulers have their own route (Become a Featured Partner), so this box never mentions listings for businesses.
+CITY_REQUEST = (
+    '<aside class="callout" aria-labelledby="ask-h"><h2 id="ask-h">Want Your City or Town Listed?</h2>'
+    '<p>Just drop me a message at <a href="mailto:adam@howtodumpit.com">adam@howtodumpit.com</a>. '
+    'I read and answer all emails!</p></aside>')
+
+def mark_current(out, u):
+    """Nav and footer links to the page you're on get aria-current="page" (no silent self-links)."""
+    def fix(m):
+        block = m.group(0)
+        return block.replace(f'<a href="{u}">', f'<a href="{u}" aria-current="page">')
+    return re.sub(r'<(nav aria-label="Main"|footer).*?</(nav|footer)>', fix, out, flags=re.S)
 
 def crumbs(u, title, titles):
     parts = [p for p in u.strip("/").split("/") if p]
@@ -74,9 +151,8 @@ def city_cards(pages):
         label = f'{cm["city"]}, {cm["state"]}'
         cards.append(f'<li class="card" data-search="{html.escape(label.lower())} {html.escape(cm.get("slug_search",""))}">'
                      f'<a href="{cu}"><span class="card-city">{html.escape(label)}</span>'
-                     f'<span class="card-item">Mattresses, couches, appliances &amp; more</span>'
                      f'<span class="card-go">Read Guide &rarr;</span></a></li>')
-    return ('<div class="search"><label for="city-q" class="sr">Find Your City</label>'
+    return ('<div class="search"><label for="city-q" class="sr">Search for Your City</label>'
             '<input id="city-q" type="search" placeholder="Search your city, e.g. Houston" autocomplete="off"></div>'
             '<ul class="cards" id="city-list">' + "".join(cards) + '</ul>'
             '<p id="no-match" class="no-match" hidden>No guide for that city yet. Check your city\'s official sanitation or 311 page.</p>')
@@ -108,6 +184,8 @@ def main():
             f'<meta http-equiv="refresh" content="0; url={meta["redirect_to"]}">'
             f'<style>body{{font:16px/1.6 system-ui,sans-serif;margin:0;padding:24px max(16px,env(safe-area-inset-left))}}a{{color:#111111;text-decoration-color:#FFC20E;text-decoration-thickness:3px;overflow-wrap:anywhere}}</style></head>'
             f'<body><p>This guide moved to <a href="{meta["redirect_to"]}">{tgt}</a>.</p></body></html>'))
+    # a city list is as current as its newest guide, not the date its intro was written
+    newest = max((str(m["verified"]) for _, m, _, _ in pages if m.get("city") and m.get("verified")), default="")
     for u, meta, body, p in pages:
         body_html = markdown.markdown(body, extensions=["tables", "toc", "attr_list"])
         # wrap every table so wide tables scroll inside their own box on phones, not the whole page
@@ -116,6 +194,8 @@ def main():
         body_html = body_html.replace("<!--CITY_GRID-->", city_cards(pages))
         if meta.get("list_children"):
             body_html += city_cards(pages)
+        body_html = trim_listing_repeats(body_html)
+        body_html = dedupe_links(body_html)
         if meta.get("city"):
             # CTA after the listings block (or at the end)
             i = body_html.find('<h2 id="mattresses"')
@@ -131,9 +211,11 @@ def main():
             canonical=CFG["base_url"].rstrip("/") + u, body=body_html,
             hero=hero, crumbs=crumbs(u, meta["title"], titles),
             og_type="website" if u == "/" else "article",
-            updated_line=f'<p class="updated">Last verified: {us_date(meta["verified"])}</p>' if meta.get("verified") and u != "/" else "",
+            after=CITY_REQUEST if (u == "/" or meta.get("city")) else "",
+            updated_line=(f'<p class="updated">Last updated: {us_date(newest)}</p>' if meta.get("list_children")
+                          else f'<p class="updated">Last verified: {us_date(meta["verified"])}</p>' if meta.get("verified") and u != "/" else ""),
             year=datetime.date.today().year)
-        out = prefix_links(out)
+        out = prefix_links(mark_current(out, u))
         dest = OUT / u.strip("/") / "index.html"
         dest.parent.mkdir(parents=True, exist_ok=True)
         dest.write_text(out)

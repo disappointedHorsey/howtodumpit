@@ -11,7 +11,7 @@ HowToDumpIt exists to help people get rid of junk the right way. That means dona
 
 ### 1. Basic Listing: Free
 
-Any legitimate local junk-removal business, hauler, cleanout crew, reuse center or charity that serves one of our [cities](/#cities) can get a basic listing at **no cost**: your **name and website**. There's no catch and no obligation to upgrade.
+Any legitimate local junk removal business, hauler, cleanout crew, reuse center or charity that serves one of our [cities](/#cities) can get a basic listing at **no cost**: your **name and website**. There's no catch and no obligation to upgrade.
 
 ### 2. Verified Partner: $8 per Call or Email
 

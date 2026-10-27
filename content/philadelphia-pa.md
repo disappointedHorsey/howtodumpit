@@ -54,7 +54,7 @@ Philadelphia's appointment-based **Bulk Collection** program is for appliances, 
 
 ### Need It Gone Today?
 
-Self-haul to a convenience center or use a paid junk-removal service.
+Self-haul to a convenience center or use a paid junk removal service.
 
 *Sources: [Residential trash and recycling rules](https://www.phila.gov/departments/department-of-sanitation/about/rules-and-regulations/residential-trash-and-recycling-rules/); [Sanitation convenience centers](https://www.phila.gov/services/trash-recycling-city-upkeep/find-a-sanitation-convenience-center-to-drop-off-trash-or-recycling/); [Bulk Collection](https://bulkcollection.phila.gov/). Checked October 12, 2026. Rules change, so confirm with 311 before you set anything out.*
 

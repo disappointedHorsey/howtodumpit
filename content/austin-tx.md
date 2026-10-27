@@ -52,7 +52,7 @@ On-demand bulk is for ARR residential customers (single-family up to fourplexes)
 
 ### Need It Gone / Not Accepted?
 
-A paid junk-removal service is the fallback (see the box above).
+A paid junk removal service is the fallback (see the box above).
 
 *Sources: [ARR On-demand Bulk Collection](https://www.austintexas.gov/resource-recovery/programs/demand-bulk-brush-and-household-hazardous-waste-collection); [ARR Recycle and Reuse Center](https://www.austintexas.gov/resource-recovery/locations/recycle-and-reuse-drop-center). Checked October 12, 2026. Rules change, so confirm with Austin 3-1-1.*
 

@@ -52,6 +52,9 @@ main{padding-top:18px;padding-bottom:40px}
 .listing p{margin:.35em 0}.src{font-size:.85rem;white-space:nowrap;display:inline-block;padding:4px 0}
 
 /* Affiliate / call / partner buttons: big, full width on phones */
+/* Resident/town request box: brand black + yellow */
+.callout{margin:32px 0 8px;padding:18px;border-radius:var(--r);background:#111111;color:#fff;border-left:6px solid #FFC20E}
+.callout h2{margin:0 0 6px;color:#FFC20E}.callout p{margin:0}.callout a{color:#fff;text-decoration-color:#FFC20E;display:inline-block;padding:6px 0}.callout a:hover{background:none;color:#FFC20E}.callout :focus-visible{outline-color:#FFC20E;box-shadow:none}
 .cta{margin:28px 0;padding:18px;border-radius:var(--r);background:var(--yellow-l);border:2px solid var(--yellow)}
 .cta h2{margin:0 0 6px}.cta-btns{display:flex;flex-direction:column;gap:10px;margin:14px 0}
 .btn{display:flex;align-items:center;justify-content:center;min-height:48px;padding:12px 18px;border-radius:10px;background:var(--yellow);color:var(--ink)!important;border:2px solid var(--ink);
@@ -74,7 +77,7 @@ input,select,textarea,button{font:inherit;font-size:max(16px,1rem);max-width:100
 .cards{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:1fr;gap:12px}
 .card a{display:flex;flex-direction:column;gap:4px;height:100%;min-height:44px;padding:16px;border-radius:var(--r);background:#fff;border:1px solid var(--line);text-decoration:none;color:var(--ink);transition:transform .12s,box-shadow .12s}
 .card a:hover{transform:translateY(-2px);box-shadow:0 8px 20px rgba(17,17,17,.10);border-color:var(--yellow);background:#fff}
-.card-city{font-weight:700;font-size:1.08rem}.card-item{color:var(--muted);font-size:.9rem}.card-go{margin-top:auto;padding-top:8px;color:var(--ink);font-weight:700;font-size:.9rem;text-decoration:underline;text-decoration-color:var(--yellow);text-decoration-thickness:3px;text-underline-offset:3px}
+.card-city{font-weight:700;font-size:1.08rem}.card-go{margin-top:auto;padding-top:8px;color:var(--ink);font-weight:700;font-size:.9rem;text-decoration:underline;text-decoration-color:var(--yellow);text-decoration-thickness:3px;text-underline-offset:3px}
 .card[hidden],.no-match[hidden]{display:none}.no-match{color:var(--muted)}
 .updated{margin-top:2.5em;font-size:.85rem;color:var(--muted);border-top:1px solid var(--line);padding-top:12px}
 

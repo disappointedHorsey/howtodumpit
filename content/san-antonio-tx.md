@@ -61,7 +61,7 @@ Call 3-1-1 or 210-207-6000.
 
 ## Couches and Furniture {#furniture}
 
-The four **Bulky Waste Collection Centers** accept **furniture** (not couch cushions soiled with blood or bed bugs). Bring a recent CPS Energy bill showing the Environmental Fee and a photo ID; bulky loads are limited to 4 cubic yards. **Curbside brush & bulky collection** also runs twice a year. Check the City's accepted-materials list for curbside. ([Bulky Waste Collection Centers](https://www.sa.gov/Directory/Departments/SWMD/Brush-Bulky/Bulky-Drop-Off); [Brush & Bulky](https://www.sa.gov/Directory/Departments/SWMD/Brush-Bulky))
+The four **Bulky Waste Collection Centers** accept **furniture** (not couch cushions soiled with blood or bed bugs). Bring the same CPS Energy bill and photo ID; bulky loads are limited to 4 cubic yards. The twice-yearly **curbside brush & bulky collection** is the other option. Check the City's accepted-materials list for curbside. ([Bulky Waste Collection Centers](https://www.sa.gov/Directory/Departments/SWMD/Brush-Bulky/Bulky-Drop-Off); [Brush & Bulky](https://www.sa.gov/Directory/Departments/SWMD/Brush-Bulky))
 
 ## Appliances (Fridges, Freezers, AC: Freon) {#appliances}
 
@@ -69,7 +69,7 @@ The Bulky Waste Collection Centers list **large appliances** and **water heaters
 
 ## TVs, Computers and Electronics (E-Waste) {#electronics}
 
-The City's **Household Hazardous Waste Drop-Off Center, 7030 Culebra Road** (Tue–Fri 8–5, Sat 8–noon, except holidays) accepts **e-waste**. Bring a recent CPS Energy bill showing the Environmental Fee and a photo ID. ([San Antonio HHW](https://www.sa.gov/Directory/Departments/SWMD/HHW))
+The City's **Household Hazardous Waste Drop-Off Center, 7030 Culebra Road** (Tue–Fri 8–5, Sat 8–noon, except holidays) accepts **e-waste**. Bring the same CPS Energy bill and photo ID as for the bulky centers. ([San Antonio HHW](https://www.sa.gov/Directory/Departments/SWMD/HHW))
 
 ## Paint and Household Hazardous Waste {#hazardous}
 

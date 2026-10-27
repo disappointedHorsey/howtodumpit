@@ -1,12 +1,12 @@
 ---
-title: 'City Disposal Costs for Haulers: What Our 14 City Guides Found'
-description: 'Disposal costs and eligibility for city bulky-waste programs in 14 US cities, taken only from the official pages in our city guides, with source links.'
+title: 'City Disposal Costs for Haulers: What 13 of Our City Guides Found'
+description: 'Disposal costs and eligibility for city bulky-waste programs in 13 US cities, taken only from the official pages in our city guides, with source links.'
 verified: '2026-10-12'
 short: City Disposal Costs
 ---
 # City Disposal Costs (From Our Verified City Guides)
 
-**Read this first:** every row below comes from a **residential** city program in one of our [city guides](/#cities). Many of them are limited to residents (proof of residency, city utility customers, or "per household"). **These are not commercial tipping fees.** We haven't verified commercial landfill or transfer-station rates for haulers yet. Ask the facility for its commercial rate before you price a job, and don't assume a free residential drop-off is open to a business.
+**Read this first:** every row below comes from a **residential** city program in one of our city guides. It covers the first 13 cities we published; newer city guides list their own fees. Many of them are limited to residents (proof of residency, city utility customers, or "per household"). **These are not commercial tipping fees.** We haven't verified commercial landfill or transfer-station rates for haulers yet. Ask the facility for its commercial rate before you price a job, and don't assume a free residential drop-off is open to a business.
 
 The facts were checked on the official pages linked below. Each guide shows its own verification date.
 
@@ -43,10 +43,10 @@ The facts were checked on the official pages linked below. Each guide shows its 
 - **Seattle, WA:** SPU Special Item Pickup is $31 per item, or $39 for items containing CFCs such as fridges and freezers made before 2005 (SPU price on October 12, 2026). See the [Seattle guide](/seattle-wa/).
 - **Dallas, TX:** set-outs over 10 cubic yards, or with prohibited items, are generally collected **and billed at $60 per 5 cubic yards**. See the [Dallas guide](/dallas-tx/).
 - **Columbus, OH:** SWACO lists e-waste fees, for example LCD TV $15 and CRTs $25–$45 by size ("fees subject to change"). See the [Columbus guide](/columbus-oh/).
-- **New York, NY:** DSNY lists $50 / $100 / $200 fines for first / second / third offenses under its collection laws. See the [NYC guide](/new-york-ny/).
+- **New York City, NY:** DSNY lists $50 / $100 / $200 fines for first / second / third offenses under its collection laws. See the [NYC guide](/new-york-ny/).
 
 ## Why This Matters When You Quote
 
 If a customer could use a free city pickup, your price is competing with "free, but slow and done by appointment". Your quote is buying them speed and labor. Put your real disposal cost per load into the [pricing calculator](/for-haulers/pricing-calculator/).
 
-**Affiliate disclosure:** HowToDumpIt is an independent information guide. Some links in this section may become affiliate links, and we may earn a commission at no extra cost to you. This page has no affiliate links.
+**Affiliate disclosure:** This page has no affiliate links.

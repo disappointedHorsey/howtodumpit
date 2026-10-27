@@ -1,6 +1,6 @@
 ---
 title: 'Junk Removal Software Compared: QuoteIQ vs Jobber vs HighLevel vs GorillaDesk vs Housecall Pro'
-description: 'Prices and features for five field-service and CRM tools a junk-removal business might use, taken from each vendor''s official pricing page (checked October 12, 2026), with honest pros and cons.'
+description: 'Prices and features for five field-service and CRM tools a junk removal business might use, taken from each vendor''s official pricing page (checked October 12, 2026), with honest pros and cons.'
 verified: '2026-10-12'
 short: Software Compared
 ---
@@ -24,7 +24,7 @@ We read each vendor's official pricing page on **October 12, 2026** (HighLevel's
 
 Source: [myquoteiq.com/pricing](https://myquoteiq.com/pricing/) (page updated September 15, 2026; checked October 12, 2026). Website: <a href="https://myquoteiq.com/" rel="nofollow">myquoteiq.com</a>
 
-**Try it:** <a href="https://admin-quoteiq.web.app/register?via=d83c2c" rel="sponsored nofollow">Start a QuoteIQ Trial</a> (affiliate link; we may earn a commission at no extra cost to you).
+**Try it:** <a href="https://admin-quoteiq.web.app/register?via=d83c2c" rel="sponsored nofollow">Start a QuoteIQ Trial</a> (affiliate link).
 
 - **Plans (monthly):** Essentials $29.99 (1 user), Beginner $99.99 (2), Pro $199.99 (4), Elite $299.99 (10), Max $699.99 (20). Extra users $25/mo each. Annual billing works out to about two months free.
 - **Essentials includes:** estimates, invoices, scheduling, online payments, a price book and online booking. Photo documentation (QuoteIQ Cam) starts at Beginner. QuickBooks, job costing and text automation start at Pro. InstaQuote (customer self-quoting) and route optimization start at Elite.
@@ -39,7 +39,7 @@ Source: [getjobber.com/pricing](https://www.getjobber.com/pricing/) (checked Oct
 - **Core includes:** online booking, quotes, invoices and online payments, a website and reporting. QuickBooks sync and automated quote and invoice follow-ups start at Connect. Job costing and two-way SMS start at Grow.
 - **Card processing (official):** 2.9% + 30¢ online; Tap to Pay 2.7% + 30¢; ACH 1%.
 - **Pros:** cheap solo entry on annual billing; no card needed for the trial; mature product with a large user community.
-- **Cons:** the low price needs annual prepayment, and a monthly plan with a 1-year commitment can't be cancelled mid-term. Job costing, which tells you whether a load actually made money, only comes on Grow. We found no load-size pricing feature built for junk removal on the pricing page.
+- **Cons:** the low price needs annual prepayment, and a monthly plan with a 1-year commitment can't be canceled mid-term. Job costing, which tells you whether a load actually made money, only comes on Grow. We found no load-size pricing feature built for junk removal on the pricing page.
 
 ## Housecall Pro
 
@@ -64,13 +64,13 @@ Source: [gorilladesk.com/pricing](https://gorilladesk.com/pricing/) (checked Oct
 
 Source: [gohighlevel.com/pricing](https://www.gohighlevel.com/pricing) and [gohighlevel.com](https://www.gohighlevel.com/) (checked October 25, 2026). Website: <a href="https://www.gohighlevel.com/" rel="nofollow">gohighlevel.com</a>
 
-**Try it:** <a href="https://www.gohighlevel.com/?fp_ref=adam-3840d1" rel="sponsored nofollow">Try HighLevel</a> (affiliate link; we may earn a commission at no extra cost to you).
+**Try it:** <a href="https://www.gohighlevel.com/?fp_ref=adam-3840d1" rel="sponsored nofollow">Try HighLevel</a> (affiliate link).
 
 HighLevel is an all-in-one CRM and marketing platform. Its feature lists focus on capturing leads, following up and getting reviews; we didn't see crew dispatch or route planning on them.
 
 - **Plans:** Starter $970/yr or $97/mo (3 sub-accounts), Unlimited $2,970/yr or $297/mo, Agency Pro $4,970/yr or $497/mo (SaaS mode). Contacts and users are unlimited on every plan. Each plan has a 14-day free trial; billing starts automatically when the trial ends unless you cancel.
 - **Usage fees:** phone numbers, calls, SMS, emails and AI features are billed by usage on top of the plan, and these fees can apply during the trial.
-- **Features a junk-removal business might use:** a CRM with sales pipelines; missed-call text-back; workflow automations for follow-up texts and emails; booking calendars and appointment reminders; automated review requests; estimates, invoicing and text-to-pay; a website and form builder; and a mobile app.
+- **Features a junk removal business might use:** a CRM with sales pipelines; missed-call text-back; workflow automations for follow-up texts and emails; booking calendars and appointment reminders; automated review requests; estimates, invoicing and text-to-pay; a website and form builder; and a mobile app.
 - **How a hauler might use it:** text back a caller you missed while on a job, follow up on quotes that haven't been booked, send a reminder before a pickup and ask for a review afterward. Each of these has to be set up by you first.
 - **Pros:** built around lead capture and follow-up; unlimited users and contacts; a free trial on every plan.
 - **Cons:** it's marketing and CRM software rather than a dispatch or job-management tool, so a hauler will probably still need one of the tools above. It's priced and pitched mainly at agencies, and HighLevel says its automations need setup and ongoing human oversight. Usage fees make the monthly cost harder to predict.

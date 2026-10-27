@@ -76,7 +76,7 @@ We disclose personal information only to service providers that help us run HowT
 
 ### Do We Sell or Share Personal Information?
 
-**No.** We don't sell personal information, and we don't share it for cross-context behavioral advertising. We haven't done either in the past 12 months, and we have no actual knowledge of selling or sharing the personal information of anyone under 16.
+**No.** We have not sold or shared personal information in the past 12 months, and we have no actual knowledge of selling or sharing the personal information of anyone under 16.
 
 Our own pages don't set cookies and don't load third-party advertising, analytics or tracking code. The one thing to know about is affiliate links: if you click an affiliate or referral link, you go to the partner's website, and the partner or its affiliate network (such as Rakuten Advertising) may set cookies there to record that you came from HowToDumpIt so they can pay us a commission. Those cookies are placed on the partner's site, not ours, and are covered by the partner's and network's own privacy policies, including any opt-out choices they offer. We don't pass your personal information to them.
 

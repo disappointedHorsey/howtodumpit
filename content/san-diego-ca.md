@@ -53,13 +53,13 @@ Mattress pads/toppers, crib mattresses, air mattresses, waterbeds, sofa beds, sl
 
 ### Can't Haul It?
 
-The City doesn't do curbside bulky pickup, and Bye Bye Mattress doesn't pick up from individuals. A paid junk-removal service is the option (see the box above).
+The City doesn't do curbside bulky pickup, and Bye Bye Mattress doesn't pick up from individuals. A paid junk removal service is the option (see the box above).
 
 *Sources: [City of San Diego: Recycling Mattresses and Box Springs](https://www.sandiego.gov/environmental-services/recycling/residential/mattresses); [Bye Bye Mattress facility finder](https://byebyemattress.com/find-a-facility/). Checked October 12, 2026. Rules change, so confirm on the City page before you go.*
 
 ## Couches and Furniture {#furniture}
 
-The City says it **does not provide bulky item or curbside pickup**. We couldn't verify an official City drop-off option for furniture. Call the Environmental Services Department at **858-694-7000** for disposal resources, or use a paid junk-removal service. ([San Diego mattress page](https://www.sandiego.gov/environmental-services/recycling/residential/mattresses); [San Diego HHW](https://www.sandiego.gov/environmental-services/ep/hazardous))
+The City says it **does not provide bulky item or curbside pickup**. We couldn't verify an official City drop-off option for furniture. Call the Environmental Services Department at **858-694-7000** for disposal resources, or use a paid junk removal service. ([San Diego mattress page](https://www.sandiego.gov/environmental-services/recycling/residential/mattresses); [San Diego HHW](https://www.sandiego.gov/environmental-services/ep/hazardous))
 
 ## Appliances (Fridges, Freezers, AC: Freon) {#appliances}
 

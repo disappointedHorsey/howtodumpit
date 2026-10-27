@@ -94,7 +94,7 @@ Live in **Cambridge or Somerville**? Those cities run their own programs. See ou
 
 **Limits:** **10 special items per calendar year** and **up to 5 per appointment**. No commercial-grade items. Cancel **before 12 p.m. the day before** your appointment. Report a missed pickup to 311 **within 24 hours**. ([City of Boston: Special Collection Items](https://www.boston.gov/departments/public-works/special-collection-items))
 
-**What it costs:** The City's special item page doesn't list a fee. Check the page or call 311.
+**What it costs:** No fee is listed on the special item page; check it or call 311.
 
 **Water heaters, plumbing fixtures and dishwashers** aren't part of special collection. The City says to donate them or hire a private hauler. ([City of Boston: Special Collection Items](https://www.boston.gov/departments/public-works/special-collection-items)) We couldn't find an official City rule for washers and dryers. Check the City's Trash Day app directory or ask 311.
 

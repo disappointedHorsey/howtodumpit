@@ -51,7 +51,7 @@ Heavy trash collection is for eligible addresses with City curbside service. If 
 
 ### Need It Gone Sooner?
 
-Heavy trash comes every other month. To find drop-off options, use the HTX Collects Waste Wizard. For same-day haul-away, a paid junk-removal service is the fallback.
+Heavy trash comes every other month. To find drop-off options, use the HTX Collects Waste Wizard. If you can't wait for the city, a paid junk removal service is the fallback.
 
 *Sources: [Houston Solid Waste: Heavy Trash Collection](https://www.houstontx.gov/solidwaste/heavytrash.html); [HTX Collects](https://www.houstontx.gov/solidwaste/htxcollects.html). Checked October 12, 2026. Rules change, so confirm on the official page before you set anything out.*
 

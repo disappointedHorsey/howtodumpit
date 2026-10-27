@@ -47,13 +47,13 @@ If your building has 5+ units, the property manager or owner has to book the pic
 
 ### Other Options
 
-SPU's "Where Does It Go?" tool lists reuse and donation options for items in good condition. For same-day haul-away, use a paid junk-removal service.
+SPU's "Where Does It Go?" tool lists reuse and donation options for items in good condition. If you can't wait, use a paid junk removal service.
 
 *Source: [Seattle Public Utilities: Special Item Pickup](https://www.seattle.gov/utilities/your-services/collection-and-disposal/garbage/special-item-collections). Checked October 12, 2026. Prices change, so confirm with SPU before booking.*
 
 ## Couches and Furniture {#furniture}
 
-Sofas, chairs, tables, dressers, cabinets and other furniture larger than 2'×2'×2' are picked up through **SPU Special Item Pickup** at **$31 per item** (SPU price on October 12, 2026), billed to the utility account. Limits: 300 lbs, 8 ft tall, 4 ft diameter. The account holder schedules online or at (206) 684-3000. ([SPU Special Item Pickup](https://www.seattle.gov/utilities/your-services/collection-and-disposal/garbage/special-item-collections))
+Sofas, chairs, tables, dressers, cabinets and other furniture larger than 2'×2'×2' are picked up through **SPU Special Item Pickup** at **$31 per item** (SPU price on October 12, 2026), billed to the utility account. Limits: 300 lbs, 8 ft tall, 4 ft diameter. Schedule it the same way as a mattress. ([SPU Special Item Pickup](https://www.seattle.gov/utilities/your-services/collection-and-disposal/garbage/special-item-collections))
 
 ## Appliances (Fridges, Freezers, AC: Freon) {#appliances}
 

@@ -1,6 +1,6 @@
 ---
 title: 'Junk Removal Price Sheet Template (Free CSV Download)'
-description: 'A free, blank junk-removal price sheet template for haulers: load sizes, single items, surcharges and policies. Fill in your own prices; we publish no market rates.'
+description: 'A free, blank junk removal price sheet template for haulers: load sizes, single items, surcharges and policies. Fill in your own prices; we publish no market rates.'
 verified: '2026-10-15'
 short: Price Sheet Template
 ---
@@ -8,7 +8,7 @@ short: Price Sheet Template
 
 **[Download the Price Sheet Template (CSV)](/static/downloads/junk-removal-price-sheet-template.csv)**. It opens in Excel, Google Sheets, Numbers or LibreOffice.
 
-**The template is blank on purpose.** We don't publish "typical" junk-removal prices because we haven't verified any. Every price on the sheet should come from **your own** costs and the fees at **your** disposal facility.
+**The template is blank on purpose.** We don't publish "typical" junk removal prices because we haven't verified any. Every price on the sheet should come from **your own** costs and the fees at **your** disposal facility.
 
 ## What's on the Sheet
 
@@ -31,7 +31,5 @@ short: Price Sheet Template
 ## Related
 
 - [Junk Removal Software Compared](/for-haulers/software/): several tools can store a price list and send quotes.
-- [Load-Size Pricing Calculator](/for-haulers/pricing-calculator/)
-- [City Disposal Costs](/for-haulers/dump-fees/)
 
-**Affiliate disclosure:** HowToDumpIt is an independent information guide. Some links in this section may become affiliate links, and we may earn a commission at no extra cost to you. This page has no affiliate links.
+**Affiliate disclosure:** This page has no affiliate links.

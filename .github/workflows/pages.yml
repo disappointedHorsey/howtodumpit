@@ -27,6 +27,8 @@ jobs:
       - uses: actions/configure-pages@v6
       - name: Build site
         run: ./build.sh
+      - name: Comms consistency check
+        run: python3 scripts/consistency_check.py
       - uses: actions/upload-pages-artifact@v5
         with:
           path: public
