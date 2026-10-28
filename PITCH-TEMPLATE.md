@@ -10,6 +10,14 @@
 >
 > **NOTE (10/27/2026, comms rule):** Subjects always start "Adam from HowToDumpIt: ". Never put "Re:" after the prefix. A follow-up that is a reply in the same thread keeps the thread's subject; a follow-up that would lose the prefix goes as a new email with the follow-up subject below. Use the canonical terms in /workspace/company/rules/comms-consistency.md ("calls or emails", not "leads" or "customers", in anything a prospect reads).
 
+> **NOTE (10/28/2026, HARD RULE):** Every email ends with exactly these four lines (blank line after Best regards; comma after Adam Wells; nothing else — no title, email, website, or tagline):
+>
+> Best regards
+>
+> Adam Wells,
+> Founder
+>
+
 Reusable templates. Not sent anywhere from here. Replace the placeholders `{Name}`, `{Org}`, `{City}` and `{city page URL}` before using. Keep each email under about 150 words.
 
 Become a Featured Partner page: howtodumpit.com/become-a-featured-partner/
@@ -34,10 +42,10 @@ No leads, no pay. Your first 5 calls or emails are free. After that, you pay onl
 
 Reply "top spot" or "verified" and I'll send the exact wording for your approval.
 
-Best Regards,
-Adam Wells
-Founder, HowToDumpIt
-howtodumpit.com
+Best regards
+
+Adam Wells,
+Founder
 
 ---
 
@@ -55,10 +63,10 @@ More info: howtodumpit.com/become-a-featured-partner/
 
 Reply "top spot" or "verified" and I'll send the exact wording for your approval.
 
-Best Regards,
-Adam Wells
-Founder, HowToDumpIt
-howtodumpit.com
+Best regards
+
+Adam Wells,
+Founder
 
 ---
 
@@ -80,10 +88,10 @@ No leads, no pay. Your first 5 calls or emails are free. After that, you pay onl
 
 Reply "top spot" or "verified" and I'll send the exact wording for your approval.
 
-Best Regards,
-Adam Wells
-Founder, HowToDumpIt
-howtodumpit.com
+Best regards
+
+Adam Wells,
+Founder
 
 ---
 
@@ -99,7 +107,7 @@ More info: howtodumpit.com/become-a-featured-partner/
 
 Reply "top spot" or "verified" and I'll send the exact wording for your approval.
 
-Best Regards,
-Adam Wells
-Founder, HowToDumpIt
-howtodumpit.com
+Best regards
+
+Adam Wells,
+Founder

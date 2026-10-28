@@ -1,6 +1,6 @@
 # HowToDumpIt backlog
 
-Last updated: 10/24/2026 (Boston, MA guide; 10/23/2026: Las Vegas, NV guide; 10/22/2026: Oklahoma City, OK guide; 10/21/2026: San Francisco, CA guide; Indianapolis, IN guide; earlier: San Jose, CA; Fort Worth, TX; Charlotte, NC; Jacksonville, FL guides; build.py US date fix)
+Last updated: 10/28/2026 (Memphis, TN guide; 10/27/2026: Baltimore, MD guide; 10/24/2026: Boston, MA guide; 10/23/2026: Las Vegas, NV guide; 10/22/2026: Oklahoma City, OK guide; 10/21/2026: San Francisco, CA guide; Indianapolis, IN guide; earlier: San Jose, CA; Fort Worth, TX; Charlotte, NC; Jacksonville, FL guides; build.py US date fix)
 
 ## Done
 - [x] Columbus, OH mattress disposal
@@ -19,6 +19,8 @@ Last updated: 10/24/2026 (Boston, MA guide; 10/23/2026: Las Vegas, NV guide; 10/
 - [x] Las Vegas, NV general junk disposal guide (shipped 10/23/2026, commit 20a30bf)
 - [x] Boston, MA general junk disposal guide (shipped 10/24/2026)
 - [x] Detroit, MI general junk disposal guide (shipped 10/26/2026, commit 1f01274)
+- [x] Baltimore, MD general junk disposal guide (shipped 10/27/2026, commit 5c1861c)
+- [x] Memphis, TN general junk disposal guide (shipped 10/28/2026, commit ece7b56)
 
 ## Priority unbuilt (city pages)
 - [x] Chicago, IL couch disposal (covered in general Chicago guide)
@@ -39,9 +41,10 @@ Last updated: 10/24/2026 (Boston, MA guide; 10/23/2026: Las Vegas, NV guide; 10/
 - [x] San Francisco, CA junk disposal guide (shipped 10/21/2026; first city in the nightly list below)
 - [x] Oklahoma City, OK junk disposal guide (shipped 10/22/2026)
 - [x] Boston, MA junk disposal guide (shipped 10/24/2026; separate from the Cambridge–Somerville guide)
-- [ ] Next nightly cities, in order (largest uncovered with fetchable official pages; San Francisco, Oklahoma City, Las Vegas, Boston, El Paso, Detroit and Baltimore done, do not rebuild): Memphis, TN (next; memphistn.gov/solid-waste/ returned a Cloudflare block page to curl on 10/26/2026, so try WebFetch or another official Memphis/Shelby County page first; if still blocked, skip to the next largest uncovered city with fetchable official pages, e.g. Milwaukee, WI).
+- [ ] Next nightly cities, in order (largest uncovered with fetchable official pages; San Francisco, Oklahoma City, Las Vegas, Boston, El Paso, Detroit, Baltimore and Memphis done, do not rebuild): Milwaukee, WI (next), then Albuquerque, NM, Tucson, AZ, Fresno, CA. Check the official pages fetch before writing; if blocked, try the browser (Playwright) or skip to the next city.
 
 ## Follow-ups
+- [ ] Memphis, TN (10/28/2026) unverified: bulky pile size limit conflict (memphistn.gov Household Garbage page says 10 cubic yards; 2025 Clean City Guide says half a cubic yard; page shows both and says ask 311); Farrisview Convenience Center hours conflict (Solid Waste page Fri-Sun 9-3 vs. 10/31/2025 news release Mon-Fri 8-3); whether refrigerant must be removed before bulk pickup; whether TVs go out with bulk (HHW refuses TVs; Waste Wizard is in the app only); bed-bug/soiled mattress rule; landfill fees and South Shelby Landfill address conflict (5954 Malone Rd 38118 in Clean City Guide vs. 5494 Malone Rd 38119 in news release; page gives no address); City hazardous waste page lists older HHW hours (Tue/Sat 8:30-1) than the County (Tue/Thu/Sat 8-1). shelbycountytn.gov returns 403 to curl/WebFetch (read via Playwright browser; 2026 HHW brochure read via search index only). Prospects for later: Memphis Junk Removal (memjunk.com), Binghampton Development Corporation Hub Recycling (bdcmemphis.org).
 - [ ] Baltimore, MD (10/27/2026) unverified: refrigerant (freon) removal rule or fee before bulk pickup or drop-off (City pages silent; page points to 311 and EPA); bed-bug or soiled-mattress wrapping rule for bulk trash; latex paint rule (HHW list names oil paint only); 311 Online also shows a 'Bulk Trash Pick Up-Weekday (No Appliances)' request type not described on the DPW bulk page (not used on our page); Quarantine Road hours conflict (mattress page 7:30 a.m.-3:30 p.m. vs. drop-off locations page 9 a.m.-3:30 p.m.; page says arrive after 9); HHW page says fluorescent bulbs at 'Northwest Residential Recycling Center' on HHW days while HHW is at Sisson Street (not used); 2027 HHW dates not yet published (program runs June-December). Prospects for later: Baltimore City Junk Removal, Madman Junk Removal, Maryland Junk Removal, Second Chance Inc.
 - [ ] Las Vegas, NV (10/23/2026) unverified: fee for fridge/freezer/AC drop-off at Republic transfer stations/Apex (not published); resident transfer-station and landfill fees; whether non-freon appliances (washer/dryer) go out with every-other-week bulk; whether Clark County HHW drop-off is free/residents-only (2026 calendar lists no fee); bed-bug mattress rule beyond wrapping soiled mattresses in plastic; any official mattress recycling program (none found); LVMC 9.08 read via search index only (Municode blocks fetch); SNHD vs. Clark County guide conflict on dried-paint can lid (page avoids specifying); apartment/multifamily bulky handling (page says only individual curbside service). Re-check Opportunity Village for a published email (pitch skipped).
 - [x] Verify freon-appliance disposal: Chicago (done 2026-10-14: DSS bulk + door removal; HCCRF no appliances/freon)
