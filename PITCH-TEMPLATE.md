@@ -111,3 +111,5 @@ Best regards
 
 Adam Wells,
 Founder
+
+> Personal touch rule (29/10/2026): if we know anything personal about the recipient (travel, news, something they told us), open with a warm mention of it. Never invent details.
