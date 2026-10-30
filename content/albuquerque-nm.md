@@ -26,7 +26,7 @@ Here's how to legally get rid of bulky junk in Albuquerque, New Mexico, item by 
 
 | Item | Best Verified Option |
 |---|---|
-| Mattress | Request a free Large Item Pick-Up (at least 24 hours before your trash day), or take up to 3 to a Convenience Center for $5.00 a load |
+| Mattress | Request a free Large Item Pick-Up (at least 24 hours before your trash day), or take up to 3 to a Convenience Center for $5.00 plus tax a load (City residents) |
 | Couch / furniture | Free Large Item Pick-Up, a Convenience Center, or donate usable pieces |
 | Fridge / AC (freon) | Free Large Item Pick-Up (empty it and tape fridge and freezer doors shut), or up to 2 appliances with refrigerant intact at Eagle Rock or Montessa Park |
 | TV / computer | TVs go out with a Large Item Pick-Up (never in the blue cart); computers and small electronics go to Eagle Rock for a fee |
