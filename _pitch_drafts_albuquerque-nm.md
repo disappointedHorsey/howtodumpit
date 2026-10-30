@@ -28,7 +28,7 @@ Hi 24-7 Haul team,
 
 I run HowToDumpIt, a free guide that helps people in Albuquerque get rid of junk the right way: donating and recycling what's usable, keeping the rest out of the landfill and supporting local businesses. Our Albuquerque page: howtodumpit.com/albuquerque-nm/
 
-In Albuquerque, the City's free Large Item Pick-Up has to be requested at least 24 hours before your trash day and is limited to one standard pick-up load, and taking a load to a City Convenience Center costs $5.00 plus tax, so plenty of readers would rather call a local crew like 24-7 Haul, which offers junk removal throughout Albuquerque and surrounding areas, has been hauling since 2002 and works to donate items to local charities and recycle materials, keeping as much as possible out of New Mexico landfills.
+In Albuquerque, the City's free Large Item Pick-Up has to be requested at least 24 hours before your trash day and is limited to one standard pick-up load, and taking a load to a City Convenience Center costs City residents $5.00 plus tax, so plenty of readers would rather call a local crew like 24-7 Haul, which offers junk removal throughout Albuquerque and surrounding areas, has been hauling since 2002 and works to donate items to local charities and recycle materials, keeping as much as possible out of New Mexico landfills.
 
 As one of our first partners in Albuquerque, you can claim our one Featured spot at the top of the page. It goes to the first hauler who says yes and stays yours for as long as you're a partner. People mostly call whoever is listed first, so the top spot is where most calls go, but the choice is yours. If someone else claims it first, you can still join as a Verified Partner with a "Call now" button.
 
@@ -63,7 +63,7 @@ Hi ABQ Junk Busters team,
 
 I run HowToDumpIt, a free guide that helps people in Albuquerque get rid of junk the right way: donating and recycling what's usable, keeping the rest out of the landfill and supporting local businesses. Our Albuquerque page: howtodumpit.com/albuquerque-nm/
 
-In Albuquerque, the City's free Large Item Pick-Up has to be requested at least 24 hours before your trash day and is limited to one standard pick-up load, and taking a load to a City Convenience Center costs $5.00 plus tax, so plenty of readers would rather call a local crew like ABQ Junk Busters, a locally owned and operated Albuquerque crew.
+In Albuquerque, the City's free Large Item Pick-Up has to be requested at least 24 hours before your trash day and is limited to one standard pick-up load, and taking a load to a City Convenience Center costs City residents $5.00 plus tax, so plenty of readers would rather call a local crew like ABQ Junk Busters, a locally owned and operated Albuquerque crew.
 
 As one of our first partners in Albuquerque, you can claim our one Featured spot at the top of the page. It goes to the first hauler who says yes and stays yours for as long as you're a partner. People mostly call whoever is listed first, so the top spot is where most calls go, but the choice is yours. If someone else claims it first, you can still join as a Verified Partner with a "Call now" button.
 
@@ -98,7 +98,7 @@ Hi Greater Albuquerque Habitat for Humanity team,
 
 I run HowToDumpIt, a free guide that helps people in Albuquerque get rid of junk the right way: donating and recycling what's usable, keeping the rest out of the landfill and supporting local organizations. Our Albuquerque page: howtodumpit.com/albuquerque-nm/
 
-In Albuquerque, the City's free Large Item Pick-Up has to be requested at least 24 hours before your trash day and is limited to one standard pick-up load, and taking a load to a City Convenience Center costs $5.00 plus tax, so plenty of readers would rather donate to the Greater Albuquerque Habitat for Humanity ReStore on Menaul Blvd NE, which takes furniture, appliances and building materials, offers free pickup for qualifying large items and puts the proceeds toward local homes.
+In Albuquerque, the City's free Large Item Pick-Up has to be requested at least 24 hours before your trash day and is limited to one standard pick-up load, and taking a load to a City Convenience Center costs City residents $5.00 plus tax, so plenty of readers would rather donate to the Greater Albuquerque Habitat for Humanity ReStore on Menaul Blvd NE, which takes furniture, appliances and building materials, offers free pickup for qualifying large items and puts the proceeds toward local homes.
 
 We'd love to list the ReStore there. As one of our first partners in Albuquerque, you can claim our one Featured spot at the top of the page. It goes to the first partner who says yes and stays yours for as long as you're a partner. People mostly contact whoever is listed first, so the top spot is where most donors go, but the choice is yours. If someone else claims it first, you can still join as a Verified Partner with a "Call now" button.
 
