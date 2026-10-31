@@ -19,6 +19,7 @@ Each city is ONE general junk guide at `content/<city-slug>.md` -> `/<city-slug>
 2. `## Quick Answer by Item` table (Mattress / Couch-furniture / Fridge-AC (freon) / TV-computer / Paint-chemicals)
 3. `## Mattresses and Box Springs {#mattresses}` (with `<!--LISTINGS-->`). The "Book Paid Junk Removal" affiliate box is auto-inserted right before this heading.
 4. `## Couches and Furniture {#furniture}`, `## Appliances (Fridges, Freezers, AC: Freon) {#appliances}`, `## TVs, Computers and Electronics (E-Waste) {#electronics}`, `## Paint and Household Hazardous Waste {#hazardous}`
+Boroughs/counties rule (Adam, 31/10/2026): a guide covers the rules inside city limits. Where rules differ by borough, district or county within the city, state the difference in the relevant item section with its own official source. Every guide also gets a short `### Outside City Limits?` note (in the furniture section) naming the county/unincorporated-area or neighboring-city official page that applies, plus apartments/HOAs using a private hauler. Never assume a county rule matches the city's.
 Rules: only facts verified on official city/county/solid-waste-authority pages, each with an inline source link; if an item can't be verified, say so and point to the official page / 311. Never invent fees, phones, addresses or rules.
 Old `/mattress-disposal/<slug>/` URLs are kept as stubs (`redirect_to: "/<slug>/"` front matter -> meta-refresh + canonical page, excluded from sitemap). New cities do NOT need a stub. `/mattress-disposal/` is a hub listing all city guides.
 

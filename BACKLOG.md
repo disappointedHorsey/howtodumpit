@@ -1,6 +1,6 @@
 # HowToDumpIt backlog
 
-Last updated: 10/30/2026 (Albuquerque, NM guide; 10/29/2026: Milwaukee, WI guide; 10/28/2026: Memphis, TN guide; 10/27/2026: Baltimore, MD guide; 10/24/2026: Boston, MA guide; 10/23/2026: Las Vegas, NV guide; 10/22/2026: Oklahoma City, OK guide; 10/21/2026: San Francisco, CA guide; Indianapolis, IN guide; earlier: San Jose, CA; Fort Worth, TX; Charlotte, NC; Jacksonville, FL guides; build.py US date fix)
+Last updated: 10/31/2026 (Tucson, AZ guide; Chicago Outside City Limits backfill; 10/30/2026: Albuquerque, NM guide; 10/29/2026: Milwaukee, WI guide; 10/28/2026: Memphis, TN guide; 10/27/2026: Baltimore, MD guide; 10/24/2026: Boston, MA guide; 10/23/2026: Las Vegas, NV guide; 10/22/2026: Oklahoma City, OK guide; 10/21/2026: San Francisco, CA guide; Indianapolis, IN guide; earlier: San Jose, CA; Fort Worth, TX; Charlotte, NC; Jacksonville, FL guides; build.py US date fix)
 
 ## Done
 - [x] Columbus, OH mattress disposal
@@ -22,6 +22,7 @@ Last updated: 10/30/2026 (Albuquerque, NM guide; 10/29/2026: Milwaukee, WI guide
 - [x] Baltimore, MD general junk disposal guide (shipped 10/27/2026, commit 5c1861c)
 - [x] Memphis, TN general junk disposal guide (shipped 10/28/2026, commit ece7b56)
 - [x] Milwaukee, WI general junk disposal guide (shipped 10/29/2026, commit 88db1d0)
+- [x] Tucson, AZ general junk disposal guide (shipped 10/31/2026, commit 77d24f7)
 - [x] Albuquerque, NM general junk disposal guide (shipped 10/30/2026, commit 8b57ccb)
 
 ## Priority unbuilt (city pages)
@@ -43,7 +44,7 @@ Last updated: 10/30/2026 (Albuquerque, NM guide; 10/29/2026: Milwaukee, WI guide
 - [x] San Francisco, CA junk disposal guide (shipped 10/21/2026; first city in the nightly list below)
 - [x] Oklahoma City, OK junk disposal guide (shipped 10/22/2026)
 - [x] Boston, MA junk disposal guide (shipped 10/24/2026; separate from the Cambridge–Somerville guide)
-- [ ] Next nightly cities, in order (largest uncovered with fetchable official pages; San Francisco, Oklahoma City, Las Vegas, Boston, El Paso, Detroit, Baltimore, Memphis, Milwaukee and Albuquerque done, do not rebuild): Tucson, AZ (next), then Fresno, CA. Check the official pages fetch before writing; if blocked, try the browser (Playwright) or skip to the next city.
+- [ ] CITY ORDER RULE (Adam, 31/10/2026): add cities by population, largest first, per the latest US Census Bureau estimates (verify on census.gov). Next nightly cities, in order (largest uncovered with fetchable official pages; San Francisco, Oklahoma City, Las Vegas, Boston, El Paso, Detroit, Baltimore, Memphis, Milwaukee, Albuquerque and Tucson done, do not rebuild): Fresno, CA (next), then Sacramento, CA; Atlanta, GA; Mesa, AZ; Kansas City, MO; Raleigh, NC; Colorado Springs, CO; Omaha, NE; Miami, FL (census.gov Vintage 2024 ranks). Check the official pages fetch before writing; if blocked, try the browser (Playwright) or skip to the next city.
 
 ## Follow-ups
 - [ ] Albuquerque, NM (10/30/2026) unverified: bed-bug/soiled mattress wrapping rule (none found on cabq.gov); Eagle Rock computer/small electronics e-waste fee amount (page says fees apply, no amount); what counts as one 'standard pick-up load' for Large Item Pick-Up (not defined); construction-debris site rules and fees (FAQ gives only Southwest Landfill 505-242-2020 and WM 505-892-1200); whether TVs are free through Large Item Pick-Up (pickup list includes televisions; e-waste page says call 311; page says call 311); whether refrigerant must be removed before curbside appliance pickup (pickup page silent; drop-off rules accept refrigerant intact; page says call 311 if unsure). Minor wording conflicts: mattress limit '3 per residential or small commercial customer' vs. per load; Montessa Park holiday note (closed Christmas and New Year's only) vs. general Convenience Center Thanksgiving closure (Montessa is closed Thursdays anyway); HHWCC holiday closures sit under a 'holiday-hours-2024' anchor (may be dated); e-waste page URL contains 'copy_of' (possibly stale page). bernco.gov intermittently returns 403 to curl (read via Playwright); env.nm.gov intermittently returns 503 (200 on retry). Prospects for later: Desert Heights Property Services (Rio Rancho; personal-handle email only), Whole Lotta Junk Services (Gmail), Albuquerque Computer & Electronics Recycling (email on a different domain); skipped Junk Brothers (no email).
@@ -126,3 +127,5 @@ Rules: official vendor pages only, dated; no invented market rates; FTC disclosu
 
 - (added 10/26/2026, from Rules Agent run 4) National piano disposal hub: city bulky pickup and donation programs often refuse pianos (link our verified SF and Portland pages); high-value hauler job for Featured leads. Demand: reddit.com/r/askportland/comments/1w3uqjr/how_to_yeet_a_piano/ . Verify all rules on official sources before publishing.
 - (added 10/26/2026, from Rules Agent run 4) Companion page: above-ground pool removal (e.g. Somerville, MA requires private disposal of metal pools: somervillema.gov/trash-and-recycling). Verify on official sources.
+- [ ] Outside City Limits backfill (Adam, 31/10/2026): add a verified note to one existing guide per night, oldest first. Done: Houston, Columbus, Tucson (built in), Chicago (10/31/2026, commit cd96edc, Cook County Solid Waste Plan 2024-2029 and 2018 Update). Albuquerque's note sits in the mattress section; move it under Furniture when convenient. Next oldest without a note: New York City, then Los Angeles, Philadelphia, in BACKLOG Done order.
+- [ ] Tucson, AZ (10/31/2026) unverified: whether Brush and Bulky takes mattresses (not named; page says call 520-791-3171); Special Brush and Bulky fee amount (only old rate PDFs and a hauler blog); bed-bug/mattress wrapping rule; freon pre-removal for Brush and Bulky; B&B schedule PDF returns 403 to curl (not linked); landfill tire limits not used.
