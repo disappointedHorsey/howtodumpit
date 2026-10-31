@@ -59,10 +59,6 @@ Here's how to legally get rid of bulky junk in Chicago, item by item. Every opti
 - **Building/remodeling debris** is your responsibility to remove; city residential collection is not for contractor waste.
 - Exact item lists and set-out quirks can vary by ward. Some ward offices publish different day-of-set-out advice than the citywide "arrange first" pages — **confirm with 311** for your address. *(Specific size/quantity limits for mattresses were not published on the city pages checked for this guide.)*
 
-### Live in a 5+ Unit Building, Suburb, or Cook County Town?
-
-City DSS bulk collection does not apply. Use your building's private scavenger contract, or check your suburb/township waste page. *(Suburb-by-suburb section: to be researched.)*
-
 ### Need It Gone Today / Can't Move It Yourself?
 
 City timing depends on your ward's workload. If you can't wait or need it carried out of the home, a paid junk removal service is the fallback. *(Paid options will be added once they're verified.)*
@@ -78,6 +74,10 @@ Report fly dumping (including dumped mattresses) through **311**. Illegal dumpin
 ## Couches and Furniture {#furniture}
 
 DSS bulk collection covers **oversized household items** for single-family homes and buildings with four units or fewer, at no extra fee beyond the residential garbage fee. Follow the same steps as the mattress section: **arrange pickup first through 311 or your ward/district sanitation office**, then set it out where and when they tell you. Buildings with 5+ units use a private hauler. ([City garbage fee FAQ](https://www.chicago.gov/city/en/depts/fin/supp_info/garbage-fee-faq.html))
+
+### Outside City Limits?
+
+City bulk collection only covers Chicago addresses that the Department of Streets and Sanitation serves: single-family homes and buildings with four units or fewer. Suburban cities and villages in Cook County run their own trash service through their public works departments, usually with a contracted hauler, so check your own village or city's public works page. Cook County itself doesn't manage hauling contracts or services for villages, cities or townships. ([Cook County: Solid Waste Management Plan 2024-2029](https://www.cookcountyil.gov/sites/g/files/ywwepo161/files/documents/2024-07/Solid%20Waste%20Plan_FINAL_7.25.24.pdf)) In unincorporated Cook County, service varies: a few townships have contracts for residents, some municipalities serve adjoining unincorporated areas, and elsewhere residents arrange their own collection. ([Cook County: Solid Waste Management Plan 2018 Update](https://www.cookcountyil.gov/sites/g/files/ywwepo161/files/service/solid-waste-management-plan-2018-update-final.pdf)) If you live in a building with 5 or more units or an HOA with a private hauler, ask your building manager or hauler how bulky items are handled. *(Checked October 31, 2026.)*
 
 ## Appliances (Fridges, Freezers, AC: Freon) {#appliances}
 
