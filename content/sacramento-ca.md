@@ -22,6 +22,25 @@ listings:
   cost: Free for mattresses and box springs when the load holds only free items
   details: 'The County lists mattresses and box springs on its free residential drop-off items list.'
   source: https://wmr.saccounty.gov/us/en/residential-services/free-drop-off-locations/free-drop-off-items.html
+partners:
+- tier: basic
+  name: Habitat for Humanity Greater Sacramento ReStore
+  phone: '(916) 440-1215'
+  website: https://habitatgreatersac.org/restore/sacrestore/
+  note: Takes donations Wednesday through Saturday, 10 AM to 3 PM, at 819 North 10th Street, Sacramento.
+  source_checked: 2026-11-02
+- tier: basic
+  name: American River Hauling and Junk Removal
+  phone: '(714) 812-0402'
+  website: https://americanriverjunkremoval.com/
+  note: Family-owned crew based in Folsom; lists Sacramento in its service area and sorts items for donation and recycling.
+  source_checked: 2026-11-02
+- tier: basic
+  name: Chuck Your Junk
+  phone: '(916) 877-4581'
+  website: https://www.chuckyourjunk.com/
+  note: Locally family-owned crew serving greater Sacramento from Roseville to Elk Grove; recycles and donates items as needed.
+  source_checked: 2026-11-02
 ---
 # Junk Disposal in Sacramento, CA: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 
