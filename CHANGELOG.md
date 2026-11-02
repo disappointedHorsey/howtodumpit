@@ -1,5 +1,10 @@
 # Changelog
 
+## 11/02/2026 (Nightly: Sacramento, CA guide; Los Angeles backfill; first Basic Listings)
+- New guide /sacramento-ca/ (census.gov Vintage 2025 rank #35): two free Household Junk Pickups and two free Appliance and E-Waste Pickups a year, the yearly dump coupon (SRTS / NARS), Sacramento County free residential drop-off, City and County HHW, PaintCare, Outside City Limits note (5+ unit buildings, unincorporated County bulky pickup, neighboring cities, HOAs). Official City/County/EPA/DTSC sources only; unverified items logged in BACKLOG. Commit 09a734b.
+- Los Angeles: added "Outside City Limits?" note (recycLA multi-family Bulky Item Fee, unincorporated LA County hauler lookup and franchise hotline, neighboring cities, HOAs). Commit 09a734b.
+- Sacramento: first use of `partners:` on a live guide, three free Basic Listings (Habitat for Humanity Greater Sacramento ReStore, American River Hauling and Junk Removal, Chuck Your Junk), name/phone/website from each org's own site. Commit 7fdf7f6.
+
 ## 11/02/2026 (Partner listings on city guides)
 - 11/02/2026: Footer adds Adam Wells LinkedIn (https://www.linkedin.com/in/adam-wells-18744b446) next to Sitemap on every page (brand proof per learnings 31/10; C008/F004).
 - City guides can take an optional front-matter `partners:` list (Basic / Verified / Featured). When present, `build.py` renders a **Local Junk Removal & Donation Partners** section: Basic cards show name, phone (`tel:` link) and website; Verified and Featured add a **Call Now** button; Featured sorts first with a **Featured Partner (Paid)** label (brand #111111 / #FFC20E). Official drop-off `listings:` cards are unchanged. No live partner businesses added yet (nightly run will).
