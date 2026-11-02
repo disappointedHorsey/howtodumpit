@@ -14,7 +14,7 @@ Rule: every listing needs a `source:` URL to an official/primary page, checked o
 - Live URL: https://howtodumpit.com (`base_url` in site.yaml is `https://howtodumpit.com`, so the path prefix is empty). build.py derives a path prefix from `base_url` and prepends it to root-relative `href`/`src` links.
 
 ## Content format (city guides) — nightly routine
-Each city is ONE general junk guide at `content/<city-slug>.md` -> `/<city-slug>/` (e.g. `/chicago-il/`). Required front matter: `title` ("Junk Disposal in <City>, <ST>: Mattresses, Couches, Appliances, TVs & Paint"), `description`, `verified`, `city`, `state`, `short`, optional `listings` (+ `listings_title`). Body sections, in order:
+Each city is ONE general junk guide at `content/<city-slug>.md` -> `/<city-slug>/` (e.g. `/chicago-il/`). Required front matter: `title` ("Junk Disposal in <City>, <ST>: Mattresses, Couches, Appliances, TVs & Paint"), `description`, `verified`, `city`, `state`, `short`, optional `listings` (+ `listings_title`), optional `partners` (see Partner-listing format below). Body sections, in order:
 1. `# Junk Disposal in <City>, <ST>: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste`
 2. `## Quick Answer by Item` table (Mattress / Couch-furniture / Fridge-AC (freon) / TV-computer / Paint-chemicals)
 3. `## Mattresses and Box Springs {#mattresses}` (with `<!--LISTINGS-->`). The "Book Paid Junk Removal" affiliate box is auto-inserted right before this heading.
@@ -22,6 +22,54 @@ Each city is ONE general junk guide at `content/<city-slug>.md` -> `/<city-slug>
 Boroughs/counties rule (Adam, 31/10/2026): a guide covers the rules inside city limits. Where rules differ by borough, district or county within the city, state the difference in the relevant item section with its own official source. Every guide also gets a short `### Outside City Limits?` note (in the furniture section) naming the county/unincorporated-area or neighboring-city official page that applies, plus apartments/HOAs using a private hauler. Never assume a county rule matches the city's.
 Rules: only facts verified on official city/county/solid-waste-authority pages, each with an inline source link; if an item can't be verified, say so and point to the official page / 311. Never invent fees, phones, addresses or rules.
 Old `/mattress-disposal/<slug>/` URLs are kept as stubs (`redirect_to: "/<slug>/"` front matter -> meta-refresh + canonical page, excluded from sitemap). New cities do NOT need a stub. `/mattress-disposal/` is a hub listing all city guides.
+
+
+## Partner-listing format (city guides) — nightly routine
+Optional front-matter `partners:` on a city guide renders a **Local Junk Removal & Donation Partners** section at the end of that guide. Official drop-off cards stay in `listings:` and are unchanged. Do not invent partners: only add entries the nightly run or an approved pitch reply has confirmed.
+
+Each `partners:` entry is a YAML map with:
+- `tier` (required): `basic` | `verified` | `featured` (case-insensitive). Featured sorts to the top; then Verified; then Basic. Only one Featured Partner per city.
+- `name` (required): business or organization display name (Title Case for the card heading).
+- `website` (required): full URL including `https://`.
+- `phone` (optional on Basic; expected for Verified/Featured): display number shown on the card. Basic renders it as a plain `tel:` link; Verified and Featured show the number as text plus a **Call Now** button (`tel:`).
+- `note` (optional): one short sentence (hours, items accepted, service area). Sentence case.
+- `source_checked` (required): date the website/phone were last confirmed (`YYYY-MM-DD`). Shown on the card as a US date.
+
+Example (Basic Listing only — free: name, phone and website):
+
+```yaml
+partners:
+- tier: basic
+  name: Example Junk Hauling
+  phone: '(512) 555-0100'
+  website: https://example.com/
+  note: Serves Austin and nearby Travis County.
+  source_checked: 2026-11-02
+```
+
+Example with all three tiers (Featured uses the paid label on the card):
+
+```yaml
+partners:
+- tier: featured
+  name: Top Spot Hauling
+  phone: '(704) 555-0199'
+  website: https://topspot.example/
+  note: Same-day cleanouts inside city limits.
+  source_checked: 2026-11-02
+- tier: verified
+  name: Verified Crew Co
+  phone: '(704) 555-0188'
+  website: https://verifiedcrew.example/
+  source_checked: 2026-11-02
+- tier: basic
+  name: Neighborhood Reuse Center
+  website: https://reuse.example/
+  phone: '(704) 555-0177'
+  source_checked: 2026-11-02
+```
+
+Card rules (enforced in `build.py`): Basic shows name, phone (`tel:` link) and website. Verified and Featured add a **Call Now** button. Featured gets a visible **Featured Partner (Paid)** label (brand #111111 / #FFC20E) and sorts first. A short disclaimer states partners are independent businesses and HowToDumpIt does not vouch for their work.
 
 ## Style rule (permanent)
 Use American English spelling (color, center, tire, analyze, favorite, specialize) and US dates only (October 13, 2026 or 10/13/2026). Never DD/MM/YYYY. This applies to pages, pitch emails and reports.

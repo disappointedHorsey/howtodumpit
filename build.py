@@ -47,6 +47,84 @@ def listings_html(items, heading="Options at a Glance"):
                     f'<p>{html.escape(it.get("details",""))}{src}</p></li>')
     return f'<h3>{html.escape(heading)}</h3><ul class="listings">' + "".join(rows) + "</ul>"
 
+# Partner tier cards (Basic / Verified / Featured). Separate from official drop-off `listings:`.
+PARTNER_TIER_ORDER = {"featured": 0, "verified": 1, "basic": 2}
+PARTNER_DISCLAIMER = (
+    'These partners are independent businesses. HowToDumpIt is an independent information guide '
+    'and does not haul anything or vouch for their work. Confirm pricing, licensing and reviews '
+    'with them before you hire.'
+)
+
+def _tel_href(phone):
+    """Build a tel: href from a display phone string (digits and leading + only)."""
+    s = str(phone).strip()
+    digits = re.sub(r"[^0-9+]", "", s)
+    if digits.startswith("+"):
+        return "tel:" + "+" + re.sub(r"[^0-9]", "", digits[1:])
+    return "tel:" + re.sub(r"[^0-9]", "", digits)
+
+def _website_label(url):
+    """Prefer host+path so two partners on the same domain keep unique link text."""
+    try:
+        u = urllib.parse.urlparse(url)
+        host = (u.netloc or "").removeprefix("www.")
+        path = (u.path or "").rstrip("/")
+        if host and path:
+            return host + path
+        if host:
+            return host
+    except Exception:
+        pass
+    return url
+
+def partners_html(items):
+    """Render Local Junk Removal & Donation Partners cards from front-matter `partners:`."""
+    if not items: return ""
+    ordered = sorted(
+        items,
+        key=lambda it: (PARTNER_TIER_ORDER.get(str(it.get("tier", "basic")).lower(), 99),
+                        str(it.get("name", "")).lower()))
+    rows = []
+    for it in ordered:
+        tier = str(it.get("tier", "basic")).lower().strip()
+        if tier not in PARTNER_TIER_ORDER:
+            tier = "basic"
+        name = html.escape(str(it.get("name", "")).strip())
+        phone = str(it.get("phone") or "").strip()
+        website = str(it.get("website") or "").strip()
+        note = str(it.get("note") or "").strip()
+        checked = it.get("source_checked")
+        classes = f"partner partner-{tier}"
+        badge = ""
+        if tier == "featured":
+            badge = '<p class="partner-badge"><span class="partner-featured-label">Featured Partner (Paid)</span></p>'
+        bits = [f'<li class="{classes}">{badge}<h3>{name}</h3>']
+        if phone:
+            tel = html.escape(_tel_href(phone), quote=True)
+            phone_esc = html.escape(phone)
+            if tier in ("verified", "featured"):
+                # Phone as plain text; Call Now is the single tel: link (avoids dup-href).
+                bits.append(f'<p class="partner-phone">{phone_esc}</p>')
+                bits.append(f'<p class="partner-cta"><a class="btn" href="{tel}">Call Now</a></p>')
+            else:
+                bits.append(f'<p class="partner-phone"><a href="{tel}">{phone_esc}</a></p>')
+        if website:
+            href = html.escape(website, quote=True)
+            label = html.escape(_website_label(website))
+            bits.append(f'<p class="partner-web"><a href="{href}" rel="nofollow" target="_blank">{label}</a></p>')
+        if note:
+            bits.append(f'<p class="partner-note">{html.escape(note)}</p>')
+        if checked:
+            bits.append(f'<p class="partner-checked">Checked {html.escape(us_date(checked))}</p>')
+        bits.append("</li>")
+        rows.append("".join(bits))
+    return (
+        '<section class="partners" aria-labelledby="partners-h">'
+        '<h2 id="partners-h">Local Junk Removal &amp; Donation Partners</h2>'
+        f'<p class="partner-disclaimer">{PARTNER_DISCLAIMER}</p>'
+        '<ul class="partners-list">' + "".join(rows) + "</ul></section>"
+    )
+
 AFFILIATE_CTA = (
     '<aside class="cta" aria-labelledby="cta-h"><h2 id="cta-h">Book Paid Junk Removal</h2>'
     '<p>Can\'t wait for the city, or can\'t carry it to the curb? A paid junk removal crew can haul it from inside your home.</p>'
@@ -201,6 +279,8 @@ def main():
             i = body_html.find('<h2 id="mattresses"')
             if i < 0: i = body_html.find("<h2", body_html.find('class="listings"') if 'class="listings"' in body_html else 0)
             body_html = body_html[:i] + AFFILIATE_CTA + body_html[i:] if i > 0 else body_html + AFFILIATE_CTA
+            # Partner cards at end of city guide (official drop-off `listings:` unchanged)
+            body_html += partners_html(meta.get("partners") or [])
         hero = ""
         if u == "/":
             hero = ('<section class="hero"><div class="wrap"><h1>' + html.escape(meta.get("hero", meta["title"])) + '</h1><p>'

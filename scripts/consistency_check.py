@@ -46,7 +46,7 @@ DATE_DMY_NUM = re.compile(r"\b(\d{1,2})/(\d{1,2})/(\d{2,4})\b")
 DATE_DMY_TXT = re.compile(rf"\b\d{{1,2}}(st|nd|rd|th)? (of )?({MONTHS}),? \d{{4}}\b")
 
 # Link texts that may repeat on a page because each one cites a different official page.
-REPEAT_OK_TEXT = {"source", "official page"}
+REPEAT_OK_TEXT = {"source", "official page", "call now"}  # partner Call Now buttons may repeat per card
 
 BLOCK_TAGS = {"p", "li", "h1", "h2", "h3", "h4", "h5", "h6", "td", "th", "dd", "dt", "blockquote", "figcaption", "summary"}
 VOID = {"area", "base", "br", "col", "embed", "hr", "img", "input", "link", "meta", "source", "track", "wbr"}

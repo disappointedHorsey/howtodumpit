@@ -1,6 +1,6 @@
 ---
 title: 'Become a Featured Partner: List Your Hauling Business or Charity'
-description: 'Free basic listings for legitimate local haulers and charities in our city guides, plus Verified Partner ($8 per call or email) and Featured Partner ($12 per call or email) options. No leads, no pay, and new partners get their first 5 calls or emails free.'
+description: 'Free Basic Listings (name, phone and website) for legitimate local haulers and charities in our city guides, plus Verified Partner ($8 per call or email) and Featured Partner ($12 per call or email) options. No leads, no pay, and new partners get their first 5 calls or emails free.'
 short: Become a Featured Partner
 ---
 # Become a Featured Partner
@@ -11,7 +11,7 @@ HowToDumpIt exists to help people get rid of junk the right way. That means dona
 
 ### 1. Basic Listing: Free
 
-Any legitimate local junk removal business, hauler, cleanout crew, reuse center or charity that serves one of our [cities](/#cities) can get a basic listing at **no cost**: your **name and website**. There's no catch and no obligation to upgrade.
+Any legitimate local junk removal business, hauler, cleanout crew, reuse center or charity that serves one of our [cities](/#cities) can get a Basic Listing at **no cost**: your **name, phone and website**. There's no catch and no obligation to upgrade.
 
 ### 2. Verified Partner: $8 per Call or Email
 
@@ -56,4 +56,4 @@ Featured spots are always labeled **"Featured Partner (Paid)"** on our city page
 
 ## Get in Touch
 
-Want a free listing, a Verified Partner listing or the Featured spot in your city? Email Adam Wells, Founder, at [adam@howtodumpit.com](mailto:adam@howtodumpit.com). Tell us your business or organization name, the city you serve, and what you haul or accept.
+Want a free Basic Listing, a Verified Partner listing or the Featured spot in your city? Email Adam Wells, Founder, at [adam@howtodumpit.com](mailto:adam@howtodumpit.com). Tell us your business or organization name, phone, website, the city you serve, and what you haul or accept.
