@@ -17,6 +17,19 @@ listings:
   cost: 'City FAQ: up to one ton per month free with ID and city services bill'
   details: Per the City's bulk-trash FAQ, residents can take up to one ton of trash to a city transfer station each month for free. Bring your ID and city services bill. Confirm hours and locations on phoenix.gov before going.
   source: https://www.phoenix.gov/newsroom/public-works-news/3227.html
+partners:
+- tier: basic
+  name: SpaceBack
+  phone: '(602) 544-6035'
+  website: https://spacebackaz.com/
+  note: Locally owned Phoenix metro junk removal; sorts for donation and recycling.
+  source_checked: 2026-11-03
+- tier: basic
+  name: Garage Rescue and Junk Removal
+  phone: '(480) 251-9482'
+  website: https://garagerescueandjunkremoval.com/
+  note: Locally owned Phoenix crew; junk removal and cleanouts across the Phoenix metro.
+  source_checked: 2026-11-03
 ---
 # Junk Disposal in Phoenix, AZ: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

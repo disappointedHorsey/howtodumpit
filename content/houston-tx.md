@@ -17,6 +17,25 @@ listings:
   cost: Free
   details: Look up your heavy trash day, set reminders, and use the Waste Wizard to find drop-off options near you between collection days.
   source: https://www.houstontx.gov/solidwaste/htxcollects.html
+partners:
+- tier: basic
+  name: Space City Junk and Hauling
+  phone: '(832) 534-0384'
+  website: https://spacecityjunk.com/
+  note: Locally owned Houston metro crew; donates and recycles before landfill.
+  source_checked: 2026-11-03
+- tier: basic
+  name: Fast Junk Haulers
+  phone: '(832) 949-1315'
+  website: https://fastjunkhaulers.com/
+  note: Locally owned crew serving Houston and nearby Spring, The Woodlands and Montgomery County.
+  source_checked: 2026-11-03
+- tier: basic
+  name: Houston Habitat for Humanity ReStore
+  phone: '(713) 643-1100'
+  website: https://www.houstonhabitat.org/restore/
+  note: ReStore at 6161 S. Loop East, Houston; donation drop-off and screened pickup.
+  source_checked: 2026-11-03
 ---
 # Junk Disposal in Houston, TX: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

@@ -17,6 +17,25 @@ listings:
   cost: For Philadelphia residents (proof of residency required)
   details: Mattresses and box springs accepted unwrapped. Open Monday-Saturday, 8 a.m.-6 p.m., closed City holidays. Oversized items once a week; vehicle under 6,000 lbs; no commercial loads.
   source: https://www.phila.gov/services/trash-recycling-city-upkeep/find-a-sanitation-convenience-center-to-drop-off-trash-or-recycling/
+partners:
+- tier: basic
+  name: Philthy Junk Removal
+  phone: '(267) 968-5434'
+  website: https://philthyjunkremoval.com/
+  note: Locally owned Philadelphia junk haulers serving Center City, South Philly, Northeast and West Philly.
+  source_checked: 2026-11-03
+- tier: basic
+  name: Rodriguez Junk Removal LLC
+  phone: '(267) 431-4622'
+  website: https://www.rodriguezjunkremovalllc.com/
+  note: Woman-owned, family-operated Philadelphia crew; donation-first sorting before landfill.
+  source_checked: 2026-11-03
+- tier: basic
+  name: Nolen's Junk Removal
+  phone: '(267) 637-2000'
+  website: https://www.nolensjunk.com/
+  note: Eco-friendly crew based in Feasterville; serves Philadelphia County plus Bucks and Montgomery.
+  source_checked: 2026-11-03
 ---
 # Junk Disposal in Philadelphia, PA: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

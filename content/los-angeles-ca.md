@@ -17,6 +17,25 @@ listings:
   cost: Free for City of Los Angeles residents
   details: 'Once a month at five locations, 8:00 a.m. to 4:30 p.m. Mattresses, box springs, and headboards are on the accepted list. Proof of residency is required: your current LADWP bill and a state-issued driver''s license or ID. One visit per event; vehicles up to two tons. Check LASAN''s page for this month''s dates.'
   source: https://sanitation.lacity.gov/media/866
+partners:
+- tier: basic
+  name: Junk Master
+  phone: '(310) 754-5567'
+  website: https://www.junk-master.com/
+  note: Family-owned North Hollywood crew serving Greater Los Angeles; donates usable items and recycles.
+  source_checked: 2026-11-03
+- tier: basic
+  name: Prestige Junk Removal
+  phone: '(818) 917-4710'
+  website: https://www.prestigejunkremoval.com/
+  note: Family-owned Granada Hills crew serving Los Angeles County; donates reusable items to The Salvation Army.
+  source_checked: 2026-11-03
+- tier: basic
+  name: Habitat for Humanity of Greater Los Angeles ReStore
+  phone: '(310) 323-4663'
+  website: https://www.habitatla.org/schedule-a-pickup/
+  note: Los Angeles ReStore at 1071 S. La Brea Ave.; donation pickup available for qualifying items.
+  source_checked: 2026-11-03
 ---
 # Junk Disposal in Los Angeles, CA: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

@@ -22,6 +22,25 @@ listings:
   cost: Free drop-off; paid pickup uses a suggested donation (see their site)
   details: 4801 S Whipple St, Chicago, IL 60632. Accepts mattresses and box springs (twin, full, queen, king) that are clean, odor-free, and pest-free — California king beds are not accepted. Warehouse drop-off Mon–Fri 9 a.m.–3 p.m.; call ahead at (312) 752-0211 so they can unload you. Pickup is also available with a suggested donation scaled by load size.
   source: https://www.chicagofurniturebank.org/pickups
+partners:
+- tier: basic
+  name: 606 Junk Removal and Dumpster Rental
+  phone: '(773) 412-4902'
+  website: https://606junk.com/
+  note: Locally owned Chicago crew; recycles and donates whenever possible.
+  source_checked: 2026-11-03
+- tier: basic
+  name: Martinez Chicago Junk Removal
+  phone: '(773) 968-4146'
+  website: https://www.martinezchicagojunkremoval.com/
+  note: Locally owned, family-operated Chicago junk removal and demolition crew.
+  source_checked: 2026-11-03
+- tier: basic
+  name: Habitat for Humanity Chicago ReStore
+  phone: '(312) 563-0296'
+  website: https://restorechicago.org/donate
+  note: Accepts furniture, appliances and building materials; free pickup for accepted donations.
+  source_checked: 2026-11-03
 ---
 # Junk Disposal in Chicago, IL: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

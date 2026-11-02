@@ -17,6 +17,43 @@ listings:
   cost: Bag is on you (the City does not provide bags)
   details: Mattresses and box springs must be fully sealed in a plastic bag before set-out (any color except red or orange, per NYC311) to prevent the spread of bed bugs. Improperly set-out mattresses may not be collected and can be fined. DSNY's collection-laws page lists $50 / $100 / $200 for first / second / third-and-later offenses; its furniture page says fines can be up to $300. Check the linked pages for the current amount.
   source: https://www.nyc.gov/site/dsny/collection/residents/collection-laws-residents.page
+partners:
+- tier: basic
+  name: Strictly Junk Removal
+  phone: '(917) 442-4135'
+  website: https://www.strictlyjunkremoval.com/
+  note: Brooklyn-based crew at 294 20th Street; same-day junk removal across Brooklyn.
+  source_checked: 2026-11-03
+- tier: basic
+  name: Dimola Waste
+  phone: '(718) 326-6969'
+  website: https://www.dimolawaste.com/
+  note: Family-owned Ridgewood, Queens crew; rubbish removal and cleanouts across Queens and nearby boroughs.
+  source_checked: 2026-11-03
+- tier: basic
+  name: Text Level Junk Removal
+  phone: '(718) 644-0521'
+  website: https://www.textleveljunk.com/service-areas/manhattan-ny/
+  note: Dedicated Manhattan junk removal page covering apartments, offices and cleanouts borough-wide.
+  source_checked: 2026-11-03
+- tier: basic
+  name: Lightning Junk Removal
+  phone: '(718) 737-7161'
+  website: https://lightningjunkremoval.com/
+  note: Locally owned Bronx crew; donates and recycles appliances and junk across the Bronx and nearby boroughs.
+  source_checked: 2026-11-03
+- tier: basic
+  name: Haul It Gone
+  phone: '(347) 835-4563'
+  website: https://gohaulitgone.com/
+  note: Staten Island–based crew; donates usable items to Habitat ReStore and Goodwill before landfill.
+  source_checked: 2026-11-03
+- tier: basic
+  name: Habitat NYC and Westchester ReStore
+  phone: '(646) 876-9460'
+  website: https://habitatnycwc.org/restore/
+  note: Donation pickup across NYC boroughs; Queens ReStore pickup at 62-01 Northern Blvd., Queens.
+  source_checked: 2026-11-03
 ---
 # Junk Disposal in New York City, NY: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 
