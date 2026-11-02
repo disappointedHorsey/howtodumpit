@@ -154,7 +154,7 @@ Follow-up #1 (threaded replies): Mayday (David) 1a171386cdf86a9f; Baypro 1a17138
 Note: Gmail kept each thread's original subject on the threaded replies, so the follow-ups went out without the "Adam from HowToDumpIt: " prefix (the original 10/20-10/21 threads had none).
 
 ## Follow-up #2 sent 02/11/2026 (C002/F001; pre-approved template section 2/4; new emails from adam@)
-Gmail verified first (all mail incl. spam/trash): no replies and no prior follow-ups for these nine. Bounce check ~5 min after send logged below.
+Gmail verified first (all mail incl. spam/trash): no replies and no prior follow-ups for these nine. Bounce check (~5+ min, all mail incl. spam/trash): **no bounces**.
 
 | Org | City | To | Message id |
 |---|---|---|---|
