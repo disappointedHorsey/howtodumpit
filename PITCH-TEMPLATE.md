@@ -113,3 +113,62 @@ Adam Wells,
 Founder
 
 > Personal touch rule (29/10/2026): if we know anything personal about the recipient (travel, news, something they told us), open with a warm mention of it. Never invent details.
+
+---
+
+## Free-listing-first pitch (v2, APPROVED by Adam 02/11/2026)
+
+> **APPROVED by Adam Wells on 02/11/2026.** Not a gate — use this for new pitches. Direction 02/11/2026 (Sydney): add the hauler or nonprofit to its city guide first as a free Basic Listing (name, phone and website, taken only from its own site), then email that they are already listed. Pricing lives on howtodumpit.com/become-a-featured-partner/ and is not spelled out in the email (except the already-approved "first 5 calls or emails free" line if price is mentioned at all). Do not invent money values or new terms. Subjects start "Adam from HowToDumpIt: ". Links without https://. American spelling. First-name greeting when the org's own site names a person, otherwise "Hi {Org short} team,". Warm personal opening only when we have a true detail (never invent). Real benefit + altruism (usable items out of landfill). Signature exactly as below. Keep the body to about five short lines.
+
+### Hauler version
+
+**Subject:** Adam from HowToDumpIt: You're listed on our {City} junk guide (Featured spot still open)
+
+Hi {Name},
+
+{Optional personal line when we have a true detail; otherwise omit this paragraph entirely.}
+
+I added {Org} to our free {City} junk guide as a Basic Listing (name, phone and website from your site): {city page URL}. HowToDumpIt helps neighbors donate and recycle what's usable and keep the rest out of the landfill while supporting local crews like yours.
+
+The one Featured spot at the top of the page is still open if you want it. Your first 5 calls or emails are free; details: howtodumpit.com/become-a-featured-partner/
+
+Reply "top spot" or "looks good" if you want any change to your listing.
+
+Best regards
+
+Adam Wells,
+Founder
+
+### Nonprofit version
+
+**Subject:** Adam from HowToDumpIt: You're listed on our {City} junk guide (Featured spot still open)
+
+Hi {Name},
+
+{Optional personal line when we have a true detail; otherwise omit this paragraph entirely.}
+
+I added {Org} to our free {City} junk guide as a Basic Listing (name, phone and website from your site): {city page URL}. HowToDumpIt helps neighbors donate and recycle what's usable and keep the rest out of the landfill while supporting local organizations like yours.
+
+The one Featured spot at the top of the page is still open if you want it. Your first 5 calls or emails are free; details: howtodumpit.com/become-a-featured-partner/
+
+Reply "top spot" or "looks good" if you want any change to your listing.
+
+Best regards
+
+Adam Wells,
+Founder
+
+### 2nd-touch follow-up (hauler or nonprofit)
+
+**Subject:** Adam from HowToDumpIt: Quick follow-up on your {City} listing
+
+Hi {Name},
+
+Just a quick follow-up: {Org} is already on our {City} guide as a free Basic Listing ({city page URL}). The one Featured spot at the top is still open. Your first 5 calls or emails are free; details: howtodumpit.com/become-a-featured-partner/
+
+Reply "top spot" or "looks good" if you'd like any change to the listing.
+
+Best regards
+
+Adam Wells,
+Founder

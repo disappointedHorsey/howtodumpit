@@ -1,6 +1,7 @@
 # Changelog
 
 ## 11/02/2026 (Partner listings on city guides)
+- 11/02/2026: Footer adds Adam Wells LinkedIn (https://www.linkedin.com/in/adam-wells-18744b446) next to Sitemap on every page (brand proof per learnings 31/10; C008/F004).
 - City guides can take an optional front-matter `partners:` list (Basic / Verified / Featured). When present, `build.py` renders a **Local Junk Removal & Donation Partners** section: Basic cards show name, phone (`tel:` link) and website; Verified and Featured add a **Call Now** button; Featured sorts first with a **Featured Partner (Paid)** label (brand #111111 / #FFC20E). Official drop-off `listings:` cards are unchanged. No live partner businesses added yet (nightly run will).
 - Documented the partner-listing format in README.md for the nightly routine. `/become-a-featured-partner/` Basic Listing copy now matches the free offer: name, phone and website (Verified $8 / Featured $12 per call or email unchanged).
 - CSS partner card styles (`?v=20261102a`); consistency_check allows repeated "Call Now" link text across partner cards.
