@@ -64,6 +64,10 @@ City pickup runs on your trash day. If you can't wait or need it carried out of 
 
 LASAN's free, unlimited bulky item pickup takes **furniture (couches, tables, chairs)**, carpet (rolled and tied), toilets, sinks and doors. Book it the same way as a mattress: MyLA311, the online form, or 1-800-773-2489, **at least one business day before** your trash day. You can also use the **free monthly drop-off** (2026 Saturdays listed on LASAN's page). ([LASAN Bulky Item Pickup](https://sanitation.lacity.gov/services/schedule-bulky-item-pickup))
 
+### Outside City Limits?
+
+This guide covers the City of Los Angeles, where LA Sanitation & Environment (LASAN) runs bulky item pickup. **Apartments and condos** served by a recycLA Service Provider (a City-assigned private hauler) still get LASAN's unlimited, on-call bulky item pickup, paid for through the monthly Multi-Family Bulky Item Fee on the LADWP bill; book it the same way through MyLA311 or 1-800-773-2489. ([LASAN: Multi-Family Bulky Item Fee](https://sanitation.lacity.gov/services/multi-family-bulky-item-fee)) If you live in **unincorporated Los Angeles County**, LASAN doesn't serve you: your trash hauler and its free bulky item services depend on your area, so look up your address with LA County Public Works or call its franchise information hotline at 800-993-5844. ([LA County Public Works: Trash Collection](https://pw.lacounty.gov/epd/swims/TrashCollection/)) Neighboring cities such as Santa Monica, Beverly Hills, Culver City, Burbank and Glendale run their own trash services, so check your own city's page. If you live in an HOA or gated community, check with your HOA or property manager first.
+
 ## Appliances (Fridges, Freezers, AC: Freon) {#appliances}
 
 LASAN's bulky-item page lists **commercial appliances** as prohibited at the curb, but doesn't say clearly how household refrigerators or ACs are handled. **Ask LASAN at 1-800-773-2489 or MyLA311** before setting one out. ([LASAN Bulky Item Pickup](https://sanitation.lacity.gov/services/schedule-bulky-item-pickup))
