@@ -145,6 +145,8 @@ Updated 10/21/2026: content/become-a-featured-partner.md, content/for-haulers/in
 |---|---|---|---|---|
 | Charlotte, NC | Haulchemy (Oguz Gorgec, owner, info@haulchemy.com) | 10/21/2026 5:29 AM UTC (said yes) | Founding: 10 free leads, then $3/lead; monthly cap, pause or cancel anytime; disputed leads removed | 10/21/2026 6:37 AM UTC: Adam replied with answers and proposed wording; awaiting Oguz's OK plus lead phone and email; then Twilio number, publish, send live link. NOTE: our 10/21 reply to Oguz went out twice by accident. |
 
+> **Note 03/11/2026:** Haulchemy's reply (sent 21/10/2026, thread 1a15cde199086307) said "A call counts only if it lasts 60 seconds or more." Strictly Junk Removal's reply (sent 03/11/2026, thread 1a19e8c9d81d9441) said "(60 seconds or more)". Rule changed 03/11/2026: calls now count at 30 seconds or more (was 60). Internal only; partners not told.
+
 ## Sent 10/24/2026 (Adam said 'Send all of the emails that we agreed on'; sent unchanged from adam@howtodumpit.com)
 
 | # | To | Subject | Message id | Status |

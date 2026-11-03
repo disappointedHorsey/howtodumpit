@@ -8,6 +8,8 @@
 >
 > **NOTE:** Founding members from 10/21/2026 (listed in PITCHES.md "Founding members promised 10 free") keep their terms: $3 per call or email for the Featured Partner spot, $2 as a Verified Partner, first 10 calls or emails free. Every email below is for new prospects only.
 >
+> **NOTE:** 03/11/2026: the site no longer mentions founding terms; public offer is first 5 calls or emails free for every new partner. Existing founding members' deals stay recorded internally.
+>
 > **NOTE (10/27/2026, comms rule):** Subjects always start "Adam from HowToDumpIt: ". Never put "Re:" after the prefix. A follow-up that is a reply in the same thread keeps the thread's subject; a follow-up that would lose the prefix goes as a new email with the follow-up subject below. Use the canonical terms in /workspace/company/rules/comms-consistency.md ("calls or emails", not "leads" or "customers", in anything a prospect reads).
 
 > **NOTE (10/28/2026, HARD RULE):** Every email ends with exactly these four lines (blank line after Best regards; comma after Adam Wells; nothing else — no title, email, website, or tagline):
