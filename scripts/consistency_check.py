@@ -32,7 +32,7 @@ BANNED = [
     (r"(?i)\bjunk pickup\b(?!.{0,40}san jos)", None),  # placeholder, filtered below
     (r"(?i)\b(we|our crews?|our trucks?) (will )?(haul|pick up|remove)s?\b(?! anything)", 'we are info-only: we never haul, pick up or remove anything'),
     (r"(?i)\bguarantee[ds]?\b", "never overpromise: no guarantees"),
-    (r"(?i)\bper lead\b", 'pricing is "per call or email" (a tracked call of 60 seconds or more, or an email)'),
+    (r"(?i)\bper lead\b", 'pricing is "per call or email" (a tracked call of 30 seconds or more, or an email)'),
     (r"(?i)\bpremium (partner|listing)\b", 'partner tiers are "Basic Listing", "Verified Partner", "Featured Partner"'),
 ]
 BANNED = [b for b in BANNED if b[1]]

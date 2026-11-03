@@ -18,14 +18,14 @@ Any legitimate local junk removal business, hauler, cleanout crew, reuse center 
 - A **"Call Now" button**
 - **Your own tracking phone number** on our page that forwards to your real phone
 - A **quote form** so customers can email you a request
-- You pay **$8 for each tracked call (60 seconds or more) or email** we send you
+- You pay **$8 for each tracked call (30 seconds or more) or email** we send you
 
 ### 3. Featured Partner: $12 per Call or Email
 
 - **The one Featured spot at the top** of a city's hauler section, clearly labeled **"Featured Partner (Paid)"**
 - Everything a Verified Partner gets, plus your logo and a short blurb
 - **Only one Featured Partner per city, first come, first served.** It goes to the first hauler who says yes and stays yours for as long as you're a partner.
-- You pay **$12 for each tracked call (60 seconds or more) or email** we send you
+- You pay **$12 for each tracked call (30 seconds or more) or email** we send you
 
 People mostly call whoever is listed first, so the top spot is where most calls go, but the choice is yours.
 
@@ -34,11 +34,10 @@ People mostly call whoever is listed first, so the top spot is where most calls 
 - **New partners: your first 5 calls or emails are free.**
 - **No leads, no pay.** After your free 5, you pay only for each real customer who contacts you through us.
 - **No upfront fee, no card and no contract.**
-- **Founding partners keep the terms they signed up on.**
 
 ## How Billing Works
 
-- **Calls count only at 60 seconds or more**, so quick hang-ups and wrong numbers are never billed.
+- **Calls count only at 30 seconds or more**, so quick hang-ups and wrong numbers are never billed.
 - **We bill only once you owe at least $25.**
 - **Set a monthly spending cap** if you like, and **pause or cancel anytime**.
 - **Any lead that wasn't a real customer inquiry is removed** if you flag it.
