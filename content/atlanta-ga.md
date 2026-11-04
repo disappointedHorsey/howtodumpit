@@ -24,6 +24,24 @@ partners:
   website: https://www.atlantahabitat.org/restore
   note: Takes donations of home goods and building materials in good condition at 271 Chester Ave SE, Atlanta; open Tuesday to Saturday, 11 a.m. to 5 p.m.
   source_checked: 2026-11-04
+- tier: basic
+  name: Peachtree Junk Removal
+  phone: '(770) 676-0810'
+  website: https://www.peachtreejunkremoval.com/
+  note: Locally owned since 2009 at 3006 Clairmont Rd, Atlanta; serves Metro Atlanta and says 65% of what it hauls is recycled.
+  source_checked: 2026-11-04
+- tier: basic
+  name: Jones Junk Removal LLC
+  phone: '404-996-5760'
+  website: https://jonesjunkremovalservice.com/
+  note: Family-owned and locally operated crew serving Metro Atlanta, from single items to full cleanouts.
+  source_checked: 2026-11-04
+- tier: basic
+  name: Gudbye Junk Removal
+  phone: '(470) 516-6247'
+  website: https://gudbyejunk.com/
+  note: Family-run crew at 1410 Seaboard Industrial Blvd NW, Atlanta; donates and recycles before disposal.
+  source_checked: 2026-11-04
 ---
 # Junk Disposal in Atlanta, GA: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 
