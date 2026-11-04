@@ -1,5 +1,10 @@
 # Changelog
 
+## 11/05/2026 (Nightly catch-up: Kansas City, MO guide)
+- New guide /kansas-city-mo/: free City bulky item pickup by appointment (single-family and 6 units or fewer; 15 items, 500 lb; set out 3 p.m. day before to 7 a.m.; refrigerant appliances flagged at booking), KC Water HHW facility (4707 Deramus Ave, free for KCMO and participating communities; hours conflict with Jackson County page shown), Kansas-side HHW referrals, leaf and brush curbside rounds and drop-off sites, Midwest Recycling Center e-waste, Habitat KC ReStore. Sources: kcmo.gov, kcwater.us, jacksongov.org, habitatkc.org, epa.gov. Three free Basic Listings: Habitat for Humanity KC ReStore, GI Junk Removal, ClearPath Junk Removal. verified: 2026-11-05. Unverified items logged in BACKLOG.
+- Cause: the Nightly directory page routine did not run for 11/05 (second missed night); shipped manually as a catch-up.
+- Checks: consistency_check 59 pages, 0 problems; mobile check 59 pages x 5 widths, 0 FAIL, 0 WARN. Page commit f536036; live URL 200 with all three names. v2 pitches sent to all three. Next nightly city: Mesa, AZ.
+
 ## 11/04/2026 (Nightly catch-up: Atlanta, GA guide)
 - New guide /atlanta-ga/ (census.gov Vintage 2025 rank #36): 12 free scheduled City bulk collections a year for single-family residents (on the regular collection day since February 16, 2026; 8 cubic yards each; set out after 7 p.m. the night before; cancel by 3 p.m.), apartment/rental exclusion and Outside City Limits note (DeKalb County Solid Waste Management, neighboring cities, HOAs), CHaRM Atlanta and DeKalb (Live Thrive) for mattresses, appliances, electronics, paint and chemicals with posted resident fees, City latex paint dry-out rule, Atlanta Recycles Day. Sources: atlantaga.gov DPW pages, atl311.com KB0011524, livethrive.org, dekalbcountyga.gov, epa.gov. One free Basic Listing: Atlanta Habitat for Humanity ReStore Atlanta. verified: 2026-11-04. Unverified items logged in BACKLOG.
 - Cause: the Nightly directory page routine did not run for 11/04 (last recorded run 1:24 AM Sydney on November 3, 2026, which shipped Sacramento); shipped manually as a catch-up.
