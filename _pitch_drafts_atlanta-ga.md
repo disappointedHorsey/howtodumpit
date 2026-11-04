@@ -1,6 +1,6 @@
 # Pitch drafts: Atlanta, GA (11/04/2026, free-listing-first v2)
 
-Template: PITCH-TEMPLATE.md "Free-listing-first pitch (v2)", approved by Adam 02/11/2026. Each org is on howtodumpit.com/atlanta-ga/ as a free Basic Listing (Habitat in commit b160ffc; the three haulers added with these drafts). No personal opener: no past notes or emails exist for any of these orgs. No person is named on any org's own site, so team greetings (rule 19c). From: Adam Wells <adam@howtodumpit.com>. Plain text. STATUS: drafted, not sent.
+Template: PITCH-TEMPLATE.md "Free-listing-first pitch (v2)", approved by Adam 02/11/2026. Each org is on howtodumpit.com/atlanta-ga/ as a free Basic Listing (Habitat in commit b160ffc; the three haulers added with these drafts). No personal opener: no past notes or emails exist for any of these orgs. No person is named on any org's own site, so team greetings (rule 19c). From: Adam Wells <adam@howtodumpit.com>. Plain text. STATUS: SENT 11/04/2026 from adam@howtodumpit.com.
 
 ---
 
