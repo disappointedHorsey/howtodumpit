@@ -1,5 +1,12 @@
 # Changelog
 
+## 11/06/2026 (Nightly: Mesa, AZ guide; Houston Outside City Limits; San Antonio partner backfill)
+- New guide /mesa-az/ (census.gov Vintage 2025 rank #38, 513,656): scheduled City Bulk Item Pick-up (from $31/load Mesa customers; mattresses/furniture/TVs), Appliance Recycling ($19 + $11 Freon), free HHM facility for Green & Clean residents (2412 N. Center St.), Outside City Limits note (Maricopa County no hauling; Tempe/Gilbert/Chandler; HOAs). Sources: mesaaz.gov, maricopa.gov, tempe.gov, gilbertaz.gov, chandleraz.gov, epa.gov. Three free Basic Listings: Dale's Hauling and Junk Removal, Elite Eco Junk, Arizona Metro Hauling. verified: 2026-11-06. Commit bc29737; live 200.
+- Houston Outside City Limits backfill (largest missing top city): City eligibility, unincorporated Harris County/MUD private haulers, Precinct 2 Keep2Clean drop-offs, neighboring cities. Same commit bc29737; live 200.
+- San Antonio top-city partner backfill: three Basic Listings (San Antonio Junk Removal, StraightUp Junk Removal, Habitat SA Habitat Home Center), commit ab8e7a0; live 200 before pitches.
+- Checks: consistency_check 60 pages 0 problems; mobile_check 60 pages x 5 widths 0 FAIL 0 WARN. v2 pitches sent to all 6 (message ids in PITCHES.md). Next city: Raleigh, NC. Next OCL: Phoenix. Next top-city partner: San Diego.
+
+
 ## 11/05/2026 (Nightly catch-up: Kansas City, MO guide)
 - New guide /kansas-city-mo/: free City bulky item pickup by appointment (single-family and 6 units or fewer; 15 items, 500 lb; set out 3 p.m. day before to 7 a.m.; refrigerant appliances flagged at booking), KC Water HHW facility (4707 Deramus Ave, free for KCMO and participating communities; hours conflict with Jackson County page shown), Kansas-side HHW referrals, leaf and brush curbside rounds and drop-off sites, Midwest Recycling Center e-waste, Habitat KC ReStore. Sources: kcmo.gov, kcwater.us, jacksongov.org, habitatkc.org, epa.gov. Three free Basic Listings: Habitat for Humanity KC ReStore, GI Junk Removal, ClearPath Junk Removal. verified: 2026-11-05. Unverified items logged in BACKLOG.
 - Cause: the Nightly directory page routine did not run for 11/05 (second missed night); shipped manually as a catch-up.
