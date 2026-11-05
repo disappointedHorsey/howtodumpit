@@ -78,6 +78,10 @@ Heavy trash comes every other month. To find drop-off options, use the HTX Colle
 
 Household furniture (couches, tables, dressers) and carpet (bundled) go out on your **heavy trash** date. Use the same set-out window: **6 p.m. the Friday before through 7 a.m. collection day**, just behind the curb. Houston also lists **six Residential Drop-Off Centers** for bulk items. ([Heavy Trash](https://www.houstontx.gov/solidwaste/heavytrash.html); [Drop-Off Centers](https://www.houstontx.gov/solidwaste/dropoff.html))
 
+### Outside City Limits?
+
+City of Houston heavy trash and garbage service is limited to **occupied residential units that receive City of Houston curbside service** (not multi-residential buildings with more than eight units). ([Houston Solid Waste: Heavy Trash](https://www.houstontx.gov/solidwaste/heavytrash.html)) ([Residential Garbage](https://www.houstontx.gov/solidwaste/garbage.html)) If you live in **unincorporated Harris County**, the City does not collect your trash: service usually comes through a municipal utility district (MUD) or a private hauler, so check with your MUD or hauler for bulky-item rules. Harris County Precinct 2 also runs free **heavy trash and recycling drop-off** events on the **third Saturday of each month** (except December), 8 a.m. to 1 p.m., at the Hardy/Aldine Maintenance Camp (11801 West Hardy Rd., Houston, TX 77076) and the Wade Rd. Maintenance Camp (8103 Wade Rd., Baytown, TX 77521). ([Harris County Precinct 2: Keep2Clean](https://www.hcp2.com/Keep2Clean)) Neighboring cities such as Pasadena, Pearland, Sugar Land and The Woodlands run their own trash services, so check your own city's page. If you live in an apartment or HOA with a private hauler, ask your property manager how bulky items are handled.
+
 ## Appliances (Fridges, Freezers, AC: Freon) {#appliances}
 
 Stoves, washers, dryers and water heaters are accepted as heavy trash. **Refrigerators and freezers are accepted only with a certified technician's tag showing the refrigerant has been removed.** ([Heavy Trash](https://www.houstontx.gov/solidwaste/heavytrash.html))
