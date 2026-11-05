@@ -17,6 +17,25 @@ listings:
   cost: See official page
   details: The City provides curbside brush and bulky item collection twice a year. Look up your collection dates and check the accepted-materials list and set-out requirements on the City's page before putting a mattress out.
   source: https://www.sa.gov/Directory/Departments/SWMD/Brush-Bulky
+partners:
+- tier: basic
+  name: San Antonio Junk Removal
+  phone: '(210) 508-4030'
+  website: https://sajunk.com/
+  note: Family-owned San Antonio crew; donates usable items and recycles up to 70% of what it hauls.
+  source_checked: 2026-11-06
+- tier: basic
+  name: StraightUp Junk Removal
+  phone: '(210) 609-2307'
+  website: https://straightupjunkremoval.com/
+  note: Owner-operated San Antonio hauler covering about a 35-mile radius of Bexar County.
+  source_checked: 2026-11-06
+- tier: basic
+  name: Habitat for Humanity of San Antonio Habitat Home Center
+  phone: '210-223-3647'
+  website: https://habitatsa.org/habitat-home-center/
+  note: Three San Antonio Home Centers accepting furniture, appliances and building materials; proceeds fund local homebuilding.
+  source_checked: 2026-11-06
 ---
 # Junk Disposal in San Antonio, TX: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 
