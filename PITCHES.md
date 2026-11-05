@@ -119,7 +119,7 @@ Outbound pitches. From 10/20/2026 all mail goes from Adam Wells <adam@howtodumpi
 | 11/06/2026 | Dale's Hauling and Junk Removal (Mesa) | Dale | Dale Ford, owner | daleshauling.com | daleRford@cox.net | Adam from HowToDumpIt: You're listed on our Mesa junk guide (Featured spot still open) | 1a1ac20de815be60 | SENT 11/06/2026 ~1:33 AM AEDT from adam@ (standing v2 permission 11/02 + Adam 04/11 nightly outreach). Basic Listing live before send (commit bc29737, live 200, name on page). No bounce at ~5-min check (mailer-daemon/postmaster incl. spam, 11/06 ~1:40 AM AEDT). v2 free-listing-first (hauler. Verified: Mesa-based veteran-owned, 602-329-6887, serves Mesa/AJ/Queen Creek/Chandler/Gilbert/Tempe, donates reusable items. Greeting Dale). Drafts in _pitch_drafts_mesa-az.md. v2 follow-up due 11/13/2026 if no reply. |
 | 11/06/2026 | Elite Eco Junk (Mesa) | Tony | Tony, founder | elite-ecojunk.com | Info@elite-ecojunk.com | Adam from HowToDumpIt: You're listed on our Mesa junk guide (Featured spot still open) | 1a1ac20e49a613b7 | SENT 11/06/2026 ~1:33 AM AEDT from adam@ (standing v2). Basic Listing live (commit bc29737). No bounce at ~5-min check (11/06 ~1:40 AM AEDT). v2 free-listing-first (hauler. Verified: locally owned Mesa, (602) 877-4288, recycling/donation focus. Greeting Tony). Drafts in _pitch_drafts_mesa-az.md. v2 follow-up due 11/13/2026 if no reply. |
 | 11/06/2026 | Arizona Metro Hauling (Mesa) | – | – | – | info@azmetrohauling.com | Adam from HowToDumpIt: You're listed on our Mesa junk guide (Featured spot still open) | 1a1ac20ece0b03dc | SENT 11/06/2026 ~1:33 AM AEDT from adam@ (standing v2). Basic Listing live (commit bc29737). No bounce at ~5-min check (11/06 ~1:40 AM AEDT). v2 free-listing-first (hauler. Verified: azmetrohauling.com serves Mesa/Tempe/Chandler/Gilbert and Valley, 480-233-2131, donates/recycles. Team greeting). Drafts in _pitch_drafts_mesa-az.md. v2 follow-up due 11/13/2026 if no reply. |
-| 11/06/2026 | San Antonio Junk Removal (San Antonio) | – | – | – | info@sajunk.com | Adam from HowToDumpIt: You're listed on our San Antonio junk guide (Featured spot still open) | 1a1ac20f3f174a74 | SENT 11/06/2026 ~1:33 AM AEDT from adam@ (standing v2; top-city partner backfill). Basic Listing live before send (commit ab8e7a0, live 200). BOUNCED 11/06/2026 ~1:33 AM AEDT — Delivery Status Notification (Failure) to info@sajunk.com (address not found / unable to receive; bounce msg 1a1ac21062586d98). DO NOT re-contact info@sajunk.com. Listing stays. No alternate own-site email used this run. Drafts in _pitch_drafts_san-antonio-tx.md. |
+| 11/06/2026 | San Antonio Junk Removal (San Antonio) | – | – | – | info@sajunk.com | Adam from HowToDumpIt: You're listed on our San Antonio junk guide (Featured spot still open) | 1a1ac20f3f174a74 | SENT 11/06/2026 ~1:33 AM AEDT from adam@ (standing v2; top-city partner backfill). Basic Listing live before send (commit ab8e7a0, live 200). DROPPED (bounced) 11/06/2026: Delivery Status Notification (Failure) to info@sajunk.com (address not found / unable to receive; bounce msg 1a1ac21062586d98). Own site sajunk.com rechecked 11/06/2026 (home; /contact 404): only info@sajunk.com published. Never contact again. Listing stays on /san-antonio-tx/. Drafts in _pitch_drafts_san-antonio-tx.md. |
 | 11/06/2026 | StraightUp Junk Removal (San Antonio) | Roland | Roland, owner | straightupjunkremoval.com | roland@straightupjunkremoval.com | Adam from HowToDumpIt: You're listed on our San Antonio junk guide (Featured spot still open) | 1a1ac20fa1a269de | SENT 11/06/2026 ~1:33 AM AEDT from adam@ (standing v2; top-city partner backfill). Basic Listing live (commit ab8e7a0). No bounce at ~5-min check (11/06 ~1:40 AM AEDT). v2 free-listing-first (hauler. Verified: owner-operated SA ~35-mile Bexar radius, (210) 609-2307. Greeting Roland). Drafts in _pitch_drafts_san-antonio-tx.md. v2 follow-up due 11/13/2026 if no reply. |
 | 11/06/2026 | Habitat for Humanity of San Antonio Habitat Home Center (San Antonio) | – | – | – | info@habitatsa.org | Adam from HowToDumpIt: You're listed on our San Antonio junk guide (Featured spot still open) | 1a1ac2105e32de0b | SENT 11/06/2026 ~1:33 AM AEDT from adam@ (standing v2; top-city partner backfill). Basic Listing live (commit ab8e7a0). No bounce at ~5-min check (11/06 ~1:40 AM AEDT). v2 free-listing-first (nonprofit. Verified: habitatsa.org/habitat-home-center/, 311 Probandt + 2 other SA stores, 210-223-3647; info@ on contact page. Team greeting). Drafts in _pitch_drafts_san-antonio-tx.md. v2 follow-up due 11/13/2026 if no reply. |
 
@@ -182,6 +182,7 @@ Updated 10/21/2026: content/become-a-featured-partner.md, content/for-haulers/in
 | 15 | jhjremoval@yahoo.com | Adam from HowToDumpIt: Claim the top spot on our Jacksonville junk guide: your first 10 customers are free | 1a16be6a3a4821ca | Sent 10/24/2026. BOUNCED 10/24 03:14 UTC (Yahoo 552 mailbox not found; NOT an auth failure; bounce msg 1a16be6b100fef29). Not delivered (3rd failed send). Address appears dead; call 904-775-8120 |
 
 ## Dropped prospects (Adam 10/24/2026: forget prospects that bounce; never contact again, no calls, no retries)
+- San Antonio Junk Removal (info@sajunk.com): DROPPED (bounced) 11/06/2026 — Google Delivery Status Notification (Failure), address not found (bounce 1a1ac21062586d98). Own site sajunk.com rechecked 11/06/2026: only info@ published. Never contact again. Basic Listing remains on /san-antonio-tx/.
 - Haul It Gone (Info@GoHaulItGone.com / Info@gohaulitgone.com): DROPPED 11/03/2026 (Sydney), bounced 11/02/2026 23:16 UTC — Google 550 5.1.1 account does not exist (Porkbun MAILER-DAEMON bounce 1a19e8ccefcfff1b). Never contact again. Basic Listing remains on /new-york-ny/.
 - Charm City Haulers (info@charmcityhaulers.com): DROPPED 11/01/2026, bounced (Porkbun 4.4.1 connection timed out). Resent same day to charmcityhaulers@gmail.com (msg 1a199984ae4b89c9); never contact info@ again.
 - Jacksonville Hauling & Junk Removal (jhjremoval@yahoo.com): DROPPED 10/24/2026, bounced
@@ -210,3 +211,23 @@ Gmail verified first (all mail incl. spam/trash): no replies and no prior follow
 | Furniture Bank of Metro Detroit | Detroit, MI | donations@furniture-bank.org | 1a19ad5de8a7fe13 |
 
 Note: v2 free-listing follow-up not used (prospects not yet on Basic Listing cards). Baltimore and later pitches not yet 7 days old as of 02/11/2026.
+
+## Follow-up #2 sent 04/11/2026 (C002; pre-approved template section 2/4; new emails from adam@)
+Gmail verified first: no replies. Bounce check (STATUS pitch-reply watch 05/11): **no bounces**.
+
+| Org | City | To | Message id |
+|---|---|---|---|
+| TurboHaul | Baltimore, MD | pickup@turbohaul.com | 1a1a39106e8582e4 |
+| Habitat for Humanity of the Chesapeake ReStores | Baltimore, MD | info@habitatchesapeake.org | 1a1a39119198a8af |
+
+## Follow-up #2 sent 06/11/2026 (C002; pre-approved template section 2/4; new emails from adam@)
+Gmail verified first (all mail incl. spam/trash): no replies and no prior FU2 for these six. Bounce check (~3 min, all mail incl. spam/trash): **no bounces**. Albuquerque FU2 due 07/11 (not sent). Never contact 901restore@memphishabitat.com (prior bounce); Memphis Habitat FU2 used restoredonations@ only.
+
+| Org | City | To | Message id |
+|---|---|---|---|
+| Fuzzy's Junk Removal | Memphis, TN | josh@fuzzysjunkremoval.com | 1a1ade08200ea92a |
+| The Junk Llamas | Memphis, TN | contact-us@thejunkllamas.com | 1a1ade0893e86589 |
+| Habitat for Humanity of Greater Memphis ReStore | Memphis, TN | restoredonations@memphishabitat.com | 1a1ade08d0bbd28c |
+| Junk Yetis | Milwaukee, WI | alis@junkyetis.com | 1a1ade0928225b83 |
+| Clutter Punch Junk Removal | Milwaukee, WI | clutterpunchjunkremoval@gmail.com | 1a1ade09813c35f3 |
+| BlaackBeard Junk Removal | Milwaukee, WI | blaackbeardjunkremoval@gmail.com | 1a1ade09e0227309 |
