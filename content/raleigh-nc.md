@@ -17,6 +17,25 @@ listings:
   cost: 'No fee listed for up to two mattresses or box springs per day at Sites 1, 2, 4, 7 and 11 (residency verification required). Additional mattresses may go to the South Wake Landfill shredder for a processing fee (confirm amount before you drive).'
   details: 'Sites that take mattresses include Site 1 (10505 Old Stage Road, Raleigh), Site 4 (3600 Yates Mill Pond Road, Raleigh), Site 5 is not on the mattress list, Site 7 (9024 Deponie Drive, Raleigh), plus Apex Site 2 and Wendell Site 11. Open daily 7 a.m. to 7 p.m. (holiday closures listed on the County page).'
   source: https://www.wake.gov/departments-government/solid-waste-management/facilities/convenience-centers
+partners:
+- tier: basic
+  name: McJunk
+  phone: '(919) 850-4377'
+  website: https://www.mc-junk.com/
+  note: Locally owned Raleigh Triangle junk removal since 2008; sorts for donation and recycling.
+  source_checked: 2026-11-07
+- tier: basic
+  name: Junk Wranglers and Removal
+  phone: '919-695-2673'
+  website: https://junkwranglersandremoval.com/
+  note: Locally owned junk removal serving Wake Forest, Raleigh, North Raleigh and nearby Wake County towns; recycles or donates when possible.
+  source_checked: 2026-11-07
+- tier: basic
+  name: Habitat Wake Raleigh ReStore
+  phone: '919-833-6768'
+  website: https://www.trianglerestores.org/raleigh
+  note: Flagship Habitat Wake ReStore at 2420 N. Raleigh Blvd.; accepts furniture, appliances and building materials.
+  source_checked: 2026-11-07
 ---
 # Junk Disposal in Raleigh, NC: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

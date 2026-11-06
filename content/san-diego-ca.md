@@ -17,6 +17,25 @@ listings:
   cost: See site
   details: California's statewide mattress recycling program lists other participating collection sites.
   source: https://byebyemattress.com/find-a-facility/
+partners:
+- tier: basic
+  name: Haul Away Any Day
+  phone: '(619) 277-7241'
+  website: https://haulawayanyday.com/
+  note: Family-owned San Diego junk removal; recycles and donates when possible.
+  source_checked: 2026-11-07
+- tier: basic
+  name: ARC Junk Removal San Diego
+  phone: '619-739-3389'
+  website: https://arcjunkremovalsandiego.com/
+  note: Locally owned San Diego County junk removal; donates usable items and recycles metals.
+  source_checked: 2026-11-07
+- tier: basic
+  name: San Diego Habitat for Humanity ReStore
+  phone: '(619) 241-2221'
+  website: https://www.sandiegohabitat.org/what-can-i-donate-to-the-restore/
+  note: Countywide ReStores accepting furniture, appliances and building materials; donation pickup available.
+  source_checked: 2026-11-07
 ---
 # Junk Disposal in San Diego, CA: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

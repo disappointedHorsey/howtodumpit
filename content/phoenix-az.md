@@ -1,7 +1,7 @@
 ---
 title: 'Junk Disposal in Phoenix, AZ: Mattresses, Couches, Appliances, TVs & Paint'
 description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in Phoenix, AZ: city pickup, drop-off sites and rules, with links to official sources.'
-verified: '2026-10-12'
+verified: '2026-11-07'
 city: Phoenix
 state: AZ
 short: Phoenix, AZ
@@ -72,6 +72,11 @@ Self-haul to a city transfer station (see listing above) or use a paid junk remo
 ## Couches and Furniture {#furniture}
 
 Furniture is bulk trash. **Book a bulk trash appointment** (phoenix.gov/bulktrash or 602-262-6251) and follow the placement rules in the mattress section: within 5 feet of the curb, by 5:30 a.m., no earlier than 7 days before. Furniture known or suspected to have **bed bugs** is not accepted. ([Phoenix Bulk Trash](https://www.phoenix.gov/administration/departments/publicworks/residential-trash-recycling/bulk-trash-pickup.html))
+
+
+### Outside City Limits?
+
+This guide covers **Phoenix city limits** and City of Phoenix bulk-trash customers. **Maricopa County does not provide** solid waste, bulk trash, household hazardous waste or recycling collection: incorporated cities run their own programs, and **unincorporated** areas use **private haulers**. ([Maricopa County: Refuse Collection Services](https://www.maricopa.gov/2977/Refuse-Collection-Services)) Neighboring cities such as **Scottsdale** and **Tempe** run their own bulk programs, so check your own city's page ([Scottsdale Brush and Bulk Collection](https://www.scottsdaleaz.gov/solid-waste/collection-services/brush-and-bulk-collection); [Tempe bulk trash and green organics](https://www.tempe.gov/government/public-works/solid-waste-and-recycling/bulk-uncontained-garbage-and-green-organics)). If you live in an HOA or apartment with a private hauler, ask your property manager how bulky items are handled.
 
 ## Appliances (Fridges, Freezers, AC: Freon) {#appliances}
 
