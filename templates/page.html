@@ -10,7 +10,7 @@
 <link rel="icon" href="/static/brand/favicon.ico" sizes="16x16 32x32 48x48">
 <link rel="icon" href="/static/brand/howtodumpit-monogram.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/static/brand/apple-touch-icon.png">
-<link rel="stylesheet" href="/static/style.css?v=20261102a"></head>
+<link rel="stylesheet" href="/static/style.css?v=20261107a"></head>
 <body>
 <a class="skip" href="#main">Skip to Content</a>
 <header class="site-header"><div class="wrap bar">
@@ -29,8 +29,7 @@ $after</article></main>
 <p class="small"><a href="/">Home</a> &middot; <a href="/mattress-disposal/">Junk Removal</a> &middot; <a href="/for-haulers/">For Haulers</a> &middot; <a href="/become-a-featured-partner/">Become a Featured Partner</a> &middot; <a href="mailto:adam@howtodumpit.com">Contact</a> &middot; <a href="/privacy/">Privacy</a> &middot; <a href="/privacy/#do-not-sell-or-share-my-personal-information">Do Not Sell or Share My Personal Information</a> &middot; <a href="/sitemap.xml">Sitemap</a> &middot; <a href="https://www.linkedin.com/in/adam-wells-18744b446" rel="noopener noreferrer" target="_blank">LinkedIn</a> &middot; &copy; $year $site_name</p>
 </div></footer>
 <script>
-(function(){var q=document.getElementById('city-q');if(!q)return;var cards=document.querySelectorAll('#city-list .card'),none=document.getElementById('no-match');
-q.addEventListener('input',function(){var v=q.value.trim().toLowerCase(),n=0;cards.forEach(function(c){var m=!v||c.dataset.search.indexOf(v)>-1;c.hidden=!m;if(m)n++;});none.hidden=n>0;});})();
+(function(){var s=document.getElementById('city-select');if(!s)return;s.addEventListener('change',function(){if(s.value)location.href=s.value;});})();
 </script>
 <script data-goatcounter="https://howtodumpit.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </body></html>

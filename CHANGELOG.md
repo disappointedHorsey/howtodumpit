@@ -1,9 +1,15 @@
 ## 11/07/2026 (Nightly: Raleigh, NC guide; Phoenix Outside City Limits; San Diego partner backfill)
+
 - New guide /raleigh-nc/ (census.gov Vintage 2025 SUB-IP-EST2025-ANNRNK rank #39, 506,306): City Bulky Load ($35/load) and Special Load ($70/load), free Monday E-waste (up to 4/week), Wake County Convenience Centers (mattresses), Multi-Material Recycling Facilities (appliances/electronics), Wake County HHW (North Wake fire service update), Outside City Limits (Cary/Apex/Wake County/HOAs), NC DEQ landfill bans for TVs/computers/white goods. Sources: raleighnc.gov, wake.gov, carync.gov, apexnc.org, deq.nc.gov, epa.gov. Three free Basic Listings: McJunk, Junk Wranglers and Removal, Habitat Wake Raleigh ReStore. verified: 2026-11-07.
 - Phoenix Outside City Limits backfill (largest missing top city): Maricopa County no hauling; Scottsdale Brush and Bulk; Tempe bulk trash and green organics; HOAs. verified bumped to 2026-11-07.
 - San Diego top-city partner backfill: three Basic Listings (Haul Away Any Day, ARC Junk Removal San Diego, San Diego Habitat for Humanity ReStore).
 - Checks: consistency_check 61 pages 0 problems; mobile_check 61 pages x 5 widths 0 FAIL 0 WARN. v2 pitches sent (message ids in PITCHES.md). Next city: Colorado Springs, CO. Next OCL: Philadelphia. Next top-city partner: Dallas.
 - No v2 follow-ups due (earliest Sacramento FU due 11/09/2026).
+
+## 11/07/2026 (Home city picker: dropdown)
+- Home "Find Your City" replaced the scrolling card grid with a selectable dropdown. Choosing a city opens that guide.
+- Under the dropdown: "Your city/town not here? Drop us a line…" (mailto:adam@howtodumpit.com). Existing Want Your City or Town Listed callout still appears at the end of home and city guides.
+- CSS cache buster ?v=20261107a. consistency_check 61 pages 0 problems; mobile_check 61 pages x 5 widths 0 FAIL 0 WARN.
 
 # Changelog
 

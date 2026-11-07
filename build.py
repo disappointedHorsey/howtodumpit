@@ -223,17 +223,20 @@ def crumbs(u, title, titles):
     return '<nav class="crumbs" aria-label="Breadcrumb"><ol>' + "".join(items) + "</ol></nav>"
 
 def city_cards(pages):
-    cards = []
+    """Homepage city picker: a selectable dropdown (not a scrolling card grid)."""
+    opts = ['<option value="">Select your city or town</option>']
     for cu, cm, _, _ in sorted(pages, key=lambda x: x[1].get("city", "")):
         if not cm.get("city"): continue
         label = f'{cm["city"]}, {cm["state"]}'
-        cards.append(f'<li class="card" data-search="{html.escape(label.lower())} {html.escape(cm.get("slug_search",""))}">'
-                     f'<a href="{cu}"><span class="card-city">{html.escape(label)}</span>'
-                     f'<span class="card-go">Read Guide &rarr;</span></a></li>')
-    return ('<div class="search"><label for="city-q" class="sr">Search for Your City</label>'
-            '<input id="city-q" type="search" placeholder="Search your city, e.g. Houston" autocomplete="off"></div>'
-            '<ul class="cards" id="city-list">' + "".join(cards) + '</ul>'
-            '<p id="no-match" class="no-match" hidden>No guide for that city yet. Check your city\'s official sanitation or 311 page.</p>')
+        opts.append(f'<option value="{html.escape(cu)}">{html.escape(label)}</option>')
+    # Keep the existing request callout wording clearly under the dropdown.
+    under = ('<p class="city-not-here">Your city/town not here? '
+             '<a href="mailto:adam@howtodumpit.com">Drop us a line</a>&hellip;</p>')
+    return ('<div class="city-picker" id="city-list">'
+            '<label for="city-select">Your city or town</label>'
+            '<select id="city-select" name="city" autocomplete="address-level2">'
+            + "".join(opts) +
+            '</select></div>' + under)
 
 def main():
     if OUT.exists(): shutil.rmtree(OUT)
