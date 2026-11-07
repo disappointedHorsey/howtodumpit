@@ -120,6 +120,9 @@ Founder
 
 ## Free-listing-first pitch (v2, APPROVED by Adam 02/11/2026)
 
+> **SUPERSEDED IN PART 08/11/2026 (Adam 07/11 + 08/11 decisions):** use "Recommended", never "Featured"; replace the Featured/details line with: "There's one Recommended company profile at the top of the page, and it's still open. It's the first name {City} residents see, and your first five calls are free." then "Want our rate card? Just reply \"rates\" and I'll send it over." then the opt-out line "If you'd rather not hear from me again, reply \"stop\"." Subject ends "(Recommended spot still open)". Drop the "any change to your listing" line. Reference: /workspace/company/outreach/approval-batch-08-11-2026.md.
+
+
 > **APPROVED by Adam Wells on 02/11/2026.** Not a gate — use this for new pitches. Direction 02/11/2026 (Sydney): add the hauler or nonprofit to its city guide first as a free Basic Listing (name, phone and website, taken only from its own site), then email that they are already listed. Pricing lives on howtodumpit.com/become-a-featured-partner/ and is not spelled out in the email (except the already-approved "first 5 calls or emails free" line if price is mentioned at all). Do not invent money values or new terms. Subjects start "Adam from HowToDumpIt: ". Links without https://. American spelling. First-name greeting when the org's own site names a person, otherwise "Hi {Org short} team,". Warm personal opening only when we have a true detail (never invent). Real benefit + altruism (usable items out of landfill). Signature exactly as below. Keep the body to about five short lines.
 
 ### Hauler version
