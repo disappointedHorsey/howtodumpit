@@ -1,7 +1,8 @@
 ---
+
 title: 'Junk Disposal in Dallas, TX: Mattresses, Couches, Appliances, TVs & Paint'
 description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in Dallas, TX: city pickup, drop-off sites and rules, with links to official sources.'
-verified: '2026-10-12'
+verified: '2026-11-08'
 city: Dallas
 state: TX
 short: Dallas, TX
@@ -12,6 +13,25 @@ listings:
   cost: Included for residential customers up to 10 cubic yards; non-compliant/oversize set-outs billed $60 per 5 cubic yards
   details: Mattresses are on the accepted list. Up to 10 cubic yards monthly. Set out between Thursday and Sunday before your collection week, just behind the curb in front of your home. Not in the alley, street, or sidewalk, and not within 5 feet of carts, mailboxes, fences, meters, hydrants, poles, or parked cars. One 20-cubic-yard exception per year by 311 request.
   source: https://dallascityhall.com/departments/sanitation/pages/brush_and_bulky.aspx
+partners:
+- tier: basic
+  name: Lolo Hauling Junk Removal
+  phone: '(214) 870-8053'
+  website: https://lolohauling.com/
+  note: Locally owned Dallas junk removal serving homes and businesses across Dallas and nearby DFW communities.
+  source_checked: 2026-11-08
+- tier: basic
+  name: XB Junk Solutions
+  phone: '(214) 274-9094'
+  website: https://xbjunksolutions.com/
+  note: Locally owned same-day junk removal across Dallas–Fort Worth for furniture, appliances and cleanouts.
+  source_checked: 2026-11-08
+- tier: basic
+  name: Dallas Area Habitat for Humanity ReStore
+  phone: '(214) 678-2309'
+  website: https://dallasareahabitat.org/restore-donation/
+  note: Accepts gently used home items; free standard donation pickup when drivers are available.
+  source_checked: 2026-11-08
 ---
 # Junk Disposal in Dallas, TX: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

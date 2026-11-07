@@ -1,7 +1,7 @@
 ---
 title: 'Junk Disposal in Philadelphia, PA: Mattresses, Couches, Appliances, TVs & Paint'
 description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in Philadelphia, PA: city pickup, drop-off sites and rules, with links to official sources.'
-verified: '2026-10-12'
+verified: '2026-11-08'
 city: Philadelphia
 state: PA
 short: Philadelphia, PA
@@ -80,6 +80,11 @@ Self-haul to a convenience center or use a paid junk removal service.
 ## Couches and Furniture {#furniture}
 
 Compactible furniture like sofas goes out with **regular trash**, limited to **two items per week**. Furniture with a **wooden frame** goes out with regular trash. Furniture with a **metal frame** goes through the appointment-based **Bulk Collection** program (up to 4 items per appointment, one appointment per household per week; single-family homes and buildings up to six units). Book at bulkcollection.phila.gov or through 311. ([Residential trash rules](https://www.phila.gov/departments/department-of-sanitation/about/rules-and-regulations/residential-trash-and-recycling-rules/); [Bulk Collection](https://bulkcollection.phila.gov/))
+
+
+### Outside City Limits?
+
+This guide covers **Philadelphia city limits** and residents who get City of Philadelphia sanitation service. Neighboring counties and cities run their own programs: **Delaware County** does not provide curbside trash or large-item collection through the Solid Waste Authority — contact your **municipality** (or your private hauler) for mattresses, furniture and other bulky items ([Delaware County Solid Waste Authority: Recycling & Trash](https://www.delcoswa.org/160/Recycling-Trash)). **Montgomery County** likewise directs bulky and special waste questions to your township or hauler (County Recycling Hotline **610-278-3618**). Across the river, **Camden, NJ** residents schedule bulk pickup through the Department of Public Works at **856-757-7132** or **856-757-7139** ([City of Camden trash cart notice](https://www.camdennj.gov/wp-content/uploads/2025/03/TrashDisposal2025ENG.pdf)). If you live in an apartment, condo or building with more than six units, or an HOA with a **private hauler**, ask your property manager — City Bulk Collection is for single-family homes and buildings up to six units.
 
 ## Appliances (Fridges, Freezers, AC: Freon) {#appliances}
 
