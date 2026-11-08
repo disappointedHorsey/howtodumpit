@@ -43,12 +43,6 @@ partners:
   note: Locally owned Bronx crew; donates and recycles appliances and junk across the Bronx and nearby boroughs.
   source_checked: 2026-11-03
 - tier: basic
-  name: Haul It Gone
-  phone: '(347) 835-4563'
-  website: https://gohaulitgone.com/
-  note: Staten Island–based crew; donates usable items to Habitat ReStore and Goodwill before landfill.
-  source_checked: 2026-11-03
-- tier: basic
   name: Habitat NYC and Westchester ReStore
   phone: '(646) 876-9460'
   website: https://habitatnycwc.org/restore/

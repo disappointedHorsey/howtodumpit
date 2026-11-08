@@ -1,7 +1,7 @@
 ---
 title: 'Junk Disposal in San Antonio, TX: Mattresses, Couches, Appliances, TVs & Paint'
 description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in San Antonio, TX: city pickup, drop-off sites and rules, with links to official sources.'
-verified: '2026-10-12'
+verified: '2026-11-09'
 city: San Antonio
 state: TX
 short: San Antonio, TX
@@ -18,12 +18,6 @@ listings:
   details: The City provides curbside brush and bulky item collection twice a year. Look up your collection dates and check the accepted-materials list and set-out requirements on the City's page before putting a mattress out.
   source: https://www.sa.gov/Directory/Departments/SWMD/Brush-Bulky
 partners:
-- tier: basic
-  name: San Antonio Junk Removal
-  phone: '(210) 508-4030'
-  website: https://sajunk.com/
-  note: Family-owned San Antonio crew; donates usable items and recycles up to 70% of what it hauls.
-  source_checked: 2026-11-06
 - tier: basic
   name: StraightUp Junk Removal
   phone: '(210) 609-2307'
@@ -81,6 +75,10 @@ Call 3-1-1 or 210-207-6000.
 ## Couches and Furniture {#furniture}
 
 The four **Bulky Waste Collection Centers** accept **furniture** (not couch cushions soiled with blood or bed bugs). Bring the same CPS Energy bill and photo ID; bulky loads are limited to 4 cubic yards. The twice-yearly **curbside brush & bulky collection** is the other option. Check the City's accepted-materials list for curbside. ([Bulky Waste Collection Centers](https://www.sa.gov/Directory/Departments/SWMD/Brush-Bulky/Bulky-Drop-Off); [Brush & Bulky](https://www.sa.gov/Directory/Departments/SWMD/Brush-Bulky))
+
+### Outside City Limits?
+
+This guide covers **San Antonio city limits**, where the City's Solid Waste Management Department serves single-family homes (generally those on a public street). **Apartments and other multi-family properties** don't get City curbside service and use a **private hauler**, so ask your property manager about bulky items; private-street subdivisions and HOAs may also use a private hauler. ([San Antonio Information Bulletin 576: Solid Waste Collection Services (PDF)](https://docsonline.sanantonio.gov/FileUploads/DSD/IB576-SWMD.pdf)) **Unincorporated Bexar County** has no county-wide trash or bulky pickup. In five County program subdivisions (Candlewood, Camelot, Glen North, Glen South and Crownwood), the County's contract hauler offers bulk pickup up to **4 cubic yards once per quarter**; call Bexar County Solid Waste at **210-335-6644** with questions. Everywhere else in the unincorporated county, arrange bulky pickup with your own hauler. ([Bexar County: Solid Waste](https://www.bexar.org/3374/Solid-Waste)) Separate cities surrounded by San Antonio run their own service. For example, **Alamo Heights** doesn't pick up furniture, mattresses, refrigerators, AC units, stoves or water heaters ([City of Alamo Heights: Solid Waste](https://www.alamoheightstx.gov/departments/public-works/solid-waste/)). Check your own city's official page before you set anything out.
 
 ## Appliances (Fridges, Freezers, AC: Freon) {#appliances}
 

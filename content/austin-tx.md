@@ -17,6 +17,25 @@ listings:
   cost: '-'
   details: The City's Recycle and Reuse Center lists mattresses and furniture among items it does not accept.
   source: https://www.austintexas.gov/resource-recovery/locations/recycle-and-reuse-drop-center
+partners:
+- tier: basic
+  name: Dash Away Hauling
+  phone: '(512) 434-3929'
+  website: https://www.dashawayhauling.com/
+  note: Family-owned crew based in Lakeway, serving Austin and nearby Central Texas communities.
+  source_checked: 2026-11-09
+- tier: basic
+  name: Smiley's Junk Removal
+  phone: '(512) 787-1319'
+  website: https://smileysjunkremoval.com/
+  note: Owner Spencer and team serve Austin, Round Rock, Cedar Park, Pflugerville and nearby areas; loads are sorted for recycling.
+  source_checked: 2026-11-09
+- tier: basic
+  name: Austin Habitat for Humanity ReStore
+  phone: '(512) 478-2165'
+  website: https://austinhabitat.org/restore/donate/
+  note: South and Northwest Austin ReStores accept donations; free donation pickup can be scheduled online.
+  source_checked: 2026-11-09
 ---
 # Junk Disposal in Austin, TX: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 
