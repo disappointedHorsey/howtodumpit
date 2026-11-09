@@ -47,12 +47,16 @@ def listings_html(items, heading="Options at a Glance"):
                     f'<p>{html.escape(it.get("details",""))}{src}</p></li>')
     return f'<h3>{html.escape(heading)}</h3><ul class="listings">' + "".join(rows) + "</ul>"
 
-# Partner tier cards (Basic / Verified / Featured). Separate from official drop-off `listings:`.
-PARTNER_TIER_ORDER = {"featured": 0, "verified": 1, "basic": 2}
+# Partner tier cards (Basic / Verified / Recommended). Separate from official drop-off `listings:`.
+# Internal key `featured` is kept as an alias of Recommended (C019, Adam 07/11/2026).
+PARTNER_TIER_ORDER = {"featured": 0, "recommended": 0, "verified": 1, "basic": 2}
 PARTNER_DISCLAIMER = (
     'These partners are independent businesses. HowToDumpIt is an independent information guide '
     'and does not haul anything or vouch for their work. Confirm pricing, licensing and reviews '
     'with them before you hire.'
+)
+RECOMMENDED_DISCLOSURE = (
+    'Paid placement. We receive referral fees from this partner.'
 )
 
 def _tel_href(phone):
@@ -94,15 +98,27 @@ def partners_html(items):
         website = str(it.get("website") or "").strip()
         note = str(it.get("note") or "").strip()
         checked = it.get("source_checked")
-        classes = f"partner partner-{tier}"
+        if tier in ("featured", "recommended"):
+            public_tier = "recommended"
+        else:
+            public_tier = tier
+        classes = f"partner partner-{public_tier}"
         badge = ""
-        if tier == "featured":
-            badge = '<p class="partner-badge"><span class="partner-featured-label">Featured Partner (Paid)</span></p>'
+        if public_tier == "recommended":
+            # Exclusive top spot: Recommended label + nearby paid-placement disclosure (FTC).
+            # No verification wording on paid listings (Adam 07/11/2026).
+            badge = (
+                '<p class="partner-badge"><span class="partner-recommended-label">Recommended</span></p>'
+                '<p class="partner-exclusive">Exclusive top spot for this city.</p>'
+                f'<p class="partner-paid-disclosure">{RECOMMENDED_DISCLOSURE}</p>'
+            )
+        elif public_tier == "basic":
+            badge = '<p class="partner-badge"><span class="partner-unverified-label">Not verified</span></p>'
         bits = [f'<li class="{classes}">{badge}<h3>{name}</h3>']
         if phone:
             tel = html.escape(_tel_href(phone), quote=True)
             phone_esc = html.escape(phone)
-            if tier in ("verified", "featured"):
+            if public_tier in ("verified", "recommended"):
                 # Phone as plain text; Call Now is the single tel: link (avoids dup-href).
                 bits.append(f'<p class="partner-phone">{phone_esc}</p>')
                 bits.append(f'<p class="partner-cta"><a class="btn" href="{tel}">Call Now</a></p>')
@@ -198,7 +214,7 @@ def trim_listing_repeats(body_html):
     return body_html[:m.start()] + ul + body_html[m.end():]
 
 # Residents and towns asking for a new city guide (home page and the end of every city guide).
-# Haulers have their own route (Become a Featured Partner), so this box never mentions listings for businesses.
+# Haulers have their own route (Become a Recommended Partner), so this box never mentions listings for businesses.
 CITY_REQUEST = (
     '<aside class="callout" aria-labelledby="ask-h"><h2 id="ask-h">Want Your City or Town Listed?</h2>'
     '<p>Just drop me a message at <a href="mailto:adam@howtodumpit.com">adam@howtodumpit.com</a>. '

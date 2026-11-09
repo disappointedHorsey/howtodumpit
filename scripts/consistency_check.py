@@ -33,7 +33,10 @@ BANNED = [
     (r"(?i)\b(we|our crews?|our trucks?) (will )?(haul|pick up|remove)s?\b(?! anything)", 'we are info-only: we never haul, pick up or remove anything'),
     (r"(?i)\bguarantee[ds]?\b", "never overpromise: no guarantees"),
     (r"(?i)\bper lead\b", 'pricing is "per call or email" (a tracked call of 30 seconds or more, or an email)'),
-    (r"(?i)\bpremium (partner|listing)\b", 'partner tiers are "Basic Listing", "Verified Partner", "Featured Partner"'),
+    (r"(?i)\bpremium (partner|listing)\b", 'partner tiers are "Basic Listing", "Verified Partner", "Recommended Partner"'),
+    (r"(?i)\bfeatured partner\b", 'top tier is "Recommended", not "Featured Partner"'),
+    (r"(?i)\bfeatured spot\b", 'say "Recommended spot"'),
+    (r"(?i)\bbecome a featured partner\b", 'the partner CTA is "Become a Recommended Partner"'),
 ]
 BANNED = [b for b in BANNED if b[1]]
 # Official program names that legitimately contain an otherwise-banned phrase.
@@ -257,6 +260,15 @@ def check_page(path, root, pages_ids):
         else:
             if not (root / tpath.lstrip("/")).exists():
                 add("dead-link", f'"{l["text"]}" -> {l["href"]} (missing file)')
+    # C019: free Basic Listings show "Not verified"; Recommended has a nearby paid-placement disclosure.
+    if re.search(r'class="[^"]*\bpartner-basic\b', raw):
+        if "Not verified" not in raw:
+            add("term", 'a free Basic Listing is missing the "Not verified" label')
+    if re.search(r'class="[^"]*\bpartner-recommended\b', raw):
+        if "Recommended" not in raw:
+            add("term", 'a Recommended listing is missing the "Recommended" label')
+        if "Paid placement" not in raw or "We receive referral fees from this partner." not in raw:
+            add("term", "a Recommended listing is missing the nearby paid-placement disclosure")
     return probs
 
 

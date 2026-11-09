@@ -1,3 +1,12 @@
+## 11/10/2026 (C019: Recommended rename and Not verified labels)
+
+- Public top-tier wording is now **Recommended** everywhere (replacing Featured Partner / Featured spot). The partner CTA and footer now say **Become a Recommended Partner**. The URL /become-a-featured-partner/ is unchanged so existing links still work.
+- Recommended is presented as the single exclusive top spot per city (stronger card, "Exclusive top spot for this city." line). A nearby paid-placement disclosure sits on the Recommended card: "Paid placement. We receive referral fees from this partner." Paid listings show no verification wording.
+- Every free Basic Listing is labeled **Not verified**.
+- Partner page Honest Disclosure updated to match. Removed the public lead-removal / dispute sentence. Existing published $8 / $12 offer terms are unchanged.
+- consistency_check now rejects leftover "Featured Partner" / "Featured spot" wording and requires the Not verified label and paid-placement disclosure. CSS cache buster ?v=20261110a.
+- Checks: consistency_check 64 pages 0 problems; mobile_check 65 pages (64 live + a local Recommended fixture, not published) x 5 widths (320/375/390/412/1280) 0 FAIL 0 WARN.
+
 ## 11/09/2026 (Nightly: Miami, FL guide; San Antonio Outside City Limits; Austin partner backfill; bounced-email listings removed)
 
 - New guide /miami-fl/ (census.gov Vintage 2025 SUB-IP-EST2025-ANNRNK rank #41, 489,812): weekly City bulky trash for homes with City carts (furniture, electronics, white goods, yard trash; out by 6 a.m.), free City Mini Dump at 1290 NW 20th St (City residents, proof of residency, one pickup load a day), apartment/dumpster rule (private hauler; 4+ units use franchise haulers), Miami-Dade Home Chemical Collection Centers (Doral, Homestead; Wed-Sun 9-5) for paint/chemicals/electronics, Outside City Limits (County service area: 2 bulky pickups/yr up to 25 cu yd; Miami Beach, Coral Gables, Hialeah etc. run their own; HOAs). Sources: miami.gov, miamidade.gov, epa.gov. Three free Basic Listings: HSDO Junk Removal, ECS Junk Removal, Nick's Junk Removal. verified: 2026-11-09.

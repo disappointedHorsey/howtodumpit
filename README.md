@@ -53,10 +53,10 @@ Old `/mattress-disposal/<slug>/` URLs are kept as stubs (`redirect_to: "/<slug>/
 Optional front-matter `partners:` on a city guide renders a **Local Junk Removal & Donation Partners** section at the end of that guide. Official drop-off cards stay in `listings:` and are unchanged. Do not invent partners: only add entries the nightly run or an approved pitch reply has confirmed.
 
 Each `partners:` entry is a YAML map with:
-- `tier` (required): `basic` | `verified` | `featured` (case-insensitive). Featured sorts to the top; then Verified; then Basic. Only one Featured Partner per city.
+- `tier` (required): `basic` | `verified` | `featured` or `recommended` (case-insensitive). `featured` is an alias of Recommended. Recommended sorts to the top; then Verified; then Basic. Only one Recommended Partner per city.
 - `name` (required): business or organization display name (Title Case for the card heading).
 - `website` (required): full URL including `https://`.
-- `phone` (optional on Basic; expected for Verified/Featured): display number shown on the card. Basic renders it as a plain `tel:` link; Verified and Featured show the number as text plus a **Call Now** button (`tel:`).
+- `phone` (optional on Basic; expected for Verified/Recommended): display number shown on the card. Basic renders it as a plain `tel:` link; Verified and Recommended show the number as text plus a **Call Now** button (`tel:`).
 - `note` (optional): one short sentence (hours, items accepted, service area). Sentence case.
 - `source_checked` (required): date the website/phone were last confirmed (`YYYY-MM-DD`). Shown on the card as a US date.
 
@@ -72,11 +72,11 @@ partners:
   source_checked: 2026-11-02
 ```
 
-Example with all three tiers (Featured uses the paid label on the card):
+Example with all three tiers (Recommended uses the exclusive top-spot label and a nearby paid-placement disclosure on the card):
 
 ```yaml
 partners:
-- tier: featured
+- tier: recommended
   name: Top Spot Hauling
   phone: '(704) 555-0199'
   website: https://topspot.example/
@@ -94,7 +94,7 @@ partners:
   source_checked: 2026-11-02
 ```
 
-Card rules (enforced in `build.py`): Basic shows name, phone (`tel:` link) and website. Verified and Featured add a **Call Now** button. Featured gets a visible **Featured Partner (Paid)** label (brand #111111 / #FFC20E) and sorts first. A short disclaimer states partners are independent businesses and HowToDumpIt does not vouch for their work.
+Card rules (enforced in `build.py`): Basic shows name, phone (`tel:` link) and website, and is labeled **Not verified**. Verified and Recommended add a **Call Now** button. Paid listings do not show verification wording. Recommended sorts first, is visually the exclusive top spot, is labeled **Recommended**, and has a nearby paid-placement disclosure: "Paid placement. We receive referral fees from this partner." (brand #111111 / #FFC20E). A short disclaimer states partners are independent businesses and HowToDumpIt does not vouch for their work.
 
 ## Style rule (permanent)
 Use American English spelling (color, center, tire, analyze, favorite, specialize) and US dates only (October 13, 2026 or 10/13/2026). Never DD/MM/YYYY. This applies to pages, pitch emails and reports.
