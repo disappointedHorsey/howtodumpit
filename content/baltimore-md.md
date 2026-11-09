@@ -31,6 +31,7 @@ Here's how to legally get rid of bulky junk in Baltimore, Maryland, item by item
 | Fridge / AC (freon) | Book bulk trash collection through 311 or drop it at a Residential Drop-Off Center; the City's pages don't cover refrigerant removal, so ask 311 first |
 | TV / computer | Take it to a free Residential Drop-Off Center for eCycling, or use a free manufacturer program listed by the state |
 | Paint / chemicals | Take oil paint and chemicals to Sisson Street on a household hazardous waste day (November 6 and 7 or December 4 and 5, 2026); never put them out with bulk trash |
+| Christmas tree | Last season: mulch drop-off or weekly trash through February 7, 2026; 2026-27 dates not yet published |
 
 ## Mattresses and Box Springs {#mattresses}
 
@@ -103,5 +104,15 @@ Businesses must use a private vendor, and commercial vehicles aren't allowed. Ev
 **Latex paint:** The City's hazardous waste list names oil paint but not latex paint, and we couldn't find an official City rule on drying latex paint out for the trash. Ask 311 or call Sisson Street before you go.
 
 Questions? Call **311** (from outside the city, **(443) 263-2220**) or use [311 Online](https://www.baltimorecity.gov/311services). ([Baltimore City DPW: Bulk Trash Pickup and Large Item Removal](https://www.baltimorecity.gov/publicworks/trash-recycling/bulk-trash-pickup-and-large-item-removal))
+
+## Christmas Trees {#christmas-trees}
+
+**Christmas tree short answer:** Baltimore City Department of Public Works has offered free Christmas tree mulching at the Sisson Street Residential Recycling Center, plus weekly trash collection of trees, through a posted winter end date. 2026-27 dates were not published as of November 10, 2026.
+
+**Last season:** A DPW holiday-closure notice for Martin Luther King Jr. Day (Monday, January 19, 2026) said free Christmas tree mulching was available to Baltimore City residents through Saturday, February 7. Residents had to bring trees to the Sisson Street Residential Recycling Center, 2840 Sisson Street, 9 a.m. to 5 p.m., Monday through Saturday. Remove ornaments, tinsel and other decorations, and bring bags or containers if you want to collect mulch. As an alternative, residents could place trees out with weekly trash collections until Saturday, February 7, at the exact location where trash is collected. If the tree was not collected on trash day, call 311. There was no Christmas tree mulching or collection on Monday, January 19. ([Baltimore City DPW: Closings in Observance of Martin Luther King Jr. Day](https://www.baltimorecity.gov/publicworks/news-and-media/dpw-offices-and-sanitation-yards-closed-in-observance-of-martin-luther-king-jr-day))
+
+Confirm this season's end date and hours with 311 or DPW before you drive or set a tree out.
+
+If you missed the City window, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. See our [Christmas Tree Disposal](/christmas-tree-disposal/) guide for other cities.
 
 *Rules, fees and hours change. Confirm on the linked official page or with 311 before you set anything out or drive anywhere.*

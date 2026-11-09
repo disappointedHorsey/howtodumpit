@@ -44,6 +44,7 @@ Here's how to legally get rid of bulky junk in Phoenix, item by item. Every opti
 | Fridge / AC (freon) | Not in bulk trash; accepted at City transfer stations |
 | TV / computer | Transfer stations (CRTs: 2/month free) |
 | Paint / chemicals | HHW home collection (reservations currently closed) |
+| Christmas tree | Free drop-off December 28, 2026-January 11, 2027, at designated City parks |
 
 ## Mattresses and Box Springs {#mattresses}
 
@@ -89,5 +90,17 @@ Phoenix **transfer stations** accept CRT and non-CRT TVs. Residents can bring **
 ## Paint and Household Hazardous Waste {#hazardous}
 
 Phoenix solid waste customers can get a **free HHW home collection** (one per customer per calendar year). **As of October 12, 2026, the City's request form says reservations are currently closed.** To find out when they reopen, email **hhwcollection@phoenix.gov**. Transfer stations do not accept regulated hazardous waste. ([myPHX311 HHW](https://myphx311.phoenix.gov/householdhazardouswaste/); [Phoenix HHW](https://www.phoenix.gov/administration/departments/publicworks/residential-trash-recycling/household-hazardous-waste-collection.html))
+
+## Christmas Trees {#christmas-trees}
+
+**Christmas tree short answer:** Phoenix Public Works will accept live Christmas trees, wreaths and garlands for free composting from Monday, December 28, 2026, through Monday, January 11, 2027, at designated City parks during normal business hours.
+
+Only live items are accepted, nothing plastic or artificial. Strip off all lights, decorations and other non-organic material, and place trees only in the marked drop-off areas. The trees are composted at the City of Phoenix Compost Facility. ([City of Phoenix calendar: Live Christmas Trees Accepted for Composting](https://www.phoenix.gov/calendar/public-works-events/live-christmas-trees-accepted-for-composting--free--.html))
+
+The 2026-27 calendar pages we read confirm the date window but do not list park names on the event text. Last season (December 26, 2025, through January 9, 2026) used 14 parks: Cactus, Cesar Chavez, Deer Valley, Desert Foothills, Desert West, El Reposo, Los Olivos, Madison, Marivue, Mountain View, Mountain Vista, Paradise Valley, Sereno and Washington. That list may change. Confirm this season's sites on the official calendar before you drive. ([City of Phoenix: Christmas Tree Drop-off Sites Open December 26](https://www.phoenix.gov/newsroom/public-works-news/3311.html))
+
+Last season's news release also noted transfer station drop-off and bulk trash as other disposal options. Ask Public Works or 602-262-3111 before you use those for a tree.
+
+If a park drop-off is not practical, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. Other cities are in our [Christmas Tree Disposal](/christmas-tree-disposal/) guide.
 
 *Rules, hours and fees change. Confirm on the linked official page before you set anything out or drive anywhere.*

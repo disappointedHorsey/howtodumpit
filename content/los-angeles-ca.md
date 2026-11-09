@@ -50,6 +50,7 @@ Here's how to legally get rid of bulky junk in Los Angeles, item by item. Every 
 | Fridge / AC (freon) | Not verified for household appliances: ask LASAN |
 | TV / computer | Free bulky pickup or S.A.F.E. Center |
 | Paint / chemicals | Free at S.A.F.E. Centers (weekends) |
+| Christmas tree | Last season: curbside through January 31, 2026; 2026-27 dates not yet published |
 
 ## Mattresses and Box Springs {#mattresses}
 
@@ -98,5 +99,15 @@ LASAN's bulky pickup accepts **electronic waste (TVs, computers, monitors)**, bo
 ## Paint and Household Hazardous Waste {#hazardous}
 
 Paint, solvents and chemicals are **prohibited at the curb**. Take them **free** to a **S.A.F.E. Center** (Solvents/Automotive/Flammables/Electronics), which accept paints, stains and solvents, cleaners, pesticides, pool chemicals, auto fluids, batteries, propane cylinders and fluorescent bulbs. Limit **15 gallons or 125 lbs per visit**. Locations include Northridge (10241 N. Balboa Blvd.), Sun Valley (11025 Randall St.), Atwater Village (4600 Colorado Blvd.), East LA (2649 E. Washington Blvd.), Playa del Rey (7660 Imperial Hwy., Gate B), San Pedro (1400 N. Gaffey St.) and UCLA (550 Charles E. Young Dr.). Hours vary by site, so check before you go. ([S.A.F.E. Centers](https://sanitation.lacity.gov/services/safe-centers-household-hazardous-waste-disposal); [S.A.F.E. flyer](https://sanitation.lacity.gov/sites/default/files/2026-04/10-9-25_ENGLISH_SAFE_Flyer.pdf))
+
+## Christmas Trees {#christmas-trees}
+
+**Christmas tree short answer:** LA Sanitation and Environment (LASAN) collects bare real trees at the curb on your regular collection day and at posted drop-off sites. 2026-27 collection dates were not published as of November 10, 2026.
+
+**Last season (2025-26):** LASAN said it would collect trees on your regular trash day through January 31, 2026. If the tree fits, cut it so it sits inside the green organics bin with the lid closed. If you cannot cut it, place the whole bare tree next to the green bin. Trees taller than 6 feet, or trees after January 31, needed a bulky item pickup through MYLA311 or 1-800-773-2489. Flocked (fake-snow) and artificial trees cannot be recycled; cut them up and put them in the black trash bin. Remove all ornaments, tinsel, lights, decorations and stands. ([LASAN: Christmas Tree Recycling](https://sanitation.lacity.gov/services/christmas-tree-recycling); [City of Los Angeles: What Happens to Your Christmas Tree After the Holidays](https://lacity.gov/news/what-happens-your-christmas-tree-after-holidays))
+
+**Last season drop-off examples:** Parks accepted trees on Sunday, January 4, 2026, 9 a.m. to 5:30 p.m. (including Griffith Park at the LA Zoo parking lot, 5333 Zoo Drive). Listed fire stations accepted trees through January 31, 2026. Lopez Canyon Environmental Education Center, 11950 Lopez Canyon Road, Lake View Terrace, took trees January 2 through January 31, 2026, 9 a.m. to 4 p.m. Harbor Safe Center, 1400 N. Gaffey Street, San Pedro, had an earlier end date of January 15, 2026. Those dates and sites may change. Confirm on the LASAN page before you drive.
+
+If you missed the city's window or cannot get the tree outside, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. See our [Christmas Tree Disposal](/christmas-tree-disposal/) guide for other cities.
 
 *Rules, hours and fees change. Confirm on the linked official page before you set anything out or drive anywhere.*

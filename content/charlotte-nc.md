@@ -31,6 +31,7 @@ Here's how to legally get rid of bulky junk in Charlotte, North Carolina, item b
 | Fridge / AC (freon) | Schedule City bulky collection (empty the fridge and remove the door; window AC units only), or drop off at a County full-service center |
 | TV / computer | Banned from North Carolina landfills. Free County e-waste drop-off at full-service centers (limit 2 TVs or monitors), or schedule City bulky collection |
 | Paint / chemicals | Free household hazardous waste drop-off for County residents at full-service centers (paint up to 100 pounds) |
+| Christmas tree | Single-family homes: yard waste on your regular day, decorations off; apartments schedule bulky collection |
 
 ## Mattresses and Box Springs {#mattresses}
 
@@ -87,5 +88,15 @@ Wipe personal data from phones and computers before you drop them off.
 **Small amounts of leftover paint at home:** The City's eligibility list says paint cans must be **empty and dried out**. To dry out paint, mix cat litter into the can; once it's dry, put the paint and litter in a **double-bagged plastic bag** inside your garbage rollout cart. ([Bulky item eligibility list (PDF)](https://www.charlottenc.gov/files/sharedassets/city/v/4/services/trash-and-recycling/documents/bulky-item-collection-eligibility.pdf))
 
 Not sure where something goes? Call CharMeck 311 (704-336-7600) for City collection questions, or contact Mecklenburg County Solid Waste at 980-314-3867 or SolidWaste@MeckNC.gov (email a photo of the item; the County says replies typically come within 4 hours on weekdays). ([Recycling and Disposal Centers](https://wipeoutwaste.mecknc.gov/where-can-i-recycle))
+
+## Christmas Trees {#christmas-trees}
+
+**Christmas tree short answer:** At single-family homes, the City of Charlotte collects natural trees as yard waste on your regular collection day. At multifamily properties, natural trees, artificial trees and all wreaths must be scheduled for bulky collection.
+
+Natural trees must be free of all decorations, including lights, ornaments and tinsel. Place yard waste at the curb by 6 a.m. on your scheduled day, within 6 feet of the curb and at least 3 feet from other collection items and obstacles, and no sooner than the day before collection (a minimum $150 citation may be issued if yard waste goes out earlier). Artificial trees and all wreaths, at single-family homes, must also be scheduled for bulky collection and be free of decorations. Schedule bulky service with CharMeck 311 at 704-336-7600, the CLT+ app, or the City's online request. ([City of Charlotte: Collection Guidelines](https://www.charlottenc.gov/Services/Trash-and-Recycling/Collection-Guidelines))
+
+The Collection Guidelines page does not give a separate 2026-27 start or end date for natural-tree yard-waste pickup. Confirm your collection day in My Charlotte Lookup if you are unsure.
+
+If you cannot get the tree to the curb, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. Other cities are in our [Christmas Tree Disposal](/christmas-tree-disposal/) guide.
 
 *Rules, hours, fees and schedules change. Confirm on the linked official page, with CharMeck 311 (704-336-7600) or with Mecklenburg County Solid Waste (980-314-3867) before you set anything out or drive anywhere.*

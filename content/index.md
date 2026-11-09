@@ -16,3 +16,8 @@ Putting junk on the curb without following your city's rules can get you fined, 
 2. **Drop-off sites** (convenience centers, transfer stations, hazardous-waste facilities).
 3. **Donation**, if the item is clean and usable.
 4. **Paid junk removal** when you can't wait for the city or can't move the item yourself.
+
+## Christmas Tree Disposal
+
+After the holidays, cities collect or chip real Christmas trees for a short season, and the dates and prep rules differ everywhere. Our [Christmas Tree Disposal](/christmas-tree-disposal/) guide covers curbside pickup, drop-off and mulching sites, with a verified section on each city page. Where 2026-27 dates are not posted yet, we show the latest published season and say so.
+

@@ -34,6 +34,7 @@ One rule covers both cities: Massachusetts bans mattresses, textiles, white good
 | Fridge / AC (freon) | Paid appliance permit; fridge/freezer doors removed | $25 White Goods Sticker per item; remove fridge door |
 | TV / computer | 20" or smaller at the curb free; bigger TVs/monitors need a paid permit; small electronics at the Recycling Center | Free TV/monitor curbside pickup via 311, or drop off e-waste at DPW Yard, 1 Franey Rd. |
 | Paint / chemicals | Dried latex paint in trash, lids off; HHW day Saturday, November 7, 2026 | Dry, empty cans in trash; full cans to HHW drop-off (Thursday, November 5, or Saturday, November 14, 2026) |
+| Christmas tree | Somerville: trash day through January, no bag; Cambridge 2026-27 dates not yet published (last season January 2-14, 2026) |
 
 ## Mattresses and Box Springs {#mattresses}
 
@@ -114,5 +115,15 @@ Wipe your personal data from phones and computers before you recycle them.
 - **Paint cans:** if they're **dry and empty**, put them in the regular trash. Cans that aren't empty have to go to a Hazardous Waste Day.
 - **Batteries:** regular alkaline batteries (A, AA, C, D) can go in the trash. Rechargeable, button-cell and lithium batteries go to Hazardous Waste Days, and laptop battery packs go with e-waste.
 - Large or non-empty fire extinguishers go to Hazardous Waste Days. Kerosene, gasoline and heating oil must be disposed of privately ([Somerville Trash & Recycling](https://www.somervillema.gov/trash-and-recycling)).
+
+## Christmas Trees {#christmas-trees}
+
+This page covers Cambridge and Somerville, which have different tree rules. Confirm the city you live in before you set a tree out.
+
+**Somerville (current official rule):** Place the tree curbside on your regular trash day after removing all decorations. Do not put it in a plastic bag. Trees picked up through January are mulched, and Christmas trees are only collected through January. Uncollected trees are the resident's responsibility. Free mulch has been offered through February at the DPW yard. ([City of Somerville: Trash and Recycling](https://www.somervillema.gov/trash-and-recycling))
+
+**Cambridge (last season):** A January 5, 2026, City news post said Cambridge Department of Public Works would pick up a natural tree with no decorations or bags during the regular collection schedule between January 2 and January 14, 2026. Trees could also be dropped off at the Recycle Center. 2026-27 Cambridge dates were not published as of November 10, 2026. Check the recycling and curbside pickup schedule, or call Cambridge DPW at 617-349-4800, before you set a tree out this season. ([City of Cambridge: Dispose of Your Christmas Holiday Tree Properly](https://www.cambridgema.gov/news/detail?path=%2Fsitecore%2Fcontent%2Fhome%2Fcfd%2Fnews%2F2026%2F01%2Fdisposeofyourchristmasholidaytreeproperly))
+
+If you missed the window or cannot get the tree to the curb, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. Other cities are in our [Christmas Tree Disposal](/christmas-tree-disposal/) guide.
 
 *Rules, hours, fees and schedules change. Confirm on the linked official page, with Cambridge DPW (617-349-4800), or with Somerville 311 before you set anything out or drive anywhere.*

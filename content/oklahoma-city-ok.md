@@ -31,6 +31,7 @@ Here's how to legally get rid of bulky junk in Oklahoma City, Oklahoma, item by 
 | Fridge / AC (freon) | Remove all doors, then call (405) 297-2833 to schedule pickup during your regular bulky window |
 | TV / computer | Not taken at the HHW center or curbside list; the City points TVs to Best Buy (fee required) and computers to Best Buy, Staples or Goodwill; also the City's spring Special Collection for computers |
 | Paint / chemicals | Household Hazardous Waste Collection Center, 1621 S. Portland Ave., free to Oklahoma City residents (bring your City water bill); latex paint can also be dried out and put in the trash |
+| Christmas tree | Monthly bulky waste for City customers; last season's park mulch sites closed January 15, 2026 |
 
 ## Mattresses and Box Springs {#mattresses}
 
@@ -116,5 +117,15 @@ All of the above is from the City's [Household Hazardous Waste Collection Center
 **Medications** aren't taken at the center. The City lists the Oklahoma County Sheriff's Department at 201 N. Shartel Ave. and some pharmacies as take-back options. ([Reuse and Repurpose](https://www.okc.gov/Services/Water-Trash-Recycling/Recycling/Reuse-and-Repurpose))
 
 Not sure where something goes? Check the City's [What Goes Where](https://www.okc.gov/Services/Water-Trash-Recycling/What-Goes-Where) database or call Utilities Customer Service at (405) 297-2833 (Monday to Friday, 8 a.m. to 5 p.m.). ([Trash Services](https://www.okc.gov/Services/Water-Trash-Recycling/Trash-Services))
+
+## Christmas Trees {#christmas-trees}
+
+**Christmas tree short answer:** Residential Oklahoma City Solid Waste customers may set a natural or artificial tree at the curb with other bulky waste, no later than 6 a.m. on their assigned monthly bulky waste date. OKC Parks also runs a seasonal live-tree mulch drop-off; 2026-27 park dates were not published as of November 10, 2026.
+
+Do not put bulky waste next to mailboxes, trees, shrubs or vehicles, and do not cover a water or natural gas meter. Check your bulky waste day at okcutilities.com or okc.gov/mytrashday. ([City of OKC: Residents Can Mulch or Dispose of Live Christmas Trees](https://www.okc.gov/News-articles/OKC-residents-can-mulch-or-dispose-of-live-Christmas-trees))
+
+**Last season park mulch (2025-26):** A December 16, 2025 City article said residents could drop off natural Christmas trees from December 26 through January 15 at Will Rogers Park, 3600 Pat Murphy Drive (parking lot at the center of the park, south of the OKC Tennis Center and on the south side of Pat Murphy Drive), and Wheeler Park, 1120 S. Western Avenue (parking lot on the west side of the park next to Western Avenue). Trees had to be free of lights, ornaments, nails and stands, and unflocked (no fake snow). Mulch was available dawn to dusk in designated areas through January 15; bring your own shovels and containers. The mulching program was open to all Oklahoma City residents.
+
+If you missed bulky day or cannot get the tree outside, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. Other cities are in our [Christmas Tree Disposal](/christmas-tree-disposal/) guide.
 
 *Rules, hours, fees and schedules change. Confirm on the linked official page or with Utilities Customer Service before you set anything out or drive anywhere.*

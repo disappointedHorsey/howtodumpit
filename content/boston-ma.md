@@ -33,6 +33,7 @@ Live in **Cambridge or Somerville**? Those cities run their own programs. See ou
 | Fridge / AC (freon) | Book a City special item pickup; remove fridge and freezer doors and all food first |
 | TV / computer | Book a City special item pickup for TVs, laptops and computer monitors, or bring electronics to a Zero Waste Day |
 | Paint / chemicals | Oil-based paint and chemicals go to a Zero Waste Day drop-off (Boston residents only); dried-out latex paint goes in the trash |
+| Christmas tree | Curbside on your normal trash day during the two weeks after Christmas; no lights, ornaments or bags |
 
 ## Mattresses and Box Springs {#mattresses}
 
@@ -130,5 +131,15 @@ The City says **latex and acrylic (water-based) paint is not hazardous**. **Let 
 **Can't make it to an event?** The City points you to its [Zero Waste Directory](https://www.boston.gov/departments/public-works/bostons-zero-waste-directory) for other places to drop off electronics, batteries, light bulbs and more.
 
 Questions? Contact Boston 311 (dial **311** or **617-635-4500**, email 311@boston.gov) or the Zero Waste team at zerowaste@boston.gov. ([City of Boston: Zero Waste Day Drop-Offs](https://www.boston.gov/departments/public-works/zero-waste-day))
+
+## Christmas Trees {#christmas-trees}
+
+**Christmas tree short answer:** The City of Boston collects Christmas trees curbside on your normal trash day during the two weeks following Christmas. If you have two collection days per week, trees are collected on your first collection day of the week.
+
+Place the tree on the curb by 6 a.m. on collection day. Any Christmas tree that has lights or ornaments, or is in a plastic bag, will not be collected. No yard waste is collected during this period. The official page tells you to check the Trash and Recycling Day app for your specific tree collection dates. The City does not collect yard waste from buildings with more than 6 units; if you live in a larger building, ask your property manager. Questions: 311 or 617-635-4500. ([City of Boston: Leaf and Yard Waste Composting](https://www.boston.gov/departments/public-works/leaf-and-yard-waste-schedule))
+
+The page does not list a separate numbered calendar for 2026-27 tree days beyond that standing "two weeks following Christmas" rule, checked November 10, 2026. Use the City app for the exact dates on your street.
+
+If your tree is missed or you cannot get it to the curb, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. Other cities are in our [Christmas Tree Disposal](/christmas-tree-disposal/) guide.
 
 *Rules, schedules and event dates change. Confirm on the linked official page or with Boston 311 before you set anything out or drive anywhere.*

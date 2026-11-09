@@ -46,6 +46,7 @@ Here's how to legally get rid of bulky junk in Kansas City, Missouri, item by it
 | TV / computer | TVs are on the City bulky list; other electronics go to a Midwest Recycling Center |
 | Paint / chemicals | KC Water household hazardous waste facility, free for residents |
 | Leaves / brush | City curbside rounds in spring and fall, or a leaf and brush drop-off site |
+| Christmas tree | No dedicated City tree page found; confirm with 311 before using a leaf and brush drop-off site |
 
 ## Mattresses and Box Springs {#mattresses}
 
@@ -115,5 +116,17 @@ Here's how to legally get rid of bulky junk in Kansas City, Missouri, item by it
 **Drop-off sites:** 11660 N. Main Street and 10301 Raytown Road (Monday to Friday, 8 a.m. to 5 p.m.), and 7700 E US-40 Highway (Saturdays only, 8 a.m. to 5 p.m.). Drop-off is **free for Kansas City, Missouri residents on Saturdays** with a valid KCMO ID (or another ID plus a utility bill or tax receipt with a KCMO address). Weekday drop-offs and non-residents pay a fee; the City's page refers to a price list we couldn't verify.
 
 Questions? Call **311** at **816-513-1313**, bulky cancellations at **816-513-2855**, the KC Water HHW facility at **816-513-8400**, or Habitat KC ReStore at **(816) 231-6889**.
+
+## Christmas Trees {#christmas-trees}
+
+**Christmas tree short answer:** The City of Kansas City, Missouri, Leaf & Brush page does not specifically mention Christmas trees. We are not going to assume a whole holiday tree is accepted. Call 311 (816-513-1313) or check with the drop-off site before you haul one.
+
+The City maintains three leaf and brush drop-off sites that accept leaves, yard waste, grass clippings, brush (including tree trimmings) and logs: 11660 N. Main Street and 10301 Raytown Road, Monday-Friday 8 a.m.-5 p.m., and 7700 E. US-40 Highway, Saturdays only, 8 a.m.-5 p.m. Drop-off is free for Kansas City, Missouri, residents on Saturdays with a valid local ID (or a matching utility bill or tax receipt). Weekday drop-off is not free; fees and a gas surcharge are described on the City page. ([City of Kansas City: Leaf & Brush](https://www.kcmo.gov/city-hall/trash/leaf-brush))
+
+RecycleSpot, the Mid-America Regional Council recycling directory, says natural holiday trees and greenery can be recycled at metro drop-off locations from December 26 through January every year, and year-round at yard-waste drop-off sites. That is regional guidance, not a City of Kansas City schedule. ([RecycleSpot: Holiday Trees](https://www.recyclespot.org/how-to-recycle/home-and-holiday-decor/holiday-trees))
+
+Curbside leaf and brush rounds are seasonal and use paper lawn sacks and bundled branches; the City's accepted list for those rounds is leaves, sticks, branches and brush, not a named Christmas tree program.
+
+If you need a tree taken from the house, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. Other cities are in our [Christmas Tree Disposal](/christmas-tree-disposal/) guide.
 
 *Rules, fees and hours change. Confirm on the linked official page or with the City before you set anything out or drive anywhere.*

@@ -55,6 +55,7 @@ Here's how to legally get rid of bulky junk in Chicago, item by item. Every opti
 | Fridge / AC (freon) | DSS bulk pickup for fridges/freezers (remove doors; arrange first); HCCRF does not take appliances or freon |
 | TV / computer | Free drop-off at the City's HCCRF, 1150 N. North Branch St |
 | Paint / chemicals | HCCRF takes oil-based paint and chemicals; latex paint not accepted (dry it out) |
+| Christmas tree | Last season: drop-off only, January 3-17, 2026, at 27 parks; 2026-27 dates not yet published |
 
 ## Mattresses and Box Springs {#mattresses}
 
@@ -113,5 +114,15 @@ Drop off computers, monitors, TVs, printers, keyboards, game consoles, DVD playe
 ## Paint and Household Hazardous Waste {#hazardous}
 
 The **HCCRF** (same address and hours as above) accepts household chemicals, **oil-based paint, aerosol paint and thinners**, solvents, auto fluids, pesticides, CFLs, many batteries, BBQ propane tanks, and mercury items. It does **not** accept **latex, acrylic or water-based paint**, alkaline batteries, explosives, medical waste, or pharmaceuticals. For latex paint, the City says to use it up, donate it, or **dry it out** (kitty litter, shredded paper or sawdust) and put it in the trash. ([HCCRF](https://www.chicago.gov/city/en/depts/env/supp_info/environmental-permitting-and-inspection/hccrf.html))
+
+## Christmas Trees {#christmas-trees}
+
+**Christmas tree short answer:** Chicago's official program is drop-off only at park recycling corrals. The City's page does not describe curbside Christmas tree pickup. 2026-27 dates were not published as of November 10, 2026.
+
+**Last season (2025-26):** The Department of Streets and Sanitation and the Chicago Park District ran Holiday Tree Recycling from January 3 through January 17, 2026, at 27 locations, 6 a.m. to 11 p.m. Natural trees only, placed inside the marked corral. Remove all tinsel, lights, ornaments, tree stands and plastic bags. Trees were chipped into mulch, which was free at six sites starting January 5, 2026: the Forestry Site at 900 E. 103rd Street; Lincoln Park (east side of Cannon Drive, north of Fullerton Avenue); Margate Park, 4921 N. Marine Drive; Mt. Greenwood Park, 3721 W. 111th Street; North Park Village, 5801 N. Pulaski Road; and Warren Park, 6601 N. Western Avenue. The page later thanked residents for recycling 23,500 trees in 2026 and said "see you again next year." ([Chicago Recycles: Holiday Tree Recycling](https://www.chicago.gov/city/en/sites/chicago-recycles/home/holiday-tree-recycling.html))
+
+Other last-season drop-off parks included Bessemer Park, 8930 S. Muskegon Avenue; Clark Park, 3400 N. Rockwell Street; Garfield Park, 100 N. Central Park Avenue; Grant Park, 900 S. Columbus Drive; Humboldt Park Boathouse, 1369 N. Sacramento Avenue; Jackson Park, 6300 S. Cornell Avenue; and Portage Park, 4100 N. Long Avenue. The full list is on the City page and can change. For questions, the page lists dsscomposting@cityofchicago.org and 312-744-2413.
+
+If you cannot get to a drop-off site, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. Other cities are in our [Christmas Tree Disposal](/christmas-tree-disposal/) guide.
 
 *Rules, hours and fees change. Confirm on the linked official page before you set anything out or drive anywhere.*

@@ -31,6 +31,7 @@ Here's how to legally get rid of bulky junk in El Paso, Texas, item by item. The
 | Fridge / AC (freon) | The City's special pickup takes appliances only if they're empty; call (915) 212-6000 to ask about freon units first |
 | TV / computer | Drop it at a Citizen Collection Station or the Greater El Paso Landfill; it doesn't go in the blue bin or the special pickup |
 | Paint / chemicals | Take it to a Citizen Collection Station (up to 5 gallons of paint and motor oil a month); free reused paint is available there too |
+| Christmas tree | No 2025-26 or 2026-27 official dates found; confirm with Environmental Services or 311 |
 
 ## Mattresses and Box Springs {#mattresses}
 
@@ -121,5 +122,15 @@ Here's how to legally get rid of bulky junk in El Paso, Texas, item by item. The
 **Latex paint:** We couldn't find an official City rule on drying out latex paint for the trash. Ask Environmental Services or bring it to a Collection Station within the monthly limit.
 
 Questions? Call El Paso Environmental Services at **(915) 212-6000** or dial **311**. ([City of El Paso: Environmental Services](https://www.elpasotexas.gov/environmental-services))
+
+## Christmas Trees {#christmas-trees}
+
+**Christmas tree short answer:** We could not verify 2025-26 or 2026-27 Christmas tree dates on elpasotexas.gov during this November 10, 2026 check. Call Environmental Services at 915-212-6000 or 311 before you drive or set a tree out.
+
+The latest official news release we could verify is dated December 21, 2021. That year, the Environmental Services Department accepted live holiday trees for recycling at Citizen Collection Stations from December 28 through January 31, 8 a.m. to 4 p.m., Tuesday through Saturday, at 1034 Pendale Road; 121 Atlantic Road; 4501 Hondo Pass Drive; 2492 Harrison Avenue (the 2021 release also lists this address; later unofficial write-ups have used 2429 Harrison Avenue, so confirm the current site); and 3510 Confederate Drive. Trees had to be free of ornaments, string lights, frost and glitter. ([City of El Paso: 2021 Live Tree Recycling News Release (PDF)](https://www.elpasotexas.gov/assets/Press-Releases/NEWS-RELEASE_City-to-Offer-LIve-Tree-Recycling-Services-Starting-Dec.-28.pdf))
+
+Those 2021 dates and hours should not be treated as this season's schedule. Recheck the Environmental Services site closer to the holidays.
+
+If you need a tree taken from the house, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. See our [Christmas Tree Disposal](/christmas-tree-disposal/) guide for other cities.
 
 *Rules, fees and hours change. Confirm on the linked official page or with Environmental Services before you set anything out or drive anywhere.*

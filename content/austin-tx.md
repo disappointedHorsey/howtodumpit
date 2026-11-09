@@ -50,6 +50,7 @@ Here's how to legally get rid of bulky junk in Austin, item by item. Every optio
 | Fridge / AC (freon) | On-demand bulk (doors removed) or Recycle and Reuse Center (ACs) |
 | TV / computer | Recycle and Reuse Center |
 | Paint / chemicals | On-demand curbside HHW pickup or Recycle and Reuse Center (appointment) |
+| Christmas tree | Curbside on your composting day starting December 26; cut trees 6 feet or taller in half |
 
 ## Mattresses and Box Springs {#mattresses}
 
@@ -90,5 +91,17 @@ The **Recycle and Reuse Center** accepts televisions, computers, printers, cell 
 ## Paint and Household Hazardous Waste {#hazardous}
 
 ARR curbside customers can schedule **on-demand household hazardous waste collection** (paint and thinners, cleaners, pesticides, pool chemicals, auto fluids, batteries, small propane cylinders). Don't set HHW at the curb. Leave it somewhere accessible to staff, out of rain and sun; containers up to 5 gallons and 30 gallons total per collection. You can also drop off HHW at the **Recycle and Reuse Center by appointment**. ([ARR On-demand HHW](https://www.austintexas.gov/resource-recovery/programs/demand-bulk-brush-and-household-hazardous-waste-collection))
+
+## Christmas Trees {#christmas-trees}
+
+**Christmas tree short answer:** Starting December 26, City of Austin curbside customers can recycle a natural Christmas or holiday tree at the curb on their regular composting collection day. Set the tree out by 5:30 a.m. Zilker Park drop-off dates for 2026 had not been announced as of November 10, 2026.
+
+Austin Resource Recovery says to remove all ornaments, decorations (including tinsel), lights and tree stands, and not to bag the tree. Only natural trees are accepted. Trees sprayed with flocking (artificial snow) are not accepted. Trees 6 feet or taller should be cut in half. ([Austin Resource Recovery: Holiday Tree Recycling](https://www.austintexas.gov/resource-recovery/programs/holiday-tree-recycling))
+
+**Zilker Park:** All Austinites, including people who are not City curbside customers, can drop off all-natural holiday trees, wreaths and garlands at Zilker Park when the event is running. Remove wreaths and garlands from wire frames. The official page says "2026 dates will be announced later in 2026" and tells volunteers to check back in early December 2026.
+
+**Other drop-off:** Individual trees are listed as free at several sites, with a contamination fee if tags, decorations or plastic are left on. Those sites include Hornsby Bend Biosolids Management Plant, 2210 FM 973 (photo ID required; free for Austin and Travis County residents; 512-974-4343), plus Texas Disposal Systems, Whittlesey Landscape Supplies, Kinser Ranch, Travis County service centers and other locations named on the City page. Austin Wood Recycling, 3875 E. Whitestone Boulevard, Cedar Park, is listed at $5.30 per tree (512-259-7430). Call the site before you go, especially if you have more than one tree.
+
+If you missed collection or cannot move the tree yourself, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. Other cities are in our [Christmas Tree Disposal](/christmas-tree-disposal/) guide.
 
 *Rules, hours and fees change. Confirm on the linked official page before you set anything out or drive anywhere.*

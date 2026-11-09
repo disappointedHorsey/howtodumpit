@@ -31,6 +31,7 @@ Here's how to legally get rid of bulky junk in Denver, item by item. Every optio
 | Fridge / AC (freon) | Separate free Appliance Collection by appointment (not Large Item Pickup) |
 | TV / computer | Banned from CO trash; Denver E-cycle Coupon at Blue Star Recyclers |
 | Paint / chemicals | PaintCare free drop-off for architectural paint; HHW At-Your-Door for other toxics |
+| Christmas tree | Last season: Treecycle drop-off through January 30, 2026; 2026-27 dates not yet published |
 
 ## Mattresses and Box Springs {#mattresses}
 
@@ -92,5 +93,15 @@ Denver also mentions occasional special collection events and retailer/manufactu
 **Paint:** Do **not** put paint in trash, recycling, compost or Large Item Pickup. Colorado residents and businesses can drop **architectural paint** at participating **PaintCare** retail sites at **no charge** for drop-off. Accepted examples (sealed, labeled, non-leaking, generally 5 gallons or smaller): latex, acrylic, water-based, alkyd/oil-based, primers, stains, sealers, and single-component clear coatings. Spray cans, thinners, solvents, auto/marine paint, craft paint and many specialty coatings are **not** PaintCare products — see the [Denver Free Paint Recycling page](https://www.denvergov.org/My-Property/Recycle-Compost-Trash/Recycle/Household-Hazardous-Waste/Free-Paint-Recycling) and [PaintCare Colorado](https://www.paintcare.org/states/colorado/) for site finders and full lists.
 
 **Other HHW:** Denver's **Household Hazardous Waste At-Your-Door** program serves residents with **one appointment per calendar year** (subject to availability) for a **$15 co-payment**. You get one collection kit bag (~10–12 cans/bottles); prioritize the most toxic items. Schedule via **1-800-449-7587** or [wmatyourdoor.com](https://www.wmatyourdoor.com). Set the bag out by **7 a.m.** on appointment day. The city asks for at least three different accepted material types, or one accepted material over 25 lbs. Prefer PaintCare for paint when bag space is tight. Excess beyond the kit may cost more — call the HHW hotline before the appointment. Accepted examples include many cleaners, pesticides, automotive fluids, fluorescent tubes, spray paint and solvents; **not** accepted include asbestos, explosives, ammunition, commercial quantities, bio-waste and sharps. Full lists: [HHW At-Your-Door](https://www.denvergov.org/My-Property/Recycle-Compost-Trash/Recycle/Household-Hazardous-Waste/Household-Hazardous-Waste-At-Your-Door-Collection).
+
+## Christmas Trees {#christmas-trees}
+
+**Christmas tree short answer:** Denver's Treecycle program is drop-off at posted collection sites, with the trees turned into mulch for a spring giveaway. The official page currently thanks residents for a "great 2025-2026 Treecycle" and says "see you next year." 2026-27 dates were not published as of November 10, 2026.
+
+**Last season (2025-26):** Weekday drop sites were open 8 a.m. to 2 p.m., December 29 through January 30, Monday through Friday, at Cherry Creek Transfer Station, 7301 E. Jewell Avenue (enter on E. Jewell Avenue); Havana Nursery, 3685 Havana Street; and Central Platte Campus, 1271 W. Bayaud Avenue (next to the Denver Animal Shelter). Those sites were closed January 1 and January 19. Additional Saturday sites ran January 3 (limited) and January 10 and 17 (full list), 8 a.m. to 2 p.m., including Sloan's Lake Park, Fred Thomas Park, Evie Dennis School Campus, John F. Kennedy High School and others named on the City page. Remove plastic wrap or ties, twine, decorations and stands. If you do not want to recycle the tree, Denver will collect it on your large item pickup day, but those trees are not turned into mulch. ([City and County of Denver: Treecycle](https://www.denvergov.org/My-Property/Recycle-Compost-Trash/Seasonal-Programs/Treecycle))
+
+Confirm the new season on that page or with 311 (720-913-1311 outside Denver) before you drive.
+
+If drop-off is not practical, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. Other cities are in our [Christmas Tree Disposal](/christmas-tree-disposal/) guide.
 
 *Rules, hours, fees and schedules change. Confirm on the linked official page or with 311 before you set anything out or drive anywhere.*

@@ -31,6 +31,7 @@ Here's how to legally get rid of bulky junk in Las Vegas, Nevada, item by item. 
 | Fridge / AC (freon) | Not taken at curbside bulk pickup; drop off at a Republic transfer station or landfill, for a fee |
 | TV / computer | Free drop-off for TVs and household electronics at the Cheyenne or Henderson transfer station (7 a.m. to 3 p.m., daily) |
 | Paint / chemicals | Republic household hazardous waste drop-off, Wednesday to Saturday, 9 a.m. to 1 p.m., rotating between North Las Vegas and Henderson; dried-out latex paint can go in the trash |
+| Christmas tree | Drop-off each year December 26-January 15 at valley sites; flocked trees are not accepted |
 
 ## Mattresses and Box Springs {#mattresses}
 
@@ -127,5 +128,15 @@ All of the above is from Republic's [2026 Household Hazardous Waste Calendar](ht
 **Medications** aren't on Republic's HHW list. The Health District lists Las Vegas Metropolitan Police Department (LVMPD) locations, CVS, Walgreens and local pharmacies as drop-off options. ([Southern Nevada Health District](https://www.southernnevadahealthdistrict.org/permits-and-regulations/solid-waste-compliance/household-hazardous-waste-management/))
 
 Questions? Call Republic Services Southern Nevada at **702-735-5151** (Monday to Friday, 7:30 a.m. to 5 p.m.; Saturday, 8 a.m. to noon) or the Southern Nevada Health District at (702) 759-0600. ([Republic Services Southern Nevada](https://www.republicservices.com/municipality/southern-nevada), [Southern Nevada Health District](https://www.southernnevadahealthdistrict.org/permits-and-regulations/solid-waste-compliance/household-hazardous-waste-management/))
+
+## Christmas Trees {#christmas-trees}
+
+**Christmas tree short answer:** The Springs Preserve, with the Christmas Tree Recycling Committee, says that each year from December 26 to January 15 you can take cut Christmas trees to one of more than 30 drop sites throughout the valley, free of charge.
+
+Before drop-off, remove all non-organic objects such as lights, wire, tinsel, ornaments and nails, which can contaminate mulch and damage the chipper. Flocked trees cannot be recycled. The Springs Preserve itself is closed Tuesdays and Wednesdays and will not accept trees on those days; other sites may have different hours. For committee information, the page lists Tara Pike-Nordstom at UNLV Rebel Recycling, 702-895-3760. The same page notes that a local company called Move It will pick up a tree for a fee if you cannot get to a site; that is a private service, not a City collection. ([Springs Preserve: Christmas Tree Recycling](https://www.springspreserve.org/education-conservation/christmas-tree-recycling.html))
+
+The official page we read on November 10, 2026, did not include the current list of the 30-plus drop sites in the text, and we did not find a City of Las Vegas or Republic Services municipal page that posted a separate 2026-27 curbside tree window. Use the Springs Preserve page or 702-895-3760 for this season's site list before you drive.
+
+If you cannot get to a drop site, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. Other cities are in our [Christmas Tree Disposal](/christmas-tree-disposal/) guide.
 
 *Rules, hours, fees and schedules change. Confirm on the linked official page or with Republic Services before you set anything out or drive anywhere.*

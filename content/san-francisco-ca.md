@@ -36,6 +36,7 @@ Here's how to legally get rid of bulky junk in San Francisco, California, item b
 | Fridge / AC (freon) | Residential refrigerators, washers, dryers and stoves go in Recology Bulky Item Collection (no commercial appliances); at the Transfer Station, refrigerators are $73.68 each plus weight |
 | TV / computer | Prohibited from trash and recycling carts. Recology Bulky Item Collection, or free drop-off at the SF Transfer Station (TVs of all sizes, monitors, laptops) |
 | Paint / chemicals | Free Household Hazardous Waste Facility at 501 Tunnel Ave. (Thursday to Saturday, 8 a.m. to 4 p.m., 15 gallons or 125 pounds per trip), free Recology home pickup, or up to 5 gallons of paint at a participating hardware store |
+| Christmas tree | Last season: curbside January 2-16, 2026, beside the green compost bin; 2026-27 dates not yet published |
 
 ## Mattresses and Box Springs {#mattresses}
 
@@ -119,5 +120,15 @@ Hazardous items can't go in your black, green or blue bin; SF Environment says d
 **Medications** aren't accepted at the HHW Facility. Take them to any San Francisco police station or a participating pharmacy (see sfenvironment.org/medicinedisposal). ([Recology: Hazardous Waste](https://www.recology.com/recology-san-francisco/hazardous-waste/))
 
 Not sure where something goes? Call Recology customer service at (415) 330-1300, search SF Environment's SFRecycles directory, or contact SF Environment at (415) 355-3700. ([SF Environment](https://www.sfenvironment.org/bulky-items))
+
+## Christmas Trees {#christmas-trees}
+
+**Christmas tree short answer:** San Francisco Environment says Recology will collect clean, unflocked trees curbside during a posted January window. 2026-27 dates were not published as of November 10, 2026.
+
+**Last season (2025-26):** Residents could place trees curbside the night before a scheduled collection day between January 2 and January 16, 2026. Trees had to be natural, undecorated and unflocked. Remove all tinsel, decorations, plastic bags, stands and lights. If the tree is more than 6 feet tall, cut it in half. Place it alongside your green composting bin on your regular composting collection day. A separate Recology truck picks up the trees. If your tree was not picked up by the end of your service day, the page says to contact Recology at 415-330-1300. ([San Francisco Environment: How to Recycle Your Christmas Tree](https://www.sfenvironment.org/how-recycle-your-christmas-tree))
+
+Check that official page again in December for the 2026-27 window before you set a tree out.
+
+If you missed the collection dates, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. Other cities are in our [Christmas Tree Disposal](/christmas-tree-disposal/) guide.
 
 *Rules, fees and schedules change. Confirm on the linked official page or with Recology at (415) 330-1300 before you set anything out or drive anywhere.*

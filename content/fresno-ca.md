@@ -36,6 +36,7 @@ Here's how to legally get rid of bulky junk in Fresno, California, item by item.
 | Fridge / AC (freon) | Not accepted at the City's curbside bulky collections; use a Certified Appliance Recycler or a County-listed recycler that takes appliances with freon |
 | TV / computer | Free at the Fresno County Environmental Compliance Center; never in any City cart |
 | Paint / chemicals | Free at the Environmental Compliance Center (up to 125 pounds or 15 gallons per visit); latex paint can be dried with kitty litter and put in your gray cart |
+| Christmas tree | Cut to 3-foot lengths, under 4 inches in diameter, in the green cart with the lid closed |
 
 ## Mattresses and Box Springs {#mattresses}
 
@@ -109,5 +110,15 @@ These City programs are only for homes that pay for City of Fresno residential t
 **Never in your carts:** Don't put household hazardous waste in the trash, on the ground, down the sewer or into the gutter. Batteries, chemicals, aerosol cans, light bulbs, motor oil and pesticides aren't allowed in any cart.
 
 Questions? Call the City of Fresno Recycling Hotline at **559-621-1111**, Solid Waste at **559-621-6888**, or **311**. For hazardous waste, call Fresno County at **559-600-4259**.
+
+## Christmas Trees {#christmas-trees}
+
+**Christmas tree short answer:** The City of Fresno tells single-family customers to recycle a live Christmas tree or wreath in the green organics cart, not in the landfill.
+
+Prepare the tree by removing all ornaments, lights, tinsel and the stand. Wood and prunings must be less than 4 inches in diameter and cut to 3-foot lengths or less. Place the pieces in the green waste cart and make sure the lid closes completely. Artificial Christmas trees can be donated or placed in the gray cart for disposal. Do not burn a tree in the fireplace, and do not dump trees in vacant lots (the City says there are heavy fines for littering). ([City of Fresno: What Goes Where](https://www.fresno.gov/publicutilities/trash-disposal-recycling/what-goes-where-green-gray-blue/); [Holiday Trees Go in the Green Cart (PDF)](https://www.fresno.gov/wp-content/uploads/2025/11/2512December-Insert_web-10w1151.pdf))
+
+Apartment and commercial customers north of Ashlan Avenue should contact Allied Waste Services of Fresno, 559-275-1551. Customers south of Ashlan Avenue should contact Mid Valley Disposal, 559-237-9425. For more information, call the Recycling Hotline at 559-621-1111 or 311.
+
+If the tree will not fit in the cart, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. See our [Christmas Tree Disposal](/christmas-tree-disposal/) guide for other cities.
 
 *Rules, fees and hours change. Confirm on the linked official page or with the City before you set anything out or drive anywhere.*

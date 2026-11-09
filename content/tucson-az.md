@@ -31,6 +31,7 @@ Here's how to legally get rid of bulky junk in Tucson, Arizona, item by item. Th
 | Fridge / AC (freon) | Brush and Bulky (remove fridge and freezer doors), or the Los Reales Landfill for $20 per appliance plus other fees |
 | TV / computer | Free at the HHW drop-off at Los Reales or a community collection event for City residents (CRT tube TVs and monitors aren't accepted); never in your blue bin |
 | Paint / chemicals | Free HHW drop-off for City residents (25-gallon paint limit); dried paint can go in your household trash |
+| Christmas tree | Drop-off December 26, 2026-January 18, 2027, at 10 Tucson and Oro Valley sites; no curbside pickup |
 
 ## Mattresses and Box Springs {#mattresses}
 
@@ -106,5 +107,15 @@ Event dates are from the City's [HHW Community Collection Events](https://www.tu
 **Never in your bins:** Don't put hazardous or toxic waste in your trash container, or pour it down the drain.
 
 Questions? Call Environmental Services Customer Service at **520-791-3171**, email eshelp@tucsonaz.gov, or call **311**. ([City of Tucson: Environmental Services](https://www.tucsonaz.gov/Departments/Environmental-Services))
+
+## Christmas Trees {#christmas-trees}
+
+**Christmas tree short answer:** The City of Tucson TreeCycle Program runs from Saturday, December 26, 2026, through Monday, January 18, 2027. The City will not collect Christmas trees from curbs and alleys.
+
+Remove everything from the tree, including the stand, lights, ornaments, wire and tinsel, before drop-off. Other green waste is not accepted at TreeCycle. Commercial tree-lot overages are not accepted, except at Los Reales Sustainability Campus at posted landfill rates. The City will grind the trees for compost. ([City of Tucson: TreeCycle](https://www.tucsonaz.gov/Departments/Environmental-Services/Residential-Services/Recycling-Services/TreeCycle))
+
+Sites are open during daylight hours, seven days a week, unless noted: Joaquin Murrieta Park, 1375 N. El Rio Drive (next to the Boys and Girls Club; access from Speedway driving north on El Rio Drive); Los Reales Sustainability Campus, 5300 E. Los Reales Road (entrance at Craycroft and Los Reales; Monday-Saturday 6 a.m.-5 p.m.); Oro Valley Lot, 810 W. Naranja Drive (Naranja entrance, east side of Musette Drive); Purple Heart Park, 9822 E. Rees Loop (drop off by the dog park on Rees Loop, not at the pool parking lot); Randolph Golf Course, 600 S. Alvernon Way (southeast corner of the parking lot); Tank's Ina Land Reclamation Facility, 5300 W. Ina Road (Monday-Friday 7 a.m.-3:30 p.m., Saturday 7 a.m.-2 p.m.); Tank's Speedway Recycling and Landfill Facility, 7301 E. Speedway (turn north on Prudence Road; Monday-Friday 7 a.m.-4 p.m., Saturday 7 a.m.-2 p.m.); Tank's Wilmot Recycling and Landfill Facility, 11505 S. Wilmot Road (Monday-Friday 6 a.m.-3 p.m.); Todd M. Harris Sports Complex, 2400 S. Craycroft Road; and Tucson Rodeo Grounds, 4823 S. 6th Avenue (enter on 3rd Avenue, north of Irvington Road).
+
+Questions: 311 or Tucson 311. If you cannot get to a site, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. Other cities are in our [Christmas Tree Disposal](/christmas-tree-disposal/) guide.
 
 *Rules, fees and hours change. Confirm on the linked official page or with the City before you set anything out or drive anywhere.*

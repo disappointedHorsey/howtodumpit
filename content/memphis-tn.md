@@ -31,6 +31,7 @@ Here's how to legally get rid of bulky junk in Memphis, Tennessee, item by item.
 | Fridge / AC (freon) | Set it out on your bulk week with the doors removed or taped shut; the City's pages don't cover refrigerant removal, so ask 311 first |
 | TV / computer | The County hazardous waste facility takes one computer, monitor and keyboard per family every 30 days, but not TVs; for TVs, ask 311 |
 | Paint / chemicals | Take oil-based paint and chemicals to the Shelby County Household Hazardous Waste Facility, 6305 Haley Road; dry out latex paint and bag it in your trash cart |
+| Christmas tree | Last season: curbside with trash, plus County drop-off through January 16, 2026; 2026-27 dates not yet published |
 
 ## Mattresses and Box Springs {#mattresses}
 
@@ -99,5 +100,15 @@ The City of Memphis's own hazardous waste page lists older hours (Tuesdays and S
 **Latex paint:** Dry it out first. Remove the lid and leave the can in a safe, well-ventilated place; for cans more than a quarter full, mix in cat litter or mulch. Once it's dry, put it in a separate bag inside your garbage cart, along with empty dried cans. ([Shelby County: Household Hazardous Waste](https://www.shelbycountytn.gov/439/Household-Hazardous-Waste))
 
 Questions? Call **311** (**901-636-6500**). ([City of Memphis: Household Garbage](https://memphistn.gov/household-garbage/))
+
+## Christmas Trees {#christmas-trees}
+
+**Christmas tree short answer:** A December 31, 2025 City of Memphis Storm Water news release said residents could recycle a tree or leave it out for curbside pickup. 2026-27 dates were not published as of November 10, 2026.
+
+**Last season (2025-26):** The Shelby County Division of Public Works accepted Christmas trees at 105 South Germantown Road from December 26, 2025, through January 16, 2026. All stands, lights and decorations had to be removed. Collected trees were recycled into mulch, to be made available to residents on Earth Day or at the America Recycles event in the fall. The City of Memphis Solid Waste Department also said it would provide curbside pickup of live trees along with trash collection on your scheduled trash day. The release pointed residents to the Memphis Curbside Collection app for service notifications. ([Memphis Storm Water: December 2025 Press Release](https://www.memphisstormwater.com/news/2025/12/31/december-press-release))
+
+Do not dump trees into storm drains or waterways. For questions, the Storm Water Department listed 901-636-4349 and memphisstormwater.com. Confirm this season with Solid Waste or 311 before you set a tree out.
+
+If you missed the window, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. See our [Christmas Tree Disposal](/christmas-tree-disposal/) guide for other cities.
 
 *Rules, fees and hours change. Confirm on the linked official page or with 311 before you set anything out or drive anywhere.*

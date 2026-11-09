@@ -50,6 +50,7 @@ Here's how to legally get rid of bulky junk in Houston, item by item. Every opti
 | Fridge / AC (freon) | Heavy trash only with a technician's refrigerant-removed tag |
 | TV / computer | Environmental Service Centers or monthly e-waste events (not the curb) |
 | Paint / chemicals | Environmental Service Centers (HHW) |
+| Christmas tree | Last season: drop-off December 26, 2025-January 23, 2026; 2026-27 dates not yet published |
 
 ## Mattresses and Box Springs {#mattresses}
 
@@ -93,5 +94,15 @@ Stoves, washers, dryers and water heaters are accepted as heavy trash. **Refrige
 ## Paint and Household Hazardous Waste {#hazardous}
 
 Household hazardous waste goes to the **Environmental Service Centers** (addresses and hours above), City of Houston residents only, no business waste. Latex paint, used oil, antifreeze and batteries can also go to the **Westpark Consumer Recycling Center**. The City's limits: two 5-gallon and ten 1-gallon paint cans, 5 gallons of oil, 5 gallons of antifreeze. HHW information line: **713.551.7355**. ([Houston HHW](https://www.houstontx.gov/solidwaste/hhw.html))
+
+## Christmas Trees {#christmas-trees}
+
+**Christmas tree short answer:** The City of Houston Solid Waste Management Department runs a holiday tree drop-off program. Its December 22, 2025 news release does not mention curbside Christmas tree collection. 2026-27 dates were not published as of November 10, 2026.
+
+**Last season (2025-26):** Residents could drop off undecorated natural trees from Friday, December 26, 2025, through Friday, January 23, 2026, at 20 recycling locations. Remove all lights, ornaments, tinsel, wire, nails and stands. Flocked, painted or artificial trees cannot be recycled. Trees were turned into mulch and compost. ([City of Houston: Tree Recycling News Release](https://www.houstontx.gov/solidwaste/press-12222025.html))
+
+Neighborhood depositories in that release included Central, 2240 Central Street; Kirkpatrick, 5565 Kirkpatrick; Sommermeyer, 14400 Sommermeyer; N. Main, 9003 N. Main; Southwest, 10785 Southwest Freeway; Sunbeam, 5100 Sunbeam; and Ellington Airport Recycling Drop-off at Highway 3 and Brantley Road. Hours listed were Wednesday to Sunday, 10 a.m. to 7 p.m., changing Tuesday to Saturday, 9 a.m. to 6 p.m., starting January 5. Westpark Consumer Recycling Center, 5900 Westpark, was listed Tuesday to Saturday, 8 a.m. to 5 p.m., closed January 1, 2026. Kingwood Recycling Center, 3210 W. Lake Houston Parkway, was listed Saturday and Sunday, 8 a.m. to 6 p.m. Several Living Earth yards were also listed. Hours and sites can change; confirm with 311 or the Solid Waste website before you drive.
+
+If you missed the drop-off window, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. See our [Christmas Tree Disposal](/christmas-tree-disposal/) guide for prep rules and other cities.
 
 *Rules, hours and fees change. Confirm on the linked official page before you set anything out or drive anywhere.*

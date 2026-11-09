@@ -55,6 +55,7 @@ Here's how to legally get rid of bulky junk in Sacramento, California, item by i
 | Fridge / AC (freon) | Free Appliance and E-Waste Pickup, up to 2 appliances per appointment, all year |
 | TV / computer | Free Appliance and E-Waste Pickup (up to 4 items), or the City's HHW facility; never in your garbage or recycling container |
 | Paint / chemicals | Free at the City HHW facility, 8491 Fruitridge Road (Tuesday to Saturday, 8 a.m. to 5 p.m.), or a PaintCare retailer |
+| Christmas tree | Cut to fit the organics cart; last season's street Claw pickup ended February 1, 2026 |
 
 ## Mattresses and Box Springs {#mattresses}
 
@@ -132,5 +133,15 @@ The City also lists the City of Elk Grove Special Waste Collection Facility, 925
 **Never in your containers:** Paint, batteries, chemicals, e-waste, oil, fluorescent bulbs and sharps are illegal to put in your garbage container. ([City of Sacramento: Garbage](https://www.cityofsacramento.gov/public-works/recycling-solid-waste/Collectionservices/garbage_collection))
 
 Questions? Call **311** (916-264-5011), City Utility Billing at **916-808-5454** for paid pickups, or Sacramento County Customer Service at **916-875-5555**.
+
+## Christmas Trees {#christmas-trees}
+
+**Christmas tree short answer:** The City of Sacramento says you can break down a holiday tree so it fits in your organics container on your regular weekly organics day. A seasonal "Claw" street pickup and free drop-off events also run after the holidays; 2026-27 Claw and event dates were not published as of November 10, 2026.
+
+Flocked trees are accepted, but any tinsel, plastic, metal or other decorations must be removed from all trees. Keep trees and leaf piles out of storm drains, and clear of bike lanes where possible. Improper disposal of holiday trees on City streets is considered illegal dumping. ([Sacramento City Express: Free Ways to Get Rid of Your Holiday Tree](https://sacramentocityexpress.com/2025/12/22/here-are-free-ways-to-get-rid-of-your-holiday-tree/))
+
+**Last season (2025-26):** The Department of Public Works leaf-season service let many residents place trees in the organics container or pile them in the street for pickup by "the Claw," up to five trees, on the collection calendar (the schedule can change with weather and pile size). The last day trees or yard waste could be placed in the street was February 1, 2026. Free drop-off events for up to five trees were listed at SMUD Corporation Yard, 6100 Folsom Boulevard (Saturday, January 3, 2026, 8 a.m.-3:30 p.m.); North Area Recovery Station, 4450 Roseville Road (January 3-4); Kiefer Landfill, 12701 Kiefer Boulevard (January 3-4); Elder Creek Recovery and Transfer, 8642 Elder Creek Road (January 3); and Sacramento Recycling and Transfer Station, 8491 Fruitridge Road (January 3, and also December 26, 2025-January 8, 2026, Monday-Saturday 8 a.m.-5 p.m.).
+
+If the tree will not fit in the cart and seasonal pickup has not started, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. Other cities are in our [Christmas Tree Disposal](/christmas-tree-disposal/) guide.
 
 *Rules, fees and hours change. Confirm on the linked official page or with the City before you set anything out or drive anywhere.*

@@ -36,6 +36,7 @@ Here's how to legally get rid of bulky junk in Indianapolis and Marion County, I
 | Fridge / AC (freon) | Contact the Mayor's Action Center (317-327-4622 or RequestIndy) to arrange a freon pickup; allow 10 business days |
 | TV / computer | Not allowed in the trash or heavy trash (Indiana law). ToxDrop takes TVs 27 inches or less and up to five computer systems per visit; RecycleForce also takes electronics |
 | Paint / chemicals | ToxDrop on the first, second and fourth Saturdays, 9 a.m. to 2 p.m. (Marion County residents only; 20 gallons liquid or 75 pounds solid per visit) |
+| Christmas tree | Last season: drop-off December 25, 2025-January 31, 2026, at seven parks; 2026-27 dates not yet published |
 
 ## Mattresses and Box Springs {#mattresses}
 
@@ -119,5 +120,15 @@ All of the above is from the City's [ToxDrop Drop-off Sites](https://www.indy.go
 **Leftover latex paint:** We didn't find a City of Indianapolis rule for drying out paint for the trash. The state's environmental agency, IDEM, says paint should **never be poured down the drain or put in the trash unless it's completely dry**. Usable paint should be used up, given to theater or community groups, or recycled through a paint exchange. If there's no reuse or disposal program in your area, letting the paint dry out allows it to go out with regular garbage, and adding cheap clay cat litter speeds that up. ([IDEM: Household Hazardous Wastes](https://www.in.gov/idem/health/household-hazardous-wastes/index)) Since ToxDrop takes paint, that's the simplest option for full cans.
 
 Not sure where something goes? Check the City's [Trash 101](https://www.indy.gov/activity/trash-101) page, use RequestIndy (linked from the [Mayor's Action Center page](https://www.indy.gov/agency/mayors-action-center)), or call the Mayor's Action Center at 317-327-4622. For DPW questions, the Department of Public Works lists 317-327-4000 (8 a.m. to 5 p.m., Monday to Friday). ([ToxDrop Drop-off Sites](https://www.indy.gov/activity/hazardous-waste-dropoff-sites))
+
+## Christmas Trees {#christmas-trees}
+
+**Christmas tree short answer:** Indianapolis encourages Marion County residents to drop off real Christmas trees at posted park sites so they can be mulched. 2026-27 dates were not published as of November 10, 2026.
+
+**Last season (2025-26):** Drop-off ran from Thursday, December 25, 2025, until Wednesday, January 31, 2026, dawn to dusk, at seven locations. Tree stands and all ornaments, tinsel, lights and decorations had to be removed. Collected trees were mulched by GreenCycle. The service was for Marion County residents only, not for commercial use. Dropping trees at sites not on the list is considered illegal dumping, with fines of up to $3,000, and the City warns that included parks can change from year to year. ([Indy.gov: Christmas Tree Disposal](https://www.indy.gov/activity/christmas-tree-disposal))
+
+Last-season sites: Ellenberger Park, 5301 E. St. Clair Street (northeast corner by the pool); Garfield Park, 2432 Conservatory Drive (in front of the MacAllister Amphitheater); Northwestway Park, 5253 W. 62nd Street (to the left of the entrance); Perry Park, 451 E. Stop 11 Road (to the left of the Stop 11 main entrance); Riverside Park, 2420 East Riverside Drive (by the basketball court); Sahm Park, 6801 E. 91st Street (near the recycling bins); and Riverwood Park, 7201 Crittenden Avenue. Confirm the new list before you drive. Questions: Department of Public Works, 317-327-4000.
+
+If a drop-off site is not practical, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. See our [Christmas Tree Disposal](/christmas-tree-disposal/) guide for other cities.
 
 *Rules, hours, fees and schedules change. Confirm on the linked official page or with the Mayor's Action Center before you set anything out or drive anywhere.*

@@ -52,6 +52,7 @@ Here's how to legally get rid of bulky junk in the **City of Omaha**, Nebraska, 
 | Fridge / AC (freon) | Free Cleanup Saturday (appliance sites only); not part of the River City program |
 | TV / computer | Free Cleanup Saturday or a fee-based electronics recycler |
 | Paint / chemicals | Under The Sink, 4001 South 120th Street; never in your cart |
+| Christmas tree | Cut to fit the black-lid cart anytime; last season's drop-off sites closed January 9, 2026 |
 
 ## Mattresses and Box Springs {#mattresses}
 
@@ -112,5 +113,15 @@ Wipe personal data from phones and computers before you recycle them. **Recharge
 - **Household waste only:** nothing from a business, even a home-based one. Keep chemicals in their original, tightly capped containers, packed upright in a box, and drive straight there.
 
 Questions? City of Omaha Environmental Services Solid Waste Helpline: **402-444-5238**.
+
+## Christmas Trees {#christmas-trees}
+
+**Christmas tree short answer:** The City of Omaha Wasteline page says Christmas trees may be cut down to fit in the black-lid waste cart at any time. Seasonal drop-off sites run after the holidays; they are closed for the season as of this check, and 2026-27 site dates were not posted.
+
+**Last season (2025-26):** You could begin using the sites on December 24. Sites were open daily during daylight hours and closed Friday, January 9, 2026. Leaving a tree when the sites are closed is illegal dumping, with a fine of up to $500, possible loss of a driver's license for 6 months, and cleanup costs (Omaha Municipal Code, Chapter 34, Article I, Section 4). Remove nails, wires, ornaments, the tree stand, plastic bags and lights. Flocked trees are accepted. Wreaths and evergreen roping are not. Throw the tree up on the pile so others can get in. ([City of Omaha Wasteline: Christmas Tree Disposal](https://www.wasteline.org/special-waste-information/christmas-tree-disposal/))
+
+Last-season Omaha-area sites included a new location at Kelley Softball Complex, 12302 Fort Street (at the end of Dido Albert Federowich Memorial Drive); Omaha's Henry Doorly Zoo and Aquarium northwest parking lot near Bob Gibson Drive and South 13th Street; Orchard Park, 66th Street north of Hartman Avenue; F Street Football Field, F Street east of 156th Street; Ta Ha Zouka Park, 20801 Elkhorn Drive; Kelly West Park, 87th Street and Park View Boulevard; and Wehrspann Lake Wildlife Management Area south parking lot on Highway 370. Nearby towns also listed sites, including Bellevue Old Sarpy County Landfill, 8902 Cedar Island Road. Volunteer help at Kelley Softball Complex and F Street Football Field was limited to listed weekend hours.
+
+Do not deliver a tree to a closed site. Questions: Solid Waste Helpline, 402-444-5238. If you cannot cut the tree to fit the cart, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. See our [Christmas Tree Disposal](/christmas-tree-disposal/) guide for other cities.
 
 *Rules, hours and fees change. Confirm on the linked official page or with the Solid Waste Helpline before you set anything out or drive anywhere.*

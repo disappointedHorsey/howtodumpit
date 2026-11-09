@@ -31,6 +31,7 @@ Here's how to legally get rid of bulky junk in Fort Worth, Texas, item by item. 
 | Fridge / AC (freon) | Not allowed in curbside bulk. Take it to a City Drop-Off Station (freon doesn't need to be removed; remove food and doors) |
 | TV / computer | No curbside collection. City Drop-Off Stations take computers and TVs (limit two every six months) |
 | Paint / chemicals | Environmental Collection Center (up to 30 gallons of paint) or a Drop-Off Station (20 gallons of household chemicals every 3 months) |
+| Christmas tree | Latest official City guidance is dated December 28, 2022; confirm with 311 for this season |
 
 ## Mattresses and Box Springs {#mattresses}
 
@@ -92,5 +93,15 @@ The ECC does **not** accept ammunition or explosives, appliances or electronics,
 We didn't find a City page with dry-it-out-and-trash instructions for latex paint, so take leftover paint to the ECC or a Drop-Off Station, or ask 311.
 
 Not sure where something goes? Use the City's Waste Wizard or Garbage & Recycling app, or contact the 311 Fort Worth Contact Center at 817-392-1234 or 1234@fortworthtexas.gov (7 a.m. to 6 p.m. weekdays, 7 a.m. to 4 p.m. Saturdays). ([Bulk Waste Collection](https://www.fortworthtexas.gov/departments/environmental-services/solidwaste/bulk))
+
+## Christmas Trees {#christmas-trees}
+
+**Christmas tree short answer:** The latest official City of Fort Worth guidance we could verify is a December 28, 2022 news release. 2025-26 and 2026-27 Christmas tree dates were not found on fortworthtexas.gov during this November 10, 2026 check. Confirm with 311 (817-392-1234) before you set a tree out.
+
+That 2022 release said live Christmas trees can go out with normal weekly yard waste pickup after the holidays. Trees had to be less than 8 feet long (cut in two pieces if needed). Remove all decorations, lights and tree stands, and do not put the tree in a plastic bag. Flocked trees were accepted. Artificial trees were to go in the brown garbage cart. Residents could also take trees to any of the City's four drop-off stations: 2400 Brennan Avenue; 5150 Martin Luther King Freeway; 6260 Old Hemphill Road; and 301 Hillshire Drive. Trees with decorations left on were to be placed in the trash at the stations; otherwise they would be recycled. ([City of Fort Worth: Place Real Christmas Trees Curbside or Drop Them Off](https://www.fortworthtexas.gov/news/2022/12/xmas-trees))
+
+The City's current [Yard Trimmings](https://www.fortworthtexas.gov/departments/environmental-services/solidwaste/yardtrimmings) page still lists those four drop-off stations (Tuesday-Friday 8 a.m.-5 p.m., Saturday 8 a.m.-noon; closed Sunday and Monday) but does not mention Christmas trees by name.
+
+If you need a tree taken from the house, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. Other cities are in our [Christmas Tree Disposal](/christmas-tree-disposal/) guide.
 
 *Rules, hours, fees and schedules change. Confirm on the linked official page or by calling the 311 Fort Worth Contact Center (817-392-1234) before you set anything out or drive anywhere.*

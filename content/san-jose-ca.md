@@ -31,6 +31,7 @@ Here's how to legally get rid of bulky junk in San José, California, item by it
 | Fridge / AC (freon) | No-cost City Junk Pickup: empty it, remove glass shelves, tape doors shut or remove them; window or portable AC units only (no central units, no commercial appliances) |
 | TV / computer | Illegal in the garbage or recycling cart. City Junk Pickup (computers and monitors boxed with cords), or free County household hazardous waste drop-off by appointment |
 | Paint / chemicals | Free County household hazardous waste drop-off by appointment ((408) 299-7300), or free PaintCare drop-off for house paint; dried latex paint can go in the garbage |
+| Christmas tree | Collected on your regular garbage, recycling and yard-trimmings day; cut into 5-foot pieces |
 
 ## Mattresses and Box Springs {#mattresses}
 
@@ -110,5 +111,15 @@ Never pour leftover hazardous materials down the sink, toilet or storm drain, or
 **Used motor oil:** curbside collection of used motor oil is available for residential homes, townhomes and mobile home parks. ([San José Recycles: Hazardous Waste](https://sanjoserecycles.org/what-to-do/hhw/))
 
 Not sure where something goes? Use San José 311 ([311.SanJoseCA.gov](https://311.sanjoseca.gov/) or (408) 535-3500), search [RecycleStuff.org](https://www.recyclestuff.org/), or call the County Recycling Hotline at (800) 533-8414.
+
+## Christmas Trees {#christmas-trees}
+
+**Christmas tree short answer:** San José Recycles says natural and flocked trees are collected for recycling on the same day as your garbage, recycling and yard trimmings. The official guide does not give a limited seasonal end date.
+
+Remove all tinsel, decorations and the tree stand. Cut the tree into 5-foot pieces. Place it in the street 1 foot from the curb and 5 feet from your garbage and recycling carts and parked vehicles, and set it out by 6 a.m. on your collection days. Multifamily residents should ask their property manager. For collection or service questions, the page lists GreenWaste Recovery at 408-283-4800. ([San Jose Recycles: Christmas Trees (Real)](https://sanjoserecycles.org/guide/christmas-trees-real/))
+
+No 2026-27 special-event dates were listed on that page as of November 10, 2026. If your tree is not collected, contact GreenWaste Recovery.
+
+If you cannot get the tree to the street, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. See our [Christmas Tree Disposal](/christmas-tree-disposal/) guide for other cities.
 
 *Rules, schedules and accepted-item lists change. Confirm on the linked official page or by calling San José 311 at (408) 535-3500 before you set anything out or drive anywhere.*

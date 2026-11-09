@@ -56,6 +56,7 @@ Here's how to legally get rid of bulky junk in Atlanta, Georgia, item by item. I
 | Fridge / AC (freon) | Free scheduled City bulk collection (appliances are approved), or CHaRM Atlanta for a fee |
 | TV / computer | Not taken in bulk pickup; CHaRM Atlanta (TVs and monitors carry a fee, most other electronics are free) |
 | Paint / chemicals | The City has no HHW program; CHaRM Atlanta takes paint and chemicals, with the first 20 pounds free for residents |
+| Christmas tree | Yard trimmings: paper bags or a labeled container, no plastic bags; discarded Christmas trees are accepted |
 
 ## Mattresses and Box Springs {#mattresses}
 
@@ -121,5 +122,15 @@ Here's how to legally get rid of bulky junk in Atlanta, Georgia, item by item. I
 - **Closures:** CHaRM lists 2026 closures on November 25 (closing early), November 26 to 28, December 24 to 28 and December 31, plus January 1.
 
 Questions? Call **ATL311** at **404-546-0311** (or 3-1-1 inside the city), CHaRM at **404-600-6386**, or DeKalb County Solid Waste Management at **404-294-2900**.
+
+## Christmas Trees {#christmas-trees}
+
+**Christmas tree short answer:** The City of Atlanta Office of Solid Waste Services lists discarded Christmas trees among accepted yard trimmings, along with leaves, brush, grass clippings, shrub and tree plantings, and branches not exceeding 4 feet in length and 4 inches in diameter.
+
+Place yard trimmings in paper bags manufactured for yard-trimmings disposal or in a container labeled "Yard Trimmings." Yard trimmings will not be accepted in plastic bags. Solid Waste Services may collect up to 20 paper bags per collection, each no more than 35 pounds when full. Over 20 bags is bulk rubbish and must be scheduled. Reusable containers may not exceed 32 gallons and must be marked "YARD TRIMMINGS" on all four sides. ([City of Atlanta: Office of Solid Waste Services](https://www.atlantaga.gov/government/departments/public-works/office-of-solid-waste-services/))
+
+The SWS page does not give a separate 2026-27 Christmas tree start or end date. Keep Georgia Beautiful's Bring One for the Chipper program also lists CHaRM as a drop-off partner; last season CHaRM accepted live trees from December 27 through January 24 (posted December 19, 2025) at CHaRM Atlanta, 1110 Hill Street SE, and CHaRM DeKalb, 1225 Columbia Drive, Decatur, by appointment. That is a nonprofit site, not the City collection rule, and 2026-27 CHaRM dates were not posted as of this check. ([CHaRM: Christmas Trees and Holiday Materials](https://livethrive.org/christmas-trees-and-holiday-materials-at-charm/))
+
+If you cannot get the tree to the curb, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. See our [Christmas Tree Disposal](/christmas-tree-disposal/) guide for other cities.
 
 *Rules, fees and hours change. Confirm on the linked official page or with the City before you set anything out or drive anywhere.*

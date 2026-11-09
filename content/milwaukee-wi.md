@@ -31,6 +31,7 @@ Here's how to legally get rid of bulky junk in Milwaukee, Wisconsin, item by ite
 | Fridge / AC (freon) | Not picked up at the curb; take it to a Drop Off Center, and ask the City how to handle the refrigerant first |
 | TV / computer | Not picked up at the curb and banned from Wisconsin landfills; Drop Off Centers take up to 3 TVs a visit at $5 each, other electronics free |
 | Paint / chemicals | Take oil-based paint and chemicals to an MMSD household hazardous waste site; dry out latex paint and put it in your garbage cart, or take it to MMSD |
+| Christmas tree | Request a special collection December 26-January 31, or take a bare tree to a Drop Off Center |
 
 ## Mattresses and Box Springs {#mattresses}
 
@@ -112,5 +113,15 @@ Each site lists its own 2026 closed days, including the Thanksgiving period, so 
 **Motor oil, antifreeze and car batteries:** The City's Drop Off Centers also recycle these. ([City of Milwaukee: Drop Off Centers](https://city.milwaukee.gov/sanitation/DropOff))
 
 Questions? Call **414-286-CITY (2489)**. ([City of Milwaukee: Bulky Item Pickup](https://city.milwaukee.gov/sanitation/Bulky-Item-Pickup))
+
+## Christmas Trees {#christmas-trees}
+
+**Christmas tree short answer:** The City of Milwaukee Recycling Directory says cut (live) Christmas trees are collected by special crews from curbside or alley collection points for composting from December 26 until January 31. Do not place the tree in a cart.
+
+Residents must submit a request at Click-4-Action or call 414-286-CITY (2489). Trees can also be taken to Drop Off Centers for composting. Trees must be bare, with all decorations removed, before disposal. Wreaths can be collected for composting if you remove all decorations, wire and plastic, and submit the same kind of request. Artificial trees can be placed at the garbage collection point. The directory also points to seasonal updates on the City site. ([City of Milwaukee: Recycling Directory](https://city.milwaukee.gov/recycle/what/Recycling-Directory))
+
+That December 26-January 31 window is the current official instruction we read on November 10, 2026; it does not name a year. Confirm the seasonal update before you set a tree out.
+
+If you cannot get the tree to the collection point, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. Other cities are in our [Christmas Tree Disposal](/christmas-tree-disposal/) guide.
 
 *Rules, fees and hours change. Confirm on the linked official page or with the City before you set anything out or drive anywhere.*

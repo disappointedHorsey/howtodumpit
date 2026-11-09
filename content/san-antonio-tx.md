@@ -44,6 +44,7 @@ Here's how to legally get rid of bulky junk in San Antonio, item by item. Every 
 | Fridge / AC (freon) | Bulky centers accept large appliances and AC units |
 | TV / computer | HHW Drop-Off Center (e-waste) |
 | Paint / chemicals | HHW Drop-Off Center, 7030 Culebra Rd |
+| Christmas tree | Last season: drop-off January 3-14, 2026, at four centers; 2026-27 dates not yet published |
 
 ## Mattresses and Box Springs {#mattresses}
 
@@ -91,5 +92,15 @@ The City's **Household Hazardous Waste Drop-Off Center, 7030 Culebra Road** (Tue
 ## Paint and Household Hazardous Waste {#hazardous}
 
 HHW must **never** go in any curbside cart. Take **paint**, auto fluids, batteries, cleaners and solvents, pesticides, pool chemicals and more to the **HHW Drop-Off Center, 7030 Culebra Road** (same hours). Limits: paint and liquids up to **five 5-gallon or 25 one-gallon cans**; HHW up to **220 lbs**. Keep items in original containers and don't mix them. ([San Antonio HHW](https://www.sa.gov/Directory/Departments/SWMD/HHW))
+
+## Christmas Trees {#christmas-trees}
+
+**Christmas tree short answer:** San Antonio Solid Waste Management Department offers live-tree drop-off during the first two weeks of January and mulches the trees for customers. 2026-27 dates were not posted as of November 10, 2026.
+
+**Last season (2025-26):** Drop-off ran January 3-14, 2026, at four centers: Culebra Road Drop-Off Center, 7030 Culebra Road; Frio City Road Drop-Off Center, 1531 Frio City Road; Rigsby Road Drop-Off Center, 2755 Rigsby Road (those three Tuesday-Friday 8 a.m.-5 p.m. and Saturday 8 a.m.-noon); and Bitters Brush Recycling Center, 1800 Wurzbach Parkway (Monday-Saturday 8 a.m.-5 p.m.). Live trees only. If the tree is over 6 feet, cut it in half. Remove all lights, decorations and stands, even wooden ones. Do not bag trees. Live wreaths, garlands and plants are not accepted. Under the City's tarp law, brush loads must be covered or a $5 penalty may be assessed. ([City of San Antonio: Christmas Tree Drop-Off](https://www.sa.gov/Directory/Departments/SWMD/Brush-Bulky/Christmas-Tree))
+
+Questions: 311 or 210-207-6000.
+
+If you cannot get to a drop-off center, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. Other cities are in our [Christmas Tree Disposal](/christmas-tree-disposal/) guide.
 
 *Rules, hours and fees change. Confirm on the linked official page before you set anything out or drive anywhere.*

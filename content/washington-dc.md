@@ -31,6 +31,7 @@ Here's how to legally get rid of bulky junk in Washington, DC, item by item. Eve
 | Fridge / AC (freon) | DPW bulk (drain AC fluids; fridge doors removed) or Fort Totten |
 | TV / computer | Banned from trash; DPW Special Waste events or eCYCLE DC options |
 | Paint / chemicals | PaintCare drop-off sites; other HHW at DPW Special Waste events |
+| Christmas tree | Last season: DPW curbside January 2-February 28, 2026, for DPW-serviced homes; 2026-27 dates not yet published |
 
 ## Mattresses and Box Springs {#mattresses}
 
@@ -91,5 +92,15 @@ For usable items, DOEE points residents to donation/repair via [Reuse DC](https:
 **Paint:** The most convenient path is **PaintCare** year-round retail drop-off sites in the District (house paint, primers, stains, sealers, varnish in sealed original containers; limits and product rules apply). Find sites at [PaintCare DC](https://www.paintcare.org/states/district-of-columbia/) or call (855) 724-6809. Paint is also accepted at DPW Special Waste events.
 
 **Other HHW** (solvents, pesticides, auto fluids, propane tanks up to 20 lbs, fluorescent lamps, many household chemicals): take to **DPW Special Waste Collection Events**. Free for DC residents with registration and proof of residency. Full accepted/prohibited lists are on the [DPW Special Waste page](https://dpw.dc.gov/service/household-hazardous-waste-hhw-e-cycling-document-shredding). Do **not** put HHW in trash, recycling, or bulk set-out.
+
+## Christmas Trees {#christmas-trees}
+
+**Christmas tree short answer:** DC Department of Public Works (DPW) collects holiday trees and greenery curbside from DPW-serviced households (single-family homes and apartment buildings with three or fewer units). 2026-27 dates were not published as of November 10, 2026.
+
+**Last season (2025-26):** Collection ran January 2 through February 28, 2026, from the front of the residence at the curb or in the tree-box area. Remove all ornaments and lights, and do not bag the trees or greenery. Do not put trees in DC food-waste drop-off bins. The collection schedule mirrored leaf collection: Monday Section A, Tuesday Section B, Wednesday Section C and Thursday Section D in Wards 1-8, with Friday for service requests and missed collections. If a tree was not picked up within 7 days, residents could call 311 starting January 9 and make a "Christmas Tree Removal - Seasonal" request. After February 28, 2026, trees and greenery were to be placed at the normal trash and recycling collection point and collected as space permitted. Inclement weather may delay collection. Households not serviced by DPW (buildings with more than three units) should ask the property owner. Trees collected through February 28 were used for mulch. ([DC DPW: Holiday Trees and Greenery Collection](https://dpw.dc.gov/page/holiday-trees-greenery-collection))
+
+**Last-season weekday drop-off (January 2-February 28, 2026):** Bryant Street Sweep Shop, 201 Bryant Street NW, 8 a.m.-3 p.m.; Guy Mason Recreation Center, 3600 Calvert Street NW, 8 a.m.-4 p.m.; and the DPW Salt Storage Facility, 2700 South Capitol Street SE, 8 a.m.-2:30 p.m.
+
+If you missed the DPW window, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. See our [Christmas Tree Disposal](/christmas-tree-disposal/) guide for other cities.
 
 *Rules, hours and event schedules change. Confirm on the linked official page or with 311 before you set anything out or drive anywhere.*

@@ -31,6 +31,7 @@ Here's how to legally get rid of bulky junk in Portland, Oregon, item by item. I
 | Fridge / AC (freon) | Metro transfer stations take coolant appliances for $30 each (limit 5 per day); curbside pickup is $51 per coolant appliance plus the $18 trip fee |
 | TV / computer | Free Oregon E-Cycles drop-off (up to 7 items at a time), including Metro Central and Metro South; TVs, computers and monitors are banned from Oregon landfills |
 | Paint / chemicals | Free household hazardous waste drop-off at Metro Central or Metro South (up to 35 gallons per day), including paint, stains and sealants |
+| Christmas tree | Cut to fit the green compost cart, or set a whole tree next to the cart for a Metro-listed charge |
 
 ## Mattresses and Box Springs {#mattresses}
 
@@ -120,5 +121,15 @@ Before you go, pack items upright in sturdy boxes in a single layer, secure lids
 **Paint:** Metro's **MetroPaint** recycling program and outlet **closed permanently on March 31, 2026**. Paint recycling continues through Oregon's paint stewardship program, run by **PaintCare**, with nearly 200 collection sites statewide, and Portland-area residents can still recycle **up to 35 gallons of paint per day free** at Metro's hazardous waste facilities. See [PaintCare](https://www.paintcare.org) for other drop-off sites. ([Metro: MetroPaint has closed](https://www.oregonmetro.gov/metropaint), [Oregon DEQ: Paint](https://www.oregon.gov/deq/mm/pages/paint.aspx)) We didn't find a City or Metro page with dry-it-out-and-trash instructions for latex paint, so take leftover paint to Metro or PaintCare, or ask Metro at 503-234-3000.
 
 Not sure where something goes? Use Metro's [Find a Recycler](https://www.oregonmetro.gov/findarecycler) tool, call Metro at 503-234-3000 (weekdays, 8:30 a.m. to 5 p.m.), or contact Portland Garbage and Recycling at 503-823-7202 or wasteinfo@portlandoregon.gov. ([City of Portland](https://www.portland.gov/bps/garbage-recycling))
+
+## Christmas Trees {#christmas-trees}
+
+**Christmas tree short answer:** In the City of Portland, cut-up trees may go in the green curbside compost roll cart, or a whole tree may be placed next to the cart on your regular collection day for a charge published by Metro.
+
+Metro's Christmas tree recycling page, checked November 10, 2026, says cut-up trees may be placed in the green cart. Do not overfill or pack down the material. The lid must be closed, and debris must fall freely from the cart. Whole trees can be placed next to the composting cart and collected on your regularly scheduled day. Metro lists a $5.45 per tree charge. If a tree is over 6 feet, it must be cut in half for handling and safety; Metro says no additional fees are added for trees cut in half. For flocked trees, contact your hauler. Remove all lights, wire, tinsel, ornaments, nails, stands and other materials that are not part of the original tree. ([Oregon Metro: Christmas Tree Recycling](https://www.oregonmetro.gov/waste-disposal-and-prevention/need-get-rid-something/home-collection/christmas-tree-recycling))
+
+Fees and set-out rules can change, and they differ in nearby cities. Confirm the current charge with your hauler or Metro at 503-234-3000 before collection day. Metro also keeps a database of nonprofit pickup fundraisers when those are running.
+
+If you cannot get the tree to the cart, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. See our [Christmas Tree Disposal](/christmas-tree-disposal/) guide for other cities.
 
 *Rules, hours, fees and schedules change. Confirm on the linked official page, with Metro (503-234-3000) or by calling PDX 311 (311 or 503-823-4000) before you set anything out or drive anywhere.*

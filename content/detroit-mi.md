@@ -31,6 +31,7 @@ Here's how to legally get rid of bulky junk in Detroit, Michigan, item by item. 
 | Fridge / AC (freon) | Curbside bulk only after the doors are removed and the refrigerant is drained; the HHW facility doesn't take appliances or AC units |
 | TV / computer | Take it to the free Household Hazardous Waste facility at 2000 E. Ferry St. (Detroit residents only) or use a free manufacturer takeback program |
 | Paint / chemicals | Take it to the Household Hazardous Waste facility (Thursdays and the fourth Saturday of the month, free for Detroit residents); never put it at the curb |
+| Christmas tree | Last season: curbside during the first two weeks of January 2026; 2026-27 dates not yet published |
 
 ## Mattresses and Box Springs {#mattresses}
 
@@ -121,5 +122,15 @@ Here's how to legally get rid of bulky junk in Detroit, Michigan, item by item. 
 **Illegal dumping:** Report it on the City's [Improve Detroit](https://detroitmi.gov/webapp/improve-detroit-report-issue-online) app or call **(313) 876-0426**. ([City of Detroit: Yard and Bulk Waste Guide](https://detroitmi.gov/document/yard-and-bulk-waste-guide))
 
 Questions? Call the DPW Solid Waste Division at **(313) 876-0004**. ([City of Detroit: Bulk & Yard Waste](https://detroitmi.gov/departments/department-public-works/refuse-collection/bulk-yard-waste))
+
+## Christmas Trees {#christmas-trees}
+
+**Christmas tree short answer:** The City of Detroit Department of Public Works has announced Christmas tree pickup for the first two weeks of January. 2026-27 details were not published as of November 10, 2026.
+
+**Last season:** A City news post dated December 9, 2025, said "Christmas trees will be collected during the first two weeks of January." The post did not list set-out rules, size limits or drop-off sites on the page we read. ([City of Detroit: Christmas Tree Pick-up Information](https://detroitmi.gov/news/christmas-tree-pick-information))
+
+Until a new notice is posted, check that page, the City's waste wizard, or call 311 for this season's dates and prep rules before you set a tree out.
+
+If the City window is missed or you cannot get the tree to the curb, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. See our [Christmas Tree Disposal](/christmas-tree-disposal/) guide for other cities.
 
 *Rules, fees and hours change. Confirm on the linked official page or with DPW before you set anything out or drive anywhere.*

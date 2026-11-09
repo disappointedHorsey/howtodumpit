@@ -31,6 +31,7 @@ Here's how to legally get rid of bulky junk in Albuquerque, New Mexico, item by 
 | Fridge / AC (freon) | Free Large Item Pick-Up (empty it and tape fridge and freezer doors shut), or up to 2 appliances with refrigerant intact at Eagle Rock or Montessa Park |
 | TV / computer | TVs go out with a Large Item Pick-Up (never in the blue cart); computers and small electronics go to Eagle Rock for a fee |
 | Paint / chemicals | Free at the Household Hazardous Waste Collection Center for City and Bernalillo County residents; dried-out latex paint can go in the trash |
+| Christmas tree | Free drop-off December 28, 2026-January 10, 2027, at Eagle Rock, Ladera Golf Course and Montessa Park |
 
 ## Mattresses and Box Springs {#mattresses}
 
@@ -111,5 +112,15 @@ The center's holiday list includes closures on Thanksgiving, Black Friday, Chris
 **Never in your carts:** The City says not to put hazardous waste in your trash or recycling cart, or medications in the trash. ([City of Albuquerque: Collection Day Overview](https://www.cabq.gov/solidwaste/trash-collection))
 
 Questions? Call **311 (505-768-2000)** or the Solid Waste Management Department at **505-761-8100**. ([City of Albuquerque: Solid Waste Contact](https://www.cabq.gov/solidwaste/contact))
+
+## Christmas Trees {#christmas-trees}
+
+**Christmas tree short answer:** The City of Albuquerque Solid Waste Management Department, Parks and Recreation, and PNM will accept real Christmas trees for free recycling from December 28, 2026, through January 10, 2027, 8 a.m. to 4:30 p.m.
+
+Drop-off sites: Eagle Rock Convenience Center, 6301 Eagle Rock NE, 505-768-3925; Ladera Golf Course, 3401 Ladera NW, 505-836-4449; and Montessa Park Convenience Center, 3512 Los Picaros SE, 505-768-3930, closed on Thursdays and Fridays. Remove all bags, tree stands, decorations and lights before drop-off. Artificial trees will not be accepted. Limit of five trees per resident; no commercial customers. PNM Vegetation Management crews and Parks and Recreation staff grind the trees into mulch chips, which residents can pick up free while supplies last. ([City of Albuquerque: Treecycling](https://www.cabq.gov/solidwaste/green-waste/treecycling))
+
+Questions: Solid Waste Management Department, 505-761-8100, or 311 (505-768-2000).
+
+If you cannot get to a drop-off site, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. See our [Christmas Tree Disposal](/christmas-tree-disposal/) guide for other cities.
 
 *Rules, fees and hours change. Confirm on the linked official page or with the City before you set anything out or drive anywhere.*

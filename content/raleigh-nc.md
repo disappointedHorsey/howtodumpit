@@ -50,6 +50,7 @@ Here's how to legally get rid of bulky junk in Raleigh, North Carolina, item by 
 | Fridge / AC (freon) | City Special Load ($70 per load), or free drop-off at a Wake County Multi-Material Recycling Facility |
 | TV / computer | Free City E-waste Collection (Mondays only, up to 4 items/week), or Wake County Multi-Material Recycling Facilities; TVs and computers are banned from NC landfills |
 | Paint / chemicals | Wake County Household Hazardous Waste facilities (Wake County residents only; latex paint can also be dried with kitty litter for household trash) |
+| Christmas tree | Last season: curbside through February 1, 2026, on yard-waste day; 2026-27 dates not yet published |
 
 ## Mattresses and Box Springs {#mattresses}
 
@@ -125,5 +126,17 @@ Closed New Year's Day, Memorial Day, Independence Day, Labor Day, Thanksgiving D
 The City does **not** collect hazardous waste on Bulky or Special Loads. ([Bulky, Special, and E-Waste Collection](https://raleighnc.gov/landfill-and-reuse/services/bulky-special-and-e-waste-collection))
 
 Questions? Call City Solid Waste Customer Support at **919-996-3245** (email **sws@raleighnc.gov**) or Wake County Solid Waste at **919-856-7400**.
+
+## Christmas Trees {#christmas-trees}
+
+**Christmas tree short answer:** The City of Raleigh collects undecorated live Christmas trees at the curb on your yard-waste collection day during a posted winter window, and Wake County also runs drop-off sites. 2026-27 dates were not published as of November 10, 2026.
+
+**Last season:** A City news page dated January 5, 2026, said Christmas tree pickup ran from December 26 through February 1. Leave the tree on the ground for collection; do not put it in your trash, recycling or yard-waste bin. Remove all lights and decorations. No artificial trees. No Christmas lights in the recycling bin. Crews take trees to the Raleigh Yard Waste Center to be turned into mulch. ([City of Raleigh: Recycle Your Christmas Tree](https://raleighnc.gov/landfill-and-reuse/news/recycle-your-christmas-tree))
+
+**Wake County drop-off (last season):** Undecorated holiday trees were accepted from December 26, 2025, until January 31, 2026, to mulch trails at County parks. No wreaths, garlands or other yard waste. Facilities were closed New Year's Day, January 1. Convenience centers (7 days a week, 7 a.m.-7 p.m.): Site 1, 10505 Old Stage Road, Garner; Site 2, 6120 Old Smithfield Road, Apex; Site 4, 3600 Yates Mill Pond Road, Raleigh; and Site 11, 5051 Wendell Boulevard, Wendell. County parks (7 days a week, 8 a.m. to sunset) included Blue Jay Point, Green Hills, Harris Lake, Lake Crabtree and Beech Bluff. ([Wake County: Christmas Tree Recycling](https://www.wake.gov/departments-government/waste-recycling/facilities/convenience-centers/christmas-tree-recycling))
+
+Confirm this season with Solid Waste Services at 919-996-3245 or sws@raleighnc.gov before you set a tree out.
+
+If you missed the window, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. Other cities are in our [Christmas Tree Disposal](/christmas-tree-disposal/) guide.
 
 *Rules, fees and hours change. Confirm on the linked official page or with the City or County before you set anything out or drive anywhere.*

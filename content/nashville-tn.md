@@ -31,6 +31,7 @@ Here's how to legally get rid of bulky junk in Nashville and Davidson County, it
 | Fridge / AC (freon) | Refrigerators are on the free scrap-metal list at Convenience Centers; for window or wall AC units, call Metro first to confirm where to take them |
 | TV / computer | Free e-waste drop-off at East, Ezell Pike or Omohundro (up to 100 pounds per day, 1 TV up to 80 inches); e-waste is banned from the trash |
 | Paint / chemicals | Oil-based paint and household chemicals free at East or Ezell Pike (up to 15 gallons or 100 pounds); latex paint is not accepted, so dry it out and trash it |
+| Christmas tree | Last season: drop-off December 26, 2025-February 13, 2026, at 14 sites; 2026-27 dates not yet published |
 
 ## Mattresses and Box Springs {#mattresses}
 
@@ -93,5 +94,15 @@ Household hazardous waste is accepted **free** at the **East** (943A Doctor Rich
 **Latex paint:** Metro doesn't take latex (water-based) paint at its hazardous waste sites. Use it up or give it away. If a can has **one inch or less** left, take the lid off and let it dry in a well-ventilated area away from kids and pets. If it has **more than an inch**, stir in shredded paper, sawdust, mulch, kitty litter or a paint hardener until it's dry. Then put the can, in a trash bag, in your regular trash. Never pour paint into a storm drain, sink or toilet. ([Metro latex paint disposal guide (PDF)](https://www.nashville.gov/sites/default/files/2025-06/Latex-Paint-Disposal-Policy.pdf))
 
 Not sure where something goes? Metro's Waste Wizard in [Nashville's Waste and Recycling App](https://www.nashville.gov/departments/waste-services/trash-and-recycling-services/recycling-app) looks up items, or call 615-924-2633.
+
+## Christmas Trees {#christmas-trees}
+
+**Christmas tree short answer:** The Nashville Department of Transportation and Multimodal Infrastructure (NDOT), with Metro Parks, runs a Christmas tree recycling drop-off program. NDOT's brush collection crew can also pick up trees as part of its regular schedule; there are no special tree pickups. 2026-27 drop-off dates were not published as of November 10, 2026.
+
+**Last season (2025-26):** A December 17, 2025 NDOT release said 14 drop-off locations would be open from December 26, 2025, through February 13, 2026: Cane Ridge Park, Una Recreation Center, Whitfield Park, Cedar Hill Park, Two Rivers Park, Joelton Community Center, Sevier Park, Richland Park, Elmington Park, Edwin Warner Park, Lakewood City Hall, Frederick Douglass Park, and both Living Earth locations at 1511 Elm Hill Pike and 6401 Centennial Boulevard. Trees had to be cleaned of wooden stands, watering bowls, ornaments, lights, wire, string and other decorations. No artificial trees; those can go to any of Metro Nashville's four convenience centers. Do not dump other items at the tree sites. ([NDOT: Christmas Tree Recycling Program](https://www.nashville.gov/departments/transportation/news/ndot-announces-christmas-tree-recycling-program-0))
+
+Confirm the new season's sites and dates on nashville.gov before you drive. Non-emergency street issues can be reported at hub.nashville.gov, or call 615-862-5000.
+
+If you cannot get to a drop-off site, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. Other cities are in our [Christmas Tree Disposal](/christmas-tree-disposal/) guide.
 
 *Rules, hours, fees and schedules change. Confirm on the linked official page, through hubNashville or by calling 311 (615-862-5000) before you set anything out or drive anywhere.*

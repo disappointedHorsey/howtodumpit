@@ -1,3 +1,10 @@
+## 11/10/2026 (Christmas tree disposal hub and city sections)
+
+- New hub /christmas-tree-disposal/: options (curbside, drop-off/mulch, nonprofit pickup, paid junk removal), prep rules, and a city table linking to each guide's Christmas Trees section. American spelling and US dates. No public pricing. No schema added (the site does not use it).
+- Added a ## Christmas Trees {#christmas-trees} section and a Quick Answer row on all 43 live city guides, plus a home-page link to the hub. Facts cited to official .gov or utility pages checked November 10, 2026. Never invented dates: 4 cities have published 2026-27 dates (Phoenix, Albuquerque, Tucson, Mesa); 17 have a current standing official rule; 17 are last-season (2025-26) only; 5 had no verifiable current official program or dates (El Paso, Fort Worth 2022 guidance only, Kansas City, Louisville page blocked, Miami City). Recheck list: /workspace/christmas-tree-hub/README.md.
+- Sitemap: the new hub is picked up automatically by build.py. Internal links from home and each city section; no new header nav item.
+- Checks: consistency_check 65 pages 0 problems; mobile_check 65 pages x 5 widths (320/375/390/412/1280) 0 FAIL 0 WARN.
+
 ## 11/10/2026 (C019: Recommended rename and Not verified labels)
 
 - Public top-tier wording is now **Recommended** everywhere (replacing Featured Partner / Featured spot). The partner CTA and footer now say **Become a Recommended Partner**. The URL /become-a-featured-partner/ is unchanged so existing links still work.
@@ -6,6 +13,14 @@
 - Partner page Honest Disclosure updated to match. Removed the public lead-removal / dispute sentence. Existing published $8 / $12 offer terms are unchanged.
 - consistency_check now rejects leftover "Featured Partner" / "Featured spot" wording and requires the Not verified label and paid-placement disclosure. CSS cache buster ?v=20261110a.
 - Checks: consistency_check 64 pages 0 problems; mobile_check 65 pages (64 live + a local Recommended fixture, not published) x 5 widths (320/375/390/412/1280) 0 FAIL 0 WARN.
+
+## 11/10/2026 (Nightly: Omaha, NE guide; San Diego Outside City Limits; Columbus partner backfill)
+
+- New guide /omaha-ne/ (census.gov Vintage 2025 SUB-IP-EST2025-ANNRNK rank #42, 488,797; re-downloaded 11/10): no curbside bulky pickup (bulky items banned from the black-lid cart); City bulky disposal program at River City Transfer, 6404 S. 60th St. ($15 first visit buys 4 vouchers; City residents; two proofs of residency; tarp required; appliances not in the program); free Spring (April-May) and Fall (October) Cleanup Saturdays (appliances at designated sites); apartments (owner-registered City service vs. private hauler); Under The Sink HHW, 4001 S. 120th St. (Douglas/Sarpy households; latex paint $1 per container; Veterans Day and Thanksgiving closures); Outside City Limits (Bellevue/Papillion Sanitation, Douglas and Sarpy towns, River City full price for non-residents, HOAs). River City phone conflict shown (402-889-8721 City vs. (402) 731-0414 Keep Omaha Beautiful guide). Sources: wasteline.org (City of Omaha Environmental Services), omaharecyclingguide.org (Keep Omaha Beautiful, City partner), underthesink.org, sarpy.gov, bellevue.net, epa.gov. Three free Basic Listings: Omaha Junk Squad, Hampton Junk Removal, Kiger Junk Removal. verified: 2026-11-10.
+- San Diego Outside City Limits backfill (largest top city missing it): City service only for 1-4 residences on a public street (5+ units, private streets, gated communities use franchise haulers); unincorporated County franchised haulers give single-family customers 2 free bulky pickups a year (3 items each) with the Hauler by Area Guide; other cities via County recycling contacts. verified bumped to 2026-11-10.
+- Columbus top-city partner backfill: three Basic Listings (Hatfield Hauling & Junk Removal, Higgins Junk Removal, Habitat for Humanity-MidOhio ReStore).
+- Checks: consistency_check 64 pages 0 problems; mobile_check 64 pages x 5 widths (320/375/390/412/1280) 0 FAIL 0 WARN; prepush passed. Commit cbbb37d; /omaha-ne/, /columbus-oh/, /san-diego-ca/ live HTTP 200 with changes visible.
+- Pitches: 6 v2 drafts QUEUED FOR DAILY APPROVAL - NOT SENT (company/outreach/omaha-columbus-pitches-10-11-2026.md). No replies, opt-outs or bounces found. Next city: Virginia Beach, VA. Next OCL: Dallas. Next top-city partner: Jacksonville (then Fort Worth, San Jose, Charlotte).
 
 ## 11/09/2026 (Nightly: Miami, FL guide; San Antonio Outside City Limits; Austin partner backfill; bounced-email listings removed)
 

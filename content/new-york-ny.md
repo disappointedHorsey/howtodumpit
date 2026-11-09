@@ -62,6 +62,7 @@ Here's how to legally get rid of bulky junk in New York City, item by item. Ever
 | Fridge / AC (freon) | Free DSNY CFC removal, by appointment |
 | TV / computer | Illegal to trash; use drop-off sites, events or take-back |
 | Paint / chemicals | Special Waste Drop-Off sites or SAFE events |
+| Christmas tree | Weekly curbside compost on your recycling and compost day; no appointment |
 
 ## Mattresses and Box Springs {#mattresses}
 
@@ -113,5 +114,17 @@ It's **illegal** to put certain electronics (TVs, computers and other covered e-
 ## Paint and Household Hazardous Waste {#hazardous}
 
 **Special Waste Drop-Off sites** (Bronx/Hunts Point, Brooklyn/Greenpoint, Manhattan/Pike Slip, Queens/College Point, Staten Island/Fresh Kills; **Tue–Sat 9–3**) take **paint (up to 5 gallons per visit)**, aerosols, batteries, motor oil, fluorescent bulbs and more. You may be asked for proof of NYC residency. For small amounts of paint, DSNY says to let it dry (or absorb it) and put it in the trash; empty dry cans go with recycling. Household chemicals can go to a **SAFE Disposal event**; see DSNY's page for the rules for "DANGER – Corrosive/Flammable" products. ([Special Waste Drop-Off](https://www.nyc.gov/site/dsny/what-we-do/programs/special-waste-drop-off.page); [Harmful Household Products](https://www.nyc.gov/site/dsny/collection/get-rid-of/harmful-household-products.page))
+
+## Christmas Trees {#christmas-trees}
+
+**Christmas tree short answer:** The New York City Department of Sanitation (DSNY) collects real trees and wreaths every week on your recycling and compost day. You do not need an appointment or a special collection week.
+
+A December 24, 2025 DSNY notice says citywide Curbside Composting replaced the old limited Christmas tree schedule, so a bare tree can go out any week, not only in early January. Set the tree at the curb next to other compostable materials. Remove all stands, lights, ornaments and tinsel, and do not bag the tree or wreath. Trees that still have decorations cannot be composted. ([NYC311: Christmas Tree Disposal](https://portal.311.nyc.gov/article/?kanumber=KA-02489); [DSNY: Special Christmas Tree Collection Is No Longer Special](https://www.nyc.gov/site/dsny/news/25-045/special-christmas-tree-collection-is-no-longer-special))
+
+**Artificial trees:** Separate the metal base and trunk and put those parts out with metal, glass, plastic and carton recycling. The rest goes out as trash on a regular collection day.
+
+**Mulchfest:** NYC Parks also chipped trees during Mulchfest from December 26, 2025 through January 11, 2026. 2026-27 Mulchfest dates were not published as of November 10, 2026. Check [nyc.gov/mulchfest](https://www.nyc.gov/mulchfest) closer to the holidays.
+
+If you cannot get the tree to the curb, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. General prep rules and other cities are in our [Christmas Tree Disposal](/christmas-tree-disposal/) guide.
 
 *Rules, hours and fees change. Confirm on the linked official page before you set anything out or drive anywhere.*

@@ -26,6 +26,7 @@ Here's how to legally get rid of bulky junk in Seattle, item by item. Every opti
 | Fridge / AC (freon) | Special Item Pickup: $31, or $39.25 for pre-2005 CFC units |
 | TV / computer | Special Item Pickup ($31 large items) |
 | Paint / chemicals | Free North and South HHW facilities |
+| Christmas tree | Last season: free through January 31, 2026; extra yard-waste fees started February 1 |
 
 ## Mattresses and Box Springs {#mattresses}
 
@@ -66,5 +67,15 @@ TVs, monitors and computers larger than 2'×2'×2' are **$31 per item** via Spec
 ## Paint and Household Hazardous Waste {#hazardous}
 
 Seattle's two HHW facilities are **free for all King County residents, no appointment**: **North, 12550 Stone Ave N** (Sun–Tue 9–5) and **South, 8100 2nd Ave S** (Thu–Sat 9–5). Seattle **transfer stations do not accept** HHW. Household Hazards Line: (206) 296-4692. ([SPU: Where to Dispose of HHW](https://seattle.gov/utilities/your-services/collection-and-disposal/garbage/hazardous-waste-items/where-to-dispose-of-hazardous-waste))
+
+## Christmas Trees {#christmas-trees}
+
+**Christmas tree short answer:** Seattle Public Utilities (SPU) offers free Christmas tree composting at the curb and at transfer stations during a posted January window. 2026-27 dates were not published as of November 10, 2026.
+
+**Last season (2025-26):** An official SPU blog post dated December 15, 2025, said customers, including apartment and condo residents, could compost trees and other holiday greens for free through January 31. Starting February 1, extra yard-waste fees applied. Curbside: place up to 2 undecorated trees or bundled greens next to your food and yard waste cart on your regular collection day. Cut trees into 4-foot lengths or shorter. Remove all decorations, lights, tinsel, ornaments, metal clips, flocking and wiring. Bundle branches with sisal string or twine, not plastic. Trunk diameter may not exceed 4 inches. At apartment and condo buildings, two trees may be placed next to each food and yard waste cart at no extra charge each collection day; additional trees were picked up as extra yard waste with fees. ([SPU: Give Your Christmas Tree a Second Life](https://atyourservice.seattle.gov/2025/12/15/give-your-christmas-tree-a-second-life-compost-it-for-free-this-january/))
+
+**Transfer stations (last season):** Drop-off at Seattle's North or South Transfer Station was free through January 31, up to 3 trees per vehicle, each no more than 8 feet long and with trunks no more than 4 inches in diameter, with decorations, flocking and wiring removed.
+
+If you missed that window, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. See our [Christmas Tree Disposal](/christmas-tree-disposal/) guide for other cities.
 
 *Rules, hours and fees change. Confirm on the linked official page before you set anything out or drive anywhere.*

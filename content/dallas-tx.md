@@ -46,6 +46,7 @@ Here's how to legally get rid of bulky junk in Dallas, item by item. Every optio
 | Fridge / AC (freon) | Not accepted curbside; not verified elsewhere |
 | TV / computer | Free drop-off at McCommas Bluff Landfill or transfer stations |
 | Paint / chemicals | Dallas County Home Chemical Collection Center (free for Dallas residents) |
+| Christmas tree | Last season: drop-off December 26, 2025-January 24, 2026; 2026-27 dates not yet published |
 
 ## Mattresses and Box Springs {#mattresses}
 
@@ -86,5 +87,15 @@ Electronics are **not** accepted curbside. Dallas residents can drop off TVs (CR
 ## Paint and Household Hazardous Waste {#hazardous}
 
 Paint and chemicals are not accepted curbside. Dallas residents get **free** disposal at the Dallas County **Home Chemical Collection Center, 11234 Plano Road** (214-553-1765), or at network collection events. Bring proof of current address. Accepted: paint and home repair products, lawn and garden chemicals, aerosols, pool chemicals, cleaners, batteries, auto fluids, fluorescent tubes, computers and cell phones. Not accepted: appliances, TVs, microwaves, containers over 5 gallons, medicines. The City page lists hours (Tue–Thu plus 2nd and 4th Saturdays), but some of its holiday info is dated, so **call to confirm before you go**. ([Dallas Home Chemical Waste Disposal](https://dallascityhall.com/departments/sanitation/Pages/home_chemical.aspx))
+
+## Christmas Trees {#christmas-trees}
+
+**Christmas tree short answer:** The City of Dallas recycles live, natural Christmas trees at McCommas Bluff Landfill and its transfer stations during a posted holiday window. Trees do not go in the blue recycling cart. 2026-27 dates were not published as of November 10, 2026.
+
+**Last season (2025-26):** From December 26, 2025, through January 24, 2026, Dallas residents could drop off natural trees with all decorations removed at the transfer stations (one tree per household) or at the landfill (multiple trees per household). Do not bag or wrap the tree. Remove all decorations, tinsel and lights. Recycled trees were mulched for on-site road and drainage projects at McCommas Bluff. Trees could also be placed out during scheduled brush and bulky item collection, but the City said trees collected that way generally cannot be separated for recycling. Artificial trees are not recyclable and may go to a landfill or transfer station, or out with brush and bulky items. ([Dallas City News Hub: Christmas Tree Recycling](https://www.dallascitynews.net/christmas-tree-recycling); [City of Dallas Sanitation](https://www.dallas.gov/Sanitation))
+
+Last-season sites: Northwest Transfer Station, 9500 Harry Hines Boulevard; Northeast Transfer Station, 7677 Fair Oaks Avenue; Southwest Transfer Station, 4610 S. Westmoreland Road; and McCommas Bluff Landfill, 5100 Youngblood Road. Confirm hours and the new season's dates on the Sanitation pages before you drive.
+
+If you missed the drop-off window, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. Other cities are in our [Christmas Tree Disposal](/christmas-tree-disposal/) guide.
 
 *Rules, hours and fees change. Confirm on the linked official page before you set anything out or drive anywhere.*

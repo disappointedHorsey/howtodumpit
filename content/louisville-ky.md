@@ -31,6 +31,7 @@ Here's how to legally get rid of bulky junk in Louisville, item by item. Every o
 | Fridge / AC (freon) | Not allowed in Large Item Pickup; take up to 4 items to the Waste Reduction Center for free |
 | TV / computer | Not allowed in Large Item Pickup; Waste Reduction Center takes up to 3 electronic items per day free from residents |
 | Paint / chemicals | Oil-based or lead paint and other household chemicals to Haz Bin (free for residents); dried-out latex paint can go in the garbage |
+| Christmas tree | Official 2026-27 dates could not be verified this check; confirm with Metro 311 |
 
 ## Mattresses and Box Springs {#mattresses}
 
@@ -80,5 +81,13 @@ Hours: Tuesday to Friday, 8 a.m. to 12 p.m. and 1 p.m. to 4:30 p.m. (closed for 
 **Haz Bin** at **7501 Grade Lane** takes household hazardous materials **free** from Louisville/Jefferson County residents, **Tuesday to Saturday, 9:30 a.m. to 4 p.m.** (holiday closings are on the city page). Accepted examples include oil-based and lead paint, spray paint, stains and varnishes, solvents and mineral spirits, automotive fluids, gasoline, batteries, fluorescent and LED bulbs, pesticides and other lawn chemicals, pool chemicals, propane tanks (grill and camping size), mercury thermometers, smoke detectors, Freon, and asbestos floor tiles under 25 lbs. **Not** accepted: business waste, containers over 5 gallons or 40 pounds, more than 25 lbs of asbestos, ammunition, expired medication and **latex paint**. Don't put chemicals in trash bags, and don't use the on-site dumpsters. ([Haz Bin](https://louisvilleky.gov/government/public-works/services/hazardous-materials-disposal-haz-bin))
 
 **Latex paint:** The city says there is no longer a latex paint recycling program. To get rid of used or opened latex paint, let small amounts dry out with the lid off in a well-ventilated area away from kids and pets, then put the dried can in a tightly sealed plastic bag in your garbage. The metal lid can be recycled. Habitat ReStore at 4044 Taylorsville Road accepts **new, unopened** paint with a complete label only. ([Haz Bin: Paint disposal](https://louisvilleky.gov/government/public-works/services/hazardous-materials-disposal-haz-bin))
+
+## Christmas Trees {#christmas-trees}
+
+**Christmas tree short answer:** We could not verify current Christmas tree dates or drop-off sites on an official LouisvilleKY.gov page during this November 10, 2026 check. The City's Seasonal Programs page did not load for us. Call Metro 311 or open [Louisville Public Works: Seasonal Programs](https://louisvilleky.gov/government/public-works/seasonal-programs) before you set a tree out or drive.
+
+Until that page can be checked and dated, we are not listing last season's hours, sites or fees. Unofficial write-ups are not a substitute for the City's own schedule.
+
+If you need a tree taken from the house, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. Other cities are in our [Christmas Tree Disposal](/christmas-tree-disposal/) guide.
 
 *Rules, hours, fees and schedules change. Confirm on the linked official page or with Metro311 before you set anything out or drive anywhere.*

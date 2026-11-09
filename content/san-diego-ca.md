@@ -50,6 +50,7 @@ Here's how to legally get rid of bulky junk in San Diego, item by item. Every op
 | Fridge / AC (freon) | Not verified: not taken at the HHW facility |
 | TV / computer | Not at the City HHW facility; see City's recycling locator |
 | Paint / chemicals | Free HHW Transfer Facility by appointment, or PaintCare |
+| Christmas tree | Cut to fit the green organics bin on collection day; last season's 16 drop-off sites closed January 16, 2026 |
 
 ## Mattresses and Box Springs {#mattresses}
 
@@ -95,5 +96,17 @@ The City's HHW Transfer Facility **does not accept electronic waste**. The City'
 ## Paint and Household Hazardous Waste {#hazardous}
 
 City residents can drop off HHW **free, by appointment only**, at the **HHW Transfer Facility, Miramar Landfill entrance, 5161 Convoy St.**: **Wednesdays and Saturdays, 9 a.m.–3 p.m.** (closures listed on the City page). Bring proof of City residency. Accepted: paints, cleaners, motor oil, batteries, pesticides, mercury devices and similar. Not accepted: electronics, appliances, containers over 5 gallons, explosives, treated wood, business waste. Leftover paint can also go to a **PaintCare** drop-off site at no charge (most take up to 5 gallons). ([San Diego HHW](https://www.sandiego.gov/environmental-services/ep/hazardous))
+
+## Christmas Trees {#christmas-trees}
+
+**Christmas tree short answer:** City of San Diego residents can recycle a natural Christmas tree in the organic waste (green) bin on collection day. Cut the tree so it fits in the automated container. The City also runs a seasonal drop-off program; 2026-27 drop-off dates were not published as of November 10, 2026.
+
+**Green bin (current official rule):** Use the City's organic waste curbside green bin. Cut the tree to fit the container for pickup on your collection day. ([City of San Diego: Christmas Tree Recycling Program 2025-2026](https://www.sandiego.gov/environmental-services/recycling/events/christmas))
+
+**Last season drop-off (2025-26):** The annual program ran December 26, 2025, through January 16, 2026, at 16 drop-off locations. Both green and flocked (fake-snow) trees were accepted. Remove all stands, bags, netting, lights, ornaments, tinsel and other decorations. No artificial trees. Do not dump other items at the sites. Chollas Lake in Oak Park was listed as unavailable that year. Other sites included Carmel Valley Recreation Center, 3777 Townsgate Drive (lower parking lot); Memorial Recreation Center, 2902 Marcy Avenue; Robb Field Recreation Center, 2525 Bacon Street; Kate Sessions Memorial Park at Mount Soledad Road and Loring Street; and Standley Community Park, 3585 Governor Drive. The full list is on the City page and can change.
+
+Miramar Greenery at the Miramar Landfill, 5180 Convoy Street, accepts trees throughout the year, subject to disposal fees. City residents may load up to two cubic yards of compost and mulch for free at Miramar Greenery, according to the same page.
+
+If the tree will not fit in the bin and drop-off is not practical, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. See our [Christmas Tree Disposal](/christmas-tree-disposal/) guide for other cities.
 
 *Rules, hours and fees change. Confirm on the linked official page before you set anything out or drive anywhere.*

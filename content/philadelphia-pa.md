@@ -50,6 +50,7 @@ Here's how to legally get rid of bulky junk in Philadelphia, item by item. Every
 | Fridge / AC (freon) | Bulk Collection appointment or convenience center |
 | TV / computer | Sanitation convenience centers |
 | Paint / chemicals | Seasonal HHW collection events |
+| Christmas tree | Last season: recycle at City drop-off January 5-17, 2026; curbside trees were taken as trash |
 
 ## Mattresses and Box Springs {#mattresses}
 
@@ -97,5 +98,15 @@ Computers, monitors and TVs go to a **sanitation convenience center** (six sites
 ## Paint and Household Hazardous Waste {#hazardous}
 
 Oil, latex and water-based **paint**, solvents, pesticides, auto fluids and other HHW go to the City's **seasonal HHW collection events** (9 a.m.–3 p.m., no registration). Remaining 2026 date: **Saturday, Nov. 7, 2026, Port Richmond, 3901 N. Delaware Ave.** Convenience centers also take **latex/water-based paint if solidified** (add kitty litter or newspaper). ([HHW events](https://www.phila.gov/services/trash-recycling-city-upkeep/dispose-of-household-hazardous-waste/); [Convenience centers](https://www.phila.gov/services/trash-recycling-city-upkeep/find-a-sanitation-convenience-center-to-drop-off-trash-or-recycling/))
+
+## Christmas Trees {#christmas-trees}
+
+**Christmas tree short answer:** Philadelphia lets you put a live tree at the curb, but the City says trees placed curbside are taken as trash, not composted. To recycle a tree, use a City drop-off or a listed private pickup. 2026-27 City recycling dates were not published as of November 10, 2026.
+
+**Last season (2025-26):** The Department of Sanitation Christmas Tree Recycling Program ran Monday, January 5, 2026, through Saturday, January 17, 2026, at designated locations and sanitation convenience centers. Trees had to be untied and free of decorations. Recycled trees were sent to a vendor and chipped as a bulking agent for composting. ([City of Philadelphia: Dispose of Christmas Trees](https://www.phila.gov/services/trash-recycling-city-upkeep/dispose-of-christmas-trees/))
+
+The same official page listed community events and private pickups for that season, including the Philly Goat Project at The Farm at Awbury, 6336 Ardleigh Street, on January 10 and January 24, 2026, 12-3 p.m. (rain dates January 11 and January 25), and at Laurel Hill West Cemetery, 215 Belmont Avenue, Bala Cynwyd, on January 17, 2026, 12-3 p.m., each for a $20-per-tree donation. Bennett Compost and Circle Compost were listed for scheduled pickup at $20 per tree in stated neighborhoods and date windows. Confirm any 2026-27 event directly with the group; those dates have passed.
+
+If you need a tree taken from inside your home, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. See our [Christmas Tree Disposal](/christmas-tree-disposal/) guide for other cities.
 
 *Rules, hours and fees change. Confirm on the linked official page before you set anything out or drive anywhere.*

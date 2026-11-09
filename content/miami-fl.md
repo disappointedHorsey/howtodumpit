@@ -52,6 +52,7 @@ Here's how to legally get rid of bulky junk in the **City of Miami**, Florida, i
 | Fridge / AC (freon) | Weekly bulky pickup or Mini Dump (white goods accepted); ask 311 about refrigerant prep |
 | TV / computer | Weekly bulky pickup or Mini Dump (household electronics), or a County Home Chemical Collection Center |
 | Paint / chemicals | Miami-Dade Home Chemical Collection Centers (Doral or Homestead); never curbside or Mini Dump |
+| Christmas tree | No dedicated City tree program found; ask 311 whether a bare tree is accepted with bulky or yard trash |
 
 ## Mattresses and Box Springs {#mattresses}
 
@@ -116,5 +117,15 @@ They accept **oil-based paint**, **latex paint that is still liquid**, pesticide
 The City of Miami points residents to these County centers for household chemicals. ([City of Miami: Solid Waste](https://www.miami.gov/My-Government/Departments/Solid-Waste)) The County also runs free **Home Chemical Drop-Off Mobile Events** (8 a.m. to 2 p.m.) for all Miami-Dade residents; check the County page for upcoming dates.
 
 Questions? City of Miami Department of Solid Waste, 1290 NW 20th Street: **305-960-2801**, **311**, or **solidwastecustomerservice@miamigov.com**.
+
+## Christmas Trees {#christmas-trees}
+
+**Christmas tree short answer:** The City of Miami Department of Solid Waste has not published a dedicated 2026-27 Christmas tree collection page that we could find as of November 10, 2026. Do not assume Miami-Dade County's tree recycling sweep covers City of Miami homes.
+
+City of Miami homes with City carts get weekly bulky trash pickup, which accepts clean yard trash such as tree cuttings, yard clippings, shrubbery, hedge trimmings, and bagged leaves and grass. A whole Christmas tree is not named on the bulky or Mini Dump pages we read. Ask 311 or Solid Waste at 305-960-2801 whether a bare tree is accepted at the curb or at the Mini Dump, 1290 NW 20th Street, before you set one out. ([City of Miami: About Mini Dump and Bulky Trash](https://www.miami.gov/My-Home-Neighborhood/Garbage-Recycling/About-Mini-Dump-and-Bulky-Trash))
+
+**Miami-Dade County (not City service):** The County's Christmas tree recycling page is only for residents who receive waste collection from Miami-Dade County. If you do not, the County says to contact your local service provider. Last season the County listed a final Christmas tree collection sweep from January 21 through February 1, with collection on Wednesdays, Saturdays and Sundays, and trees to be at the curb by Wednesday, January 21. Trees placed as part of a scheduled bulky waste pickup are not recycled into mulch. ([Miami-Dade County: Christmas Tree Recycling](https://www.miamidade.gov/global/solidwaste/christmas-tree-recycling.page))
+
+If you need a tree taken from the house, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. Other cities are in our [Christmas Tree Disposal](/christmas-tree-disposal/) guide.
 
 *Rules, hours and fees change. Confirm on the linked official page or with 311 before you set anything out or drive anywhere.*

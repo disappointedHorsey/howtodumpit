@@ -50,6 +50,7 @@ Here's how to legally get rid of bulky junk in Colorado Springs, Colorado, item 
 | Fridge / AC (freon) | Freon-recovery facilities listed in the County Recycling Directory (e.g. Colorado Springs Landfill, WM Midway, Urban Recycling); not accepted at County HHW |
 | TV / computer | Colorado landfill ban; County HHW (size limits) or private e-recyclers; large TVs via Clean Sweep events when scheduled |
 | Paint / chemicals | El Paso County Household Hazardous Waste Facility (El Paso/Teller residents; proof of residency) |
+| Christmas tree | Last season: TreeCycle weekends in January 2026; 2026-27 dates not yet published |
 
 ## Mattresses and Box Springs {#mattresses}
 
@@ -115,5 +116,13 @@ Wipe personal data from phones and computers before you recycle them.
 Stay in the process the County describes: staff will not enter your vehicle; you must unload items onto a cart yourself.
 
 Questions? El Paso County Environmental Division **719-520-7878** / **evs-epc@elpasoco.com**. City code and Keep It Clean COS issues: see [Keep It Clean COS](https://coloradosprings.gov/KeepItClean) or code enforcement contacts on the City site.
+
+## Christmas Trees {#christmas-trees}
+
+**Christmas tree short answer:** Colorado Springs does not run a municipal trash utility, so holiday tree recycling is organized as a community TreeCycle drop-off, not a City curbside route. 2026-27 dates were not published as of November 10, 2026.
+
+**Last season (2025-26):** TreeCycle listed six El Paso County locations on January 3-4 and January 10-11, 9:30 a.m. to 4:00 p.m.: Baptist Road Trailhead (Baptist Road and Old Denver Highway); Falcon Trailhead (south of Woodmen Road and McLaughlin Road); Cottonwood Creek Park (Dublin Boulevard and Monarbor Drive); Martin "Ed" Ragain Field (Barnes Road and Tutt Boulevard); Rock Ledge Ranch (Gateway Road and 30th Street); and Memorial Park (Pikes Peak Avenue and Union Boulevard). Rocky Top Resources, 1755 E. Las Vegas Street, accepted trees December 26 through January 31, 7:30 a.m.-5:00 p.m. weekdays and 8:00 a.m.-4:00 p.m. Saturdays (closed Sundays and holidays). Trees only: no stands, stand spikes, garland, plastic, twine or lights. Personal drop-off only, no commercial drop-offs. A $5 suggested minimum donation was listed to benefit community youth development nonprofits. Mulch could be picked up at Colorado Springs Utilities Leon Young Service Center, 1521 S. Hancock Expressway, and City of Colorado Springs Forestry, 1601 Recreation Way. ([TreeCycle](https://costreecycle.org/))
+
+Check costreecycle.org or City Forestry closer to the holidays for 2026-27 dates. If you cannot get to a drop-off site, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. See our [Christmas Tree Disposal](/christmas-tree-disposal/) guide for other cities.
 
 *Rules, fees and hours change. Confirm on the linked official page or with the County or your hauler before you set anything out or drive anywhere.*

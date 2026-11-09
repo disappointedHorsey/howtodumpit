@@ -50,6 +50,7 @@ Here's how to legally get rid of bulky junk in Mesa, Arizona, item by item. If y
 | Fridge / AC (freon) | City Appliance Recycling ($19 + $11 Freon fee for Mesa customers), or free HHM drop-off (limits apply) |
 | TV / computer | TVs on Bulk Item Pick-up (one large or a few small); electronics also free at the HHM facility |
 | Paint / chemicals | Free at the HHM facility for eligible Mesa residents; dried latex paint can go in the black trash barrel |
+| Christmas tree | Drop-off December 26, 2026-January 18, 2027, at five sites, or a small tree in the green yard-waste barrel |
 
 ## Mattresses and Box Springs {#mattresses}
 
@@ -122,5 +123,17 @@ Phone (voicemail only; calls returned within 48 hours): **480-644-4463**. Email:
 **Swap Shop:** Usable dropped-off items (including paint when available) may be free to Mesa residents during facility hours, first come, first served (limit 10 items per household; paint is for non-commercial exterior use only).
 
 Questions? Call bulk and appliance scheduling at **480-644-6789**, general trash and recycling at **480-644-2221**, or the HHM facility at **480-644-4463**.
+
+## Christmas Trees {#christmas-trees}
+
+**Christmas tree short answer:** The City of Mesa Christmas Tree Recycling program returns December 26, 2026, through January 18, 2027. Self-service drop-off locations are available 24 hours a day during that window.
+
+The service is only for live, non-artificial Christmas trees. Artificial trees, trees flocked with artificial snow, wreaths, and trees from commercial vendors are not accepted. All lights, ornaments, tree stands and nails must be removed. Do not leave trees outside the fenced enclosures. ([City of Mesa: Christmas Tree Recycling](https://www.mesaaz.gov/Utilities/Trash-Recycling/Mesa-Recycles/Christmas-Tree-Recycling))
+
+Drop-off locations: Dobson Ranch Library, 2363 S. Dobson Road; Fitch Park, 261 E. 8th Street; Mountain View Park, 845 N. Lindsay Road; East Mesa Service Center, 6935 E. Decatur Street; and Superstition, 2430 E. Ellsworth.
+
+Residents with a green yard-waste barrel may place a small tree inside the barrel. The tree must fit completely inside with the lid properly closed. Curbside bulk pickup of a Christmas tree is available for a fee; the City directs you to its Bulk Pick-up page or 480-644-6789 for details and scheduling (no amount is repeated here). Mesa also accepts donations of live potted Christmas trees, 5 feet or taller, for planting in Mesa parks, at Parks, Recreation and Community Facilities offices listed on the same page.
+
+If you cannot get to a site or fit the tree in the barrel, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. See our [Christmas Tree Disposal](/christmas-tree-disposal/) guide for other cities.
 
 *Rules, fees and hours change. Confirm on the linked official page or with the City before you set anything out or drive anywhere.*
