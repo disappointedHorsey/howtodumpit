@@ -1,7 +1,7 @@
 ---
 title: 'Junk Disposal in San Diego, CA: Mattresses, Couches, Appliances, TVs & Paint'
 description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in San Diego, CA: city pickup, drop-off sites and rules, with links to official sources.'
-verified: '2026-10-12'
+verified: '2026-11-10'
 city: San Diego
 state: CA
 short: San Diego, CA
@@ -79,6 +79,10 @@ The City doesn't do curbside bulky pickup, and Bye Bye Mattress doesn't pick up 
 ## Couches and Furniture {#furniture}
 
 The City says it **does not provide bulky item or curbside pickup**. We couldn't verify an official City drop-off option for furniture. Call the Environmental Services Department at **858-694-7000** for disposal resources, or use a paid junk removal service. ([San Diego mattress page](https://www.sandiego.gov/environmental-services/recycling/residential/mattresses); [San Diego HHW](https://www.sandiego.gov/environmental-services/ep/hazardous))
+
+### Outside City Limits?
+
+This guide covers the **City of San Diego** only. City trash service is for homes with **one to four residences on a lot** on a **public street**; properties with **five or more residences**, mixed-use properties, and homes on **private streets or in gated communities** use a City-approved **private franchise hauler**, so ask your property manager or HOA how bulky items are handled. ([City of San Diego: Who Is Eligible for City Collection](https://www.sandiego.gov/environmental-services/trash-service-updates/transition-to-city)) In **unincorporated San Diego County** (for example Spring Valley, Lakeside, Ramona or Fallbrook), franchised haulers offer single-family customers **two free bulky item pickups a year**, up to **three items** each (furniture, mattresses, appliances and e-waste included); find your hauler in the County's [Authorized Hauler by Area Guide (PDF)](https://www.sandiegocounty.gov/content/dam/sdc/dpw/SOLID_WASTE_PLANNING_and_RECYCLING/Haulers%20By%20Area%20Guide_%20June%202025_V2.pdf). ([County of San Diego: Recycling at Home](https://www.sandiegocounty.gov/content/sdc/dpw/recycling/residentialrecycling.html)) Chula Vista, El Cajon, Carlsbad and the other cities in the county run their own programs; the County lists each city's recycling contact. ([County of San Diego: City Recycling Contacts](https://www.sandiegocounty.gov/content/sdc/dpw/recycling/Jurisdictional-Contacts.html))
 
 ## Appliances (Fridges, Freezers, AC: Freon) {#appliances}
 

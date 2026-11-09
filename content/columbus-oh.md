@@ -22,6 +22,25 @@ listings:
   cost: Free for residents
   details: 1550 Georgesville Rd. Open Tuesday-Saturday, 9 a.m.-5 p.m.
   source: https://www.columbus.gov/Services/Trash-Recycling-Bulk-Collection/Bulk-Collection
+partners:
+- tier: basic
+  name: Hatfield Hauling & Junk Removal
+  phone: '(740) 404-9965'
+  website: https://www.hatfieldhaulingoh.com/
+  note: Family-owned crew serving Grove City and the greater Columbus area.
+  source_checked: 2026-11-10
+- tier: basic
+  name: Higgins Junk Removal
+  phone: '(707) 592-0079'
+  website: https://hjrhaul.com/
+  note: Locally owned Columbus junk removal with same-day and next-day service.
+  source_checked: 2026-11-10
+- tier: basic
+  name: Habitat for Humanity-MidOhio ReStore
+  phone: '(614) 364-7028'
+  website: https://www.habitatmidohio.org/restore/donations.html
+  note: Donation drop-off at 3140 Westerville Rd; pickup available for large donations.
+  source_checked: 2026-11-10
 ---
 # Junk Disposal in Columbus, OH: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

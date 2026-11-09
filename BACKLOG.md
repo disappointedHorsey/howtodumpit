@@ -158,3 +158,7 @@ Top 15 audit: all 15 guides live (HTTP 200). No free Basic Listings on any of th
 - [x] New York (5 boroughs same-day urgent backfill 03/11/2026)  - [x] Los Angeles  - [x] Chicago  - [x] Houston  - [x] Phoenix  - [x] Philadelphia  - [x] San Antonio (11/06/2026, commit ab8e7a0, 3 Basic Listings + v2 pitches; info@sajunk.com bounced — drop that address)  - [x] San Diego (11/07/2026, 3 Basic Listings + v2 pitches)  - [x] Dallas (11/08/2026, 3 Basic Listings + v2 pitches queued not sent)  - [x] Austin (11/09/2026, commit 5e93c3c, 3 Basic Listings: Dash Away Hauling, Smiley's Junk Removal, Austin Habitat ReStore; v2 pitches queued for daily approval, not sent)  - [ ] Columbus (next)
 - Note 11/09/2026: Jacksonville, Fort Worth, San Jose and Charlotte (pitched pre-v2) still have no Basic Listings; take them after Columbus, largest first.
 - OUTSIDE CITY LIMITS backfill: San Antonio done 11/09/2026. Next (largest top city still missing the note): San Diego, then Dallas, Jacksonville, Fort Worth, Austin, San Jose.
+
+## Added 11/09/2026 (weekly scan)
+- [ ] Christmas tree disposal hub: "Missed Christmas tree pickup? What to do" (cut to size limit, call-ahead rules, green-bin fallback). Evidence: reddit.com/r/torrance/comments/1qc4vxo/ , reddit.com/r/sanfrancisco/comments/1q5ah8v/ . Verify per city on official sites; target live by early December.
+- [ ] Renters hub extra evidence: Chicago 311 junk pickup covers 4 units or less (reddit.com/r/AskChicago/comments/1wcyelh/); add to the hub when built.
