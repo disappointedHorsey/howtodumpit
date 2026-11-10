@@ -1,6 +1,6 @@
 ---
 title: 'Become a Recommended Partner: List Your Hauling Business or Charity'
-description: 'Free Basic Listings (name, phone and website) for legitimate local haulers and charities in our city guides, plus Verified Partner ($8 per call or email) and the exclusive Recommended spot ($12 per call or email). No leads, no pay, and new partners get their first 5 calls or emails free.'
+description: 'Free Basic Listings (name, phone and website) for legitimate local haulers and charities in our city guides, plus Verified Partner ($8 per call or email) and the exclusive Recommended spot ($14.99 per call or email). No leads, no pay, and new partners get their first 3 calls or emails free.'
 short: Become a Recommended Partner
 ---
 # Become a Recommended Partner
@@ -20,19 +20,19 @@ Any legitimate local junk removal business, hauler, cleanout crew, reuse center 
 - A **quote form** so customers can email you a request
 - You pay **$8 for each tracked call (30 seconds or more) or email** we send you
 
-### 3. Recommended Partner: $12 per Call or Email
+### 3. Recommended Partner: $14.99 per Call or Email
 
 - **The one exclusive Recommended spot at the top** of a city's hauler section, clearly labeled **Recommended**, with a nearby note that it is a paid placement
 - Everything a Verified Partner gets, plus your logo and a short blurb
 - **Only one Recommended Partner per city.** It stays yours for as long as you're a partner.
-- You pay **$12 for each tracked call (30 seconds or more) or email** we send you
+- You pay **$14.99 for each tracked call (30 seconds or more) or email** we send you
 
 People mostly call whoever is listed first, so the top spot is where most calls go, but the choice is yours.
 
 ## Getting Started
 
-- **New partners: your first 5 calls or emails are free.**
-- **No leads, no pay.** After your free 5, you pay only for each real customer who contacts you through us.
+- **New partners: your first 3 calls or emails are free.**
+- **No leads, no pay.** After your free 3, you pay only for each real customer who contacts you through us.
 - **No upfront fee, no card and no contract.**
 
 ## How Billing Works

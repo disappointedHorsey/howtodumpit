@@ -8,7 +8,7 @@
 >
 > **NOTE:** Founding members from 10/21/2026 (listed in PITCHES.md "Founding members promised 10 free") keep their terms: $3 per call or email for the Featured Partner spot, $2 as a Verified Partner, first 10 calls or emails free. Every email below is for new prospects only.
 >
-> **NOTE:** 03/11/2026: the site no longer mentions founding terms; public offer is first 5 calls or emails free for every new partner. Existing founding members' deals stay recorded internally.
+> **NOTE:** 03/11/2026: the site no longer mentions founding terms; public offer is first 3 calls or emails free for every new partner. Existing founding members' deals stay recorded internally.
 >
 > **NOTE (10/27/2026, comms rule):** Subjects always start "Adam from HowToDumpIt: ". Never put "Re:" after the prefix. A follow-up that is a reply in the same thread keeps the thread's subject; a follow-up that would lose the prefix goes as a new email with the follow-up subject below. Use the canonical terms in /workspace/company/rules/comms-consistency.md ("calls or emails", not "leads" or "customers", in anything a prospect reads).
 
@@ -30,7 +30,7 @@ Become a Featured Partner page: howtodumpit.com/become-a-featured-partner/
 
 Fill in exactly. {Name} is the person's first name when known (rule 19c: from a reply or the company's own site; see PITCHES.md First name column), otherwise "{Org short} team". {City-specific hassle} comes from our city page. {verified detail} must be stated on the company's own site (e.g. ", a family-run Fort Worth crew serving all of DFW"); if there's no distinctive verified detail, leave it empty so the line reads "a local crew like {Org}". Never claim the customers reach only them or that there are no competitors.
 
-**Subject:** Adam from HowToDumpIt: Claim the top spot on our {City} junk guide: your first 5 calls or emails are free
+**Subject:** Adam from HowToDumpIt: Claim the top spot on our {City} junk guide: your first 3 calls or emails are free
 
 Hi {Name},
 
@@ -40,7 +40,7 @@ I run HowToDumpIt, a free guide that helps people in {City} get rid of junk the 
 
 As one of our first partners in {City}, you can claim our one Featured spot at the top of the page. It goes to the first hauler who says yes and stays yours for as long as you're a partner. People mostly call whoever is listed first, so the top spot is where most calls go, but the choice is yours. If someone else claims it first, you can still join as a Verified Partner with a "Call now" button.
 
-No leads, no pay. Your first 5 calls or emails are free. After that, you pay only for each call or email you get through us: $12 for the Featured spot or $8 as a Verified Partner. There's no upfront fee, card or contract, we bill only once you owe at least $25, and you can cancel or pause anytime. Details: howtodumpit.com/become-a-featured-partner/
+No leads, no pay. Your first 3 calls or emails are free. After that, you pay only for each call or email you get through us: $14.99 for the Recommended spot or $8 as a Verified Partner. There's no upfront fee, card or contract, we bill only once you owe at least $25, and you can cancel or pause anytime. Details: howtodumpit.com/become-a-featured-partner/
 
 Reply "top spot" or "verified" and I'll send the exact wording for your approval.
 
@@ -59,7 +59,7 @@ Founder
 
 Hi {Name},
 
-Just a quick follow-up on my note about our {City} guide ({city page URL}). The one Featured spot at the top is still open to the first hauler who says yes. Your first 5 calls or emails are free, then $12 each for the Featured spot or $8 as a Verified Partner. No leads, no pay: no upfront fee, card or contract, we bill only once you owe at least $25, and you can cancel or pause anytime.
+Just a quick follow-up on my note about our {City} guide ({city page URL}). The one Featured spot at the top is still open to the first hauler who says yes. Your first 3 calls or emails are free, then $14.99 each for the Recommended spot or $8 as a Verified Partner. No leads, no pay: no upfront fee, card or contract, we bill only once you owe at least $25, and you can cancel or pause anytime.
 
 More info: howtodumpit.com/become-a-featured-partner/
 
@@ -74,9 +74,9 @@ Founder
 
 ## 3. Nonprofits (ReStores, reuse centers, furniture banks): first email (paid offer, Adam's rule 10/21/2026)
 
-> **NOTE (10/21/2026):** Adam's rule: nonprofits get the same paid offer as haulers ($12 per call or email for the Featured spot, $8 as a Verified Partner, first 5 calls or emails free, no upfront fee, card or contract, billed only once they owe at least $25, cancel or pause anytime). The earlier no-price nonprofit template ("Listing {Org} on our {City} disposal guide") is SUPERSEDED 10/21/2026; do not use it. Fill placeholders as in section 1; {verified detail} must be on the org's own site.
+> **NOTE (10/21/2026):** Adam's rule: nonprofits get the same paid offer as haulers ($14.99 per call or email for the Recommended spot, $8 as a Verified Partner, first 5 calls or emails free, no upfront fee, card or contract, billed only once they owe at least $25, cancel or pause anytime). The earlier no-price nonprofit template ("Listing {Org} on our {City} disposal guide") is SUPERSEDED 10/21/2026; do not use it. Fill placeholders as in section 1; {verified detail} must be on the org's own site.
 
-**Subject:** Adam from HowToDumpIt: Claim the top spot on our {City} junk guide: your first 5 calls or emails are free
+**Subject:** Adam from HowToDumpIt: Claim the top spot on our {City} junk guide: your first 3 calls or emails are free
 
 Hi {Name},
 
@@ -86,7 +86,7 @@ I run HowToDumpIt, a free guide that helps people in {City} get rid of junk the 
 
 We'd love to list {Org} there. As one of our first partners in {City}, you can claim our one Featured spot at the top of the page. It goes to the first partner who says yes and stays yours for as long as you're a partner. People mostly contact whoever is listed first, so the top spot is where most donors go, but the choice is yours. If someone else claims it first, you can still join as a Verified Partner with a "Call now" button.
 
-No leads, no pay. Your first 5 calls or emails are free. After that, you pay only for each call or email you get through us: $12 for the Featured spot or $8 as a Verified Partner. There's no upfront fee, card or contract, we bill only once you owe at least $25, and you can cancel or pause anytime. Details: howtodumpit.com/become-a-featured-partner/
+No leads, no pay. Your first 3 calls or emails are free. After that, you pay only for each call or email you get through us: $14.99 for the Recommended spot or $8 as a Verified Partner. There's no upfront fee, card or contract, we bill only once you owe at least $25, and you can cancel or pause anytime. Details: howtodumpit.com/become-a-featured-partner/
 
 Reply "top spot" or "verified" and I'll send the exact wording for your approval.
 
@@ -103,7 +103,7 @@ Founder
 
 Hi {Name},
 
-Just a quick follow-up on my note about our {City} guide ({city page URL}). The one Featured spot at the top is still open to the first partner who says yes. Your first 5 calls or emails are free, then $12 each for the Featured spot or $8 as a Verified Partner. No leads, no pay: no upfront fee, card or contract, we bill only once you owe at least $25, and you can cancel or pause anytime.
+Just a quick follow-up on my note about our {City} guide ({city page URL}). The one Featured spot at the top is still open to the first partner who says yes. Your first 3 calls or emails are free, then $14.99 each for the Recommended spot or $8 as a Verified Partner. No leads, no pay: no upfront fee, card or contract, we bill only once you owe at least $25, and you can cancel or pause anytime.
 
 More info: howtodumpit.com/become-a-featured-partner/
 
@@ -123,7 +123,7 @@ Founder
 > **SUPERSEDED IN PART 08/11/2026 (Adam 07/11 + 08/11 decisions):** use "Recommended", never "Featured"; replace the Featured/details line with: "There's one Recommended company profile at the top of the page, and it's still open. It's the first name {City} residents see, and your first five calls are free." then "Want our rate card? Just reply \"rates\" and I'll send it over." then the opt-out line "If you'd rather not hear from me again, reply \"stop\"." Subject ends "(Recommended spot still open)". Drop the "any change to your listing" line. Reference: /workspace/company/outreach/approval-batch-08-11-2026.md.
 
 
-> **APPROVED by Adam Wells on 02/11/2026.** Not a gate — use this for new pitches. Direction 02/11/2026 (Sydney): add the hauler or nonprofit to its city guide first as a free Basic Listing (name, phone and website, taken only from its own site), then email that they are already listed. Pricing lives on howtodumpit.com/become-a-featured-partner/ and is not spelled out in the email (except the already-approved "first 5 calls or emails free" line if price is mentioned at all). Do not invent money values or new terms. Subjects start "Adam from HowToDumpIt: ". Links without https://. American spelling. First-name greeting when the org's own site names a person, otherwise "Hi {Org short} team,". Warm personal opening only when we have a true detail (never invent). Real benefit + altruism (usable items out of landfill). Signature exactly as below. Keep the body to about five short lines.
+> **APPROVED by Adam Wells on 02/11/2026.** Not a gate — use this for new pitches. Direction 02/11/2026 (Sydney): add the hauler or nonprofit to its city guide first as a free Basic Listing (name, phone and website, taken only from its own site), then email that they are already listed. Pricing lives on howtodumpit.com/become-a-featured-partner/ and is not spelled out in the email (except the already-approved "first 3 calls or emails free" line if price is mentioned at all). Do not invent money values or new terms. Subjects start "Adam from HowToDumpIt: ". Links without https://. American spelling. First-name greeting when the org's own site names a person, otherwise "Hi {Org short} team,". Warm personal opening only when we have a true detail (never invent). Real benefit + altruism (usable items out of landfill). Signature exactly as below. Keep the body to about five short lines.
 
 ### Hauler version
 
@@ -135,7 +135,7 @@ Hi {Name},
 
 I added {Org} to our free {City} junk guide as a Basic Listing (name, phone and website from your site): {city page URL}. HowToDumpIt helps neighbors donate and recycle what's usable and keep the rest out of the landfill while supporting local crews like yours.
 
-The one Featured spot at the top of the page is still open if you want it. Your first 5 calls or emails are free; details: howtodumpit.com/become-a-featured-partner/
+The one Featured spot at the top of the page is still open if you want it. Your first 3 calls or emails are free; details: howtodumpit.com/become-a-featured-partner/
 
 Reply "top spot" or "looks good" if you want any change to your listing.
 
@@ -154,7 +154,7 @@ Hi {Name},
 
 I added {Org} to our free {City} junk guide as a Basic Listing (name, phone and website from your site): {city page URL}. HowToDumpIt helps neighbors donate and recycle what's usable and keep the rest out of the landfill while supporting local organizations like yours.
 
-The one Featured spot at the top of the page is still open if you want it. Your first 5 calls or emails are free; details: howtodumpit.com/become-a-featured-partner/
+The one Featured spot at the top of the page is still open if you want it. Your first 3 calls or emails are free; details: howtodumpit.com/become-a-featured-partner/
 
 Reply "top spot" or "looks good" if you want any change to your listing.
 
@@ -169,7 +169,7 @@ Founder
 
 Hi {Name},
 
-Just a quick follow-up: {Org} is already on our {City} guide as a free Basic Listing ({city page URL}). The one Featured spot at the top is still open. Your first 5 calls or emails are free; details: howtodumpit.com/become-a-featured-partner/
+Just a quick follow-up: {Org} is already on our {City} guide as a free Basic Listing ({city page URL}). The one Featured spot at the top is still open. Your first 3 calls or emails are free; details: howtodumpit.com/become-a-featured-partner/
 
 Reply "top spot" or "looks good" if you'd like any change to the listing.
 

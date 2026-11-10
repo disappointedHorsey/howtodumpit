@@ -1,3 +1,10 @@
+## 11/10/2026 (Recommended rate $14.99; first 3 free)
+
+- Recommended spot price is now **$14.99** per tracked call (30 seconds or more) or email (was $12). Verified Partner remains **$8** per call or email. The $25 billing minimum is unchanged.
+- New-partner free trial is now the **first 3 calls or emails** (was 5).
+- Updated on /become-a-featured-partner/ and /for-haulers/. No FAQ or structured-data prices exist on the site. No monthly or spending cap wording.
+- Checks: consistency_check 65 pages 0 problems; mobile_check 65 pages x 5 widths (320/375/390/412/1280) 0 FAIL 0 WARN.
+
 ## 11/10/2026 (Remove monthly cap wording)
 
 - Partner page /become-a-featured-partner/ no longer mentions a monthly or spending cap. The billing bullet is now "Pause or cancel anytime." Published $8 / $12 prices, first 5 free, and the $25 billing minimum are unchanged.

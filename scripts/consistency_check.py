@@ -222,7 +222,7 @@ def check_page(path, root, pages_ids):
             if abs(len(a) - len(b)) > max(len(a), len(b)) * 0.3: continue
             sm = difflib.SequenceMatcher(None, a, b, autojunk=False)
             if sm.ratio() < 0.85: continue
-            # parallel lines that differ only in a number ("$8 per call" / "$12 per call") are fine
+            # parallel lines that differ only in a number ("$8 per call" / "$14.99 per call") are fine
             diff = [w for op, i1, i2, j1, j2 in sm.get_opcodes() if op != "equal" for w in a[i1:i2] + b[j1:j2]]
             if diff and all(re.fullmatch(r"\$?[0-9][0-9,.]*", w) for w in diff): continue
             if True:
