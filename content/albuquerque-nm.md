@@ -1,6 +1,6 @@
 ---
-title: 'Junk Disposal in Albuquerque, NM: Mattresses, Couches, Appliances, TVs & Paint'
-description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in Albuquerque, NM: free City Large Item Pick-Up on your trash day, three City Convenience Centers ($5 a load for residents), e-waste at Eagle Rock, and the free Household Hazardous Waste Collection Center, with links to official City of Albuquerque, Bernalillo County and EPA sources.'
+title: "Junk Disposal in Albuquerque, NM"
+description: "Junk disposal in Albuquerque, NM: free City Large Item Pick-Up on trash day, three Convenience Centers, e-waste at Eagle Rock, and the free HHW center."
 verified: '2026-10-30'
 city: Albuquerque
 state: NM

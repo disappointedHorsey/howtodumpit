@@ -1,6 +1,6 @@
 ---
-title: 'Junk Disposal in Sacramento, CA: Mattresses, Couches, Appliances, TVs & Paint'
-description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in Sacramento, CA: the City''s two free Household Junk Pickups and two free Appliance and E-Waste Pickups a year, the yearly dump coupon, and free household hazardous waste drop-off, with links to official City of Sacramento and Sacramento County sources.'
+title: "Junk Disposal in Sacramento, CA"
+description: "Junk disposal in Sacramento, CA: two free Household Junk Pickups and two free Appliance and E-Waste Pickups a year, a yearly dump coupon, and free HHW drop-off."
 verified: '2026-11-02'
 city: Sacramento
 state: CA

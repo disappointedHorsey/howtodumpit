@@ -1,6 +1,6 @@
 ---
-title: 'Junk Disposal in Boston, MA: Mattresses, Couches, Appliances, TVs & Paint'
-description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in Boston, MA: the City''s by-appointment curbside mattress pickup, furniture out with your regular trash, by-appointment special item collection for freon appliances and TVs, and Zero Waste Day drop-offs for oil-based paint and chemicals, with links to official City of Boston and MassDEP sources.'
+title: "Junk Disposal in Boston, MA"
+description: "Junk disposal in Boston, MA: by-appointment curbside mattress pickup, furniture out with regular trash, special item collection, and Zero Waste Day drop-offs."
 verified: '2026-10-24'
 city: Boston
 state: MA

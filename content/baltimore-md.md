@@ -1,6 +1,6 @@
 ---
-title: 'Junk Disposal in Baltimore, MD: Mattresses, Couches, Appliances, TVs & Paint'
-description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in Baltimore, MD: monthly Saturday bulk trash collection booked through 311 (up to 3 items), free Residential Drop-Off Centers, free mattress recycling at Quarantine Road, and household hazardous waste days at Sisson Street, with links to official Baltimore City DPW, Maryland MDE and EPA sources.'
+title: "Junk Disposal in Baltimore, MD"
+description: "Junk disposal in Baltimore, MD: monthly Saturday bulk trash through 311, free Residential Drop-Off Centers, free mattress recycling, and HHW days."
 verified: '2026-10-27'
 city: Baltimore
 state: MD

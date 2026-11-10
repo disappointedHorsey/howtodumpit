@@ -1,6 +1,6 @@
 ---
-title: 'Junk Disposal in Denver, CO: Mattresses, Couches, Appliances, TVs & Paint'
-description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in Denver, CO: Large Item Pickup, appliance collection, E-cycle Coupon, PaintCare and HHW At-Your-Door, with links to official sources.'
+title: "Junk Disposal in Denver, CO"
+description: "Junk disposal in Denver, CO: Large Item Pickup, appliance collection, E-cycle Coupon, PaintCare and HHW At-Your-Door, with links to official sources."
 verified: '2026-10-12'
 city: Denver
 state: CO

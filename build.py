@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Tiny static site generator: content/**/*.md (YAML front matter) -> public/.
 Usage: .venv/bin/python build.py   (or ./build.sh)"""
-import datetime, difflib, html, pathlib, re, shutil, string, urllib.parse
+import datetime, difflib, html, json, math, pathlib, re, shutil, string, urllib.parse
 import markdown, yaml
 
 ROOT = pathlib.Path(__file__).parent
@@ -9,6 +9,103 @@ CONTENT, OUT, TPL, STATIC = ROOT/"content", ROOT/"public", ROOT/"templates", ROO
 CFG = yaml.safe_load((ROOT/"site.yaml").read_text())
 # Path prefix for hosting under a subpath (e.g. GitHub Pages project site); "" at a domain root.
 PREFIX = urllib.parse.urlparse(CFG["base_url"]).path.rstrip("/")
+
+# Full state names for breadcrumbs and the home-page city directory.
+STATE_NAMES = {
+    "AL": "Alabama", "AK": "Alaska", "AZ": "Arizona", "AR": "Arkansas",
+    "CA": "California", "CO": "Colorado", "CT": "Connecticut", "DC": "District of Columbia",
+    "DE": "Delaware", "FL": "Florida", "GA": "Georgia", "HI": "Hawaii",
+    "IA": "Iowa", "ID": "Idaho", "IL": "Illinois", "IN": "Indiana",
+    "KS": "Kansas", "KY": "Kentucky", "LA": "Louisiana", "MA": "Massachusetts",
+    "MD": "Maryland", "ME": "Maine", "MI": "Michigan", "MN": "Minnesota",
+    "MO": "Missouri", "MS": "Mississippi", "MT": "Montana", "NC": "North Carolina",
+    "ND": "North Dakota", "NE": "Nebraska", "NH": "New Hampshire", "NJ": "New Jersey",
+    "NM": "New Mexico", "NV": "Nevada", "NY": "New York", "OH": "Ohio",
+    "OK": "Oklahoma", "OR": "Oregon", "PA": "Pennsylvania", "RI": "Rhode Island",
+    "SC": "South Carolina", "SD": "South Dakota", "TN": "Tennessee", "TX": "Texas",
+    "UT": "Utah", "VA": "Virginia", "VT": "Vermont", "WA": "Washington",
+    "WI": "Wisconsin", "WV": "West Virginia", "WY": "Wyoming",
+}
+
+# Approximate city-center coordinates (degrees) used only to pick the closest
+# existing city guides for the Nearby Cities block. New cities can set `lat`
+# and `lon` in front matter, or add a slug here. Values are standard city-center
+# points, rounded to 4 decimal places.
+CITY_COORDS = {
+    "albuquerque-nm": (35.0844, -106.6504),
+    "atlanta-ga": (33.7490, -84.3880),
+    "austin-tx": (30.2672, -97.7431),
+    "baltimore-md": (39.2904, -76.6122),
+    "boston-ma": (42.3601, -71.0589),
+    "cambridge-somerville-ma": (42.3736, -71.1097),
+    "charlotte-nc": (35.2271, -80.8431),
+    "chicago-il": (41.8781, -87.6298),
+    "colorado-springs-co": (38.8339, -104.8214),
+    "columbus-oh": (39.9612, -82.9988),
+    "dallas-tx": (32.7767, -96.7970),
+    "denver-co": (39.7392, -104.9903),
+    "detroit-mi": (42.3314, -83.0458),
+    "el-paso-tx": (31.7619, -106.4850),
+    "fort-worth-tx": (32.7555, -97.3308),
+    "fresno-ca": (36.7378, -119.7871),
+    "houston-tx": (29.7604, -95.3698),
+    "indianapolis-in": (39.7684, -86.1581),
+    "jacksonville-fl": (30.3322, -81.6557),
+    "kansas-city-mo": (39.0997, -94.5783),
+    "las-vegas-nv": (36.1699, -115.1398),
+    "los-angeles-ca": (34.0522, -118.2437),
+    "louisville-ky": (38.2527, -85.7585),
+    "memphis-tn": (35.1495, -90.0490),
+    "mesa-az": (33.4152, -111.8315),
+    "miami-fl": (25.7617, -80.1918),
+    "milwaukee-wi": (43.0389, -87.9065),
+    "nashville-tn": (36.1627, -86.7816),
+    "new-york-ny": (40.7128, -74.0060),
+    "oklahoma-city-ok": (35.4676, -97.5164),
+    "omaha-ne": (41.2565, -95.9345),
+    "philadelphia-pa": (39.9526, -75.1652),
+    "phoenix-az": (33.4484, -112.0740),
+    "portland-or": (45.5152, -122.6784),
+    "raleigh-nc": (35.7796, -78.6382),
+    "sacramento-ca": (38.5816, -121.4944),
+    "san-antonio-tx": (29.4241, -98.4936),
+    "san-diego-ca": (32.7157, -117.1611),
+    "san-francisco-ca": (37.7749, -122.4194),
+    "san-jose-ca": (37.3382, -121.8863),
+    "seattle-wa": (47.6062, -122.3321),
+    "tucson-az": (32.2226, -110.9747),
+    "virginia-beach-va": (36.8529, -75.9780),
+    "washington-dc": (38.9072, -77.0369),
+}
+NEARBY_COUNT = 5
+
+def _coords(slug, meta):
+    """Return (lat, lon) from front matter, or the built-in table."""
+    if meta.get("lat") is not None and meta.get("lon") is not None:
+        try:
+            return float(meta["lat"]), float(meta["lon"])
+        except (TypeError, ValueError):
+            pass
+    return CITY_COORDS.get(slug)
+
+def _haversine_km(a, b):
+    lat1, lon1 = a
+    lat2, lon2 = b
+    r = 6371.0
+    p1, p2 = math.radians(lat1), math.radians(lat2)
+    dp = math.radians(lat2 - lat1)
+    dl = math.radians(lon2 - lon1)
+    h = math.sin(dp / 2) ** 2 + math.cos(p1) * math.cos(p2) * math.sin(dl / 2) ** 2
+    return 2 * r * math.atan2(math.sqrt(h), math.sqrt(1 - h))
+
+def _slugify(s):
+    s = html.unescape(str(s)).lower()
+    s = re.sub(r"[^a-z0-9]+", "-", s).strip("-")
+    return s or "partner"
+
+def _click_attr(name):
+    return f' data-goatcounter-click="{html.escape(name, quote=True)}"'
+
 
 def prefix_links(s):
     """Prepend PREFIX to root-relative href/src attributes (not protocol-relative //)."""
@@ -81,7 +178,7 @@ def _website_label(url):
         pass
     return url
 
-def partners_html(items):
+def partners_html(items, city_slug=""):
     """Render Local Junk Removal & Donation Partners from front-matter `partners:`.
 
     Paid tiers (Recommended, Verified Partner) are large prominent cards and sort first.
@@ -123,22 +220,27 @@ def partners_html(items):
             badge = '<p class="partner-badge"><span class="partner-unverified-label">Not verified</span></p>'
         bits = [f'<li class="{classes}">{badge}<h3>{name}</h3>']
         if public_tier in ("verified", "recommended"):
+            slug = _slugify(it.get("name") or "partner")
             if phone:
                 tel = html.escape(_tel_href(phone), quote=True)
                 phone_esc = html.escape(phone)
                 # Phone as plain text; Call Now is the single tel: link (avoids dup-href).
                 bits.append(f'<p class="partner-phone">{phone_esc}</p>')
-                bits.append(f'<p class="partner-cta"><a class="btn" href="{tel}">Call Now</a></p>')
+                ev = f"tel-{city_slug}-{slug}" if city_slug else f"tel-{slug}"
+                bits.append(f'<p class="partner-cta"><a class="btn" href="{tel}"{_click_attr(ev)}>Call Now</a></p>')
             if website:
                 href = html.escape(website, quote=True)
                 label = html.escape(_website_label(website))
-                bits.append(f'<p class="partner-web"><a href="{href}" rel="sponsored nofollow" target="_blank">{label}</a></p>')
+                ev = f"web-{city_slug}-{slug}" if city_slug else f"web-{slug}"
+                bits.append(f'<p class="partner-web"><a href="{href}" rel="sponsored nofollow" target="_blank"{_click_attr(ev)}>{label}</a></p>')
         else:
             meta = []
+            slug = _slugify(it.get("name") or "partner")
             if phone:
                 tel = html.escape(_tel_href(phone), quote=True)
                 phone_esc = html.escape(phone)
-                meta.append(f'<span class="partner-phone"><a href="{tel}">{phone_esc}</a></span>')
+                ev = f"tel-{city_slug}-{slug}" if city_slug else f"tel-{slug}"
+                meta.append(f'<span class="partner-phone"><a href="{tel}"{_click_attr(ev)}>{phone_esc}</a></span>')
             if website:
                 # Free listings: domain as plain text, never a clickable link (Adam, 11/11/2026).
                 label = html.escape(_website_label(website))
@@ -254,7 +356,20 @@ def mark_current(out, u):
         return block.replace(f'<a href="{u}">', f'<a href="{u}" aria-current="page">')
     return re.sub(r'<(nav aria-label="Main"|footer).*?</(nav|footer)>', fix, out, flags=re.S)
 
-def crumbs(u, title, titles):
+def crumbs(u, title, titles, city_meta=None):
+    """Visible breadcrumb trail. City guides use Home › State › City (state is
+    plain text: there is no state landing page). Other pages stay path-based."""
+    if city_meta and city_meta.get("city"):
+        state_abbr = str(city_meta.get("state") or "").strip()
+        state_name = html.escape(STATE_NAMES.get(state_abbr, state_abbr or "United States"))
+        city_name = html.escape(str(city_meta["city"]))
+        return (
+            '<nav class="crumbs" aria-label="Breadcrumb"><ol>'
+            '<li><a href="/">Home</a></li>'
+            f'<li>{state_name}</li>'
+            f'<li aria-current="page">{city_name}</li>'
+            "</ol></nav>"
+        )
     parts = [p for p in u.strip("/").split("/") if p]
     if not parts: return ""
     items = ['<li><a href="/">Home</a></li>']
@@ -265,8 +380,42 @@ def crumbs(u, title, titles):
         items.append(f'<li aria-current="page">{name}</li>' if i == len(parts)-1 else f'<li><a href="{acc}">{name}</a></li>')
     return '<nav class="crumbs" aria-label="Breadcrumb"><ol>' + "".join(items) + "</ol></nav>"
 
+def city_directory(pages):
+    """Plain HTML list of every city guide, grouped by state. Crawlers can
+    follow these <a> links; the homepage dropdown is unchanged."""
+    cities = []
+    for cu, cm, _, _ in pages:
+        if not cm.get("city"):
+            continue
+        label = f'{cm["city"]}, {cm["state"]}'
+        cities.append((str(cm.get("state") or ""), str(cm["city"]), cu, label))
+    if not cities:
+        return ""
+    by_state = {}
+    for st, city, url, label in cities:
+        name = STATE_NAMES.get(st, st)
+        by_state.setdefault(name, []).append((city, url, label))
+    blocks = []
+    for st_name in sorted(by_state):
+        items = sorted(by_state[st_name], key=lambda x: x[0].casefold())
+        lis = "".join(
+            f'<li><a href="{html.escape(url, quote=True)}">{html.escape(label)}</a></li>'
+            for _, url, label in items
+        )
+        blocks.append(
+            f'<div class="city-dir-state">'
+            f'<h3 class="city-dir-state-name">{html.escape(st_name)}</h3>'
+            f'<ul>{lis}</ul></div>'
+        )
+    return (
+        '<nav class="city-directory" aria-labelledby="city-dir-h">'
+        '<h2 id="city-dir-h">All City Guides</h2>'
+        '<div class="city-dir-states">' + "".join(blocks) + "</div></nav>"
+    )
+
 def city_cards(pages):
-    """Homepage city picker: a selectable dropdown (not a scrolling card grid)."""
+    """Homepage city picker: a selectable dropdown (not a scrolling card grid),
+    plus a plain linked list of every city guide."""
     opts = ['<option value="">Select your city or town</option>']
     for cu, cm, _, _ in sorted(pages, key=lambda x: x[1].get("city", "")):
         if not cm.get("city"): continue
@@ -279,7 +428,101 @@ def city_cards(pages):
             '<label for="city-select">Your city or town</label>'
             '<select id="city-select" name="city" autocomplete="address-level2">'
             + "".join(opts) +
-            '</select></div>' + under)
+            '</select></div>' + under + city_directory(pages))
+
+def nearby_cities_html(current_url, pages):
+    """3–6 links to the geographically closest city guides (default 5)."""
+    current = None
+    candidates = []
+    for cu, cm, _, _ in pages:
+        if not cm.get("city"):
+            continue
+        slug = cu.strip("/")
+        loc = _coords(slug, cm)
+        row = (cu, cm, loc)
+        if cu == current_url:
+            current = row
+        else:
+            candidates.append(row)
+    if not current or not current[2]:
+        slug = current_url.strip("/")
+        print(f"WARNING: no coordinates for {slug or '/'} ; skipping Nearby Cities.")
+        return ""
+    with_coords = [(cu, cm, loc) for cu, cm, loc in candidates if loc]
+    if not with_coords:
+        return ""
+    here = current[2]
+    ranked = sorted(with_coords, key=lambda row: _haversine_km(here, row[2]))
+    take = ranked[: max(3, min(NEARBY_COUNT, 6))]
+    # If fewer than 3 other geocoded cities exist, show however many we have.
+    if not take:
+        return ""
+    lis = []
+    for cu, cm, _ in take:
+        label = f'{cm["city"]}, {cm["state"]}'
+        lis.append(f'<li><a href="{html.escape(cu, quote=True)}">{html.escape(label)}</a></li>')
+    return (
+        '<aside class="nearby-cities" aria-labelledby="nearby-h">'
+        '<h2 id="nearby-h">Nearby Cities</h2>'
+        '<ul>' + "".join(lis) + "</ul></aside>"
+    )
+
+def _visible_text(s):
+    return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", s or "")).strip()
+
+def faq_pairs(body_html):
+    """Visible FAQ Q&A only. A heading whose text is FAQ or Frequently Asked
+    Questions starts the section; each following h3 is a question. Returns
+    nothing when the page has no such section, so we never invent FAQ schema."""
+    heading = re.search(
+        r"<h([23])[^>]*>\s*(?:Frequently Asked Questions|FAQ)\s*</h\1>",
+        body_html, flags=re.I | re.S)
+    if not heading:
+        return []
+    rest = body_html[heading.end():]
+    nxt = re.search(r"<h2\b", rest, flags=re.I)
+    if nxt:
+        rest = rest[:nxt.start()]
+    parts = re.split(r"(<h3[^>]*>.*?</h3>)", rest, flags=re.I | re.S)
+    pairs = []
+    if len(parts) > 1:
+        for i in range(1, len(parts), 2):
+            q = _visible_text(parts[i])
+            a = _visible_text(parts[i + 1] if i + 1 < len(parts) else "")
+            if q and a:
+                pairs.append((q, a))
+    return pairs
+
+def structured_data_html(canonical, city_meta, body_html):
+    """JSON-LD for city guides: BreadcrumbList always, FAQPage only when a
+    visible FAQ section already exists on the page."""
+    state_abbr = str(city_meta.get("state") or "").strip()
+    state_name = STATE_NAMES.get(state_abbr, state_abbr or "United States")
+    city_name = str(city_meta.get("city") or "")
+    crumbs = {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {"@type": "ListItem", "position": 1, "name": "Home", "item": CFG["base_url"].rstrip("/") + "/"},
+            {"@type": "ListItem", "position": 2, "name": state_name},
+            {"@type": "ListItem", "position": 3, "name": city_name, "item": canonical},
+        ],
+    }
+    blocks = [crumbs]
+    pairs = faq_pairs(body_html)
+    if pairs:
+        blocks.append({
+            "@type": "FAQPage",
+            "mainEntity": [
+                {"@type": "Question", "name": q,
+                 "acceptedAnswer": {"@type": "Answer", "text": a}}
+                for q, a in pairs
+            ],
+        })
+    payload = {"@context": "https://schema.org", "@graph": blocks} if len(blocks) > 1 else {
+        "@context": "https://schema.org", **crumbs
+    }
+    dumped = json.dumps(payload, ensure_ascii=True, separators=(",", ":"))
+    return f'<script type="application/ld+json">{dumped}</script>\n'
 
 def main():
     if OUT.exists(): shutil.rmtree(OUT)
@@ -326,16 +569,22 @@ def main():
             if i < 0: i = body_html.find("<h2", body_html.find('class="listings"') if 'class="listings"' in body_html else 0)
             body_html = body_html[:i] + AFFILIATE_CTA + body_html[i:] if i > 0 else body_html + AFFILIATE_CTA
             # Partner cards at end of city guide (official drop-off `listings:` unchanged)
-            body_html += partners_html(meta.get("partners") or [])
+            body_html += partners_html(meta.get("partners") or [], city_slug=u.strip("/"))
+            body_html += nearby_cities_html(u, pages)
         hero = ""
         if u == "/":
             hero = ('<section class="hero"><div class="wrap"><h1>' + html.escape(meta.get("hero", meta["title"])) + '</h1><p>'
                     + html.escape(meta.get("description", "")) + '</p></div></section>')
+        json_ld = ""
+        if meta.get("city"):
+            json_ld = structured_data_html(
+                CFG["base_url"].rstrip("/") + u, meta, body_html)
         out = page_tpl.substitute(
             site_name=CFG["site_name"], title=html.escape(meta["title"]),
             description=html.escape(meta.get("description", "")),
             canonical=CFG["base_url"].rstrip("/") + u, body=body_html,
-            hero=hero, crumbs=crumbs(u, meta["title"], titles),
+            hero=hero, crumbs=crumbs(u, meta["title"], titles, city_meta=meta if meta.get("city") else None),
+            json_ld=json_ld,
             og_type="website" if u == "/" else "article",
             after=CITY_REQUEST if (u == "/" or meta.get("city")) else "",
             updated_line=(f'<p class="updated">Last updated: {us_date(newest)}</p>' if meta.get("list_children")

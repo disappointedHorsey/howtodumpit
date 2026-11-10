@@ -1,6 +1,6 @@
 ---
-title: 'Junk Disposal in Charlotte, NC: Mattresses, Couches, Appliances, TVs & Paint'
-description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in Charlotte, NC: scheduled City bulky item pickup through 311 or online, Mecklenburg County full-service drop-off centers (one bulky item free per visit), free county e-waste and household hazardous waste drop-off, and the North Carolina landfill ban on TVs and computers, with links to official City of Charlotte and Mecklenburg County sources.'
+title: "Junk Disposal in Charlotte, NC"
+description: "Junk disposal in Charlotte, NC: scheduled City bulky item pickup through 311, Mecklenburg County drop-off centers, and free county e-waste and HHW drop-off."
 verified: '2026-10-20'
 city: Charlotte
 state: NC

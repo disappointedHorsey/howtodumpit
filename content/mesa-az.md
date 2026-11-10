@@ -1,6 +1,6 @@
 ---
-title: 'Junk Disposal in Mesa, AZ: Mattresses, Couches, Appliances, TVs & Paint'
-description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in Mesa, AZ: scheduled City bulk item pickup, Appliance Recycling, the free Household Hazardous Materials facility for residents, and donation options, with links to official City of Mesa and Maricopa County sources.'
+title: "Junk Disposal in Mesa, AZ"
+description: "Junk disposal in Mesa, AZ: scheduled City bulk item pickup, Appliance Recycling, the free Household Hazardous Materials facility, and donation options."
 verified: '2026-11-06'
 city: Mesa
 state: AZ

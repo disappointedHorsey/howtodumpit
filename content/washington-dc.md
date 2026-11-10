@@ -1,6 +1,6 @@
 ---
-title: 'Junk Disposal in Washington, DC: Mattresses, Couches, Appliances, TVs & Paint'
-description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in Washington, DC: DPW bulk pickup, Fort Totten drop-off and special waste events, with links to official sources.'
+title: "Junk Disposal in Washington, DC"
+description: "Junk disposal in Washington, DC: DPW bulk pickup, Fort Totten drop-off and special waste events, with links to official sources."
 verified: '2026-10-12'
 city: Washington
 state: DC

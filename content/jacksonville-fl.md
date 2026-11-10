@@ -1,6 +1,6 @@
 ---
-title: 'Junk Disposal in Jacksonville, FL: Mattresses, Couches, Appliances, TVs & Paint'
-description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in Jacksonville, FL: City household bulk collection with no appointment for mattresses and furniture, scheduled curbside appliance pickup, and free household hazardous waste and e-waste drop-off for Duval County residents at 2675 Commonwealth Ave., with links to official City of Jacksonville sources.'
+title: "Junk Disposal in Jacksonville, FL"
+description: "Junk disposal in Jacksonville, FL: City household bulk collection for mattresses and furniture, scheduled appliance pickup, and free HHW and e-waste drop-off."
 verified: '2026-10-20'
 city: Jacksonville
 state: FL

@@ -1,6 +1,6 @@
 ---
-title: 'Junk Disposal in Fort Worth, TX: Mattresses, Couches, Appliances, TVs & Paint'
-description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in Fort Worth, TX: free monthly curbside bulk collection (up to 10 cubic yards), four City Drop-Off Stations, freon appliance and electronics drop-off, and the Environmental Collection Center for paint and chemicals, with links to official City of Fort Worth sources.'
+title: "Junk Disposal in Fort Worth, TX"
+description: "Junk disposal in Fort Worth, TX: free monthly curbside bulk (up to 10 cubic yards), four City Drop-Off Stations, and the Environmental Collection Center."
 verified: '2026-10-20'
 city: Fort Worth
 state: TX

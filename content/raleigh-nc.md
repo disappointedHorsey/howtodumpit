@@ -1,6 +1,6 @@
 ---
-title: 'Junk Disposal in Raleigh, NC: Mattresses, Couches, Appliances, TVs & Paint'
-description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in Raleigh, NC: City Bulky and Special Load pickup, free Monday e-waste collection, Wake County Convenience Centers and Multi-Material Recycling Facilities, and Wake County household hazardous waste drop-off, with links to official City of Raleigh, Wake County and NC DEQ sources.'
+title: "Junk Disposal in Raleigh, NC"
+description: "Junk disposal in Raleigh, NC: City Bulky and Special Load pickup, free Monday e-waste collection, Wake County Convenience Centers, and county HHW drop-off."
 verified: '2026-11-07'
 city: Raleigh
 state: NC

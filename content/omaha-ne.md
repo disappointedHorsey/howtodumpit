@@ -1,6 +1,6 @@
 ---
-title: 'Junk Disposal in Omaha, NE: Mattresses, Couches, Appliances, TVs & Paint'
-description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in Omaha, NE: the City bulky disposal program at River City Transfer, free Spring and Fall Cleanup Saturdays, Under The Sink for household chemicals, and apartment rules, with links to official sources.'
+title: "Junk Disposal in Omaha, NE"
+description: "Junk disposal in Omaha, NE: bulky disposal at River City Transfer, free Spring and Fall Cleanup Saturdays, Under The Sink for chemicals, and apartment rules."
 verified: '2026-11-10'
 city: Omaha
 state: NE

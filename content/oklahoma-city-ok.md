@@ -1,6 +1,6 @@
 ---
-title: 'Junk Disposal in Oklahoma City, OK: Mattresses, Couches, Appliances, TVs & Paint'
-description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in Oklahoma City, OK: the City''s monthly curbside bulky waste pickup (first 4 cubic yards included in your bill), a scheduled pickup for freon appliances, two Free Landfill Days a year, and the free Household Hazardous Waste Collection Center at 1621 S. Portland Ave., with links to official okc.gov and Oklahoma DEQ sources.'
+title: "Junk Disposal in Oklahoma City, OK"
+description: "Junk disposal in Oklahoma City, OK: monthly bulky pickup (first 4 cubic yards included), freon-appliance pickup, two Free Landfill Days, and free HHW drop-off."
 verified: '2026-10-22'
 city: Oklahoma City
 state: OK

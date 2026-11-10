@@ -1,6 +1,6 @@
 ---
-title: 'Junk Disposal in Atlanta, GA: Mattresses, Couches, Appliances, TVs & Paint'
-description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in Atlanta, GA: the City''s 12 free scheduled bulk collections a year for single-family homes, what apartment renters can do, and CHaRM drop-off for electronics, paint and chemicals, with links to official City of Atlanta sources.'
+title: "Junk Disposal in Atlanta, GA"
+description: "Junk disposal in Atlanta, GA: 12 free scheduled bulk collections a year for single-family homes, and CHaRM drop-off for electronics, paint and chemicals."
 verified: '2026-11-04'
 city: Atlanta
 state: GA

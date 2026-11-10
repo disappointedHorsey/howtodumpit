@@ -15,6 +15,10 @@ What it checks on every built page (redirect stubs skipped):
   date          day-first dates (27/10/2026, 27 October 2026) on site pages
   self-link     a content link to the page itself (nav/footer self links must carry aria-current="page")
   dead-link     internal link to a page or #anchor that doesn't exist
+  city-seo      city guides: title <= 60, description <= 160, visible
+                breadcrumb, BreadcrumbList JSON-LD, Nearby Cities (3+ links);
+                home page <a> links to every city guide; partner tel: and
+                website links carry data-goatcounter-click
 Stdlib only, so it runs anywhere (CI, nightly routines, pre-push).
 """
 import difflib, html, pathlib, re, sys, urllib.parse
@@ -272,6 +276,29 @@ def check_page(path, root, pages_ids):
             add("term", 'a Recommended listing is missing the "Recommended" label')
         if "Paid placement" not in raw or "We receive referral fees from this partner." not in raw:
             add("term", "a Recommended listing is missing the nearby paid-placement disclosure")
+    # Audit 11/11/2026: titles, descriptions, breadcrumbs, JSON-LD, click events.
+    is_city = 'class="nearby-cities"' in raw or 'id="nearby-h"' in raw
+    if is_city:
+        if len(p.title) > 60:
+            add("city-seo", f'city <title> is {len(p.title)} characters (max 60): "{p.title}"')
+        if len(p.meta_desc) > 160:
+            add("city-seo", f"city meta description is {len(p.meta_desc)} characters (max 160)")
+        if 'aria-label="Breadcrumb"' not in raw and "aria-label='Breadcrumb'" not in raw:
+            add("city-seo", "city guide is missing a visible breadcrumb")
+        if "BreadcrumbList" not in raw or "application/ld+json" not in raw:
+            add("city-seo", "city guide is missing BreadcrumbList JSON-LD")
+        m = re.search(r'<aside class="nearby-cities"[^>]*>.*?</aside>', raw, re.S)
+        n_near = len(re.findall(r"<a\b", m.group(0))) if m else 0
+        if n_near < 3:
+            add("city-seo", f"Nearby Cities has {n_near} links (need 3–6)")
+    # Partner tel: and website links must be GoatCounter click events.
+    for l in p.links:
+        href = l.get("href") or ""
+        if href.startswith("tel:") and not l["attrs"].get("data-goatcounter-click"):
+            add("city-seo", f"missing data-goatcounter-click on {href}")
+    for m in re.finditer(r'<p class="partner-web"><a\b([^>]*)>', raw):
+        if "data-goatcounter-click=" not in m.group(1):
+            add("city-seo", "a paid partner website link is missing data-goatcounter-click")
     return probs
 
 
@@ -287,6 +314,18 @@ def main():
     probs = []
     for f in files:
         probs += check_page(f, root, pages_ids)
+    # Home page must expose a plain <a> link to every city guide.
+    home = root / "index.html"
+    city_urls = []
+    for f in files:
+        raw = f.read_text(encoding="utf-8")
+        if 'class="nearby-cities"' in raw or 'id="nearby-h"' in raw:
+            city_urls.append(page_url(f, root))
+    if home.exists() and city_urls:
+        home_raw = home.read_text(encoding="utf-8")
+        missing = [u for u in city_urls if f'href="{u}"' not in home_raw]
+        for u in missing:
+            probs.append(f'/  [city-seo] home page has no <a> link to {u}')
     for x in probs: print("FAIL", x)
     print(f"consistency_check: {len(files)} pages, {len(probs)} problem(s)")
     return 1 if probs else 0

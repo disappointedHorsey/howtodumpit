@@ -1,6 +1,6 @@
 ---
-title: 'Junk Disposal in Kansas City, MO: Mattresses, Couches, Appliances, TVs & Paint'
-description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, paint and hazardous waste, or leaves and brush in Kansas City, MO: free City bulky item pickup by appointment, the free KC Water household hazardous waste facility, leaf and brush drop-off, and Habitat KC ReStore donations, with links to official sources.'
+title: "Junk Disposal in Kansas City, MO"
+description: "Junk disposal in Kansas City, MO: free City bulky pickup by appointment, the free KC Water HHW facility, leaf and brush drop-off, and Habitat ReStore donations."
 verified: '2026-11-05'
 city: Kansas City
 state: MO

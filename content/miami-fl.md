@@ -1,6 +1,6 @@
 ---
-title: 'Junk Disposal in Miami, FL: Mattresses, Couches, Appliances, TVs & Paint'
-description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in Miami, FL: weekly City bulky trash pickup, the free City Mini Dump, Miami-Dade Home Chemical Collection Centers, and apartment rules, with links to official City and County sources.'
+title: "Junk Disposal in Miami, FL"
+description: "Junk disposal in Miami, FL: weekly City bulky trash pickup, the free City Mini Dump, Miami-Dade Home Chemical Collection Centers, and apartment rules."
 verified: '2026-11-09'
 city: Miami
 state: FL

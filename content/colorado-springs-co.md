@@ -1,6 +1,6 @@
 ---
-title: 'Junk Disposal in Colorado Springs, CO: Mattresses, Couches, Appliances, TVs & Paint'
-description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in Colorado Springs, CO: private hauler bulky options, El Paso County HHW and transfer/landfill drop-offs, Clean Sweep large TVs, and Colorado e-waste landfill rules, with links to official City and El Paso County sources.'
+title: "Junk Disposal in Colorado Springs, CO"
+description: "Junk disposal in Colorado Springs, CO: private hauler bulky options, El Paso County HHW, transfer or landfill drop-offs, Clean Sweep TVs, and e-waste rules."
 verified: '2026-11-08'
 city: Colorado Springs
 state: CO

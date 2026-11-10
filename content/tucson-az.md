@@ -1,6 +1,6 @@
 ---
-title: 'Junk Disposal in Tucson, AZ: Mattresses, Couches, Appliances, TVs & Paint'
-description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in Tucson, AZ: the City''s twice-a-year Brush and Bulky collection, Special Brush and Bulky pickups, the Los Reales Landfill, and the free Household Hazardous Waste program for City residents, with links to official City of Tucson, Pima County and EPA sources.'
+title: "Junk Disposal in Tucson, AZ"
+description: "Junk disposal in Tucson, AZ: twice-a-year Brush and Bulky collection, Special Brush and Bulky pickups, Los Reales Landfill, and free HHW program for residents."
 verified: '2026-10-31'
 city: Tucson
 state: AZ

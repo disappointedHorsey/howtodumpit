@@ -1,6 +1,6 @@
 ---
-title: 'Junk Disposal in New York City, NY: Mattresses, Couches, Appliances, TVs & Paint'
-description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in New York City, NY: city pickup, drop-off sites and rules, with links to official sources.'
+title: "Junk Disposal in New York City, NY"
+description: "Junk disposal in New York City, NY: city pickup, drop-off sites and rules for mattresses, couches, appliances, TVs and paint, with links to official sources."
 verified: '2026-10-12'
 city: New York City
 state: NY

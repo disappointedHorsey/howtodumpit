@@ -1,6 +1,6 @@
 ---
-title: 'Junk Disposal in Portland, OR: Mattresses, Couches, Appliances, TVs & Paint'
-description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in Portland, OR: City-set curbside bulky waste rates through your garbage company, free mattress drop-off at Metro Central, free Oregon E-Cycles electronics recycling, and free household hazardous waste and paint drop-off at Metro, with links to official City of Portland, Metro and Oregon DEQ sources.'
+title: "Junk Disposal in Portland, OR"
+description: "Junk disposal in Portland, OR: curbside bulky waste rates, free mattress drop-off at Metro Central, free Oregon E-Cycles, and free HHW drop-off at Metro."
 verified: '2026-10-17'
 city: Portland
 state: OR

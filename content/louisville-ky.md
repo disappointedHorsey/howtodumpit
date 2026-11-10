@@ -1,6 +1,6 @@
 ---
-title: 'Junk Disposal in Louisville, KY: Mattresses, Couches, Appliances, TVs & Paint'
-description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in Louisville, KY: Large Item Pickup appointments, the free Waste Reduction Center allowance, Haz Bin, and latex paint rules, with links to official Louisville Metro sources.'
+title: "Junk Disposal in Louisville, KY"
+description: "Junk disposal in Louisville, KY: Large Item Pickup appointments, the free Waste Reduction Center allowance, Haz Bin, and latex paint rules."
 verified: '2026-10-15'
 city: Louisville
 state: KY

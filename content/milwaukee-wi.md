@@ -1,6 +1,6 @@
 ---
-title: 'Junk Disposal in Milwaukee, WI: Mattresses, Couches, Appliances, TVs & Paint'
-description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in Milwaukee, WI: free curbside pickup of 1 cubic yard of bulky items on your regular day, paid special pickups, the City''s two Drop Off Centers, and MMSD household hazardous waste drop-off, with links to official City of Milwaukee, MMSD, Wisconsin DNR and EPA sources.'
+title: "Junk Disposal in Milwaukee, WI"
+description: "Junk disposal in Milwaukee, WI: free curbside bulky pickup (1 cubic yard) on regular day, paid special pickups, two Drop Off Centers, and MMSD HHW drop-off."
 verified: '2026-10-29'
 city: Milwaukee
 state: WI

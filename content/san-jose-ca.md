@@ -1,6 +1,6 @@
 ---
-title: 'Junk Disposal in San Jose, CA: Mattresses, Couches, Appliances, TVs & Paint'
-description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in San Jose, CA: the City of San José no-cost Junk Pickup (up to 12 items per request, booked through San José 311), California mattress retailer take-back, the state rule against e-waste in the trash, free Santa Clara County household hazardous waste drop-off by appointment, and free PaintCare paint recycling, with links to official sources.'
+title: "Junk Disposal in San Jose, CA"
+description: "Junk disposal in San Jose, CA: City no-cost Junk Pickup (up to 12 items per request), California mattress retailer take-back, and free county HHW drop-off."
 verified: '2026-10-20'
 city: San Jose
 state: CA

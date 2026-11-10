@@ -1,6 +1,6 @@
 ---
-title: 'Junk Disposal in Indianapolis, IN: Mattresses, Couches, Appliances, TVs & Paint'
-description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in Indianapolis, IN: monthly heavy trash pickup (up to two bulky items per month), Mayor''s Action Center pickup for freon appliances, the Citizens'' Transfer Station, and Saturday ToxDrop days for Marion County household hazardous waste and electronics, with links to official indy.gov and IDEM sources.'
+title: "Junk Disposal in Indianapolis, IN"
+description: "Junk disposal in Indianapolis, IN: monthly heavy trash pickup, Mayor's Action Center freon-appliance pickup, the Citizens' Transfer Station, and ToxDrop days."
 verified: '2026-10-21'
 city: Indianapolis
 state: IN

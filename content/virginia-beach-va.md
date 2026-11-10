@@ -1,6 +1,6 @@
 ---
-title: 'Junk Disposal in Virginia Beach, VA: Mattresses, Couches, Appliances, TVs & Paint'
-description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in Virginia Beach, VA: City bulky/large item pickup through VB311, the free Resource Recovery Center and household hazardous waste drop-off at the City Landfill, and apartment rules, with links to official sources.'
+title: "Junk Disposal in Virginia Beach, VA"
+description: "Junk disposal in Virginia Beach, VA: City bulky pickup through VB311, free Resource Recovery Center and HHW drop-off at the City Landfill, and apartment rules."
 verified: '2026-11-11'
 city: Virginia Beach
 state: VA

@@ -1,6 +1,6 @@
 ---
-title: 'Junk Disposal in El Paso, TX: Mattresses, Couches, Appliances, TVs & Paint'
-description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in El Paso, TX: the City''s fee-based special bulky pickup, five residents-only Citizen Collection Stations (pass, water bill and ID required), e-waste drop-off, and household hazardous waste limits, with links to official City of El Paso and TCEQ sources.'
+title: "Junk Disposal in El Paso, TX"
+description: "Junk disposal in El Paso, TX: fee-based special bulky pickup, five residents-only Citizen Collection Stations, e-waste drop-off, and HHW limits."
 verified: '2026-10-25'
 city: El Paso
 state: TX

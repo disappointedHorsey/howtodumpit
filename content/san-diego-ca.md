@@ -1,6 +1,6 @@
 ---
-title: 'Junk Disposal in San Diego, CA: Mattresses, Couches, Appliances, TVs & Paint'
-description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in San Diego, CA: city pickup, drop-off sites and rules, with links to official sources.'
+title: "Junk Disposal in San Diego, CA"
+description: "Junk disposal in San Diego, CA: city pickup, drop-off sites and rules for mattresses, couches, appliances, TVs and paint, with links to official sources."
 verified: '2026-11-10'
 city: San Diego
 state: CA

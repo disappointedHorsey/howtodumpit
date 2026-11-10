@@ -1,6 +1,6 @@
 ---
-title: 'Junk Disposal in Memphis, TN: Mattresses, Couches, Appliances, TVs & Paint'
-description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in Memphis, TN: twice-a-month Outside the Cart bulk collection, the City''s Solid Waste Convenience Centers, a monthly landfill load for fee-paying customers, and the Shelby County Household Hazardous Waste Facility on Haley Road, with links to official City of Memphis, Shelby County and EPA sources.'
+title: "Junk Disposal in Memphis, TN"
+description: "Junk disposal in Memphis, TN: twice-a-month Outside the Cart bulk collection, City Convenience Centers, a monthly landfill load, and Shelby County HHW drop-off."
 verified: '2026-10-28'
 city: Memphis
 state: TN

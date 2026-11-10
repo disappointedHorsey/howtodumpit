@@ -1,6 +1,6 @@
 ---
-title: 'Junk Disposal in San Antonio, TX: Mattresses, Couches, Appliances, TVs & Paint'
-description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in San Antonio, TX: city pickup, drop-off sites and rules, with links to official sources.'
+title: "Junk Disposal in San Antonio, TX"
+description: "Junk disposal in San Antonio, TX: city pickup, drop-off sites and rules for mattresses, couches, appliances, TVs and paint, with links to official sources."
 verified: '2026-11-09'
 city: San Antonio
 state: TX

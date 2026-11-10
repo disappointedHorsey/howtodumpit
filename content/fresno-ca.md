@@ -1,6 +1,6 @@
 ---
-title: 'Junk Disposal in Fresno, CA: Mattresses, Couches, Appliances, TVs & Paint'
-description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in Fresno, CA: the City''s free One-Time Bulky Item Pickup, yearly Operation Clean Up, Free Dump Events, and the free Fresno County Environmental Compliance Center, with links to official City of Fresno and Fresno County sources.'
+title: "Junk Disposal in Fresno, CA"
+description: "Junk disposal in Fresno, CA: free One-Time Bulky Item Pickup, yearly Operation Clean Up, Free Dump Events, and the free County Environmental Compliance Center."
 verified: '2026-11-01'
 city: Fresno
 state: CA

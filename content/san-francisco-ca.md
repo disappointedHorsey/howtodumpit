@@ -1,6 +1,6 @@
 ---
-title: 'Junk Disposal in San Francisco, CA: Mattresses, Couches, Appliances, TVs & Paint'
-description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in San Francisco, CA: Recology''s no-charge Bulky Item Collection (two per year for buildings with five units or fewer, one per unit in larger buildings, up to 10 items each), the SF Transfer Station at 501 Tunnel Ave., California mattress retailer take-back, the ban on e-waste in carts, and free household hazardous waste drop-off and home pickup, with links to official sources.'
+title: "Junk Disposal in San Francisco, CA"
+description: "Junk disposal in San Francisco, CA: Recology Bulky Item Collection (two a year, up to 10 items), the SF Transfer Station, and free HHW drop-off."
 verified: '2026-10-21'
 city: San Francisco
 state: CA

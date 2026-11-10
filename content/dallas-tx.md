@@ -1,7 +1,7 @@
 ---
 
-title: 'Junk Disposal in Dallas, TX: Mattresses, Couches, Appliances, TVs & Paint'
-description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in Dallas, TX: city pickup, drop-off sites and rules, with links to official sources.'
+title: "Junk Disposal in Dallas, TX"
+description: "Junk disposal in Dallas, TX: city pickup, drop-off sites and rules for mattresses, couches, appliances, TVs and paint, with links to official sources."
 verified: '2026-11-08'
 city: Dallas
 state: TX

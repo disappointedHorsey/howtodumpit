@@ -1,6 +1,6 @@
 ---
-title: 'Junk Disposal in Las Vegas, NV: Mattresses, Couches, Appliances, TVs & Paint'
-description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in Las Vegas, NV: Republic Services'' every-other-week curbside bulk pickup (included in the City''s residential trash rate), freon appliances at Republic transfer stations for a fee, free TV and electronics drop-off at the Cheyenne and Henderson transfer stations, and the rotating household hazardous waste drop-off, with links to official City of Las Vegas, Republic Services, Southern Nevada Health District and NDEP sources.'
+title: "Junk Disposal in Las Vegas, NV"
+description: "Junk disposal in Las Vegas, NV: Republic Services every-other-week curbside bulk pickup, transfer-station appliance and e-waste drop-off, and HHW drop-off."
 verified: '2026-10-23'
 city: Las Vegas
 state: NV

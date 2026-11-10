@@ -1,3 +1,14 @@
+## 11/11/2026 (City links, breadcrumbs, click events, JSON-LD and shorter titles)
+
+- Home page (and the Junk Removal hub) keep the city dropdown and now also have a plain HTML list of every city guide, grouped by state, so search engines can follow `<a>` links.
+- Every city guide now has a visible breadcrumb (`Home › State › City`; the state name is plain text because there is no state page) and matching BreadcrumbList JSON-LD. A Nearby Cities block links the 5 geographically closest city guides. FAQPage JSON-LD is emitted only when a page already has a visible FAQ section; no current page does, so none was added.
+- Partner `tel:` links and paid partner website links now carry GoatCounter click names (`tel-<city>-<partner-slug>` and `web-<city>-<partner-slug>`), using the existing GoatCounter setup. `/go/<partner>` click redirects are still not live.
+- City page `<title>` tags are 60 characters or fewer (for example Fresno is now "Junk Disposal in Fresno, CA | HowToDumpIt") and meta descriptions are 160 or fewer, keeping the "Junk disposal in <City>" keyword. On-page H1 headings are unchanged.
+- The partner section, the 1-800-GOT-JUNK / LoadUp box, and all pricing and offer wording are unchanged.
+- Nightly process: `build.py` applies the directory, breadcrumbs, Nearby Cities, JSON-LD and click attributes automatically. New city front matter uses the short title form; add `lat`/`lon` or a `CITY_COORDS` entry so Nearby Cities can include the new guide. `consistency_check` now enforces title and description length, breadcrumbs, JSON-LD, home-page city links, and GoatCounter click attributes.
+- CSS cache buster ?v=20261111-cities.
+- Checks: consistency_check 66 pages 0 problems; mobile_check 66 pages x 5 widths (320/375/390/412/1280) 0 FAIL 0 WARN.
+
 ## 11/11/2026 (Remove "no card" from partner offer wording)
 
 - Public partner pages no longer say partners need no card. "No upfront fee, no card and no contract" is now "No upfront fee and no contract." The same change is on /become-a-featured-partner/ and /for-haulers/.

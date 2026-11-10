@@ -1,6 +1,6 @@
 ---
-title: 'Junk Disposal in Cambridge–Somerville, MA: Mattresses, Couches, Appliances, TVs & Paint'
-description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in Cambridge and Somerville, MA: UTEC mattress pickup ($45) vs. Somerville $55 sticker, appliance permits and $25 white goods stickers, e-waste drop-off, and HHW days, with links to official city sources.'
+title: "Junk Disposal in Cambridge–Somerville, MA"
+description: "Junk disposal in Cambridge and Somerville, MA: UTEC mattress pickup ($45) vs. Somerville $55 sticker, appliance permits, e-waste drop-off, and HHW days."
 verified: '2026-10-13'
 city: Cambridge–Somerville
 state: MA

@@ -1,6 +1,6 @@
 ---
-title: 'Junk Disposal in Detroit, MI: Mattresses, Couches, Appliances, TVs & Paint'
-description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in Detroit, MI: City curbside bulk collection (up to 2 cubic yards), free Citizen Drop-Off Centers, DPW paid pickup, and the free residents-only Household Hazardous Waste facility, with links to official City of Detroit, Michigan EGLE and EPA sources.'
+title: "Junk Disposal in Detroit, MI"
+description: "Junk disposal in Detroit, MI: curbside bulk (up to 2 cubic yards), free Citizen Drop-Off Centers, DPW paid pickup, and the free residents-only HHW facility."
 verified: '2026-10-26'
 city: Detroit
 state: MI

@@ -1,6 +1,6 @@
 ---
-title: 'Junk Disposal in Nashville, TN: Mattresses, Couches, Appliances, TVs & Paint'
-description: 'How to get rid of a mattress, couch, furniture, fridge or AC, TV and electronics, or paint and hazardous waste in Nashville and Davidson County, TN: Convenience Center fees and limits, free e-waste and household hazardous waste drop-off, the Sheriff''s Office curbside bulk removal, and latex paint rules, with links to official Metro Nashville sources.'
+title: "Junk Disposal in Nashville, TN"
+description: "Junk disposal in Nashville, TN: Convenience Center fees and limits, free e-waste and HHW drop-off, Sheriff's Office bulk removal, and latex paint rules."
 verified: '2026-10-16'
 city: Nashville
 state: TN
