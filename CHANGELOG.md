@@ -1,3 +1,10 @@
+## 11/10/2026 (Remove monthly cap wording)
+
+- Partner page /become-a-featured-partner/ no longer mentions a monthly or spending cap. The billing bullet is now "Pause or cancel anytime." Published $8 / $12 prices, first 5 free, and the $25 billing minimum are unchanged.
+- consistency_check now rejects "monthly cap" and "spending cap" on public pages (hard rule, Adam 10/11/2026).
+- /for-haulers/, privacy, and other public pages had no cap wording to change. No FAQ or terms page exists.
+- Checks: consistency_check 65 pages 0 problems; mobile_check 65 pages x 5 widths (320/375/390/412/1280) 0 FAIL 0 WARN.
+
 ## 11/10/2026 (Christmas tree disposal hub and city sections)
 
 - New hub /christmas-tree-disposal/: options (curbside, drop-off/mulch, nonprofit pickup, paid junk removal), prep rules, and a city table linking to each guide's Christmas Trees section. American spelling and US dates. No public pricing. No schema added (the site does not use it).

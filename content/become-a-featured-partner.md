@@ -39,7 +39,7 @@ People mostly call whoever is listed first, so the top spot is where most calls 
 
 - **Calls count only at 30 seconds or more**, so quick hang-ups and wrong numbers are never billed.
 - **We bill only once you owe at least $25.**
-- **Set a monthly spending cap** if you like, and **pause or cancel anytime**.
+- **Pause or cancel anytime.**
 - **A monthly list of every call and email** we sent you, so you can see exactly what you're paying for.
 
 It's a simple way to help your neighbors dispose of things responsibly, keep usable items out of the landfill, and support a local business: yours.

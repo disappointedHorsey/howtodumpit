@@ -37,7 +37,10 @@ BANNED = [
     (r"(?i)\bfeatured partner\b", 'top tier is "Recommended", not "Featured Partner"'),
     (r"(?i)\bfeatured spot\b", 'say "Recommended spot"'),
     (r"(?i)\bbecome a featured partner\b", 'the partner CTA is "Become a Recommended Partner"'),
+    (r"(?i)\bmonthly cap\b", "never mention a monthly or spending cap (Adam 10/11/2026)"),
+    (r"(?i)\bspending cap\b", "never mention a monthly or spending cap (Adam 10/11/2026)"),
 ]
+
 BANNED = [b for b in BANNED if b[1]]
 # Official program names that legitimately contain an otherwise-banned phrase.
 ALLOW_PHRASES = []
