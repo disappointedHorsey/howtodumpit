@@ -1,3 +1,9 @@
+## 11/11/2026 (Remove "no card" from partner offer wording)
+
+- Public partner pages no longer say partners need no card. "No upfront fee, no card and no contract" is now "No upfront fee and no contract." The same change is on /become-a-featured-partner/ and /for-haulers/.
+- Adam's instruction, 11/11/2026: "Get rid of the no card." Other offer wording is unchanged. Third-party software trial notes on /for-haulers/software/ are unchanged.
+- Checks: consistency_check 66 pages 0 problems; mobile_check 66 pages x 5 widths (320/375/390/412/1280) 0 FAIL 0 WARN.
+
 ## 11/11/2026 (Website click-throughs for paid partners)
 
 - Recommended and Verified Partner listings now include a clickable website link (`rel="sponsored nofollow"`). The public rate is **$1.49 per website click**. Every real click counts, including repeat taps. Automated or datacenter traffic is not billed. Clicks are not part of the first-3-free allocation; they count toward the same $25 billing threshold as calls and emails.

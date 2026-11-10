@@ -40,7 +40,7 @@ I run HowToDumpIt, a free guide that helps people in {City} get rid of junk the 
 
 As one of our first partners in {City}, you can claim our one Featured spot at the top of the page. It goes to the first hauler who says yes and stays yours for as long as you're a partner. People mostly call whoever is listed first, so the top spot is where most calls go, but the choice is yours. If someone else claims it first, you can still join as a Verified Partner with a "Call now" button.
 
-No leads, no pay. Your first 3 calls or emails are free. After that, you pay only for each call or email you get through us: $14.99 for the Recommended spot or $8 as a Verified Partner. There's no upfront fee, card or contract, we bill only once you owe at least $25, and you can cancel or pause anytime. Details: howtodumpit.com/become-a-featured-partner/
+No leads, no pay. Your first 3 calls or emails are free. After that, you pay only for each call or email you get through us: $14.99 for the Recommended spot or $8 as a Verified Partner. There's no upfront fee and no contract, we bill only once you owe at least $25, and you can cancel or pause anytime. Details: howtodumpit.com/become-a-featured-partner/
 
 Reply "top spot" or "verified" and I'll send the exact wording for your approval.
 
@@ -59,7 +59,7 @@ Founder
 
 Hi {Name},
 
-Just a quick follow-up on my note about our {City} guide ({city page URL}). The one Featured spot at the top is still open to the first hauler who says yes. Your first 3 calls or emails are free, then $14.99 each for the Recommended spot or $8 as a Verified Partner. No leads, no pay: no upfront fee, card or contract, we bill only once you owe at least $25, and you can cancel or pause anytime.
+Just a quick follow-up on my note about our {City} guide ({city page URL}). The one Featured spot at the top is still open to the first hauler who says yes. Your first 3 calls or emails are free, then $14.99 each for the Recommended spot or $8 as a Verified Partner. No leads, no pay: no upfront fee and no contract, we bill only once you owe at least $25, and you can cancel or pause anytime.
 
 More info: howtodumpit.com/become-a-featured-partner/
 
@@ -74,7 +74,7 @@ Founder
 
 ## 3. Nonprofits (ReStores, reuse centers, furniture banks): first email (paid offer, Adam's rule 10/21/2026)
 
-> **NOTE (10/21/2026):** Adam's rule: nonprofits get the same paid offer as haulers ($14.99 per call or email for the Recommended spot, $8 as a Verified Partner, first 5 calls or emails free, no upfront fee, card or contract, billed only once they owe at least $25, cancel or pause anytime). The earlier no-price nonprofit template ("Listing {Org} on our {City} disposal guide") is SUPERSEDED 10/21/2026; do not use it. Fill placeholders as in section 1; {verified detail} must be on the org's own site.
+> **NOTE (10/21/2026):** Adam's rule: nonprofits get the same paid offer as haulers ($14.99 per call or email for the Recommended spot, $8 as a Verified Partner, first 5 calls or emails free, no upfront fee and no contract, billed only once they owe at least $25, cancel or pause anytime). The earlier no-price nonprofit template ("Listing {Org} on our {City} disposal guide") is SUPERSEDED 10/21/2026; do not use it. Fill placeholders as in section 1; {verified detail} must be on the org's own site.
 
 **Subject:** Adam from HowToDumpIt: Claim the top spot on our {City} junk guide: your first 3 calls or emails are free
 
@@ -86,7 +86,7 @@ I run HowToDumpIt, a free guide that helps people in {City} get rid of junk the 
 
 We'd love to list {Org} there. As one of our first partners in {City}, you can claim our one Featured spot at the top of the page. It goes to the first partner who says yes and stays yours for as long as you're a partner. People mostly contact whoever is listed first, so the top spot is where most donors go, but the choice is yours. If someone else claims it first, you can still join as a Verified Partner with a "Call now" button.
 
-No leads, no pay. Your first 3 calls or emails are free. After that, you pay only for each call or email you get through us: $14.99 for the Recommended spot or $8 as a Verified Partner. There's no upfront fee, card or contract, we bill only once you owe at least $25, and you can cancel or pause anytime. Details: howtodumpit.com/become-a-featured-partner/
+No leads, no pay. Your first 3 calls or emails are free. After that, you pay only for each call or email you get through us: $14.99 for the Recommended spot or $8 as a Verified Partner. There's no upfront fee and no contract, we bill only once you owe at least $25, and you can cancel or pause anytime. Details: howtodumpit.com/become-a-featured-partner/
 
 Reply "top spot" or "verified" and I'll send the exact wording for your approval.
 
@@ -103,7 +103,7 @@ Founder
 
 Hi {Name},
 
-Just a quick follow-up on my note about our {City} guide ({city page URL}). The one Featured spot at the top is still open to the first partner who says yes. Your first 3 calls or emails are free, then $14.99 each for the Recommended spot or $8 as a Verified Partner. No leads, no pay: no upfront fee, card or contract, we bill only once you owe at least $25, and you can cancel or pause anytime.
+Just a quick follow-up on my note about our {City} guide ({city page URL}). The one Featured spot at the top is still open to the first partner who says yes. Your first 3 calls or emails are free, then $14.99 each for the Recommended spot or $8 as a Verified Partner. No leads, no pay: no upfront fee and no contract, we bill only once you owe at least $25, and you can cancel or pause anytime.
 
 More info: howtodumpit.com/become-a-featured-partner/
 

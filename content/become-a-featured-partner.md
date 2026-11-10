@@ -34,7 +34,7 @@ People mostly call whoever is listed first, so the top spot is where most calls 
 
 - **New partners: your first 3 calls or emails are free.**
 - **No leads, no pay.** After your free 3, you pay only for each real customer who contacts you through us, and for website clicks from a paid listing.
-- **No upfront fee, no card and no contract.**
+- **No upfront fee and no contract.**
 
 ## How Billing Works
 
