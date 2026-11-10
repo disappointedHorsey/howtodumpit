@@ -12,6 +12,19 @@ listings:
   cost: No fee listed on the City's bulk collection pages
   details: 'No need to call to schedule a mattress or box spring. Areas without automated garbage carts: set it out on your regular garbage day. Automated (City-issued cart) areas: set it out on your bulk collection day. Out by 6 a.m. on collection day, within 5 feet of the curb. If you''re throwing a mattress out because of bed bugs, wrap it in plastic. Confirm your schedule with the Collection Schedule lookup or call (904) 630-CITY (2489).'
   source: https://www.jacksonville.gov/departments/office-of-administrative-services/solid-waste/household-bulk-collection
+partners:
+- tier: basic
+  name: Epic Junk Services
+  phone: '(904) 327-3834'
+  website: https://www.epicjunkservices.com/
+  note: Family-owned, locally operated junk removal for Duval, Clay and St. Johns counties.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Duval Junk Removal
+  phone: '(904) 469-2289'
+  website: https://duvaljunkremovals.com/
+  note: Family-operated, locally owned junk removal serving Jacksonville, Orange Park and Northeast Florida.
+  source_checked: 2026-11-11
 ---
 # Junk Disposal in Jacksonville, FL: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

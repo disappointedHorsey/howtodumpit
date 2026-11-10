@@ -76,6 +76,7 @@ Each row links to the Christmas tree section on that city's junk disposal guide.
 | [San Jose, CA](/san-jose-ca/#christmas-trees) | Standing official rule | Regular collection day; cut into 5-foot pieces and set at the curb |
 | [Seattle, WA](/seattle-wa/#christmas-trees) | Last season only | Last season: free curbside or transfer-station drop-off through January 31, 2026 |
 | [Tucson, AZ](/tucson-az/#christmas-trees) | 2026-27 dates published | TreeCycle drop-off December 26, 2026-January 18, 2027, at 10 sites; no curbside collection |
+| [Virginia Beach, VA](/virginia-beach-va/#christmas-trees) | Standing official rule; last-season drop-off date | Curbside as regular yard waste on your collection day, or the City Landfill for mulch; last season's Aquarium drop-off was January 10, 2026 |
 | [Washington, DC](/washington-dc/#christmas-trees) | Last season only | Last season: DPW curbside January 2-February 28, 2026, plus three weekday drop-off sites |
 
 Local haulers who offer Christmas tree pickup in a city we cover can email [adam@howtodumpit.com](mailto:adam@howtodumpit.com).

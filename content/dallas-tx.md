@@ -76,6 +76,10 @@ Use a paid junk removal service (see above).
 
 **Household furniture** and carpet are accepted in **monthly brush & bulky** collection: up to 10 cubic yards, set out Thursday–Sunday before your collection week, just behind the curb. Same placement rules as the mattress section. ([Dallas Brush & Bulky](https://dallascityhall.com/departments/sanitation/pages/brush_and_bulky.aspx))
 
+### Outside City Limits?
+
+This guide covers the **City of Dallas** only. What matters is whether your address is inside Dallas city limits and gets City Sanitation service. **University Park** is a separate city with its own service: special pickups of furniture, appliances and other large items are booked through its 311 line or a service request form and are charged per item ($35.30 for items like a sofa, bed, washer or dryer, and $115.07 for a refrigerator, freezer or AC unit; rates effective October 1, 2026). ([City of University Park: Appliance, Furniture & Large Item Collection](https://www.uptexas.org/275/Appliance-Furniture-Large-Item-Collectio)) **Irving** collects up to four bulky items a week, such as a sofa, table or mattress, on your regular trash day; call (972) 721-8059. ([City of Irving: Brush + Bulky Waste Collection](https://irvingtx.gov/bulky-waste)) Highland Park, Garland, Mesquite, Richardson and other nearby cities set their own rules, so check your city's website. If you live in an apartment, condo or HOA community with a **private hauler**, ask your property manager or HOA first.
+
 ## Appliances (Fridges, Freezers, AC: Freon) {#appliances}
 
 Stoves, washers, dryers and water heaters are accepted curbside. **Appliances containing coolant, gasoline or other chemicals are NOT**: air conditioners, refrigerators, freezers, dehumidifiers, lawnmowers. We could not verify an official City drop-off for freon appliances. **Call 3-1-1.** ([Dallas Brush & Bulky](https://dallascityhall.com/departments/sanitation/pages/brush_and_bulky.aspx))
