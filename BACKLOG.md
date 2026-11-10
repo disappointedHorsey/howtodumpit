@@ -1,6 +1,6 @@
 # HowToDumpIt backlog
 
-Last updated: 11/09/2026 (Miami, FL guide + San Antonio Outside City Limits + Austin partner backfill + 2 bounced-email listings removed; 11/08: Colorado Springs/Philadelphia OCL/Dallas; 11/07: Raleigh/Phoenix/San Diego; earlier Mesa/Houston/San Antonio etc.)
+Last updated: 11/11/2026 (Virginia Beach guide + Dallas Outside City Limits + Jacksonville partner backfill; 11/10: Omaha/San Diego OCL/Columbus; 11/09: Miami, FL guide + San Antonio Outside City Limits + Austin partner backfill + 2 bounced-email listings removed; 11/08: Colorado Springs/Philadelphia OCL/Dallas; 11/07: Raleigh/Phoenix/San Diego; earlier Mesa/Houston/San Antonio etc.)
 
 ## Done
 - [x] Columbus, OH mattress disposal
@@ -169,3 +169,10 @@ Top 15 audit: all 15 guides live (HTTP 200). No free Basic Listings on any of th
 - [ ] Omaha donation listing: Habitat for Humanity of Omaha ReStores transferred to Thrift World (omahahabitatrestore.org); not listed tonight. Consider Thrift World after checking its own site for a published email.
 - [ ] Columbus prospect skipped: First Due Services (firstdue-junkremoval.com) publishes firstduejunkremoal.centraloh@gmail.com (apparent typo "remoal"); not listed until a correct, usable address is confirmed on its site.
 - [ ] Process: repository commits should go through a Cursor cloud agent per the source-control skill; the 11/10 page commit cbbb37d was pushed directly from the box (see STATUS).
+
+## Added 11/11/2026 (nightly Virginia Beach)
+- [x] Virginia Beach, VA guide (11/11/2026, commit 7f9a0e4; census.gov Vintage 2025 #43, 453,737). Next new city: Long Beach, CA (#44, 450,469), then Oakland, CA (#45), Minneapolis, MN (#46).
+- [ ] Virginia Beach unverified: whether mattresses/box springs are accepted by name at bulky pickup (page covers beds; not on not-eligible list; City Code Sec. 31-28 reportedly names mattresses but municode.com is Cloudflare-blocked, read via search index only, not cited); bulky lead time conflict (bulky page 3 days vs. Trash & Recycling page two weeks); Landfill address conflict (1989 vs. 1985 Jake Sears Road); dried paint in black cart (HHW page yes vs. trash page lists paint cans as not allowed); any landfill fee for residents (none listed); bed-bug mattress rule (none found); which multifamily properties get City curbside service (no official page found; page says ask property manager); 2027 Aquarium E-Cycling/tree event dates; holiday-schedule page returned 500 to curl. shrhabitat.org returns 202 bot challenge to curl (read via WebFetch). Prospects for later: Hill Will Junk Removal (Chesapeake-based, serves Virginia Beach; Gmail), Virginia Beach Junk Removal Pros (looked like a lead-generation site; skipped).
+- [ ] Dallas: dallascityhall.com refused connections from the box (curl, WebFetch and Playwright) on 11/11/2026; Dallas guide body not rechecked, verified date left at 2026-11-08. Recheck next run.
+- [x] Jacksonville top-city partner backfill (11/11/2026): Epic Junk Services, Duval Junk Removal. Skipped: Bring That Junk Removal (site also shows an unrelated locksmith email, Info@mobilelocksmithshop.com; unclear which is correct), Duclay Junk Removal (no email on site), First Coast Habitat ReStore (no email on site), JDog Jacksonville (already in the nudge cycle; site returned a bot challenge, not re-verified tonight). Next top-city partner: Fort Worth, then San Jose, Charlotte.
+- OUTSIDE CITY LIMITS backfill: Dallas done 11/11/2026. Next: Fort Worth, then Jacksonville, Austin, San Jose.

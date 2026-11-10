@@ -261,3 +261,14 @@ Gmail verified first (all mail incl. spam/trash): no replies and no prior FU2 fo
 | Greater Albuquerque Habitat for Humanity ReStore | Albuquerque, NM | info@habitatabqrr.org | 1a1b2fea27f147e2 |
 
 
+
+## Virginia Beach + Jacksonville v2 pitches PREPARED 11/11/2026 (nightly; QUEUED FOR DAILY APPROVAL, NOT SENT)
+Drafts with exact bodies: /workspace/company/outreach/virginia-beach-jacksonville-pitches-11-11-2026.md. Prior-contact check (Gmail all mail incl. spam/trash + records): none. Basic Listings LIVE first (commit 7f9a0e4, HTTP 200). Nothing sent.
+
+| Org | City | First name (source) | To | Verified location / source | Status |
+|---|---|---|---|---|---|
+| The Junk Uncles | Virginia Beach, VA | – | thejunkuncles@gmail.com | Service areas Virginia Beach, Norfolk, Chesapeake; 757-448-8282 (junkunk.com/about-us) | Queued, not sent |
+| JDog Junk Removal & Hauling Virginia Beach | Virginia Beach, VA | – | vbjunkremoval@jdog.com | Virginia Beach and Hampton Roads; (757) 618-8164 (jdogvb.com/contact-us) | Queued, not sent |
+| Habitat for Humanity of South Hampton Roads ReStore | Virginia Beach, VA | – | donationpickups@shrhabitat.org | Virginia Beach ReStore, 955 Providence Square, VA 23464; 757-474-0069 (shrhabitat.org/discover/restores/) | Queued, not sent |
+| Epic Junk Services | Jacksonville, FL | Tre (owner Tre Waters, own site About page) | tre@epicjunkservices.com | Duval, Clay and St. Johns counties; 904.327.3834 (epicjunkservices.com/about) | Queued, not sent |
+| Duval Junk Removal | Jacksonville, FL | – | duvaljunk904@gmail.com | Located in Jacksonville; Jacksonville, Orange Park, NE Florida; (904) 469-2289 (duvaljunkremovals.com) | Queued, not sent |
