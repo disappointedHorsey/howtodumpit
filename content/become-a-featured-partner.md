@@ -1,6 +1,6 @@
 ---
 title: 'Become a Recommended Partner: List Your Hauling Business or Charity'
-description: 'Free Basic Listings (name, phone and website) for legitimate local haulers and charities in our city guides, plus Verified Partner ($8 per call or email) and the exclusive Recommended spot ($14.99 per call or email). No leads, no pay, and new partners get their first 3 calls or emails free.'
+description: 'Free Basic Listings (name, phone and website) for legitimate local haulers and charities in our city guides, plus Verified Partner ($8 per call or email) and the exclusive Recommended spot ($14.99 per call or email). Paid partners also get a clickable website link at $1.49 per click. No leads, no pay, and new partners get their first 3 calls or emails free.'
 short: Become a Recommended Partner
 ---
 # Become a Recommended Partner
@@ -11,13 +11,14 @@ HowToDumpIt exists to help people get rid of junk the right way. That means dona
 
 ### 1. Basic Listing: Free
 
-Any legitimate local junk removal business, hauler, cleanout crew, reuse center or charity that serves one of our [cities](/#cities) can get a Basic Listing at **no cost**: your **name, phone and website**. There's no catch and no obligation to upgrade. Free Basic Listings are labeled **Not verified** and appear as compact secondary listings below any Recommended or Verified Partners.
+Any legitimate local junk removal business, hauler, cleanout crew, reuse center or charity that serves one of our [cities](/#cities) can get a Basic Listing at **no cost**: your **name, phone and website**. The website is shown as plain text, not as a clickable link. There's no catch and no obligation to upgrade. Free Basic Listings are labeled **Not verified** and appear as compact secondary listings below any Recommended or Verified Partners.
 
 ### 2. Verified Partner: $8 per Call or Email
 
 - A **"Call Now" button**
 - **Your own tracking phone number** on our page that forwards to your real phone
 - A **quote form** so customers can email you a request
+- A **clickable link to your website**
 - You pay **$8 for each tracked call (30 seconds or more) or email** we send you
 
 ### 3. Recommended Partner: $14.99 per Call or Email
@@ -32,15 +33,16 @@ People mostly call whoever is listed first, so the top spot is where most calls 
 ## Getting Started
 
 - **New partners: your first 3 calls or emails are free.**
-- **No leads, no pay.** After your free 3, you pay only for each real customer who contacts you through us.
+- **No leads, no pay.** After your free 3, you pay only for each real customer who contacts you through us, and for website clicks from a paid listing.
 - **No upfront fee, no card and no contract.**
 
 ## How Billing Works
 
 - **Calls count only at 30 seconds or more**, so quick hang-ups and wrong numbers are never billed.
-- **We bill only once you owe at least $25.**
+- **Website clicks from Recommended and Verified listings are $1.49 each.** Every real click counts, including repeat taps. Automated or datacenter traffic is not billed.
+- **We bill only once you owe at least $25.** Calls, emails and website clicks all count toward that balance.
 - **Pause or cancel anytime.**
-- **A monthly list of every call and email** we sent you, so you can see exactly what you're paying for.
+- **A monthly list of every call, email and website click**, including the time of each click, so you can see exactly what you're paying for.
 
 It's a simple way to help your neighbors dispose of things responsibly, keep usable items out of the landfill, and support a local business: yours.
 

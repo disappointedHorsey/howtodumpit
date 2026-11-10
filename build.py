@@ -87,6 +87,8 @@ def partners_html(items):
     Paid tiers (Recommended, Verified Partner) are large prominent cards and sort first.
     Free Basic Listings (companies and charities) are compact secondary "after runs"
     below any paid cards (Adam, 11/10/2026). Official drop-off `listings:` are unchanged.
+    Paid tiers get a clickable website link (rel="sponsored nofollow"). Free listings
+    show the website as plain text, never as a link (Adam, 11/11/2026).
     """
     if not items: return ""
     ordered = sorted(
@@ -130,7 +132,7 @@ def partners_html(items):
             if website:
                 href = html.escape(website, quote=True)
                 label = html.escape(_website_label(website))
-                bits.append(f'<p class="partner-web"><a href="{href}" rel="nofollow" target="_blank">{label}</a></p>')
+                bits.append(f'<p class="partner-web"><a href="{href}" rel="sponsored nofollow" target="_blank">{label}</a></p>')
         else:
             meta = []
             if phone:
@@ -138,9 +140,9 @@ def partners_html(items):
                 phone_esc = html.escape(phone)
                 meta.append(f'<span class="partner-phone"><a href="{tel}">{phone_esc}</a></span>')
             if website:
-                href = html.escape(website, quote=True)
+                # Free listings: domain as plain text, never a clickable link (Adam, 11/11/2026).
                 label = html.escape(_website_label(website))
-                meta.append(f'<span class="partner-web"><a href="{href}" rel="nofollow" target="_blank">{label}</a></span>')
+                meta.append(f'<span class="partner-web">{label}</span>')
             if meta:
                 sep = '<span class="partner-meta-sep" aria-hidden="true"> · </span>'
                 bits.append('<p class="partner-meta">' + sep.join(meta) + "</p>")

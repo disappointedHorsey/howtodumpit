@@ -1,3 +1,11 @@
+## 11/11/2026 (Website click-throughs for paid partners)
+
+- Recommended and Verified Partner listings now include a clickable website link (`rel="sponsored nofollow"`). The public rate is **$1.49 per website click**. Every real click counts, including repeat taps. Automated or datacenter traffic is not billed. Clicks are not part of the first-3-free allocation; they count toward the same $25 billing threshold as calls and emails.
+- Free Basic Listings show the website as plain text, with no clickable link.
+- Copy updated on /become-a-featured-partner/ and /for-haulers/. Click tracking (`/go/<partner-id>`) is designed in the company payments plan and is not live yet; paid links still go to the partner website directly.
+- CSS cache buster ?v=20261111.
+- Checks: consistency_check 66 pages 0 problems; mobile_check 66 pages x 5 widths (320/375/390/412/1280) 0 FAIL 0 WARN.
+
 ## 11/11/2026 (Nightly: Virginia Beach, VA guide; Dallas Outside City Limits; Jacksonville partner backfill)
 
 - New guide /virginia-beach-va/ (census.gov Vintage 2025 SUB-IP-EST2025-ANNRNK rank #43, 453,737; re-downloaded 11/11): City bulky/large item pickup for homes with City curbside services (VB311 online, 757-385-4650, wastemgt@vbgov.com or 3024 Holland Road; lead-time conflict 3 days vs. two weeks shown; beds taken apart; fridges/freezers empty with shelves and doors removed; say whether freon was removed; not-eligible list); no separate charge listed ($30.55/month Waste Collection and Disposal fee); Landfill & Resource Recovery Center, 1989 Jake Sears Road (address conflict with 1985 shown), Tuesday-Saturday 7-4:30, proof of residency, residential vehicles only; free e-cycling (no CRT) and scrap metal; free HHW (5 gal / 75 lb per visit; freon appliances accepted); dried-paint rule conflict shown (HHW page vs. trash page); apartments/condos with private haulers; Christmas trees as yard waste; Outside City Limits (Chesapeake bulk, Norfolk bulk, HOAs). Sources: pw.virginiabeach.gov, virginiabeach.gov, vb311.virginiabeach.gov, cityofchesapeake.net, norfolk.gov, epa.gov. Three free Basic Listings: The Junk Uncles, JDog Junk Removal & Hauling Virginia Beach, Habitat for Humanity of South Hampton Roads ReStore. verified: 2026-11-11. Christmas tree hub row added.

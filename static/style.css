@@ -87,7 +87,8 @@ main{padding-top:18px;padding-bottom:40px}
 .partner-basic .partner-meta-sep{color:var(--muted)}
 .partner-basic .partner-note{margin:2px 0 0;font-size:.85rem;color:var(--muted)}
 .partner-basic .partner-checked{margin:2px 0 0;font-size:.75rem}
-.partner-basic .partner-phone a,.partner-basic .partner-web a{display:inline-block;padding:4px 0}
+.partner-basic .partner-phone a{display:inline-block;padding:4px 0}
+.partner-basic .partner-web{color:var(--muted)}
 
 @media (min-width:480px){
   .partner-cta .btn{width:auto;min-width:12rem}
