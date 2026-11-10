@@ -1,3 +1,11 @@
+## 11/10/2026 (Free listings as compact after runs)
+
+- Free (non-paying) company and charity Basic Listings on city guides now use a compact secondary "after runs" treatment: smaller type, tighter rows, and less real estate, always below any Recommended or Verified Partner cards. Paid Recommended and Verified Partner listings keep the large, prominent card treatment.
+- Official city drop-off cards are unchanged. The **Not verified** label stays on every free listing. Existing paid-placement and affiliate disclosures are unchanged. The Become a Recommended Partner CTA stays in the footer and on /become-a-featured-partner/.
+- Applied through shared CSS classes and `partners_html()` in the generator, so every current and future city partner or charity card inherits the rule. There are no paying partners today; pages with only compact free listings still read as a complete directory section.
+- CSS cache buster ?v=20261110b.
+- Checks: consistency_check 65 pages 0 problems; mobile_check 65 pages x 5 widths (320/375/390/412/1280) 0 FAIL 0 WARN.
+
 ## 11/10/2026 (Recommended rate $14.99; first 3 free)
 
 - Recommended spot price is now **$14.99** per tracked call (30 seconds or more) or email (was $12). Verified Partner remains **$8** per call or email. The $25 billing minimum is unchanged.

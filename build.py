@@ -82,13 +82,18 @@ def _website_label(url):
     return url
 
 def partners_html(items):
-    """Render Local Junk Removal & Donation Partners cards from front-matter `partners:`."""
+    """Render Local Junk Removal & Donation Partners from front-matter `partners:`.
+
+    Paid tiers (Recommended, Verified Partner) are large prominent cards and sort first.
+    Free Basic Listings (companies and charities) are compact secondary "after runs"
+    below any paid cards (Adam, 11/10/2026). Official drop-off `listings:` are unchanged.
+    """
     if not items: return ""
     ordered = sorted(
         items,
         key=lambda it: (PARTNER_TIER_ORDER.get(str(it.get("tier", "basic")).lower(), 99),
                         str(it.get("name", "")).lower()))
-    rows = []
+    paid, free = [], []
     for it in ordered:
         tier = str(it.get("tier", "basic")).lower().strip()
         if tier not in PARTNER_TIER_ORDER:
@@ -115,30 +120,50 @@ def partners_html(items):
         elif public_tier == "basic":
             badge = '<p class="partner-badge"><span class="partner-unverified-label">Not verified</span></p>'
         bits = [f'<li class="{classes}">{badge}<h3>{name}</h3>']
-        if phone:
-            tel = html.escape(_tel_href(phone), quote=True)
-            phone_esc = html.escape(phone)
-            if public_tier in ("verified", "recommended"):
+        if public_tier in ("verified", "recommended"):
+            if phone:
+                tel = html.escape(_tel_href(phone), quote=True)
+                phone_esc = html.escape(phone)
                 # Phone as plain text; Call Now is the single tel: link (avoids dup-href).
                 bits.append(f'<p class="partner-phone">{phone_esc}</p>')
                 bits.append(f'<p class="partner-cta"><a class="btn" href="{tel}">Call Now</a></p>')
-            else:
-                bits.append(f'<p class="partner-phone"><a href="{tel}">{phone_esc}</a></p>')
-        if website:
-            href = html.escape(website, quote=True)
-            label = html.escape(_website_label(website))
-            bits.append(f'<p class="partner-web"><a href="{href}" rel="nofollow" target="_blank">{label}</a></p>')
+            if website:
+                href = html.escape(website, quote=True)
+                label = html.escape(_website_label(website))
+                bits.append(f'<p class="partner-web"><a href="{href}" rel="nofollow" target="_blank">{label}</a></p>')
+        else:
+            meta = []
+            if phone:
+                tel = html.escape(_tel_href(phone), quote=True)
+                phone_esc = html.escape(phone)
+                meta.append(f'<span class="partner-phone"><a href="{tel}">{phone_esc}</a></span>')
+            if website:
+                href = html.escape(website, quote=True)
+                label = html.escape(_website_label(website))
+                meta.append(f'<span class="partner-web"><a href="{href}" rel="nofollow" target="_blank">{label}</a></span>')
+            if meta:
+                sep = '<span class="partner-meta-sep" aria-hidden="true"> · </span>'
+                bits.append('<p class="partner-meta">' + sep.join(meta) + "</p>")
         if note:
             bits.append(f'<p class="partner-note">{html.escape(note)}</p>')
         if checked:
             bits.append(f'<p class="partner-checked">Checked {html.escape(us_date(checked))}</p>')
         bits.append("</li>")
-        rows.append("".join(bits))
+        row = "".join(bits)
+        if public_tier in ("verified", "recommended"):
+            paid.append(row)
+        else:
+            free.append(row)
+    lists = ""
+    if paid:
+        lists += '<ul class="partners-list partners-list-paid">' + "".join(paid) + "</ul>"
+    if free:
+        lists += '<ul class="partners-list partners-list-free">' + "".join(free) + "</ul>"
     return (
         '<section class="partners" aria-labelledby="partners-h">'
         '<h2 id="partners-h">Local Junk Removal &amp; Donation Partners</h2>'
         f'<p class="partner-disclaimer">{PARTNER_DISCLAIMER}</p>'
-        '<ul class="partners-list">' + "".join(rows) + "</ul></section>"
+        + lists + "</section>"
     )
 
 AFFILIATE_CTA = (

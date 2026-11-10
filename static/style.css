@@ -51,14 +51,20 @@ main{padding-top:18px;padding-bottom:40px}
 .listing{background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:16px;box-shadow:0 1px 2px rgba(17,17,17,.04);min-width:0}
 .listing p{margin:.35em 0}.src{font-size:.85rem;white-space:nowrap;display:inline-block;padding:4px 0}
 
-/* Partner listing cards (Basic / Verified / Recommended) on city guides */
+/* Partner listing cards on city guides.
+   Paid tiers (Recommended, Verified Partner) get large, prominent cards.
+   Free Basic Listings (companies and charities) are compact secondary "after runs"
+   below any paid cards (Adam, 11/10/2026). Official drop-off `.listing` cards are unchanged. */
 .content ul.partners-list{padding-left:0}
 .partners{margin:2.2em 0 0}
 .partners h2{margin-top:0}
 .partner-disclaimer{font-size:.92rem;color:var(--muted);margin:0 0 14px}
 .partners-list{list-style:none;padding:0;display:grid;gap:14px}
+.partners-list-free{gap:8px}
+.partners-list-paid + .partners-list-free{margin-top:16px}
 .partner{background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:16px;box-shadow:0 1px 2px rgba(17,17,17,.04);min-width:0}
 .partner-recommended{border:2px solid var(--ink);box-shadow:0 4px 0 0 var(--yellow);background:#fffdf3}
+.partner-verified{border:1.5px solid var(--ink);box-shadow:0 2px 8px rgba(17,17,17,.08)}
 .partner-badge{margin:0 0 8px}
 .partner-recommended-label{display:inline-block;background:var(--yellow);color:var(--ink);border:2px solid var(--ink);border-radius:8px;padding:4px 10px;font-weight:800;font-size:.85rem;letter-spacing:.01em}
 .partner-exclusive{margin:0 0 6px;font-weight:700;font-size:.95rem}
@@ -70,12 +76,26 @@ main{padding-top:18px;padding-bottom:40px}
 .partner-cta{margin:12px 0 0}
 .partner-cta .btn{width:100%}
 .partner p,.partner-recommended-label,.partner-unverified-label{overflow-wrap:anywhere}
+
+/* Free Basic Listings: compact secondary rows, smaller type, less real estate */
+.partner-basic{padding:8px 10px;border-radius:8px;box-shadow:none;background:#f7f7f7;font-size:.9rem;line-height:1.45}
+.partner-basic .partner-badge{display:inline;margin:0 8px 0 0}
+.partner-basic .partner-unverified-label{font-size:.7rem;padding:1px 6px;border-radius:4px;vertical-align:middle}
+.partner-basic h3{display:inline;font-size:.98rem;font-weight:600;margin:0;line-height:1.3}
+.partner-basic .partner-meta{margin:2px 0 0;font-size:.88rem}
+.partner-basic .partner-phone,.partner-basic .partner-web{margin:0}
+.partner-basic .partner-meta-sep{color:var(--muted)}
+.partner-basic .partner-note{margin:2px 0 0;font-size:.85rem;color:var(--muted)}
+.partner-basic .partner-checked{margin:2px 0 0;font-size:.75rem}
+.partner-basic .partner-phone a,.partner-basic .partner-web a{display:inline-block;padding:4px 0}
+
 @media (min-width:480px){
   .partner-cta .btn{width:auto;min-width:12rem}
 }
 @media (min-width:720px){
-  .partner{padding:18px 20px}
-  .partner-recommended{padding:20px 22px}
+  .partner-verified{padding:20px 22px}
+  .partner-recommended{padding:22px 24px}
+  .partner-basic{padding:8px 12px}
 }
 
 /* Affiliate / call / partner buttons: big, full width on phones */
