@@ -17,6 +17,32 @@ listings:
   cost: For District residents with proof of residency (hours and vehicle limits apply)
   details: '4900 John McCormack Rd NE. Accepts mattresses and box springs (plastic wrap not required for drop-off), furniture, major appliances and other acceptable bulk. Resident hours typically Tue–Fri 10 a.m.–2 p.m. and Sat 7 a.m.–2 p.m. Bring DC ID, or out-of-state photo ID plus a recent utility bill or lease/deed in the same name. Confirm current hours on the DPW transfer-station page before you go.'
   source: https://dpw.dc.gov/node/1652581
+partners:
+- tier: basic
+  name: Habitat for Humanity of Washington, D.C. and Northern Virginia ReStores
+  phone: '(703) 360-6700'
+  website: https://www.habitatdcnova.org/restore/restore-locations/
+  note: Alexandria ReStore at 869 South Pickett Street, Alexandria, VA; Chantilly ReStore also listed, (703) 953-3747.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Junk Guys DC
+  phone: '(202) 702-6891'
+  website: https://junkguysdc.com/
+  note: Junk removal based at 221 35th St. NE, Washington, DC, serving the District.
+  source_checked: 2026-11-11
+- tier: basic
+  name: DC Junky Removal
+  phone: '(202) 202-9033'
+  website: https://dcjunkyremoval.com/
+  note: Junk removal in Washington, DC, at 416 Florida Ave. NW.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Stick & Moves
+  phone: '(301) 971-0439'
+  website: https://stickandmovesllc.com/locations/washingtondc/
+  note: Locally owned junk removal serving Washington, DC and the surrounding area.
+  source_checked: 2026-11-11
+
 ---
 # Junk Disposal in Washington, DC: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

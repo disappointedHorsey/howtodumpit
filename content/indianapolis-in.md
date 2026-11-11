@@ -22,6 +22,32 @@ listings:
   cost: Based on volume (rates not shown on the City page; check the landfill's pricing)
   details: '2561 Kentucky Ave. Monday to Friday, 5 a.m. to 7 p.m.; Saturday, 5 a.m. to 3 p.m.; closed Sunday.'
   source: https://www.indy.gov/activity/trash-101
+partners:
+- tier: basic
+  name: Fire Dawgs Junk Removal
+  phone: '(317) 291-3294'
+  website: https://firedawgsjunkremoval.com/
+  note: Indianapolis location at 980 Western Dr., Indianapolis, IN 46241.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Greater Indy Habitat for Humanity ReStores
+  phone: '(317) 969-8790'
+  website: https://indyhabitat.org/restore/
+  note: West Washington ReStore at 4129 W. Washington St., Indianapolis; donation line (317) 969-8791.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Indy Trash Guy
+  phone: '(317) 533-9541'
+  website: https://indytrashguy.com/indianapolis-indiana
+  note: Veteran-owned junk removal serving Indianapolis and Central Indiana.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Yoder's Junk Removal
+  phone: '(812) 593-4410'
+  website: https://yodersjunkremoval.com/
+  note: Indianapolis-based, locally owned junk removal serving the Indianapolis area.
+  source_checked: 2026-11-11
+
 ---
 # Junk Disposal in Indianapolis, IN: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

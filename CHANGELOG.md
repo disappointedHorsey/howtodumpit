@@ -1,3 +1,13 @@
+## 11/11/2026 (Fort Worth, Indianapolis, Portland, San Jose and Washington, D.C. Basic Listings)
+
+- Added four free Basic Listings near the top of each of /fort-worth-tx/, /indianapolis-in/, /portland-or/, /san-jose-ca/ and /washington-dc/. All verified on each organization's own website on 11/11/2026 (name, phone, and service in that city). No emails were sent.
+- Fort Worth: Cowtown Junkers, Green Source Junk Removal, Herrera Hauling, and Trinity Habitat for Humanity ReStores. Fort Worth Junk Removal was not added; its site did not publish a phone number in the fetched content.
+- Indianapolis: Fire Dawgs Junk Removal, Greater Indy Habitat for Humanity ReStores, Indy Trash Guy, and Yoder's Junk Removal. Better Half Hauling was not added; its site still presented a bot-check wall after one retry.
+- Portland: Free Geek, Habitat for Humanity Portland Region ReStores, ReBuilding Center, and Slam Dunk Junk.
+- San Jose: Goodwill of Silicon Valley, Habitat for Humanity East Bay/Silicon Valley ReStore San Jose, Junk Wizard, and Zero Waste Silicon Valley. Bison Junk Removal was not added; its site still presented a bot-check wall after one retry.
+- Washington, D.C.: DC Junky Removal, Habitat for Humanity of Washington, D.C. and Northern Virginia ReStores, Junk Guys DC, and Stick & Moves. Nova Junk was kept as a spare (its DC page publishes only a toll-free 877 number).
+- Checks: consistency_check 66 pages 0 problems; mobile_check 66 pages x 5 widths (320/375/390/412/1280) 0 FAIL 0 WARN.
+
 ## 11/11/2026 (Las Vegas, Oklahoma City, San Francisco and Seattle Basic Listings)
 
 - Added four free Basic Listings near the top of each of /las-vegas-nv/, /oklahoma-city-ok/, /san-francisco-ca/ and /seattle-wa/. All verified on each organization's own website on 11/11/2026 (name, phone, and service in that city). No emails were sent.

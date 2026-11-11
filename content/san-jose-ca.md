@@ -17,6 +17,32 @@ listings:
   cost: No additional cost for the old mattress (delivery or setup fees for the new product may still apply)
   details: 'California law requires the retailer delivering your new mattress to offer to take back your old one. The retailer has up to 30 days to take it back and may refuse a mattress that poses a health or safety risk. Bye Bye Mattress (the state program) also lists no-cost drop-off locations.'
   source: https://byebyemattress.com/california/
+partners:
+- tier: basic
+  name: Goodwill of Silicon Valley
+  phone: '(408) 998-5774'
+  website: https://goodwillsv.org/sustainability/mattress-recycling/
+  note: Mattress recycling at the Recycling and Sustainability Center, 1080 N. 7th St., San Jose.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Habitat for Humanity East Bay/Silicon Valley ReStore San Jose
+  phone: '(408) 929-2203'
+  website: https://restore.habitatebsv.org/bay-area-restores/san-jose
+  note: ReStore San Jose at 1608 Las Plumas Ave., San Jose, in the Environmental Innovation Center.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Junk Wizard
+  phone: '(408) 832-3933'
+  website: https://www.junk-wizard.com/
+  note: Locally owned junk removal at 6017 Snell Avenue, San Jose, serving San Jose and nearby cities.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Zero Waste Silicon Valley
+  phone: '(408) 283-7171'
+  website: https://zerowastesv.org/materials/e-waste
+  note: A program of the San Jose Conservation Corps; e-waste drop-off at 1560 Berger Dr., San Jose.
+  source_checked: 2026-11-11
+
 ---
 # Junk Disposal in San Jose, CA: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

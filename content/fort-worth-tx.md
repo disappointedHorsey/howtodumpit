@@ -17,6 +17,32 @@ listings:
   cost: No fee stated for bulk waste from residents with a City solid waste account
   details: 'Brennan (2400 Brennan Ave.), Southeast (5150 Martin Luther King Fwy.), Old Hemphill Road (6260 Old Hemphill Rd.) and Hillshire/North Service Center (301 Hillshire Dr.). Tuesday to Friday, 8 a.m. to 5 p.m.; Saturday, 8 a.m. to noon; closed Sunday, Monday and City holidays. Bring a current (within six months) water bill showing sanitation charges and a matching driver''s license. Unload it yourself. Single-axle trailers up to 8 feet long only; no box trucks.'
   source: https://www.fortworthtexas.gov/departments/environmental-services/solidwaste/dropoff
+partners:
+- tier: basic
+  name: Cowtown Junkers
+  phone: '(817) 501-3759'
+  website: https://cowtownjunkers.com/
+  note: Fort Worth-based, family-run junk removal serving Fort Worth and the DFW area.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Green Source Junk Removal
+  phone: '(682) 367-8335'
+  website: https://greensourcejunk.com/
+  note: Family-owned junk removal based in Fort Worth, serving Fort Worth and surrounding DFW communities.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Herrera Hauling
+  phone: '(817) 204-9528'
+  website: https://herrerahauling.net/
+  note: Family-owned junk removal and house cleanouts serving Fort Worth and Tarrant County.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Trinity Habitat for Humanity ReStores
+  phone: '(817) 626-5000'
+  website: https://trinityhabitat.org/restores
+  note: ReStore North Fort Worth at 4433 River Oaks Blvd.; ReStore South Fort Worth at 3420 S. Grove St., (817) 920-9203.
+  source_checked: 2026-11-11
+
 ---
 # Junk Disposal in Fort Worth, TX: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

@@ -17,6 +17,32 @@ listings:
   cost: '$18 pickup fee per trip, plus $14 (twin/single or box spring only), $21 (queen/full) or $29 (king) per mattress; box spring included with a mattress'
   details: 'For houses, duplexes, triplexes and fourplexes in Portland. Rates are set by the City; your garbage company decides each item''s category. Contact your garbage company for a quote and date; it must pick up within seven days of your request. Set items out by 6:00 a.m. on pickup day and not more than 24 hours early. Renters ask their landlord; apartment residents ask their property manager.'
   source: https://www.portland.gov/bps/garbage-recycling/bulky-waste
+partners:
+- tier: basic
+  name: Free Geek
+  phone: '(503) 232-9350'
+  website: https://www.freegeek.org/
+  note: Portland nonprofit at 1700 SE Grand Ave. that accepts technology donations and offers paid donation pickups in the Portland metro.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Habitat for Humanity Portland Region ReStores
+  phone: '(503) 283-6247'
+  website: https://pdxrestore.org/donate/
+  note: Portland ReStore at 10445 SE Cherry Blossom Dr.; donation team at (971) 229-8888.
+  source_checked: 2026-11-11
+- tier: basic
+  name: ReBuilding Center
+  phone: '(503) 331-9291'
+  website: https://www.rebuildingcenter.org/
+  note: Portland nonprofit reuse store for used building materials at 3625 N. Mississippi Ave.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Slam Dunk Junk
+  phone: '(503) 503-7526'
+  website: https://slamdunkjunk.net/
+  note: Local junk removal based in Clackamas, with Portland as a primary service city.
+  source_checked: 2026-11-11
+
 ---
 # Junk Disposal in Portland, OR: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 
