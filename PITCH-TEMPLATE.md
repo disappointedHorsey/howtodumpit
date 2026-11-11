@@ -37,7 +37,9 @@ Subject: Adam from HowToDumpIt: [City]'s Recommended spot is open
 
 Hi [Name],
 
-I'm Adam, founder of HowToDumpIt, a city-by-city junk disposal guide, and we've just added [City]. People are often confused about where to get rid of their junk, so our site does one thing, and does it very well: it finds them outfits like yours! [Company] is already on our [City] page as a free Basic Listing: howtodumpit.com/[city-slug]/
+I'm Adam, founder of HowToDumpIt, a city-by-city junk disposal guide, and we've just added [City]. People are often confused about where to get rid of their junk, so our site does one thing, and does it very well: it finds them outfits like yours!
+
+[Company] is already on our [City] page as a free Basic Listing: howtodumpit.com/[city-slug]/
 
 You're sharing that page with several other junk removal companies, and customers usually call whoever they see first. There is one exclusive Recommended spot at the very top of the page, and holding it gets 12 times the calls of a standard listing. There's only one per city, and [City]'s is open right now.
 
