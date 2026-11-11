@@ -17,6 +17,31 @@ listings:
   cost: Included in the monthly residential trash fee
   details: 'Furniture is on the accepted list; mattresses aren''t named, so confirm with Customer Service at 520-791-3171 before you set one out. Up to 10 cubic yards per household.'
   source: https://www.tucsonaz.gov/Departments/Environmental-Services/Residential-Services/Brush-and-Bulky
+partners:
+- tier: basic
+  name: Tucson Junk Co.
+  phone: '(520) 349-6629'
+  website: https://tucsonjunk.co/
+  note: Locally owned junk removal serving Tucson and Pima County, operated by an off-duty firefighter crew.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Haul It Off Junk Removal
+  phone: '(520) 808-2268'
+  website: https://haulitoffjunkaz.com/
+  note: Family-run, locally owned junk removal serving Tucson and Pima County.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Goodwill of Southern Arizona
+  phone: '(520) 623-5174'
+  website: https://goodwillsouthernaz.org/donate/donation-centers/
+  note: Donation centers across Southern Arizona, including Tucson; home pickup is offered. Office at 1940 E. Silverlake, Suite 405, Tucson.
+  source_checked: 2026-11-11
+- tier: basic
+  name: The Salvation Army Tucson Family Thrift Store
+  phone: '(520) 293-1961'
+  website: https://www.salvationarmytucson.org/family-thrift-stores
+  note: Tucson family thrift store and donation center; drop-off during published store hours.
+  source_checked: 2026-11-11
 ---
 # Junk Disposal in Tucson, AZ: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

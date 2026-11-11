@@ -41,6 +41,12 @@ partners:
   website: https://www.chuckyourjunk.com/
   note: Locally family-owned crew serving greater Sacramento from Roseville to Elk Grove; recycles and donates items as needed.
   source_checked: 2026-11-02
+- tier: basic
+  name: Sac Junk
+  phone: '(916) 716-2108'
+  website: https://www.sacjunk.com/
+  note: Locally owned and operated Sacramento junk removal company.
+  source_checked: 2026-11-11
 ---
 # Junk Disposal in Sacramento, CA: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

@@ -36,6 +36,12 @@ partners:
   website: https://www.nolensjunk.com/
   note: Eco-friendly crew based in Feasterville; serves Philadelphia County plus Bucks and Montgomery.
   source_checked: 2026-11-03
+- tier: basic
+  name: Fully Loaded Junk Removal
+  phone: '(215) 515-6894'
+  website: https://fullyloadedtrucks.com/
+  note: Family-owned and operated junk removal based in Philadelphia.
+  source_checked: 2026-11-11
 ---
 # Junk Disposal in Philadelphia, PA: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

@@ -36,6 +36,12 @@ partners:
   website: https://www.sandiegohabitat.org/what-can-i-donate-to-the-restore/
   note: Countywide ReStores accepting furniture, appliances and building materials; donation pickup available.
   source_checked: 2026-11-07
+- tier: basic
+  name: Crisan Junk Removal
+  phone: '(619) 500-9920'
+  website: https://crisanjunkremoval.com/
+  note: Family-owned and operated junk removal serving San Diego County.
+  source_checked: 2026-11-11
 ---
 # Junk Disposal in San Diego, CA: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

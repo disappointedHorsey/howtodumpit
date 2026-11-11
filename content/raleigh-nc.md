@@ -36,6 +36,12 @@ partners:
   website: https://www.trianglerestores.org/raleigh
   note: Flagship Habitat Wake ReStore at 2420 N. Raleigh Blvd.; accepts furniture, appliances and building materials.
   source_checked: 2026-11-07
+- tier: basic
+  name: Oak City Hauling
+  phone: '(984) 983-8500'
+  website: https://oakcityhauling.com/
+  note: Locally owned junk removal serving Raleigh and the Triangle.
+  source_checked: 2026-11-11
 ---
 # Junk Disposal in Raleigh, NC: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

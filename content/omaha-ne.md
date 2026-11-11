@@ -36,6 +36,12 @@ partners:
   website: https://www.kigerjunkremoval.com/
   note: Locally owned junk removal for homes and businesses in Omaha and surrounding areas.
   source_checked: 2026-11-10
+- tier: basic
+  name: Millard Junk Removal
+  phone: '(402) 881-0321'
+  website: https://www.millardjunkremoval.com/
+  note: Locally owned and operated junk removal serving Omaha and the surrounding metro.
+  source_checked: 2026-11-11
 ---
 # Junk Disposal in Omaha, NE: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

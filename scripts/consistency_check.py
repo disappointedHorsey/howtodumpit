@@ -316,6 +316,11 @@ def check_page(path, root, pages_ids):
         main_at = raw.find('id="mattresses"')
         if partner_at >= 0 and main_at >= 0 and partner_at > main_at:
             add("city-seo", "the Local Junk Removal & Donation Partners section must appear before the main guide content")
+        # Adam 11/11/2026: every live city page must have at least 4 listings
+        # (compact free "Not verified" rows plus paid cards).
+        n_listings = len(re.findall(r'<li class="[^"]*\bpartner\b', raw))
+        if n_listings < 4:
+            add("partners", f"city page has {n_listings} listing(s) (need at least 4)")
         note_m = re.search(r'<p class="national-note">([^<]*)</p>', raw)
         expected_note = "Prefer a national company? 1-800-GOT-JUNK and LoadUp also serve this area."
         if not note_m:
