@@ -75,6 +75,7 @@ CITY_COORDS = {
     "seattle-wa": (47.6062, -122.3321),
     "tucson-az": (32.2226, -110.9747),
     "virginia-beach-va": (36.8529, -75.9780),
+    "long-beach-ca": (33.7701, -118.1937),
     "washington-dc": (38.9072, -77.0369),
 }
 NEARBY_COUNT = 5
