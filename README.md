@@ -104,6 +104,17 @@ Free (non-paying) company and charity listings stay on the page but are compact 
 ## Style rule (permanent)
 Use American English spelling (color, center, tire, analyze, favorite, specialize) and US dates only (October 13, 2026 or 10/13/2026). Never DD/MM/YYYY. This applies to pages, pitch emails and reports.
 
+## Prospect listing lifecycle and city restart loop (permanent, Adam 11/11/2026)
+Build and nightly work must follow this. Full SOP: company `rules/outreach-operations.md`.
+
+1. Do not publish a new city guide, and do not pitch a city, until **4 free local listings** are live on that page. Each must be checked on the organisation's own website as serving that city. Their cards use the free Basic treatment and stay labeled **Not verified**. If four cannot be found, hold the city back — do not publish or pitch it.
+2. Unreplied prospects stay as compact free "after runs" rows (**Not verified**, phone `tel:` link, website as plain text only, below any paid cards) through the first pitch and up to **3 nudges**, sent at least 7 days apart.
+3. The three outcomes (do not skip any) and the remove loop:
+   - They reply and pay: upgrade the entry to `tier: verified` ($8) or `tier: recommended` ($14.99).
+   - They opt out or ask us to stop: remove the listing from the city page immediately and do not add them back. Never contact them again.
+   - Every prospect in the city has had the pitch plus 3 nudges, the last one 7 or more days ago, and none replied: **remove** all of those listings from the page, mark them **discarded, city restart**, and never contact them again. Add 4 new verified local hauliers as free Basic Listings, then queue pitches for Adam's approval. **Repeat this remove-and-replace loop** until someone in the city replies. Do not restart a city without first removing the old listings.
+4. Any reply at all stops the restart for that city; flag it to Adam.
+
 ## Pitch targeting rule (permanent)
 Before drafting any pitch, confirm from the org's own website (address plus service-area page) that it actually serves that city. Skip orgs that don't serve it. The pitch must name the org's real location and coverage accurately. Record the verified location and source URL in PITCHES.md.
 
