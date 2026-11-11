@@ -273,6 +273,14 @@ def partners_html(items, city_slug=""):
         + lists + "</section>"
     )
 
+
+# Modest end-of-guide mention only. No href, button, box, heading or color
+# block. Plain text because there is no tracked affiliate tag (Adam, 11/11/2026).
+NATIONAL_NOTE = (
+    '<p class="national-note">Prefer a national company? '
+    '1-800-GOT-JUNK and LoadUp also serve this area.</p>'
+)
+
 A_TAG = re.compile(r'(\s?)<a\b([^>]*?)href="([^"]+)"([^>]*)>(.*?)</a>', re.S)
 
 def dedupe_links(body_html):
@@ -558,11 +566,13 @@ def main():
         body_html = trim_listing_repeats(body_html)
         body_html = dedupe_links(body_html)
         if meta.get("city"):
-            # Local partners near the top, where the national haul-away box used to sit
-            # (just before the Mattresses heading). No empty section when a city has
-            # no partners. Official drop-off `listings:` are unchanged.
-            # Do not add 1-800-GOT-JUNK, LoadUp, or other national haul-away links
-            # unless Adam has approved a tracked affiliate link (Adam, 11/11/2026).
+            # Local partners near the top, just before the Mattresses heading.
+            # No empty section when a city has no partners. Official drop-off
+            # `listings:` are unchanged.
+            # After the guide and Nearby Cities, a single small plain-text line
+            # may mention 1-800-GOT-JUNK and LoadUp. No link, button, box,
+            # heading or color block (Adam, 11/11/2026). Do not add a national
+            # booking link unless Adam has approved a tracked affiliate link.
             partner_block = partners_html(meta.get("partners") or [], city_slug=u.strip("/"))
             if partner_block:
                 i = body_html.find('<h2 id="mattresses"')
@@ -574,6 +584,7 @@ def main():
                 else:
                     body_html = partner_block + body_html
             body_html += nearby_cities_html(u, pages)
+            body_html += NATIONAL_NOTE
         hero = ""
         if u == "/":
             hero = ('<section class="hero"><div class="wrap"><h1>' + html.escape(meta.get("hero", meta["title"])) + '</h1><p>'

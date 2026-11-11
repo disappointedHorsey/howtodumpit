@@ -291,12 +291,15 @@ def check_page(path, root, pages_ids):
         n_near = len(re.findall(r"<a\b", m.group(0))) if m else 0
         if n_near < 3:
             add("city-seo", f"Nearby Cities has {n_near} links (need 3–6)")
-        # Adam 11/11/2026: no national haul-away booking box on city guides unless
-        # he has approved a tracked affiliate link. Partner section, if present,
-        # sits near the top, before the main item guide.
+        # Adam 11/11/2026: no national haul-away booking box or link on city
+        # guides unless he has approved a tracked affiliate link. A single small
+        # plain-text line may mention 1-800-GOT-JUNK and LoadUp after the local
+        # partners and the guide content, never above them, and never as a
+        # button, box, heading or link. Partner section, if present, sits near
+        # the top, before the main item guide.
         if re.search(r"1800gotjunk\.com|goloadup\.com", raw, re.I):
             add("city-seo", "city guide has a national haul-away booking link (1800gotjunk or goloadup)")
-        if "Book Paid Junk Removal" in raw:
+        if "Book Paid Junk Removal" in raw or 'class="cta"' in raw or "cta-btns" in raw:
             add("city-seo", 'city guide still has the "Book Paid Junk Removal" box')
         partner_at = raw.find('id="partners-h"')
         if partner_at < 0:
@@ -304,6 +307,20 @@ def check_page(path, root, pages_ids):
         main_at = raw.find('id="mattresses"')
         if partner_at >= 0 and main_at >= 0 and partner_at > main_at:
             add("city-seo", "the Local Junk Removal & Donation Partners section must appear before the main guide content")
+        note_m = re.search(r'<p class="national-note">([^<]*)</p>', raw)
+        expected_note = "Prefer a national company? 1-800-GOT-JUNK and LoadUp also serve this area."
+        if not note_m:
+            add("city-seo", "city guide is missing the small plain-text national company line")
+        else:
+            if note_m.group(1) != expected_note:
+                add("city-seo", "the national company line does not use the approved plain-text wording")
+            if re.search(r"<a\b|btn|cta", note_m.group(0), re.I):
+                add("city-seo", "the national company line must be plain text with no link or button")
+            note_at = note_m.start()
+            if partner_at >= 0 and note_at < partner_at:
+                add("city-seo", "the national company line must appear after the local partners section")
+            if main_at >= 0 and note_at < main_at:
+                add("city-seo", "the national company line must appear after the main guide content")
     # Partner tel: and website links must be GoatCounter click events.
     for l in p.links:
         href = l.get("href") or ""

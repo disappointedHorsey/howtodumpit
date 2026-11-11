@@ -1,3 +1,11 @@
+## 11/11/2026 (National companies as a small plain-text line)
+
+- City guides no longer have (and still must not have) the "Book Paid Junk Removal" box or any 1800gotjunk.com / goloadup.com booking link. Commit dc2bd11 had already removed that box from the top of every city page; a live check of /austin-tx/, /fresno-ca/, /denver-co/ and other guides on 11/11/2026 found no remaining national-chain box, button or link in the footer or anywhere else on the page.
+- Adam asked that 1-800-GOT-JUNK and LoadUp not have a prominent display at the bottom either, but did not ask to drop the mention. Each city guide now ends the article, after Nearby Cities and before the "Last verified" line, with one small muted plain-text sentence: "Prefer a national company? 1-800-GOT-JUNK and LoadUp also serve this area." No hyperlink (there is no tracked affiliate tag), no button, no box, no bold, no color block and no heading. It never sits above the local partners or the guide content.
+- `consistency_check` still fails on 1800gotjunk.com, goloadup.com, "Book Paid Junk Removal" and the old `.cta` / `.cta-btns` box, and now also requires the approved plain-text line in that position.
+- CSS cache buster ?v=20261111-national.
+- Checks: consistency_check 66 pages 0 problems; mobile_check 66 pages x 5 widths (320/375/390/412/1280) 0 FAIL 0 WARN.
+
 ## 11/11/2026 (Denver Basic Listings)
 
 - Added four free Basic Listings near the top of /denver-co/: EZ Haulaway, Habitat for Humanity of Metro Denver ReStore, Mo's Hauling, and The Junk Trunk. All verified on each organization's own website on 11/11/2026 (name, phone, and Denver-area service). Blue Star Recyclers was not added.
