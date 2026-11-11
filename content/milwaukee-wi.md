@@ -17,6 +17,31 @@ listings:
   cost: 'Free for loads under 1 cubic yard; $20 to $90 for larger loads, based on volume'
   details: 'Two centers: 6660 N. Industrial Road and 3879 W. Lincoln Avenue. Mattresses and old furniture dropped off here are landfilled.'
   source: https://city.milwaukee.gov/sanitation/DropOff
+partners:
+- tier: basic
+  name: BlaackBeard Junk Removal
+  phone: '(262) 289-8140'
+  website: https://www.blaackbeard.com/service-area/
+  note: Locally owned junk removal serving Milwaukee and Waukesha counties; donates usable items and recycles when possible.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Clutter Punch Junk Removal
+  phone: '(414) 877-4867'
+  website: https://www.clutterpunchjunkremoval.com/
+  note: Locally owned junk removal in Milwaukee; recycles and donates whenever it can.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Hustle and Haul
+  phone: '(414) 265-6339'
+  website: https://www.hustleandhaulmke.com/
+  note: Junk removal serving Milwaukee homes and businesses, including furniture, yard waste and cleanouts.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Span Services
+  phone: '(414) 210-0618'
+  website: https://www.junkspan.com/
+  note: Milwaukee hauling crew for furniture, appliances, rooms and estate cleanouts, with same-day availability.
+  source_checked: 2026-11-11
 ---
 # Junk Disposal in Milwaukee, WI: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

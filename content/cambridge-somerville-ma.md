@@ -18,6 +18,31 @@ listings:
   cost: $55 Disposal Sticker per unit (one per mattress, one per box spring), since February 1, 2026
   details: 'Buildings with 6 or fewer units on City trash service only. Buy the sticker online, at DPW (1 Franey Rd., no cash) or at City Hall (93 Highland Ave.); online orders can take up to 10 days to arrive by mail, and you need the physical sticker before you schedule. Then contact 311 no later than 3:30 p.m. the day before collection. Pickup is the day after your regular trash day (Friday trash routes: Friday). Out no earlier than 4 p.m. the day before and by 7 a.m.; max 2 bulk items per property per week; leave a 36-inch clear sidewalk path.'
   source: https://www.somervillema.gov/mattressrecycling
+partners:
+- tier: basic
+  name: Habitat for Humanity Greater Boston ReStore
+  phone: '(617) 327-1170'
+  website: https://habitatboston.org/restore/
+  note: Donation drop-off at 1580 VFW Parkway, West Roxbury; accepts new and gently used household goods and building materials.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Junk Dispatch
+  phone: '(781) 504-7480'
+  website: https://junkdispatch.com/
+  note: Family-owned junk removal based in Saugus, serving Middlesex County, including Cambridge and Somerville, plus Boston, Essex and Suffolk counties.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Lug Away
+  phone: '(857) 240-2728'
+  website: https://lugaway.com/
+  note: Locally owned junk removal based in Newton; service areas include Cambridge.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Marvin Junk Removal
+  phone: '(781) 267-5966'
+  website: https://marvinjunkremoval.net/
+  note: Somerville-based junk removal at 61 Heath St., serving Somerville, Cambridge and Greater Boston.
+  source_checked: 2026-11-11
 ---
 # Junk Disposal in Cambridge–Somerville, MA: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

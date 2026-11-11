@@ -1,3 +1,15 @@
+## 11/11/2026 (El Paso, Louisville, Nashville, Milwaukee, Memphis, Albuquerque and Cambridge–Somerville Basic Listings)
+
+- Added four free Basic Listings near the top of each of /el-paso-tx/, /louisville-ky/, /nashville-tn/, /milwaukee-wi/, /memphis-tn/, /albuquerque-nm/ and /cambridge-somerville-ma/. All verified on each organization's own website on 11/11/2026 (name, phone, and service in that city). No emails were sent.
+- El Paso: Dumpster Daddy, El Paso Junk Removal and Hauling, Habitat for Humanity El Paso ReStore, and Sandoval Junk Removal.
+- Louisville: 502 Junk Removal, Billy Goats Hauling, Jubilee Junk Removal & Hauling, and PROJUNK. Habitat for Humanity of Metro Louisville ReStore was not added; its site presented a bot-check wall and published phone numbers were not consistent across pages.
+- Nashville: Habitat for Humanity of Greater Nashville ReStore, Honey Junk Removal, Matt's Haul it All, and Music City Removal. Spring Back Recycling was not added; its site presented a bot-check wall.
+- Milwaukee: BlaackBeard Junk Removal, Clutter Punch Junk Removal, Hustle and Haul, and Span Services. Junk Yetis was not added; its public pages did not publish a usable phone number in the fetched content this turn.
+- Memphis: Fuzzy's Junk Removal, Habitat for Humanity of Greater Memphis ReStore, JunkForce, and Memphis Junk Removal. The Junk Llamas was not added; its site presented a bot-check wall.
+- Albuquerque: 24-7 Haul, ABQ Junk Busters, Greater Albuquerque Habitat for Humanity ReStore, and JunkCo Albuquerque.
+- Cambridge–Somerville: Habitat for Humanity Greater Boston ReStore, Junk Dispatch, Lug Away, and Marvin Junk Removal. Rivas Rubbish Removal was not added; its site could not be reached. HandUp Mattress was not added; its own scheduled-pickup list does not name Cambridge or Somerville.
+- Checks: consistency_check 66 pages 0 problems; mobile_check 66 pages x 5 widths (320/375/390/412/1280) 0 FAIL 0 WARN.
+
 ## 11/11/2026 (Charlotte, Boston, Fresno, Detroit and Baltimore Basic Listings)
 
 - Added four free Basic Listings near the top of each of /charlotte-nc/, /boston-ma/, /fresno-ca/, /detroit-mi/ and /baltimore-md/. All verified on each organization's own website on 11/11/2026 (name, phone, and service in that city). No emails were sent.

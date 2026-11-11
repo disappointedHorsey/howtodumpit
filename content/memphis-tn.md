@@ -17,6 +17,31 @@ listings:
   cost: 'No fee listed on the City''s Solid Waste page'
   details: 'Two centers: 304 Collins Street and 3207 Farrisview Blvd. Bring your latest MLGW bill and a picture ID.'
   source: https://memphistn.gov/solid-waste/
+partners:
+- tier: basic
+  name: Fuzzy's Junk Removal
+  phone: '(901) 249-1158'
+  website: https://fuzzysjunkremoval.com/
+  note: Locally owned junk removal serving Memphis, Germantown, Collierville, Bartlett and Cordova.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Habitat for Humanity of Greater Memphis ReStore
+  phone: '(901) 737-8673'
+  website: https://www.memphishabitat.com/restore/donate
+  note: Donation drop-off behind each Memphis-area ReStore, Tuesday to Saturday, 11 a.m. to 5 p.m.; call 901-RESTORE with questions. Free pickup is also offered.
+  source_checked: 2026-11-11
+- tier: basic
+  name: JunkForce
+  phone: '(901) 350-9597'
+  website: https://junkforcetn.com/
+  note: Junk removal for Memphis homes and businesses, including furniture, appliances, cleanouts and construction debris.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Memphis Junk Removal
+  phone: '(901) 215-7272'
+  website: https://www.memjunk.com/
+  note: Junk removal in Memphis and surrounding areas, including furniture, appliances and property cleanouts.
+  source_checked: 2026-11-11
 ---
 # Junk Disposal in Memphis, TN: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

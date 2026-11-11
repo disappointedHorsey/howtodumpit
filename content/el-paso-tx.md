@@ -17,6 +17,31 @@ listings:
   cost: 'No fee listed on the City''s Collection Stations page; check the page or call (915) 212-6000'
   details: 'Five City drop-off sites take trash, bulky items, household hazardous waste and recyclables. Request a pass first and bring a current water bill plus a valid ID with the same address. Open 8 a.m. to 4 p.m., Tuesday through Saturday. Limit of 4 visits a month; no commercial loads or contractors.'
   source: https://www.elpasotexas.gov/environmental-services/collection-stations
+partners:
+- tier: basic
+  name: Dumpster Daddy
+  phone: '(915) 710-0740'
+  website: https://epdumpsterdaddy.com/
+  note: Locally owned junk removal serving El Paso and nearby communities, including Sunland Park, Canutillo, Santa Teresa, Horizon City and Socorro.
+  source_checked: 2026-11-11
+- tier: basic
+  name: El Paso Junk Removal and Hauling
+  phone: '(915) 408-4508'
+  website: https://www.elpasojunkremovalandhauling.com/
+  note: Junk removal, cleanouts and demolition serving El Paso and Las Cruces, with same-day service.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Habitat for Humanity El Paso ReStore
+  phone: '(915) 706-5060'
+  website: https://www.habitatelpaso.org/habitat-restore
+  note: ReStore at 8500 Dyer St. #82, El Paso; accepts gently used appliances, household goods, furniture and building materials.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Sandoval Junk Removal
+  phone: '(915) 247-6050'
+  website: https://www.sandovaljunkremoval.com/
+  note: Locally owned, veteran-owned and family-owned junk removal operating out of El Paso.
+  source_checked: 2026-11-11
 ---
 # Junk Disposal in El Paso, TX: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

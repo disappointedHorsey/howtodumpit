@@ -17,6 +17,31 @@ listings:
   cost: No fee stated on the Sheriff's Office page
   details: 'Front curbside only, requested by the homeowner or tenant. Mattresses and box springs are on the accepted list. Items must be out by 6:30 a.m.; the office has up to seven business days from the date it gives you to remove them. Not available on private roads, gated communities, business property or for eviction items. Apartment and condo residents are asked to place items at the front curb by the main entrance.'
   source: https://sheriff.nashville.gov/bulk-item-removal/
+partners:
+- tier: basic
+  name: Habitat for Humanity of Greater Nashville ReStore
+  phone: '(615) 942-1291'
+  website: https://habitatnashville.org/restore/
+  note: Nashville ReStore at 414 Harding Place, Ste. 110; shop or donate Tuesday through Saturday, 9 a.m. to 5 p.m.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Honey Junk Removal
+  phone: '(615) 930-4848'
+  website: https://www.honeyjunkremoval.com/
+  note: Nashville junk removal for furniture, mattresses, appliances and cleanouts; recycles or donates when possible.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Matt's Haul it All
+  phone: '(615) 474-2252'
+  website: https://www.mattshaulitall.com/
+  note: Family-owned junk removal based in Brentwood, serving Nashville and Davidson County.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Music City Removal
+  phone: '(615) 480-8396'
+  website: https://musiccityremoval.com/
+  note: Locally owned Nashville junk removal for homes, businesses and property managers, including furniture and appliances.
+  source_checked: 2026-11-11
 ---
 # Junk Disposal in Nashville, TN: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

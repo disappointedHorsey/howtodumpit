@@ -17,6 +17,31 @@ listings:
   cost: '$5.00 per load plus tax for City residents; $12.00 per load plus tax for non-residents'
   details: 'Up to 3 mattresses per customer. Bring a utility bill, driver''s license or valid ID as proof of residency. No vehicles admitted after 4:30 p.m.'
   source: https://www.cabq.gov/solidwaste/trash-collection/trash-drop-off
+partners:
+- tier: basic
+  name: 24-7 Haul
+  phone: '(505) 991-1854'
+  website: https://www.247haul.com/
+  note: Junk removal and trash hauling throughout Albuquerque and surrounding areas, in business since 2002.
+  source_checked: 2026-11-11
+- tier: basic
+  name: ABQ Junk Busters
+  phone: '(505) 518-7399'
+  website: https://www.abqjunkbusters.com/contact-us/
+  note: Locally owned junk removal in Albuquerque, based at 12728 San Juan Ave. NE.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Greater Albuquerque Habitat for Humanity ReStore
+  phone: '(505) 265-0057'
+  website: https://habitatabqrr.org/albuquerque-restore-donation-center/
+  note: ReStore donation center at 4900 Menaul Blvd. NE, Albuquerque; drop-off Monday through Saturday, 9 a.m. to 3:30 p.m.
+  source_checked: 2026-11-11
+- tier: basic
+  name: JunkCo Albuquerque
+  phone: '(505) 830-4200'
+  website: https://albuquerquejunkremovalservices.com/
+  note: Albuquerque junk removal for furniture, mattresses, cleanouts and related hauling.
+  source_checked: 2026-11-11
 ---
 # Junk Disposal in Albuquerque, NM: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

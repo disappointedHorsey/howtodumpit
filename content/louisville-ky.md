@@ -17,6 +17,31 @@ listings:
   cost: 'Free for residents: up to 4 large household items per day (vehicle-load fees apply above that)'
   details: '636 Meriwether Avenue (entrance on Bland Street). Tuesday to Friday 8 a.m. to 12 p.m. and 1 p.m. to 4:30 p.m.; Saturday 8 a.m. to 3 p.m. Debit or credit card only, no cash. Holiday closings are listed on the city page.'
   source: https://louisvilleky.gov/government/public-works/waste-reduction-center
+partners:
+- tier: basic
+  name: 502 Junk Removal
+  phone: '(812) 447-0619'
+  website: https://www.502junkremoval.com/
+  note: Junk removal, cleanouts and debris hauling for homes and businesses across Louisville and Kentuckiana.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Billy Goats Hauling
+  phone: '(502) 631-7562'
+  website: https://www.billygoatshauling.com/
+  note: Louisville junk removal serving the city and a 30-mile radius, with donation-first disposal.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Jubilee Junk Removal & Hauling
+  phone: '(502) 483-2580'
+  website: https://www.jubileejunkremoval.com/
+  note: Husband-and-wife junk removal team based in Louisville, serving Jefferson County and nearby communities.
+  source_checked: 2026-11-11
+- tier: basic
+  name: PROJUNK
+  phone: '(502) 305-5989'
+  website: https://callprojunk.com/
+  note: Junk removal and demolition serving Louisville, Jeffersontown, Middletown, Prospect and nearby towns.
+  source_checked: 2026-11-11
 ---
 # Junk Disposal in Louisville, KY: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 
