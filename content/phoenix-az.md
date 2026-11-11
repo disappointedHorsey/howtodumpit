@@ -30,6 +30,18 @@ partners:
   website: https://garagerescueandjunkremoval.com/
   note: Locally owned Phoenix crew; junk removal and cleanouts across the Phoenix metro.
   source_checked: 2026-11-03
+- tier: basic
+  name: Campbell's Waste Services
+  phone: '(602) 690-2622'
+  website: https://campbellswaste.com/
+  note: Local junk hauling and property cleanouts serving Phoenix, Mesa and Greater Phoenix.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Green Loop
+  phone: '(602) 326-5852'
+  website: https://greenloopjunkremoval.com/
+  note: Locally owned, family-owned junk removal serving Phoenix and the Valley.
+  source_checked: 2026-11-11
 ---
 # Junk Disposal in Phoenix, AZ: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

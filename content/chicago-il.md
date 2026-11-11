@@ -41,6 +41,12 @@ partners:
   website: https://restorechicago.org/donate
   note: Accepts furniture, appliances and building materials; free pickup for accepted donations.
   source_checked: 2026-11-03
+- tier: basic
+  name: Chicago Furniture Bank
+  phone: '(312) 752-0211'
+  website: https://www.chicagofurniturebank.org/
+  note: Nonprofit furniture donation and pickup at 4801 South Whipple Street, Chicago.
+  source_checked: 2026-11-11
 ---
 # Junk Disposal in Chicago, IL: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

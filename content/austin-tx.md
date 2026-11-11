@@ -36,6 +36,12 @@ partners:
   website: https://austinhabitat.org/restore/donate/
   note: South and Northwest Austin ReStores accept donations; free donation pickup can be scheduled online.
   source_checked: 2026-11-09
+- tier: basic
+  name: Duke's Junk Recycling
+  phone: '(512) 520-7495'
+  website: https://www.dukesjunkrecycling.com/
+  note: Family-owned, locally owned junk removal and recycling in Austin, with a yard at 6546 Burnet Road.
+  source_checked: 2026-11-11
 ---
 # Junk Disposal in Austin, TX: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

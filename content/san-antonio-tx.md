@@ -30,6 +30,18 @@ partners:
   website: https://habitatsa.org/habitat-home-center/
   note: Three San Antonio Home Centers accepting furniture, appliances and building materials; proceeds fund local homebuilding.
   source_checked: 2026-11-06
+- tier: basic
+  name: We Heart Junk
+  phone: '(210) 284-2413'
+  website: https://www.weheartjunkhauling.com/
+  note: Locally owned junk removal and trash hauling in San Antonio, serving the Central Texas area.
+  source_checked: 2026-11-11
+- tier: basic
+  name: AY Junk Removal
+  phone: '(210) 875-6384'
+  website: https://www.ayjunkremoval.com/
+  note: Locally owned junk removal serving San Antonio and Bexar County.
+  source_checked: 2026-11-11
 ---
 # Junk Disposal in San Antonio, TX: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

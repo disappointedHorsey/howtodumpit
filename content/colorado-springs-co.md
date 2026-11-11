@@ -36,6 +36,12 @@ partners:
   website: https://pikespeakhabitat.org/restore/donations/
   note: Two Colorado Springs ReStores (Northeast Tutt Blvd and South Wahsatch); accepts gently used items that can be resold.
   source_checked: 2026-11-08
+- tier: basic
+  name: Junk N Haul
+  phone: '(719) 249-0431'
+  website: https://junknhaul.com/
+  note: Locally owned and operated junk removal serving Colorado Springs.
+  source_checked: 2026-11-11
 ---
 # Junk Disposal in Colorado Springs, CO: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

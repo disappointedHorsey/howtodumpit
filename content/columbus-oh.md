@@ -41,6 +41,12 @@ partners:
   website: https://www.habitatmidohio.org/restore/donations.html
   note: Donation drop-off at 3140 Westerville Rd; pickup available for large donations.
   source_checked: 2026-11-10
+- tier: basic
+  name: Hawks Hauling & Junk Removal
+  phone: '(614) 622-3502'
+  website: https://hawkshaulings.com/
+  note: Family-owned junk removal based in Columbus.
+  source_checked: 2026-11-11
 ---
 # Junk Disposal in Columbus, OH: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 
