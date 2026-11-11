@@ -1,6 +1,6 @@
 # HowToDumpIt backlog
 
-Last updated: 11/11/2026 (Virginia Beach guide + Dallas Outside City Limits + Jacksonville partner backfill; 11/10: Omaha/San Diego OCL/Columbus; 11/09: Miami, FL guide + San Antonio Outside City Limits + Austin partner backfill + 2 bounced-email listings removed; 11/08: Colorado Springs/Philadelphia OCL/Dallas; 11/07: Raleigh/Phoenix/San Diego; earlier Mesa/Houston/San Antonio etc.)
+Last updated: 11/12/2026 (Long Beach guide + Fort Worth Outside City Limits; 11/11: Virginia Beach guide + Dallas Outside City Limits + Jacksonville partner backfill; 11/10: Omaha/San Diego OCL/Columbus; 11/09: Miami, FL guide + San Antonio Outside City Limits + Austin partner backfill + 2 bounced-email listings removed; 11/08: Colorado Springs/Philadelphia OCL/Dallas; 11/07: Raleigh/Phoenix/San Diego; earlier Mesa/Houston/San Antonio etc.)
 
 ## Done
 - [x] Columbus, OH mattress disposal
@@ -176,3 +176,11 @@ Top 15 audit: all 15 guides live (HTTP 200). No free Basic Listings on any of th
 - [ ] Dallas: dallascityhall.com refused connections from the box (curl, WebFetch and Playwright) on 11/11/2026; Dallas guide body not rechecked, verified date left at 2026-11-08. Recheck next run.
 - [x] Jacksonville top-city partner backfill (11/11/2026): Epic Junk Services, Duval Junk Removal. Skipped: Bring That Junk Removal (site also shows an unrelated locksmith email, Info@mobilelocksmithshop.com; unclear which is correct), Duclay Junk Removal (no email on site), First Coast Habitat ReStore (no email on site), JDog Jacksonville (already in the nudge cycle; site returned a bot challenge, not re-verified tonight). Next top-city partner: Fort Worth, then San Jose, Charlotte.
 - OUTSIDE CITY LIMITS backfill: Dallas done 11/11/2026. Next: Fort Worth, then Jacksonville, Austin, San Jose.
+
+## Added 11/12/2026 (nightly Long Beach)
+- [x] Long Beach, CA guide (11/12/2026, commit 635aee5; census.gov Vintage 2025 SUB-IP-EST2025-ANNRNK #44, 450,469, re-downloaded 11/12/2026). Basic Listings: Clear It Junk Removal, EarthWise Hauling, Call Bruno Junk Removal, Highwayman TLC. Next new city: Oakland, CA (#45, 440,838), then Minneapolis, MN (#46, 430,324), Bakersfield, CA (#47).
+- [ ] Long Beach unverified: amount of the special-handling "regulatory fee" for appliances/TVs/monitors (not published; page says ask (562) 570-2876); whether freon must be removed before special collection (City pages silent); bed-bug/soiled mattress rule (none found); LA County EDCO Signal Hill HHW center schedule dates (County list, not copied); fees at EDCO Recycling and Transfer Station / Secure E-Waste Destruction (not on City page); Christmas tree collection (not added; add a section and hub row before the season). Signal Hill City page says 2 free bulky pickups a year while EDCO's Signal Hill PDF says up to 4; guide follows the City page.
+- [ ] Long Beach donation listing: none tonight. Habitat for Humanity Greater LA's nearest ReStore is in Torrance; goodwillsolac.org returned empty to curl. Recheck Goodwill SOLAC or a City Donation Guide nonprofit with a published email. Spare prospects: Box Truck Brother's (Long Beach; site email miyon.treat1031@gmail.com looks personal), Gorilla Junk Services (Long Beach area; Gmail).
+- OUTSIDE CITY LIMITS backfill: Fort Worth done 11/12/2026. Next: Jacksonville, then Austin, San Jose.
+- Under-4 check (11/12/2026, live pages): all city pages with partners show 4 or more listings; no backfill needed.
+- Missed runs: none (11/11 Virginia Beach ran and is live).

@@ -1,3 +1,12 @@
+## 11/12/2026 (Long Beach, CA guide; Fort Worth Outside City Limits)
+
+- New general junk guide /long-beach-ca/ (commit 635aee5): City special collections (12 free a year for City-serviced accounts), the free 24/7 Mattress Drop-Off at 970 W. Chester Place, appliances (doors off or taped; special handling fee may apply, amount not published), e-waste, batteries, free County HHW sites and PaintCare. Census Vintage 2025 (SUB-IP-EST2025-ANNRNK, re-downloaded 11/12/2026): #44, 450,469. Outside City Limits note covers Signal Hill, Lakewood and unincorporated LA County, plus apartments/HOAs.
+- Four free Basic Listings on /long-beach-ca/, each verified on its own website on 11/12/2026 (name, phone, Long Beach service, published email): Clear It Junk Removal, EarthWise Hauling, Call Bruno Junk Removal, Highwayman TLC. No donation organization listed (nearest Habitat ReStore is in Torrance; Goodwill SOLAC site did not load).
+- Fort Worth Outside City Limits backfill: unincorporated Tarrant County Drop-Off Station vouchers (Type A $19.50 / Type B $32.50, per the County's January 2026 brochure) and Arlington weekly bulky set-out (two cubic yards). Fort Worth guide body was not rechecked; its verified date stays 10/20/2026.
+- `build.py`: added long-beach-ca to CITY_COORDS.
+- Checks: consistency_check 67 pages 0 problems; mobile_check 67 pages x 5 widths (320/375/390/412/1280) 0 FAIL 0 WARN. Live HTTP 200 for /long-beach-ca/ and /fort-worth-tx/.
+- Pitches for the four Long Beach listings drafted and QUEUED for the Daily fix chase approval batch (company outreach/long-beach-pitches-12-11-2026.md). No emails were sent.
+
 ## 11/11/2026 (Fort Worth, Indianapolis, Portland, San Jose and Washington, D.C. Basic Listings)
 
 - Added four free Basic Listings near the top of each of /fort-worth-tx/, /indianapolis-in/, /portland-or/, /san-jose-ca/ and /washington-dc/. All verified on each organization's own website on 11/11/2026 (name, phone, and service in that city). No emails were sent.

@@ -272,3 +272,13 @@ Drafts: /workspace/company/outreach/virginia-beach-jacksonville-pitches-11-11-20
 | Habitat for Humanity of South Hampton Roads ReStore | Virginia Beach, VA | – | donationpickups@shrhabitat.org | Virginia Beach ReStore, 955 Providence Square, VA 23464; 757-474-0069 (shrhabitat.org/discover/restores/) | SENT 11/11/2026 12:54:46 Sydney (msg 1a1c85092a0b3fb0). First nudge due 18/11/2026. Do not resend. |
 | Epic Junk Services | Jacksonville, FL | Tre (owner Tre Waters, own site About page) | tre@epicjunkservices.com | Duval, Clay and St. Johns counties; 904.327.3834 (epicjunkservices.com/about) | SENT 11/11/2026 12:54:46 Sydney (msg 1a1c85095c3f9545). First nudge due 18/11/2026. Do not resend. |
 | Duval Junk Removal | Jacksonville, FL | – | duvaljunk904@gmail.com | Located in Jacksonville; Jacksonville, Orange Park, NE Florida; (904) 469-2289 (duvaljunkremovals.com) | SENT 11/11/2026 12:56:33 Sydney (msg 1a1c85238a0e4c8b). First nudge due 18/11/2026. Do not resend. |
+
+## Long Beach v2 pitches QUEUED 12/11/2026 Sydney (US 11/12/2026): NOT SENT, awaiting the Daily fix chase approval batch
+Drafts: /workspace/company/outreach/long-beach-pitches-12-11-2026.md. From adam@howtodumpit.com, new threads. Prior-contact check (Gmail all mail incl. spam/trash, PITCHES.md, outreach records): none. All four Basic Listings LIVE on howtodumpit.com/long-beach-ca/ (commit 635aee5, HTTP 200). Nothing sent.
+
+| Org | City | First name (source) | To | Verified location / source | Status |
+|---|---|---|---|---|---|
+| Clear It Junk Removal | Long Beach, CA | – | clearitjunkpros@gmail.com | Family-owned; Long Beach, Seal Beach, Cerritos, Los Alamitos; (562) 515-5125 (clearitjunkremoval.com) | Listing LIVE. Pitch QUEUED, NOT SENT. |
+| EarthWise Hauling | Long Beach, CA | – | hello@earthwisehauling.com | Long Beach page; service area lists Long Beach, Signal Hill; 562-366-1881 (earthwisehauling.com/long-beach-junk-removal/) | Listing LIVE. Pitch QUEUED, NOT SENT. |
+| Call Bruno Junk Removal | Long Beach, CA | Bruno (owner, "Meet the owner, Bruno" on own site) | info@callbrunojunkremoval.com | Long Beach, CA; Long Beach · Los Angeles · Orange County; 310-922-5135 (callbrunojunkremoval.com/contact.html) | Listing LIVE. Pitch QUEUED, NOT SENT. |
+| Highwayman TLC | Long Beach, CA | – | info@highwayman-tlc.com | Long Beach, CA; "Servicing Long Beach and Surrounding Areas"; (562) 581-9822 (highwayman-tlc.com) | Listing LIVE. Pitch QUEUED, NOT SENT. |
