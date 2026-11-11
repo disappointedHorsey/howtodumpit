@@ -17,6 +17,31 @@ listings:
   cost: Fee set by each facility (call ahead)
   details: 'City lists private facilities that may take household trash and large items (furniture, mattresses, etc.) for a fee, including Waste Management D&R Transfer Station, All Recycling North Transfer Station, DADS Landfill, South Metro Transfer Station, and Waste Connections Jordan Rd. Confirm hours, accepted items and prices before you go.'
   source: https://www.denvergov.org/My-Property/Recycle-Compost-Trash/Large-Item-Pickup
+partners:
+- tier: basic
+  name: EZ Haulaway
+  phone: '(720) 614-7223'
+  website: https://www.ezhaulawayllc.com/
+  note: Residential and commercial junk removal serving Parker and the Denver metro.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Habitat for Humanity of Metro Denver ReStore
+  phone: '(303) 722-5863'
+  website: https://habitatmetrodenver.org/restore/locations/denver-restore-map/
+  note: Donation drop-off at 70 Rio Grande Blvd., Denver; donation dock open every day, 10 a.m. to 5:30 p.m.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Mo's Hauling
+  phone: '(720) 340-8144'
+  website: https://www.moshauling.co/
+  note: Family-owned junk removal serving the Denver metro and surrounding areas.
+  source_checked: 2026-11-11
+- tier: basic
+  name: The Junk Trunk
+  phone: '(303) 815-0467'
+  website: https://www.thejunktrunkco.com/
+  note: Junk removal and dumpster rental in Denver.
+  source_checked: 2026-11-11
 ---
 # Junk Disposal in Denver, CO: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

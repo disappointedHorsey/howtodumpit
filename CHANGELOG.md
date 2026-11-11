@@ -1,3 +1,9 @@
+## 11/11/2026 (Denver Basic Listings)
+
+- Added four free Basic Listings near the top of /denver-co/: EZ Haulaway, Habitat for Humanity of Metro Denver ReStore, Mo's Hauling, and The Junk Trunk. All verified on each organization's own website on 11/11/2026 (name, phone, and Denver-area service). Blue Star Recyclers was not added.
+- EZ Haulaway is included because Ben Herrera asked for a free Denver listing; phone (720) 614-7223 is published on ezhaulawayllc.com.
+- Checks: consistency_check 66 pages 0 problems; mobile_check 66 pages x 5 widths (320/375/390/412/1280) 0 FAIL 0 WARN.
+
 ## 11/11/2026 (Local partners at the top; national haul-away box removed)
 
 - The **Local Junk Removal & Donation Partners** section now sits near the top of each city guide, just before the Mattresses heading, where the "Book Paid Junk Removal" box used to be. Paid tiers still come first, then free compact rows.
