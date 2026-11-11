@@ -22,6 +22,32 @@ listings:
   cost: No additional cost for the old mattress (delivery or setup fees for the new product may still apply)
   details: 'California law requires the retailer delivering your new mattress to offer to take back your old one. The retailer has up to 30 days to take it back and may refuse a mattress that poses a health or safety risk. Bye Bye Mattress (the state program) also lists no-cost drop-off locations.'
   source: https://byebyemattress.com/california/
+partners:
+- tier: basic
+  name: Baypro Junk Removal
+  phone: '(415) 240-1884'
+  website: https://bayprojunkremoval.com/
+  note: Family-owned junk removal in San Francisco, with an office at 1848 16th Street.
+  source_checked: 2026-11-11
+- tier: basic
+  name: JYR Junk Removal
+  phone: '(510) 904-1381'
+  website: https://jyrjunkremoval.com/
+  note: Locally owned junk removal started in San Francisco; serves San Francisco and nearby Bay Area cities.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Mayday Hauling
+  phone: '(415) 678-6951'
+  website: https://maydayhauling.com/locations/san-francisco
+  note: San Francisco hauler with a dedicated city service page.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Rob's Junk Removal and Hauling
+  phone: '(650) 260-3568'
+  website: https://sfjunkremovalandhauling.com/
+  note: Family junk removal covering San Francisco and the Peninsula.
+  source_checked: 2026-11-11
+
 ---
 # Junk Disposal in San Francisco, CA: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

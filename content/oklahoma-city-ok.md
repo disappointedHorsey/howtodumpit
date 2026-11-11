@@ -17,6 +17,32 @@ listings:
   cost: No charge for eligible City residential trash customers
   details: 'Typically held in May and September (the 2026 dates were Saturday, May 2 and Saturday, September 12). Open to Oklahoma City residential trash customers with an active OKC Utilities account; bring an original, current City trash bill or proof of account in the My OKC Utilities app. Apartment residents are not eligible. Furniture and bulky items are accepted. All bulky waste rules apply.'
   source: https://www.okc.gov/Services/Water-Trash-Recycling/Free-Landfill-Day
+partners:
+- tier: basic
+  name: All-Around Junk Removal
+  phone: '(405) 689-7669'
+  website: https://allaroundjunkok.com/
+  note: Locally owned junk removal based in Oklahoma City, serving Oklahoma City and nearby metro towns.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Central Oklahoma Habitat for Humanity ReStores
+  phone: '(405) 232-5592'
+  website: https://www.cohfh.org/donate-to-restores/
+  note: Downtown Oklahoma City ReStore at 1800 N. Broadway Ave.; South Oklahoma City ReStore at 4900 S. High Ave., (405) 778-6222.
+  source_checked: 2026-11-11
+- tier: basic
+  name: KO Junk Removal
+  phone: '(405) 627-2641'
+  website: https://kojunkremoval.com/
+  note: Family-owned junk removal serving Oklahoma City and surrounding areas.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Payne-Less Junk Removal
+  phone: '(405) 788-1689'
+  website: https://www.okcjunkhauling.com/
+  note: Family-owned junk removal serving Oklahoma City since 2014.
+  source_checked: 2026-11-11
+
 ---
 # Junk Disposal in Oklahoma City, OK: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

@@ -1,3 +1,12 @@
+## 11/11/2026 (Las Vegas, Oklahoma City, San Francisco and Seattle Basic Listings)
+
+- Added four free Basic Listings near the top of each of /las-vegas-nv/, /oklahoma-city-ok/, /san-francisco-ca/ and /seattle-wa/. All verified on each organization's own website on 11/11/2026 (name, phone, and service in that city). No emails were sent.
+- Las Vegas: Brother's Junk Removal and Services LLC, Debris Buddies, Habitat for Humanity Las Vegas ReStore, and Vegas JunkMan.
+- Oklahoma City: All-Around Junk Removal, Central Oklahoma Habitat for Humanity ReStores, KO Junk Removal, and Payne-Less Junk Removal.
+- San Francisco: Baypro Junk Removal, JYR Junk Removal, Mayday Hauling, and Rob's Junk Removal and Hauling. Sullivan's Hauling was kept as a spare and was not added.
+- Seattle: Aloha Bros Junk Removal, Easy Junk Removal, Happy Hauler, and Seattle Rubbish Removal.
+- Checks: consistency_check 66 pages 0 problems; mobile_check 66 pages x 5 widths (320/375/390/412/1280) 0 FAIL 0 WARN.
+
 ## 11/11/2026 (Free compact rows: name, phone and Not verified only)
 
 - Unreplied / free Basic Listing compact rows now show only the name, the phone and a **Not verified** label. They never show a website, not even as plain text (Adam, 11/11/2026; company 1c7ae6d). Paid Recommended and Verified Partner cards are unchanged and still get a clickable website link.

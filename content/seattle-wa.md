@@ -12,6 +12,32 @@ listings:
   cost: $31 per item (per SPU, checked October 12, 2026), billed on your combined utility bill
   details: 'Mattresses and box springs are on SPU''s list of large items. Items must be under 300 lbs, 8 ft tall, 4 ft in diameter, and covered on rainy days. The utility account holder must schedule, online or at (206) 684-3000. Single-family: collected on your next regular garbage day after booking; out by 7:00 a.m. at your normal collection point. Renters in 5+ unit buildings must ask the property manager or owner.'
   source: https://www.seattle.gov/utilities/your-services/collection-and-disposal/garbage/special-item-collections
+partners:
+- tier: basic
+  name: Aloha Bros Junk Removal
+  phone: '(206) 701-1483'
+  website: https://www.alohabrosjunk.com/
+  note: Junk removal serving Seattle.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Easy Junk Removal
+  phone: '(206) 483-9315'
+  website: https://www.easyjunkseattle.com/
+  note: Junk removal serving Seattle.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Happy Hauler
+  phone: '(206) 784-0313'
+  website: https://happyhauler.com/
+  note: Family-run junk hauling based in Seattle since 1998.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Seattle Rubbish Removal
+  phone: '(206) 297-2900'
+  website: https://seattlerubbish.com/
+  note: Rubbish and junk removal serving Seattle.
+  source_checked: 2026-11-11
+
 ---
 # Junk Disposal in Seattle, WA: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

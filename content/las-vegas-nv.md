@@ -17,6 +17,32 @@ listings:
   cost: 'Varies; call the facility for current rates'
   details: 'Cheyenne Transfer Station, 315 W. Cheyenne Ave., North Las Vegas (702-599-5624) and Henderson Transfer Station, 560 Cape Horn Dr., Henderson (702-599-5768), both open 7 a.m. to 3 p.m., seven days a week. Apex Landfill, 13550 N. US Highway 93 (702-599-5920), 8 a.m. to 4 p.m. daily.'
   source: https://www.republicservices.com/municipality/southern-nevada/service-information
+partners:
+- tier: basic
+  name: Brother's Junk Removal and Services LLC
+  phone: '(702) 773-6810'
+  website: https://brothersjunkremovalandservicesllc.com/contact-us/
+  note: Family-owned junk removal serving Henderson and Las Vegas.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Debris Buddies
+  phone: '(702) 352-8126'
+  website: https://debrisbuddies.com/
+  note: Family-owned junk removal based in Las Vegas, serving Las Vegas, Henderson and Clark County.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Habitat for Humanity Las Vegas ReStore
+  phone: '(702) 638-6477'
+  website: https://lasvegashabitat.org/restore/
+  note: Sahara ReStore at 4580 W. Sahara Ave. #120, Las Vegas; donation drop-off and pickup available.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Vegas JunkMan
+  phone: '(702) 527-5865'
+  website: https://vegasjunkman.com/
+  note: Junk removal serving Las Vegas, Henderson and Boulder City.
+  source_checked: 2026-11-11
+
 ---
 # Junk Disposal in Las Vegas, NV: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 
