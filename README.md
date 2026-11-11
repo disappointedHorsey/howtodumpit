@@ -62,7 +62,7 @@ Each `partners:` entry is a YAML map with:
 - `note` (optional): one short sentence (hours, items accepted, service area). Sentence case.
 - `source_checked` (required): date the website/phone were last confirmed (`YYYY-MM-DD`). Shown on the card as a US date.
 
-Example (Basic Listing only — free: name, phone and website):
+Example (Basic Listing is free and shows only name, phone and Not verified; website in YAML is a source record, not shown):
 
 ```yaml
 partners:
@@ -96,10 +96,10 @@ partners:
   source_checked: 2026-11-02
 ```
 
-Card rules (enforced in `build.py`): Basic shows name, phone (`tel:` link) and website as **plain text** (never a clickable website link), and is labeled **Not verified**. Verified and Recommended add a **Call Now** button and a clickable website link (`rel="sponsored nofollow"`). Paid listings do not show verification wording. Recommended sorts first, is visually the exclusive top spot, is labeled **Recommended**, and has a nearby paid-placement disclosure: "Paid placement. We receive referral fees from this partner." (brand #111111 / #FFC20E). A short disclaimer states partners are independent businesses and HowToDumpIt does not vouch for their work.
+Card rules (enforced in `build.py`): Basic shows only the name, phone (`tel:` link) and a **Not verified** label. It never shows a website, not even as plain text. A `website` field may stay in the YAML as a source record. Verified and Recommended add a **Call Now** button and a clickable website link (`rel="sponsored nofollow"`). Paid listings do not show verification wording. Recommended sorts first, is visually the exclusive top spot, is labeled **Recommended**, and has a nearby paid-placement disclosure: "Paid placement. We receive referral fees from this partner." (brand #111111 / #FFC20E). A short disclaimer states partners are independent businesses and HowToDumpIt does not vouch for their work.
 
 ### Listing presentation rule (permanent, Adam 11/10/2026)
-Free (non-paying) company and charity listings stay on the page but are compact secondary **"after runs"**: smaller type, tighter rows, and less real estate than paid cards, always placed below any Recommended or Verified Partner. Recommended and Verified Partner listings get the large, prominent card treatment. Official city drop-off cards (`listings:`) are unchanged. Keep the **Not verified** label on every free Basic Listing and keep all existing sponsored/affiliate and paid-placement disclosures. Free listings must not have a clickable website link; paid Recommended and Verified listings do, at $1.49 per real click once click tracking is live (Adam, 11/11/2026). The Become a Recommended Partner CTA stays in the footer and on /become-a-featured-partner/ only (no second partner CTA on city guides). Shared CSS classes in `static/style.css` (`.partner-basic`, `.partner-verified`, `.partner-recommended`, `.partners-list-paid`, `.partners-list-free`) plus `partners_html()` in `build.py` apply this to every city guide and every future partner or charity card. Pages with only free listings should still look complete and useful; do not leave an empty paid slot.
+Free (non-paying) company and charity listings stay on the page but are compact secondary **"after runs"**: smaller type, tighter rows, and less real estate than paid cards, always placed below any Recommended or Verified Partner. Recommended and Verified Partner listings get the large, prominent card treatment. Official city drop-off cards (`listings:`) are unchanged. Keep the **Not verified** label on every free Basic Listing and keep all existing sponsored/affiliate and paid-placement disclosures. Free compact rows never show a website, not even as plain text (Adam, 11/11/2026; company 1c7ae6d). Paid Recommended and Verified listings get a clickable website link, at $1.49 per real click once click tracking is live. The Become a Recommended Partner CTA stays in the footer and on /become-a-featured-partner/ only (no second partner CTA on city guides). Shared CSS classes in `static/style.css` (`.partner-basic`, `.partner-verified`, `.partner-recommended`, `.partners-list-paid`, `.partners-list-free`) plus `partners_html()` in `build.py` apply this to every city guide and every future partner or charity card. Pages with only free listings should still look complete and useful; do not leave an empty paid slot.
 
 ## Style rule (permanent)
 Use American English spelling (color, center, tire, analyze, favorite, specialize) and US dates only (October 13, 2026 or 10/13/2026). Never DD/MM/YYYY. This applies to pages, pitch emails and reports.
@@ -108,7 +108,7 @@ Use American English spelling (color, center, tire, analyze, favorite, specializ
 Build and nightly work must follow this. Full SOP: company `rules/outreach-operations.md`.
 
 1. Do not publish a new city guide, and do not pitch a city, until **4 free local listings** are live on that page. Each must be checked on the organisation's own website as serving that city. Their cards use the free Basic treatment and stay labeled **Not verified**. If four cannot be found, hold the city back — do not publish or pitch it.
-2. Unreplied prospects stay as compact free "after runs" rows (**Not verified**, phone `tel:` link, website as plain text only, below any paid cards) through the first pitch and up to **3 nudges**, sent at least 7 days apart.
+2. Unreplied prospects stay as compact free "after runs" rows (name, phone `tel:` link and **Not verified** only, with no website, below any paid cards) through the first pitch and up to **3 nudges**, sent at least 7 days apart.
 3. The three outcomes (do not skip any) and the remove loop:
    - They reply and pay: upgrade the entry to `tier: verified` ($8) or `tier: recommended` ($14.99).
    - They opt out or ask us to stop: remove the listing from the city page immediately and do not add them back. Never contact them again.

@@ -1,6 +1,6 @@
 ---
 title: 'Become a Recommended Partner: List Your Hauling Business or Charity'
-description: 'Free Basic Listings (name, phone and website) for legitimate local haulers and charities in our city guides, plus Verified Partner ($8 per call or email) and the exclusive Recommended spot ($14.99 per call or email). Paid partners also get a clickable website link at $1.49 per click. No leads, no pay, and new partners get their first 3 calls or emails free.'
+description: 'Free Basic Listings (name and phone) for legitimate local haulers and charities in our city guides, plus Verified Partner ($8 per call or email) and the exclusive Recommended spot ($14.99 per call or email). Paid partners also get a clickable website link at $1.49 per click. No leads, no pay, and new partners get their first 3 calls or emails free.'
 short: Become a Recommended Partner
 ---
 # Become a Recommended Partner
@@ -11,7 +11,7 @@ HowToDumpIt exists to help people get rid of junk the right way. That means dona
 
 ### 1. Basic Listing: Free
 
-Any legitimate local junk removal business, hauler, cleanout crew, reuse center or charity that serves one of our [cities](/#cities) can get a Basic Listing at **no cost**: your **name, phone and website**. The website is shown as plain text, not as a clickable link. There's no catch and no obligation to upgrade. Free Basic Listings are labeled **Not verified** and appear as compact secondary listings below any Recommended or Verified Partners.
+Any legitimate local junk removal business, hauler, cleanout crew, reuse center or charity that serves one of our [cities](/#cities) can get a Basic Listing at **no cost**: your **name and phone**, labeled **Not verified**. There's no catch and no obligation to upgrade. Free Basic Listings appear as compact secondary listings below any Recommended or Verified Partners.
 
 ### 2. Verified Partner: $8 per Call or Email
 

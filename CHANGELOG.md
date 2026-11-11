@@ -1,3 +1,11 @@
+## 11/11/2026 (Free compact rows: name, phone and Not verified only)
+
+- Unreplied / free Basic Listing compact rows now show only the name, the phone and a **Not verified** label. They never show a website, not even as plain text (Adam, 11/11/2026; company 1c7ae6d). Paid Recommended and Verified Partner cards are unchanged and still get a clickable website link.
+- `build.py` no longer renders a website, note or "Checked" date on free compact rows. A `website` field may stay in the YAML as a source record.
+- `consistency_check` now fails if a free Basic Listing row contains a website (link, `partner-web` span, or visible `http` / `www.` text).
+- Public copy on /become-a-featured-partner/ now describes a free Basic Listing as name and phone, labeled Not verified.
+- Checks: consistency_check 66 pages 0 problems; mobile_check 66 pages x 5 widths (320/375/390/412/1280) 0 FAIL 0 WARN.
+
 ## 11/11/2026 (El Paso, Louisville, Nashville, Milwaukee, Memphis, Albuquerque and Cambridge–Somerville Basic Listings)
 
 - Added four free Basic Listings near the top of each of /el-paso-tx/, /louisville-ky/, /nashville-tn/, /milwaukee-wi/, /memphis-tn/, /albuquerque-nm/ and /cambridge-somerville-ma/. All verified on each organization's own website on 11/11/2026 (name, phone, and service in that city). No emails were sent.

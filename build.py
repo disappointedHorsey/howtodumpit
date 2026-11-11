@@ -184,8 +184,11 @@ def partners_html(items, city_slug=""):
     Paid tiers (Recommended, Verified Partner) are large prominent cards and sort first.
     Free Basic Listings (companies and charities) are compact secondary "after runs"
     below any paid cards (Adam, 11/10/2026). Official drop-off `listings:` are unchanged.
-    Paid tiers get a clickable website link (rel="sponsored nofollow"). Free listings
-    show the website as plain text, never as a link (Adam, 11/11/2026).
+    Paid tiers get a clickable website link (rel="sponsored nofollow"). Unreplied /
+    free compact rows show only the name, a clickable phone number, and the
+    "Not verified" label. They never show a website, not even as plain text
+    (Adam, 11/11/2026; company 1c7ae6d). A website or note may stay in the YAML
+    as a source record; they are not rendered on free compact rows.
     The section is inserted near the top of the city guide, just before the
     Mattresses heading. Returns an empty string when there are no partners, so
     cities with no listings get no empty box (Adam, 11/11/2026).
@@ -244,17 +247,15 @@ def partners_html(items, city_slug=""):
                 phone_esc = html.escape(phone)
                 ev = f"tel-{city_slug}-{slug}" if city_slug else f"tel-{slug}"
                 meta.append(f'<span class="partner-phone"><a href="{tel}"{_click_attr(ev)}>{phone_esc}</a></span>')
-            if website:
-                # Free listings: domain as plain text, never a clickable link (Adam, 11/11/2026).
-                label = html.escape(_website_label(website))
-                meta.append(f'<span class="partner-web">{label}</span>')
+            # Free compact rows never show a website, not even as plain text.
             if meta:
                 sep = '<span class="partner-meta-sep" aria-hidden="true"> · </span>'
                 bits.append('<p class="partner-meta">' + sep.join(meta) + "</p>")
-        if note:
-            bits.append(f'<p class="partner-note">{html.escape(note)}</p>')
-        if checked:
-            bits.append(f'<p class="partner-checked">Checked {html.escape(us_date(checked))}</p>')
+        if public_tier in ("verified", "recommended"):
+            if note:
+                bits.append(f'<p class="partner-note">{html.escape(note)}</p>')
+            if checked:
+                bits.append(f'<p class="partner-checked">Checked {html.escape(us_date(checked))}</p>')
         bits.append("</li>")
         row = "".join(bits)
         if public_tier in ("verified", "recommended"):

@@ -18,7 +18,8 @@ What it checks on every built page (redirect stubs skipped):
   city-seo      city guides: title <= 60, description <= 160, visible
                 breadcrumb, BreadcrumbList JSON-LD, Nearby Cities (3+ links);
                 home page <a> links to every city guide; partner tel: and
-                website links carry data-goatcounter-click
+                paid website links carry data-goatcounter-click; free compact
+                "Not verified" rows never show a website
 Stdlib only, so it runs anywhere (CI, nightly routines, pre-push).
 """
 import difflib, html, pathlib, re, sys, urllib.parse
@@ -271,6 +272,14 @@ def check_page(path, root, pages_ids):
     if re.search(r'class="[^"]*\bpartner-basic\b', raw):
         if "Not verified" not in raw:
             add("term", 'a free Basic Listing is missing the "Not verified" label')
+    # Adam 11/11/2026 (company 1c7ae6d): unreplied / free compact rows show only
+    # name, phone and "Not verified" — no website, not even as plain text.
+    for m in re.finditer(r'<li class="[^"]*\bpartner-basic\b[^"]*"[^>]*>.*?</li>', raw, re.S):
+        row = m.group(0)
+        if re.search(r'class="[^"]*\bpartner-web\b', row) or re.search(r'https?://|www\.', row, re.I):
+            add("term", "a free Basic Listing must not show a website, even as plain text")
+        if re.search(r'<a\b(?![^>]*href=["\']tel:)', row):
+            add("term", "a free Basic Listing may only link the phone number")
     if re.search(r'class="[^"]*\bpartner-recommended\b', raw):
         if "Recommended" not in raw:
             add("term", 'a Recommended listing is missing the "Recommended" label')
