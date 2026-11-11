@@ -17,6 +17,31 @@ listings:
   cost: 'No charge for 1 large bulky item, such as a mattress set; $15 per unit (load) for more than 1 item (County residents, July 2026 to June 2027 fees)'
   details: 'Compost Central (140 Valleydale Rd., Charlotte, NC 28214), Foxhole (17131 Lancaster Hwy., Charlotte, NC 28277), Hickory Grove (8007 Pence Rd., Charlotte, NC 28215) and North Mecklenburg (12300 N. Statesville Rd., Huntersville, NC 28078). Monday to Saturday, 7 a.m. to 4 p.m. Limit 1 mattress and 1 box spring. County residents get a free blue entry sticker at the fee booth (show a driver''s license or other proof of residence). Debit or credit cards only (no American Express); no cash or checks.'
   source: https://wipeoutwaste.mecknc.gov/where-can-i-recycle
+partners:
+- tier: basic
+  name: Dr Junk
+  phone: '(980) 328-7274'
+  website: https://www.drjunk.com/
+  note: Junk removal serving Charlotte and nearby cities, including mattress disposal.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Duke's Junk Removal
+  phone: '(704) 496-0923'
+  website: https://dukesjunk.com/
+  note: Locally owned Charlotte crew for furniture, appliances, mattresses and property cleanouts.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Habitat for Humanity Charlotte Region ReStores
+  phone: '(704) 716-7044'
+  website: https://www.cltregionrestore.org/location/wendover
+  note: Charlotte drop-off at the Wendover ReStore, 1133 N. Wendover Rd., and the Wilkinson ReStore, 3326 Wilkinson Blvd.; donation pickup available.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Junk Doctors
+  phone: '(704) 659-1482'
+  website: https://junkdrs.com/
+  note: Locally owned junk removal from a Charlotte office, serving Charlotte and Mecklenburg County.
+  source_checked: 2026-11-11
 ---
 # Junk Disposal in Charlotte, NC: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

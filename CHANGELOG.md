@@ -1,3 +1,13 @@
+## 11/11/2026 (Charlotte, Boston, Fresno, Detroit and Baltimore Basic Listings)
+
+- Added four free Basic Listings near the top of each of /charlotte-nc/, /boston-ma/, /fresno-ca/, /detroit-mi/ and /baltimore-md/. All verified on each organization's own website on 11/11/2026 (name, phone, and service in that city). No emails were sent.
+- Charlotte: Dr Junk, Duke's Junk Removal, Habitat for Humanity Charlotte Region ReStores, and Junk Doctors. Haulchemy was not added.
+- Boston: Casablanca Services, Habitat for Humanity Greater Boston ReStore, Junk Dispatch, and Lug Away.
+- Fresno: Habitat for Humanity Greater Fresno Area ReStore, Junky Junk Removal, JunkGuyz559, and Papi's Junk Removal.
+- Detroit: Furniture Bank of Metro Detroit, Metro Load Runners, Penguin Junk Removal, and Tee's Junk Removal.
+- Baltimore: Antonio's Junk Removal & Hauling, Charm City Haulers, Trash and Dash Junk Removal, and TurboHaul. Habitat for Humanity of the Chesapeake ReStores was not added because its site presented a bot-check wall, so the phone could not be confirmed on the organization's own page this turn.
+- Checks: consistency_check 66 pages 0 problems; mobile_check 66 pages x 5 widths (320/375/390/412/1280) 0 FAIL 0 WARN.
+
 ## 11/11/2026 (National companies as a small plain-text line)
 
 - City guides no longer have (and still must not have) the "Book Paid Junk Removal" box or any 1800gotjunk.com / goloadup.com booking link. Commit dc2bd11 had already removed that box from the top of every city page; a live check of /austin-tx/, /fresno-ca/, /denver-co/ and other guides on 11/11/2026 found no remaining national-chain box, button or link in the footer or anywhere else on the page.

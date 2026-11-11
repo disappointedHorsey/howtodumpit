@@ -17,6 +17,31 @@ listings:
   cost: 'No fee listed for mattress recycling; the City says its Residential Drop-Off Centers are free for residents'
   details: 'Clean, dry mattresses and box springs are recycled through the City''s partner Turbo Haul at 6100 Quarantine Road, Monday to Saturday. You unload them yourself into the marked collection unit. Sheets, blankets and other bedding go in a separate drop-off area.'
   source: https://www.baltimorecity.gov/publicworks/mattress-and-box-spring-recycling
+partners:
+- tier: basic
+  name: Antonio's Junk Removal & Hauling
+  phone: '(443) 721-8386'
+  website: https://antoniojunk.com/
+  note: Baltimore junk removal and hauling for homes and businesses, including furniture, appliances and cleanouts.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Charm City Haulers
+  phone: '(443) 680-9309'
+  website: https://www.charmcityhaulers.com/
+  note: Family-owned junk removal and demolition based in Baltimore, serving the city and nearby counties.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Trash and Dash Junk Removal
+  phone: '(443) 559-7882'
+  website: https://trashanddashjunkremoval.com/
+  note: Junk removal and light demolition serving Baltimore and surrounding Maryland areas.
+  source_checked: 2026-11-11
+- tier: basic
+  name: TurboHaul
+  phone: '(301) 604-8090'
+  website: https://www.turbohaul.com/
+  note: Junk removal and mattress recycling serving Baltimore, with a Baltimore location at 6201 Robinwood Road.
+  source_checked: 2026-11-11
 ---
 # Junk Disposal in Baltimore, MD: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

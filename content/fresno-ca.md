@@ -22,6 +22,31 @@ listings:
   cost: Not listed by the County; call 559-264-1048 before you go
   details: 'Fresno County lists this site for mattresses on its Special Handling page. CARTS and Mid Valley Disposal are also listed for mattresses.'
   source: https://cleanupfresnocounty.com/special-handling/
+partners:
+- tier: basic
+  name: Habitat for Humanity Greater Fresno Area ReStore
+  phone: '(559) 237-7867'
+  website: https://www.habitatfresno.org/restore/
+  note: ReStore in Clovis at 1631 Railroad Ave. serving Fresno and Madera counties; accepts new and gently used donations, with pickup by appointment.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Junky Junk Removal
+  phone: '(559) 803-9390'
+  website: https://www.junkyjunkremoval.com/
+  note: Locally owned, family-operated junk removal serving Fresno since 2019.
+  source_checked: 2026-11-11
+- tier: basic
+  name: JunkGuyz559
+  phone: '(559) 801-2700'
+  website: https://junkguyz559.com/
+  note: Junk removal in Fresno, Clovis and the Central Valley; donates and recycles when possible.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Papi's Junk Removal
+  phone: '(559) 575-0516'
+  website: https://www.papisjunkremoval.com/
+  note: Family-owned junk removal from Clovis, serving Fresno with same-day hauling; donates or recycles what it can.
+  source_checked: 2026-11-11
 ---
 # Junk Disposal in Fresno, CA: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

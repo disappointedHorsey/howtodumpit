@@ -17,6 +17,31 @@ listings:
   cost: 'Free (City 2026 Curbside Collection guide)'
   details: 'Southfield Yard (12255 Southfield) and Davison Yard (8221 W. Davison) take bulk, recycling and yard waste; J. Fons Transfer Station (6451 E. McNichols) takes bulk and yard waste. Limit of 1,000 pounds per person per day. No construction debris (except paid at J. Fons), household garbage or chemicals.'
   source: https://detroitmi.gov/departments/department-public-works/refuse-collection/bulk-yard-waste/free-citizen-bulk-drop-centers
+partners:
+- tier: basic
+  name: Furniture Bank of Metro Detroit
+  phone: '(248) 332-1300'
+  website: https://www.furniture-bank.org/donate-furniture/
+  note: Free pickup of gently used furniture and mattresses for families in Wayne, Macomb and Oakland counties.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Metro Load Runners
+  phone: '(313) 288-8477'
+  website: https://metroloadrunners.com/home
+  note: Locally owned Detroit junk removal, demolition and dumpster hauling, including same-day service.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Penguin Junk Removal
+  phone: '(248) 690-5865'
+  website: https://www.penguinjunkremoval.com/service-area/detroit/
+  note: Locally owned crew providing junk removal across Detroit; donates or recycles what it can.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Tee's Junk Removal
+  phone: '(248) 845-6621'
+  website: https://www.teesjunkremoval.com/
+  note: Locally owned junk removal based in Detroit, serving the city and surrounding areas.
+  source_checked: 2026-11-11
 ---
 # Junk Disposal in Detroit, MI: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

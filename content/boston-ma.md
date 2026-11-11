@@ -17,6 +17,31 @@ listings:
   cost: 'Set by each company; some prices are listed on the City page'
   details: 'If you live in a building with 7 or more units, or you have used your 10 City pickups for the year, the City says to contact your property manager or a private mattress recycling hauler. Boston Public Works posts a list of local mattress recyclers (not an endorsement).'
   source: https://www.boston.gov/departments/public-works/large-residential-buildings
+partners:
+- tier: basic
+  name: Casablanca Services
+  phone: '(508) 271-5655'
+  website: https://www.casablancaservicesco.com/
+  note: Mattress pickup and junk removal serving Greater Boston; listed as a City of Boston mattress recycler.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Habitat for Humanity Greater Boston ReStore
+  phone: '(617) 327-1170'
+  website: https://habitatboston.org/restore/
+  note: Donation drop-off at 1580 VFW Parkway, West Roxbury; accepts new and gently used household goods and building materials.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Junk Dispatch
+  phone: '(781) 504-7480'
+  website: https://junkdispatch.com/
+  note: Family-owned junk removal based in Saugus, serving all of Boston, Essex, Suffolk and Middlesex counties.
+  source_checked: 2026-11-11
+- tier: basic
+  name: Lug Away
+  phone: '(617) 390-8741'
+  website: https://lugaway.com/service-areas/boston-ma/
+  note: Locally owned junk removal based in Newton, serving Boston neighborhoods including Back Bay, the South End and Beacon Hill.
+  source_checked: 2026-11-11
 ---
 # Junk Disposal in Boston, MA: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 
