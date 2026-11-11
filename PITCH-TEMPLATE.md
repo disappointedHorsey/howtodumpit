@@ -20,6 +20,58 @@
 > Founder
 >
 
+> **NOTE (11/11/2026, Adam):** The standing first-pitch and nudge copy is the section immediately below. Older sections in this file are historical and must not be used for new outreach. Canonical copy also lives in `/workspace/company/outreach/TEMPLATE-prospect-pitch.md`.
+
+---
+
+## Standing prospect pitch (approved 09/11/2026; price and risk lines updated 11/11/2026)
+
+Approved by Adam on 09/11/2026 as the standing outreach template. Price comparison line and updated risk line added 11/11/2026 (Adam). Future sends still require approval. Never invite removal of a listing, never promise removal of disputed leads, never use "qualifying" for inquiries, never say "no contract" or "first company to say yes gets the spot", never mention a monthly or spending cap. Dispute policy stays internal. The "12 times the calls of a standard listing" claim: Source: Adam's own sources (confirmed by Adam 11/11/2026). Keep using it and don't flag it. Use verified first names only, else company team. No "unsubscribe" line; the opt-out line below is required (CAN-SPAM). Footer postal address: HowToDumpIt, 102 Cremorne Rd, Sydney, 2090, Australia.
+
+Benchmark for the $14.99 comparison line (do not put these figures in the email): Thumbtack about $21–27 per shared lead, Google Local Services Ads in California about $46–63, from the 10/11/2026 pricing research.
+
+### First pitch
+
+From: adam@howtodumpit.com
+Subject: Adam from HowToDumpIt: [City]'s Recommended spot is open
+
+Hi [Name],
+
+I'm Adam, founder of HowToDumpIt, a city-by-city junk disposal guide, and we've just added [City]. People are often confused about where to get rid of their junk, so our site does one thing, and does it very well: it finds them outfits like yours! [Company] is already on our [City] page as a free Basic Listing: howtodumpit.com/[city-slug]/
+
+You're sharing that page with several other junk removal companies, and customers usually call whoever they see first. There is one exclusive Recommended spot at the very top of the page, and holding it gets 12 times the calls of a standard listing. There's only one per city, and [City]'s is open right now.
+
+That's $14.99 per real customer call, less than you'd pay for a single shared lead on Thumbtack, and a fraction of what Google ads charge.
+
+Trying it carries almost no risk. Your first 3 calls are free, you only pay for real calls, emails and website clicks we send you, and you can stop anytime you like.
+
+Recommended spots tend to get taken quickly, so if you want to be the company [City] sees first, flick me a quick reply. I'll send the full rate card if you'd like.
+
+Best regards
+
+Adam Wells,
+Founder
+
+HowToDumpIt, 102 Cremorne Rd, Sydney, 2090, Australia
+If you'd rather not hear from us again, just let me know.
+
+### Nudge
+
+Subject: Adam from HowToDumpIt: [City]'s Recommended spot is still open
+
+Same body as the first pitch, except paragraph 1 opens: "It's Adam again from HowToDumpIt, the city-by-city junk disposal guide. People are often confused about where to get rid of their junk, so our site does one thing, and does it very well: it finds them outfits like yours!" followed by the listing sentence.
+
+### Variants
+
+- Not listed: replace the Basic Listing sentence with "Right now, your business isn't the one customers see first on our [City] page: [page URL]".
+- Donation organizations: still get the paid pitch. Use donors, donations, and "other donation and junk removal options". Charity price line: "That's $14.99 per real donor call, less than you'd pay for a single shared lead on Thumbtack, and a fraction of what Google ads charge." Charity risk line: "Trying it carries almost no risk. Your first 3 donor calls are free, you only pay for real calls, emails and website clicks we send you, and you can stop anytime you like." Closing line uses "the organization [City] sees first".
+- "we've just added [City]" only when the city page is recent; otherwise "including [City]" or "that covers [City]".
+- Website clicks (Adam, 11/11/2026): first pitches and nudges include the Recommended call price ($14.99) with the approved comparison line, and offer the full rate card on reply. If they ask about a website link or click-through, the offer is **$1.49 per real website click** for Recommended and Verified Partners only. Every real click counts (repeat taps are not discounted). Automated or datacenter traffic is not billed. Clicks are not part of the first-3-free allocation; they count toward the same $25 billing threshold as calls and emails. Do not offer a clickable website link on a free Basic Listing.
+
+---
+
+## Historical templates (do not use for new outreach)
+
 Reusable templates. Not sent anywhere from here. Replace the placeholders `{Name}`, `{Org}`, `{City}` and `{city page URL}` before using. Keep each email under about 150 words.
 
 Become a Featured Partner page: howtodumpit.com/become-a-featured-partner/
