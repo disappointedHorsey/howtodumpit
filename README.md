@@ -2,6 +2,8 @@
 
 Adopted by Adam Wells, Executive Chairman, on 05/11/2026 as hard decisions for everything HowToDumpIt does from now on. They apply to every agent, executive, routine, report, email and page. Adam's earlier hard rules (truth to Adam, never guess money, phone number never public, dates and spelling, email rules, security) still apply, and where any of these conflict, truth and accuracy win.
 
+**SOP meta-rule (Adam, 11/11/2026, 12:57 PM Sydney):** every new rule Adam creates must be added to the SOP manual Page, the PDF and the company rules files at the same time, automatically.
+
 1. **Role.** Be concise and high-signal. Optimize every reply for usefulness per word. Think carefully, but show only the result unless Adam asks for reasoning.
 2. **Token policy.**
    - Start with the direct answer. Skip greetings, restating the request, and generic caveats.
@@ -111,9 +113,12 @@ Build and nightly work must follow this. Full SOP: company `rules/outreach-opera
 2. Unreplied prospects stay as compact free "after runs" rows (name, phone `tel:` link and **Not verified** only, with no website, below any paid cards) through the first pitch and up to **3 nudges**, sent at least 7 days apart.
 3. The three outcomes (do not skip any) and the remove loop:
    - They reply and pay: upgrade the entry to `tier: verified` ($8) or `tier: recommended` ($14.99).
-   - They opt out or ask us to stop: remove the listing from the city page immediately and do not add them back. Never contact them again.
+   - They opt out or ask us to stop: remove the listing from the city page immediately, keep a minimal suppression record, and never contact them again. Then find the next best verified local haulier in that city (not previously pitched or suppressed, verified on its own site), add it as a free Not verified listing (name and phone only), and run the full onboarding (pitch drafted for Adam's approval, then the reminder and 3-nudge loop). The page never drops below 4 listings. The Pitch reply watch routine detects opt-outs and does this.
    - Every prospect in the city has had the pitch plus 3 nudges, the last one 7 or more days ago, and none replied: **remove** all of those listings from the page, mark them **discarded, city restart**, and never contact them again. Add 4 new verified local hauliers as free Basic Listings, then queue pitches for Adam's approval. **Repeat this remove-and-replace loop** until someone in the city replies. Do not restart a city without first removing the old listings.
 4. Any reply at all stops the restart for that city; flag it to Adam.
+
+## Opt-out replacement (permanent, Adam 11/11/2026, 12:57 PM Sydney)
+If any haulier or prospect in any city unsubscribes or opts out, remove them from the site immediately and keep a minimal suppression record. Then find the next best verified local haulier in that city (not previously pitched or suppressed, verified on its own site), add it as a free Not verified listing (name and phone only), and run the full onboarding: pitch drafted for Adam's approval, then the reminder and 3-nudge loop. The page never drops below 4 listings. The Pitch reply watch routine detects opt-outs and carries this out. Full SOP: company `rules/outreach-operations.md`.
 
 ## Pitch targeting rule (permanent)
 Before drafting any pitch, confirm from the org's own website (address plus service-area page) that it actually serves that city. Skip orgs that don't serve it. The pitch must name the org's real location and coverage accurately. Record the verified location and source URL in PITCHES.md.

@@ -262,13 +262,13 @@ Gmail verified first (all mail incl. spam/trash): no replies and no prior FU2 fo
 
 
 
-## Virginia Beach + Jacksonville v2 pitches PREPARED 11/11/2026 (nightly; QUEUED FOR DAILY APPROVAL, NOT SENT)
-Drafts with exact bodies: /workspace/company/outreach/virginia-beach-jacksonville-pitches-11-11-2026.md. Prior-contact check (Gmail all mail incl. spam/trash + records): none. Basic Listings LIVE first (commit 7f9a0e4, HTTP 200). Nothing sent.
+## Virginia Beach + Jacksonville v2 pitches SENT 11/11/2026 (batch complete; do not resend)
+Drafts: /workspace/company/outreach/virginia-beach-jacksonville-pitches-11-11-2026.md. Ledger: /workspace/company/outreach/SEND-LEDGER-11-11-2026.md. All from adam@howtodumpit.com, new threads, verified in Gmail Sent. Adam pressed Send. First nudges due 18/11/2026.
 
 | Org | City | First name (source) | To | Verified location / source | Status |
 |---|---|---|---|---|---|
-| The Junk Uncles | Virginia Beach, VA | – | thejunkuncles@gmail.com | Service areas Virginia Beach, Norfolk, Chesapeake; 757-448-8282 (junkunk.com/about-us) | Queued, not sent |
-| JDog Junk Removal & Hauling Virginia Beach | Virginia Beach, VA | – | vbjunkremoval@jdog.com | Virginia Beach and Hampton Roads; (757) 618-8164 (jdogvb.com/contact-us) | Queued, not sent |
-| Habitat for Humanity of South Hampton Roads ReStore | Virginia Beach, VA | – | donationpickups@shrhabitat.org | Virginia Beach ReStore, 955 Providence Square, VA 23464; 757-474-0069 (shrhabitat.org/discover/restores/) | Queued, not sent |
-| Epic Junk Services | Jacksonville, FL | Tre (owner Tre Waters, own site About page) | tre@epicjunkservices.com | Duval, Clay and St. Johns counties; 904.327.3834 (epicjunkservices.com/about) | Queued, not sent |
-| Duval Junk Removal | Jacksonville, FL | – | duvaljunk904@gmail.com | Located in Jacksonville; Jacksonville, Orange Park, NE Florida; (904) 469-2289 (duvaljunkremovals.com) | Queued, not sent |
+| The Junk Uncles | Virginia Beach, VA | – | thejunkuncles@gmail.com | Service areas Virginia Beach, Norfolk, Chesapeake; 757-448-8282 (junkunk.com/about-us) | SENT 11/11/2026 12:55:52 Sydney (msg 1a1c85197b6d3d50). First nudge due 18/11/2026. Do not resend. |
+| JDog Junk Removal & Hauling Virginia Beach | Virginia Beach, VA | – | vbjunkremoval@jdog.com | Virginia Beach and Hampton Roads; (757) 618-8164 (jdogvb.com/contact-us) | SENT 11/11/2026 12:55:53 Sydney (msg 1a1c8519935a4cd4). First nudge due 18/11/2026. Do not resend. |
+| Habitat for Humanity of South Hampton Roads ReStore | Virginia Beach, VA | – | donationpickups@shrhabitat.org | Virginia Beach ReStore, 955 Providence Square, VA 23464; 757-474-0069 (shrhabitat.org/discover/restores/) | SENT 11/11/2026 12:54:46 Sydney (msg 1a1c85092a0b3fb0). First nudge due 18/11/2026. Do not resend. |
+| Epic Junk Services | Jacksonville, FL | Tre (owner Tre Waters, own site About page) | tre@epicjunkservices.com | Duval, Clay and St. Johns counties; 904.327.3834 (epicjunkservices.com/about) | SENT 11/11/2026 12:54:46 Sydney (msg 1a1c85095c3f9545). First nudge due 18/11/2026. Do not resend. |
+| Duval Junk Removal | Jacksonville, FL | – | duvaljunk904@gmail.com | Located in Jacksonville; Jacksonville, Orange Park, NE Florida; (904) 469-2289 (duvaljunkremovals.com) | SENT 11/11/2026 12:56:33 Sydney (msg 1a1c85238a0e4c8b). First nudge due 18/11/2026. Do not resend. |

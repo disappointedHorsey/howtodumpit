@@ -26,7 +26,7 @@
 
 ## Standing prospect pitch (approved 09/11/2026; price and risk lines updated 11/11/2026)
 
-Approved by Adam on 09/11/2026 as the standing outreach template. Price comparison line and updated risk line added 11/11/2026 (Adam). Future sends still require approval. Never invite removal of a listing, never promise removal of disputed leads, never use "qualifying" for inquiries, never say "no contract" or "first company to say yes gets the spot", never mention a monthly or spending cap. Dispute policy stays internal. The "12 times the calls of a standard listing" claim: Source: Adam's own sources (confirmed by Adam 11/11/2026). Keep using it and don't flag it. Use verified first names only, else company team. No "unsubscribe" line; the opt-out line below is required (CAN-SPAM). Footer postal address: HowToDumpIt, 102 Cremorne Rd, Sydney, 2090, Australia.
+Approved by Adam on 09/11/2026 as the standing outreach template. Price comparison line and updated risk line added 11/11/2026 (Adam). Wording refined 11/11/2026, 12:52–12:55 PM Sydney (Adam): the listing line is its own paragraph; the risk line ends "and you can stop anytime" (no "you like"); the close is "flick me a quick reply. I'll send you the full rate card."; and the lead-in is "Trying it carries no risk." Future sends still require approval. Never invite removal of a listing, never promise removal of disputed leads, never use "qualifying" for inquiries, never say "no contract" or "first company to say yes gets the spot", never mention a monthly or spending cap. Dispute policy stays internal. The "12 times the calls of a standard listing" claim: Source: Adam's own sources (confirmed by Adam 11/11/2026). Keep using it and don't flag it. Use verified first names only, else company team. No "unsubscribe" line; the opt-out line below is required (CAN-SPAM). Footer postal address: HowToDumpIt, 102 Cremorne Rd, Sydney, 2090, Australia.
 
 Benchmark for the $14.99 comparison line (do not put these figures in the email): Thumbtack about $21–27 per shared lead, Google Local Services Ads in California about $46–63, from the 10/11/2026 pricing research.
 
@@ -45,9 +45,9 @@ You're sharing that page with several other junk removal companies, and customer
 
 That's $14.99 per real customer call, less than you'd pay for a single shared lead on Thumbtack, and a fraction of what Google ads charge.
 
-Trying it carries almost no risk. Your first 3 calls are free, you only pay for real calls, emails and website clicks we send you, and you can stop anytime you like.
+Trying it carries no risk. Your first 3 calls are free, you only pay for real calls, emails and website clicks we send you, and you can stop anytime.
 
-Recommended spots tend to get taken quickly, so if you want to be the company [City] sees first, flick me a quick reply. I'll send the full rate card if you'd like.
+Recommended spots tend to get taken quickly, so if you want to be the company [City] sees first, flick me a quick reply. I'll send you the full rate card.
 
 Best regards
 
@@ -61,12 +61,12 @@ If you'd rather not hear from us again, just let me know.
 
 Subject: Adam from HowToDumpIt: [City]'s Recommended spot is still open
 
-Same body as the first pitch, except paragraph 1 opens: "It's Adam again from HowToDumpIt, the city-by-city junk disposal guide. People are often confused about where to get rid of their junk, so our site does one thing, and does it very well: it finds them outfits like yours!" followed by the listing sentence.
+Same body as the first pitch, except paragraph 1 opens: "It's Adam again from HowToDumpIt, the city-by-city junk disposal guide. People are often confused about where to get rid of their junk, so our site does one thing, and does it very well: it finds them outfits like yours!" The listing line is then its own paragraph (Adam, 12:52 PM Sydney 11/11/2026).
 
 ### Variants
 
 - Not listed: replace the Basic Listing sentence with "Right now, your business isn't the one customers see first on our [City] page: [page URL]".
-- Donation organizations: still get the paid pitch. Use donors, donations, and "other donation and junk removal options". Charity price line: "That's $14.99 per real donor call, less than you'd pay for a single shared lead on Thumbtack, and a fraction of what Google ads charge." Charity risk line: "Trying it carries almost no risk. Your first 3 donor calls are free, you only pay for real calls, emails and website clicks we send you, and you can stop anytime you like." Closing line uses "the organization [City] sees first".
+- Donation organizations: still get the paid pitch. Use donors, donations, and "other donation and junk removal options". Charity price line: "That's $14.99 per real donor call, less than you'd pay for a single shared lead on Thumbtack, and a fraction of what Google ads charge." Charity risk line: "Trying it carries no risk. Your first 3 donor calls are free, you only pay for real calls, emails and website clicks we send you, and you can stop anytime." Closing line uses "the organization [City] sees first".
 - "we've just added [City]" only when the city page is recent; otherwise "including [City]" or "that covers [City]".
 - Website clicks (Adam, 11/11/2026): first pitches and nudges include the Recommended call price ($14.99) with the approved comparison line, and offer the full rate card on reply. If they ask about a website link or click-through, the offer is **$1.49 per real website click** for Recommended and Verified Partners only. Every real click counts (repeat taps are not discounted). Automated or datacenter traffic is not billed. Clicks are not part of the first-3-free allocation; they count toward the same $25 billing threshold as calls and emails. Do not offer a clickable website link on a free Basic Listing.
 
