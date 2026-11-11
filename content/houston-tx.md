@@ -36,6 +36,12 @@ partners:
   website: https://www.houstonhabitat.org/restore/
   note: ReStore at 6161 S. Loop East, Houston; donation drop-off and screened pickup.
   source_checked: 2026-11-03
+- tier: basic
+  name: 247 Junk Solutions
+  phone: '(713) 909-7759'
+  website: https://247junksolutions.com/
+  note: Locally owned junk removal serving Houston and nearby communities.
+  source_checked: 2026-11-11
 ---
 # Junk Disposal in Houston, TX: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

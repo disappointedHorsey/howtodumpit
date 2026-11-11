@@ -36,6 +36,12 @@ partners:
   website: https://www.azmetrohauling.com/
   note: Arizona-owned hauling serving Mesa, Tempe, Chandler, Gilbert and the wider Valley; donates or recycles when possible.
   source_checked: 2026-11-06
+- tier: basic
+  name: Coconut Junk Removal
+  phone: '(480) 256-2532'
+  website: https://www.coconutjunk.com/
+  note: Owner-operated junk removal based in Mesa, serving Mesa and the East Valley.
+  source_checked: 2026-11-11
 ---
 # Junk Disposal in Mesa, AZ: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

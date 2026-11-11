@@ -36,6 +36,12 @@ partners:
   website: https://www.habitatla.org/schedule-a-pickup/
   note: Los Angeles ReStore at 1071 S. La Brea Ave.; donation pickup available for qualifying items.
   source_checked: 2026-11-03
+- tier: basic
+  name: Los Angeles Junk Removal & Hauling
+  phone: '(323) 230-0777'
+  website: https://lajunkhauling.com/
+  note: Family-run, Los Angeles-based junk removal serving Los Angeles County.
+  source_checked: 2026-11-11
 ---
 # Junk Disposal in Los Angeles, CA: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

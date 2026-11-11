@@ -36,6 +36,12 @@ partners:
   website: https://nicksjunk.com/
   note: Family-owned South Florida crew serving Miami-Dade, Broward and Palm Beach counties.
   source_checked: 2026-11-09
+- tier: basic
+  name: Junk Brothers
+  phone: '(954) 787-7659'
+  website: https://junkbrothersfl.com/
+  note: Locally owned and operated junk removal in Miami, serving Miami-Dade and Broward.
+  source_checked: 2026-11-11
 ---
 # Junk Disposal in Miami, FL: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

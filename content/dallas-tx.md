@@ -32,6 +32,12 @@ partners:
   website: https://dallasareahabitat.org/restore-donation/
   note: Accepts gently used home items; free standard donation pickup when drivers are available.
   source_checked: 2026-11-08
+- tier: basic
+  name: Junk Something LLC
+  phone: '(214) 482-6264'
+  website: https://junksomething.com/
+  note: Locally owned and operated junk removal serving Dallas.
+  source_checked: 2026-11-11
 ---
 # Junk Disposal in Dallas, TX: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

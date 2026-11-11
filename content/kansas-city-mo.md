@@ -31,6 +31,12 @@ partners:
   website: https://www.clearpathjunkremoval.com/
   note: Locally owned, owner-operated crew based in the Northland and serving the Kansas City metro, Monday to Saturday.
   source_checked: 2026-11-05
+- tier: basic
+  name: Junk It KC
+  phone: '(816) 920-0291'
+  website: https://junkitkc.com/
+  note: Locally owned junk removal and cleanouts serving the Kansas City metro.
+  source_checked: 2026-11-11
 ---
 # Junk Disposal in Kansas City, MO: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 
