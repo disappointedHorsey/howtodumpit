@@ -1,3 +1,11 @@
+## 11/11/2026 (Local partners at the top; national haul-away box removed)
+
+- The **Local Junk Removal & Donation Partners** section now sits near the top of each city guide, just before the Mattresses heading, where the "Book Paid Junk Removal" box used to be. Paid tiers still come first, then free compact rows.
+- The "Book Paid Junk Removal" box, and its links to 1800gotjunk.com and goloadup.com, have been removed from every city page and from the build templates. Future nightly city pages will not have them. Do not add a national haul-away booking link unless Adam has approved a tracked affiliate link.
+- Cities with no `partners:` get no partner section and no empty box. Official city disposal content is unchanged.
+- Nightly docs (README content and partner-listing format) and `consistency_check` now require this layout: no 1800gotjunk or goloadup links on city guides, and the partner section, when present, must appear before the main guide content.
+- Checks: consistency_check 66 pages 0 problems; mobile_check 66 pages x 5 widths (320/375/390/412/1280) 0 FAIL 0 WARN.
+
 ## 11/11/2026 (City links, breadcrumbs, click events, JSON-LD and shorter titles)
 
 - Home page (and the Junk Removal hub) keep the city dropdown and now also have a plain HTML list of every city guide, grouped by state, so search engines can follow `<a>` links.

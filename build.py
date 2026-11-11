@@ -186,6 +186,9 @@ def partners_html(items, city_slug=""):
     below any paid cards (Adam, 11/10/2026). Official drop-off `listings:` are unchanged.
     Paid tiers get a clickable website link (rel="sponsored nofollow"). Free listings
     show the website as plain text, never as a link (Adam, 11/11/2026).
+    The section is inserted near the top of the city guide, just before the
+    Mattresses heading. Returns an empty string when there are no partners, so
+    cities with no listings get no empty box (Adam, 11/11/2026).
     """
     if not items: return ""
     ordered = sorted(
@@ -269,15 +272,6 @@ def partners_html(items, city_slug=""):
         f'<p class="partner-disclaimer">{PARTNER_DISCLAIMER}</p>'
         + lists + "</section>"
     )
-
-AFFILIATE_CTA = (
-    '<aside class="cta" aria-labelledby="cta-h"><h2 id="cta-h">Book Paid Junk Removal</h2>'
-    '<p>Can\'t wait for the city, or can\'t carry it to the curb? A paid junk removal crew can haul it from inside your home.</p>'
-    '<div class="cta-btns">'
-    '<a class="btn" href="https://www.1800gotjunk.com/" rel="sponsored nofollow" target="_blank">1-800-GOT-JUNK &rarr;</a>'
-    '<a class="btn btn-alt" href="https://goloadup.com/" rel="sponsored nofollow" target="_blank">LoadUp &rarr;</a></div>'
-    '<p class="disclosure"><strong>Affiliate disclosure:</strong> HowToDumpIt is an information guide and does not haul anything. '
-    'We may earn a commission if you book through these links, at no extra cost to you. Prices and service areas are set by the provider.</p></aside>')
 
 A_TAG = re.compile(r'(\s?)<a\b([^>]*?)href="([^"]+)"([^>]*)>(.*?)</a>', re.S)
 
@@ -564,12 +558,21 @@ def main():
         body_html = trim_listing_repeats(body_html)
         body_html = dedupe_links(body_html)
         if meta.get("city"):
-            # CTA after the listings block (or at the end)
-            i = body_html.find('<h2 id="mattresses"')
-            if i < 0: i = body_html.find("<h2", body_html.find('class="listings"') if 'class="listings"' in body_html else 0)
-            body_html = body_html[:i] + AFFILIATE_CTA + body_html[i:] if i > 0 else body_html + AFFILIATE_CTA
-            # Partner cards at end of city guide (official drop-off `listings:` unchanged)
-            body_html += partners_html(meta.get("partners") or [], city_slug=u.strip("/"))
+            # Local partners near the top, where the national haul-away box used to sit
+            # (just before the Mattresses heading). No empty section when a city has
+            # no partners. Official drop-off `listings:` are unchanged.
+            # Do not add 1-800-GOT-JUNK, LoadUp, or other national haul-away links
+            # unless Adam has approved a tracked affiliate link (Adam, 11/11/2026).
+            partner_block = partners_html(meta.get("partners") or [], city_slug=u.strip("/"))
+            if partner_block:
+                i = body_html.find('<h2 id="mattresses"')
+                if i < 0:
+                    listings_at = body_html.find('class="listings"')
+                    i = body_html.find("<h2", listings_at if listings_at >= 0 else 0)
+                if i > 0:
+                    body_html = body_html[:i] + partner_block + body_html[i:]
+                else:
+                    body_html = partner_block + body_html
             body_html += nearby_cities_html(u, pages)
         hero = ""
         if u == "/":
