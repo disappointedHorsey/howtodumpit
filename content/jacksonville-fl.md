@@ -25,6 +25,18 @@ partners:
   website: https://duvaljunkremovals.com/
   note: Family-operated, locally owned junk removal serving Jacksonville, Orange Park and Northeast Florida.
   source_checked: 2026-11-11
+- tier: basic
+  name: Jacksonville Hauling & Junk Removal
+  phone: '(904) 775-8120'
+  website: https://jhjremoval.com/
+  note: Locally owned, veteran-owned junk removal serving the greater Jacksonville area.
+  source_checked: 2026-11-11
+- tier: basic
+  name: First Coast Habitat for Humanity ReStore
+  phone: '(904) 329-7822'
+  website: https://www.firstcoasthabitat.org/restore/
+  note: Jacksonville ReStore at 5800 Beach Boulevard takes donated furniture and household items; pickup can be scheduled at this number.
+  source_checked: 2026-11-11
 ---
 # Junk Disposal in Jacksonville, FL: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

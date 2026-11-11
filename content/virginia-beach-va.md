@@ -36,6 +36,12 @@ partners:
   website: https://shrhabitat.org/discover/restores/
   note: Virginia Beach ReStore at 955 Providence Square takes donated furniture and appliances under 10 years old (no mattresses); free pickup for eligible items.
   source_checked: 2026-11-11
+- tier: basic
+  name: Innovative Waste
+  phone: '(757) 500-8047'
+  website: https://www.innovativewastellc.com/junk-removal-virginia-beach-va
+  note: Family-owned junk removal serving Virginia Beach residents and businesses.
+  source_checked: 2026-11-11
 ---
 # Junk Disposal in Virginia Beach, VA: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 
