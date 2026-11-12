@@ -81,7 +81,7 @@ Here's how to legally get rid of bulky junk in Kansas City, Missouri, item by it
 
 ### Outside City Limits?
 
-**Larger apartment buildings:** City bulky pickup covers single-family homes and apartments with 6 units or fewer. If you live in a larger building, ask your landlord or property manager how bulky items are handled, or book paid junk removal.
+**Larger apartment buildings:** City bulky pickup covers single-family homes and apartments with 6 units or fewer. If you live in a larger building, ask your landlord or property manager how bulky items are handled, or use one of the local junk removal companies listed above.
 
 **Kansas side and neighboring cities:** Kansas City, Kansas, Overland Park, Independence and other metro cities run their own trash services, so check your own city's page. KC Water's hazardous waste facility can't take anything from Kansas residents; it points Wyandotte County residents to 913-573-5311, Johnson County residents to 913-715-6907 and Olathe residents to 913-971-9311. ([KC Water: Household Hazardous Waste](https://www.kcwater.us/programs/hhw/)) If you live in an HOA, check with it first.
 

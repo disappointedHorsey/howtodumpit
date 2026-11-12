@@ -131,6 +131,7 @@ input,select,textarea,button{font:inherit;font-size:max(16px,1rem);max-width:100
 .updated{margin-top:2.5em;font-size:.85rem;color:var(--muted);border-top:1px solid var(--line);padding-top:12px}
 /* National companies: one small plain-text line after the guide, never a box or button */
 .national-note{margin:1.25em 0 0;padding:0;border:0;background:none;font-size:.85rem;font-weight:400;line-height:1.6;color:var(--muted)}
+.hauler-pointer{margin:.85em 0 1em;padding:0;border:0;background:none;font-weight:400}
 
 /* Tables scroll sideways inside their own box on small screens (never the whole page) */
 .table-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch;max-width:100%;margin:1em 0;border:1px solid var(--line);border-radius:10px;background:#fff}

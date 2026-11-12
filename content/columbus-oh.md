@@ -86,7 +86,7 @@ Suburbs and townships around Columbus run their own trash contracts, so check yo
 
 ### Need It Gone Today?
 
-If you can't wait for a scheduled pickup, a paid junk removal service is the fallback. *(Paid options will be added once they're verified.)*
+If you can't wait for a scheduled pickup, use one of the local junk removal companies listed above.
 
 ### Reporting Illegal Dumping
 

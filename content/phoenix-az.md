@@ -78,7 +78,7 @@ Per Phoenix City Code, **all mattresses or furniture known or suspected to be in
 
 ### Need It Gone Sooner?
 
-Self-haul to a city transfer station (see listing above) or use a paid junk removal service.
+Self-haul to a city transfer station (see listing above), or use one of the local junk removal companies listed above.
 
 *Sources: [City of Phoenix Bulk Trash](https://www.phoenix.gov/administration/departments/publicworks/residential-trash-recycling/bulk-trash-pickup.html); [New Bulk Trash Program FAQ](https://www.phoenix.gov/newsroom/public-works-news/3227.html); [Appointment bulk trash flyer (PDF)](https://www.phoenix.gov/content/dam/phoenix/publicworkssite/documents/Flyer_English_Appointment_Bulk_Trash.pdf). Checked October 12, 2026. Rules change, so confirm with the City before you set anything out.*
 

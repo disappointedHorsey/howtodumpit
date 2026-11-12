@@ -304,18 +304,41 @@ def check_page(path, root, pages_ids):
         # guides unless he has approved a tracked affiliate link. A single small
         # plain-text line may mention 1-800-GOT-JUNK and LoadUp after the local
         # partners and the guide content, never above them, and never as a
-        # button, box, heading or link. Partner section, if present, sits near
-        # the top, before the main item guide.
+        # button, box, heading or link.
+        # Adam 13/11/2026: local partners sit at the very top (after the intro,
+        # before Quick Answer). Official listings may be public/government or
+        # nonprofit options only. Commercial generic or national companies must
+        # not appear as listing cards. The mattress section must point haul-away
+        # to the local partners listed above, never to a generic paid box.
         if re.search(r"1800gotjunk\.com|goloadup\.com", raw, re.I):
             add("city-seo", "city guide has a national haul-away booking link (1800gotjunk or goloadup)")
         if "Book Paid Junk Removal" in raw or 'class="cta"' in raw or "cta-btns" in raw:
             add("city-seo", 'city guide still has the "Book Paid Junk Removal" box')
+        if re.search(r"see the box above", raw, re.I):
+            add("city-seo", 'city guide still says "see the box above" (stale national-box reference)')
+        if re.search(r"Paid options will be added once they.re verified", raw, re.I):
+            add("city-seo", "city guide still has a stale 'paid options will be added' line")
         partner_at = raw.find('id="partners-h"')
         if partner_at < 0:
             partner_at = raw.find('class="partners"')
+        qa_at = raw.find('id="quick-answer-by-item"')
         main_at = raw.find('id="mattresses"')
-        if partner_at >= 0 and main_at >= 0 and partner_at > main_at:
+        if partner_at >= 0 and qa_at >= 0 and partner_at > qa_at:
+            add("city-seo", "the Local Junk Removal & Donation Partners section must appear at the top, before Quick Answer")
+        elif partner_at >= 0 and main_at >= 0 and partner_at > main_at:
             add("city-seo", "the Local Junk Removal & Donation Partners section must appear before the main guide content")
+        # Official listing cards must not feature generic/national commercial companies.
+        banned_listing = re.compile(
+            r"1-800-GOT-JUNK|GOT-JUNK|LoadUp|Junk King|College Hunks|"
+            r"Private Mattress Recycling Haulers",
+            re.I,
+        )
+        for lm in re.finditer(r'<li class="listing">\s*<h3>([^<]*)</h3>', raw):
+            if banned_listing.search(lm.group(1)):
+                add("city-seo", f'official listing card features a generic or national company: "{lm.group(1)}"')
+        if partner_at >= 0 and main_at >= 0:
+            if 'class="hauler-pointer"' not in raw and "local junk removal companies listed above" not in raw:
+                add("city-seo", "mattress section must point haul-away to the local junk removal companies listed above")
         # Adam 11/11/2026: every live city page must have at least 4 listings
         # (compact free "Not verified" rows plus paid cards).
         n_listings = len(re.findall(r'<li class="[^"]*\bpartner\b', raw))

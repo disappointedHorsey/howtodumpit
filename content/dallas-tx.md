@@ -74,7 +74,7 @@ Set-outs over 10 cubic yards (or with prohibited items) are generally collected 
 
 ### Need It Gone Today?
 
-Use a paid junk removal service (see above).
+Use one of the local junk removal companies listed above.
 
 *Source: [Dallas Sanitation: Brush and Bulky Item Collection](https://dallascityhall.com/departments/sanitation/pages/brush_and_bulky.aspx). Checked October 12, 2026. Rules change, so confirm with 3-1-1 before you set anything out.*
 

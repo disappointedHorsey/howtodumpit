@@ -12,11 +12,6 @@ listings:
   cost: 'No fee listed on the City''s mattress page; check the page or call 311'
   details: 'For residents of buildings with 6 units or fewer. Schedule online or through 311 (617-635-4500). Put the mattress or box spring at the curb by 6 a.m. on your appointment day (or after 5 p.m. the night before). Soiled, dirty or bed-bug mattresses must be bagged and fully sealed. Limit of 10 items per calendar year.'
   source: https://www.boston.gov/departments/public-works/mattress-recycling
-- name: Private Mattress Recycling Haulers
-  type: Pickup or drop-off (private)
-  cost: 'Set by each company; some prices are listed on the City page'
-  details: 'If you live in a building with 7 or more units, or you have used your 10 City pickups for the year, the City says to contact your property manager or a private mattress recycling hauler. Boston Public Works posts a list of local mattress recyclers (not an endorsement).'
-  source: https://www.boston.gov/departments/public-works/large-residential-buildings
 partners:
 - tier: basic
   name: Casablanca Services
@@ -68,7 +63,7 @@ Live in **Cambridge or Somerville**? Those cities run their own programs. See ou
 
 ### Step by Step: City Curbside Mattress Pickup
 
-1. **Check that you qualify.** Your building must have **6 units or fewer**. In a bigger building, ask your property manager how to recycle your mattress. ([City of Boston: Mattress Recycling](https://www.boston.gov/departments/public-works/mattress-recycling))
+1. **Check that you qualify.** Your building must have **6 units or fewer**. In a bigger building, or if you have used your 10 City pickups for the year, ask your property manager how to recycle your mattress, or use one of the local junk removal companies listed above. The City also [posts a list of local mattress recyclers](https://www.boston.gov/departments/public-works/large-residential-buildings) (not an endorsement). ([City of Boston: Mattress Recycling](https://www.boston.gov/departments/public-works/mattress-recycling))
 2. **Book an appointment.** Use the scheduler on the City's mattress page, or call **311** or **617-635-4500** (email 311@boston.gov). If the scheduler can't find your address, the page links to a form. The City **won't collect any mattress without an appointment**.
 3. **Bag it if it's soiled.** Mattresses that are **soiled, dirty or have bed bugs must be bagged and fully sealed**, or the pickup may be missed. Mattress bags are sold at hardware stores and online. In bad weather, the City suggests bagging any mattress so it can be fully recycled.
 4. **Set it out on time.** Put it at the curb **by 6 a.m. on your appointment day, or after 5 p.m. the night before**, where your trash and recycling usually go. Items **on private property won't be collected**. Don't block it with cars or bins, and don't put anything on top of it.

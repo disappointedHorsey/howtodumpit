@@ -9,10 +9,10 @@ lat: 37.8044
 lon: -122.2712
 listings_title: Mattress Options at a Glance
 listings:
-- name: Oakland Bulky Curbside Pickup (WM)
+- name: City of Oakland Bulky Curbside Pickup
   type: Curbside pickup by appointment (owners and renters)
   cost: 'Included with your trash service, no extra charge; set-outs over the limits are charged'
-  details: 'Call 1-888-WM-BULKY (1-888-962-8559) or book at oaklandrecycles.com/bulky-service. Up to 4 cubic yards plus up to 4 mattresses or box springs (homes with 1 to 4 units) or 2 (apartments and condos). Set out by 6 a.m. on your appointment day.'
+  details: "The City's official bulky service, run by Waste Management of Alameda County. Call 1-888-WM-BULKY (1-888-962-8559) or book at oaklandrecycles.com/bulky-service. Up to 4 cubic yards plus up to 4 mattresses or box springs (homes with 1 to 4 units) or 2 (apartments and condos). Set out by 6 a.m. on your appointment day."
   source: https://www.oaklandrecycles.com/bulky-service/
 - name: Oakland Bulky Drop-Off (Davis Street, San Leandro)
   type: Self-haul drop-off by appointment (Oakland residents)
@@ -63,7 +63,7 @@ Here's how to legally get rid of bulky junk in the **City of Oakland**, Californ
 
 ## Mattresses and Box Springs {#mattresses}
 
-**Mattress short answer:** Book a **bulky curbside pickup** with WM. Homes with 1 to 4 units can set out up to **4 mattresses or box springs**; apartment and condo residents can set out up to **2**, as part of a pickup of up to 4 cubic yards. It's included with your trash service. ([Oakland Recycles: Bulky Junk Services](https://www.oaklandrecycles.com/bulky-service/))
+**Mattress short answer:** Book the **City's bulky curbside pickup**. Homes with 1 to 4 units can set out up to **4 mattresses or box springs**; apartment and condo residents can set out up to **2**, as part of a pickup of up to 4 cubic yards. It's included with your trash service. ([Oakland Recycles: Bulky Junk Services](https://www.oaklandrecycles.com/bulky-service/))
 
 <!--LISTINGS-->
 

@@ -87,7 +87,7 @@ Here's how to legally get rid of bulky junk in Chicago, item by item. Every opti
 
 ### Need It Gone Today / Can't Move It Yourself?
 
-City timing depends on your ward's workload. If you can't wait or need it carried out of the home, a paid junk removal service is the fallback. *(Paid options will be added once they're verified.)*
+City timing depends on your ward's workload. If you can't wait or need it carried out of the home, use one of the local junk removal companies listed above.
 
 If the mattress is still usable, Chicago Furniture Bank drop-off or their scheduled pickup (suggested donation) is the donation path we could verify.
 

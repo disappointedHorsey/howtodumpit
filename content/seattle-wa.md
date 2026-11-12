@@ -74,7 +74,7 @@ If your building has 5+ units, the property manager or owner has to book the pic
 
 ### Other Options
 
-SPU's "Where Does It Go?" tool lists reuse and donation options for items in good condition. If you can't wait, use a paid junk removal service.
+SPU's "Where Does It Go?" tool lists reuse and donation options for items in good condition. If you can't wait, use one of the local junk removal companies listed above.
 
 *Source: [Seattle Public Utilities: Special Item Pickup](https://www.seattle.gov/utilities/your-services/collection-and-disposal/garbage/special-item-collections). Checked October 12, 2026. Prices change, so confirm with SPU before booking.*
 

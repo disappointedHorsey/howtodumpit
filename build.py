@@ -195,8 +195,11 @@ def partners_html(items, city_slug=""):
     copy, e.g. a free nonprofit city partner), that exact text is rendered on
     the free row. The row stays labeled Not verified and still never shows a
     website (Adam, 12/11/2026, Blue Star Recyclers).
-    The section is inserted near the top of the city guide, just before the
-    Mattresses heading. Returns an empty string when there are no partners, so
+    The section is inserted at the top of the city guide, immediately after
+    the intro and before Quick Answer (Adam, 13/11/2026). Official
+    public/government or nonprofit drop-off cards stay in `listings:` in the
+    item sections. Commercial generic or national companies must not appear
+    as listing cards. Returns an empty string when there are no partners, so
     cities with no listings get no empty box (Adam, 11/11/2026).
     """
     if not items: return ""
@@ -291,6 +294,12 @@ def partners_html(items, city_slug=""):
 NATIONAL_NOTE = (
     '<p class="national-note">Prefer a national company? '
     '1-800-GOT-JUNK and LoadUp also serve this area.</p>'
+)
+# After official mattress listings, point haul-away to our local partners
+# (Adam, 13/11/2026). Plain sentence, not a card, box or national company.
+HAULER_POINTER = (
+    '<p class="hauler-pointer">If you want a hauler to come get the mattress, '
+    'use one of the local junk removal companies listed above.</p>'
 )
 
 A_TAG = re.compile(r'(\s?)<a\b([^>]*?)href="([^"]+)"([^>]*)>(.*?)</a>', re.S)
@@ -578,23 +587,39 @@ def main():
         body_html = trim_listing_repeats(body_html)
         body_html = dedupe_links(body_html)
         if meta.get("city"):
-            # Local partners near the top, just before the Mattresses heading.
-            # No empty section when a city has no partners. Official drop-off
-            # `listings:` are unchanged.
+            # Local partners at the top, immediately after the intro and
+            # before Quick Answer (Adam, 13/11/2026). No empty section when a
+            # city has no partners. Official public/government or nonprofit
+            # drop-off `listings:` stay in the item sections. Commercial
+            # generic or national companies must not appear as listing cards.
+            # After official mattress listings, a plain sentence points
+            # haul-away to the local partners listed above.
             # After the guide and Nearby Cities, a single small plain-text line
             # may mention 1-800-GOT-JUNK and LoadUp. No link, button, box,
             # heading or color block (Adam, 11/11/2026). Do not add a national
             # booking link unless Adam has approved a tracked affiliate link.
             partner_block = partners_html(meta.get("partners") or [], city_slug=u.strip("/"))
             if partner_block:
-                i = body_html.find('<h2 id="mattresses"')
+                i = body_html.find('<h2 id="quick-answer-by-item"')
                 if i < 0:
-                    listings_at = body_html.find('class="listings"')
-                    i = body_html.find("<h2", listings_at if listings_at >= 0 else 0)
+                    i = body_html.find('<h2 id="mattresses"')
+                if i < 0:
+                    i = body_html.find("<h2")
                 if i > 0:
                     body_html = body_html[:i] + partner_block + body_html[i:]
                 else:
                     body_html = partner_block + body_html
+                # Point the mattress section to our local haulers. Insert
+                # after the official listings block, or after the Mattresses
+                # heading if that city has no listings cards.
+                if HAULER_POINTER not in body_html:
+                    ul = re.search(r'<ul class="listings">.*?</ul>', body_html, re.S)
+                    if ul:
+                        body_html = body_html[:ul.end()] + HAULER_POINTER + body_html[ul.end():]
+                    else:
+                        mh = re.search(r'<h2 id="mattresses"[^>]*>.*?</h2>', body_html, re.S)
+                        if mh:
+                            body_html = body_html[:mh.end()] + HAULER_POINTER + body_html[mh.end():]
             body_html += nearby_cities_html(u, pages)
             body_html += NATIONAL_NOTE
         hero = ""
