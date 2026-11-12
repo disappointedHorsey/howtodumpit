@@ -1,3 +1,11 @@
+## 13/11/2026 (San Antonio: Ascent Junk & Hauling LLC bounce replacement)
+
+- Live /san-antonio-tx/ rechecked 13/11/2026: San Antonio Junk Removal (sajunk.com, bounced 06/11/2026) was already removed on 11/09/2026 (commit 5e93c3c) and is not listed. Formal suppression recorded in the company repo.
+- Added Ascent Junk & Hauling LLC as a free compact Not verified listing (name and phone only; website in front matter is not shown). Verified 13/11/2026 on https://www.ascentjunk.com/: locally owned, family-operated, based in San Antonio, Texas; (210) 719-8091; info@ascentjunk.com (domain MX Google). Not previously pitched.
+- Page stays at 5 listings (was already 4 after the 11/09 removal: StraightUp, Habitat Home Center, We Heart Junk, AY Junk Removal). We Heart Junk and AY Junk Removal publish no email on their own sites, so they were not pitched.
+- First-pitch draft queued for Adam's approval (not sent): company outreach/san-antonio-ascent-pitch-13-11-2026.md.
+- Checks: consistency_check 68 pages 0 problems; mobile_check 68 pages x 5 widths (320/375/390/412/1280) 0 FAIL 0 WARN.
+
 ## 11/13/2026 (Haulers first: generic businesses moved to one small-print block at the bottom)
 
 - HARD RULE (Adam, 13/11/2026, 9:29 AM Sydney): "Our haulers are always featured and must look fantastic; generic/national businesses only in one small-print block at the bottom; free listings smaller than Recommended."

@@ -42,6 +42,12 @@ partners:
   website: https://www.ayjunkremoval.com/
   note: Locally owned junk removal serving San Antonio and Bexar County.
   source_checked: 2026-11-11
+- tier: basic
+  name: Ascent Junk & Hauling LLC
+  phone: '(210) 719-8091'
+  website: https://www.ascentjunk.com/
+  note: Locally owned, family-operated junk removal based in San Antonio, Texas.
+  source_checked: 2026-11-13
 ---
 # Junk Disposal in San Antonio, TX: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 
