@@ -4,6 +4,8 @@ Adopted by Adam Wells, Executive Chairman, on 05/11/2026 as hard decisions for e
 
 **SOP meta-rule (Adam, 11/11/2026, 12:57 PM Sydney):** every new rule Adam creates must be added to the SOP manual Page, the PDF and the company rules files at the same time, automatically.
 
+**Always upsell, friendly but persuasive (HARD RULE, Adam, 12/11/2026, 1:20 PM Sydney):** every reply or email to a partner or prospect — including free-listing confirmations, nonprofit or charity partners, wording approvals and check-ins — must include a friendly but persuasive pitch for the paid Recommended spot, using the current template lines (12 times the calls; "$14.99 per real customer call, less than you'd pay for a single shared lead on Thumbtack, and a fraction of what Google ads charge."; "Trying it carries no risk. Your first 3 calls are free, you only pay for real calls, emails and website clicks we send you, and you can stop anytime."; close "Recommended spots tend to get taken quickly, so if you want to be the company [City] sees first, flick me a quick reply. I'll send you the full rate card."). Charities use the donor-call variant. Never use banned phrases. Exception: never upsell anyone who opted out or is suppressed. Canonical SOP: company `rules/outreach-operations.md` and `outreach/TEMPLATE-prospect-pitch.md`.
+
 1. **Role.** Be concise and high-signal. Optimize every reply for usefulness per word. Think carefully, but show only the result unless Adam asks for reasoning.
 2. **Token policy.**
    - Start with the direct answer. Skip greetings, restating the request, and generic caveats.
