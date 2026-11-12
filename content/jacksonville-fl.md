@@ -81,6 +81,10 @@ Here's how to legally get rid of bulky junk in Jacksonville, Florida, item by it
 
 **Donate:** For household goods in good condition, the City's Waste Wizard lists donation options including Vietnam Veterans of America, Salvation Army, Goodwill Industries and City Rescue Mission. Call first to confirm what they accept. ([Waste Wizard](https://www.jacksonville.gov/departments/office-of-administrative-services/solid-waste/waste-wizard))
 
+### Outside City Limits?
+
+This guide covers the **consolidated City of Jacksonville**, which takes in most of Duval County. **Jacksonville Beach, Atlantic Beach, Neptune Beach** and **Baldwin** are separate cities inside Duval County with their own trash contracts, so the City's bulk schedule doesn't apply there. In **Jacksonville Beach**, Waste Pro collects bulk items, appliances and tires; bulky items go out on Thursday or Friday depending on your zone on the City's collection map, and missed pickups go to Waste Pro at 904-740-2950. ([City of Jacksonville Beach: Sanitation Services](https://www.jacksonvillebeach.org/304/Sanitation-Services)) In Atlantic Beach, Neptune Beach, Baldwin, or neighboring **Clay, St. Johns** and **Nassau** counties, check your own city's or county's website, or call the hauler named on your bill. If you live in an apartment, condo or HOA community with a **private hauler**, ask your property manager or HOA first.
+
 ## Appliances (Fridges, Freezers, AC: Freon) {#appliances}
 
 **Major appliances are prohibited by law in landfills**, so the City collects them separately from household garbage, and **you must schedule the pickup**. Call **(904) 630-CITY (2489)** or [schedule appliance collection online through MyJax](https://myjax.custhelp.com/app/create_sr/pname/Waste%20Collection/p/129/c/380). ([Used Appliances](https://www.jacksonville.gov/departments/office-of-administrative-services/solid-waste/recycling/used-appliances))
