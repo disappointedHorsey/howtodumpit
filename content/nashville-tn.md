@@ -25,16 +25,16 @@ partners:
   note: Nashville ReStore at 414 Harding Place, Ste. 110; shop or donate Tuesday through Saturday, 9 a.m. to 5 p.m.
   source_checked: 2026-11-11
 - tier: basic
+  name: Haven Haulin' LLC
+  phone: '(615) 719-3835'
+  website: https://www.havenhaulinllc.com/service-areas
+  note: Family-owned junk removal and cleanouts based in Nashville, serving Nashville and Middle Tennessee.
+  source_checked: 2026-11-12
+- tier: basic
   name: Honey Junk Removal
   phone: '(615) 930-4848'
   website: https://www.honeyjunkremoval.com/
   note: Nashville junk removal for furniture, mattresses, appliances and cleanouts; recycles or donates when possible.
-  source_checked: 2026-11-11
-- tier: basic
-  name: Matt's Haul it All
-  phone: '(615) 474-2252'
-  website: https://www.mattshaulitall.com/
-  note: Family-owned junk removal based in Brentwood, serving Nashville and Davidson County.
   source_checked: 2026-11-11
 - tier: basic
   name: Music City Removal
