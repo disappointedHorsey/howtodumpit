@@ -292,12 +292,12 @@ Matt's Haul it All opted out (suppressed, listing removed). Replacement record a
 |---|---|---|---|---|---|
 | Haven Haulin' LLC | Nashville, TN | Jeremiah and Jessica (Jeremiah and Jessica Bivins, founders; own site /about-us) | havenhaulinllc@gmail.com | Nashville-based; service-areas page lists Nashville and Middle Tennessee; 615-719-3835 (havenhaulinllc.com/about-us, /service-areas) | Listing LIVE (free Not verified, name and phone). Pitch DRAFTED, NOT SENT. |
 
-## Oakland first pitches 13/11/2026 Sydney (US 11/13/2026): DRAFTED, QUEUED FOR DAILY APPROVAL, NOT SENT
-Drafts: /workspace/company/outreach/oakland-pitches-13-11-2026.md. Listings LIVE on /oakland-ca/ (commit 7ee1477). Prior-contact check clean.
+## Oakland first pitches SENT 13/11/2026 9:39 AM Sydney (US 11/13/2026)
+Drafts: /workspace/company/outreach/oakland-pitches-13-11-2026.md. Ledger: /workspace/company/outreach/SEND-LEDGER-13-11-2026.md. From adam@howtodumpit.com, new threads, once each, 13/11/2026 9:39 AM Sydney. First nudges due 20/11/2026 (Auto nudges routine). Do not resend. All four Basic Listings LIVE on howtodumpit.com/oakland-ca/ (commit 7ee1477). This first-pitch wording is LOCKED (Adam, 13/11/2026, 9:38 AM Sydney).
 
 | Org | City | First name (source) | To | Verified location / source | Status |
 |---|---|---|---|---|---|
-| Diaz Hauling | Oakland, CA | José (own site contact page) | jose@diazhauling.com | HQ Oakland, serves East Bay; (510) 825-4218 (diazhauling.com/contact-us/) | Listing LIVE; pitch QUEUED, NOT SENT |
-| DP'S Hauling | Oakland, CA | – | dpshauling@gmail.com | 200 2nd St, Oakland; (510) 301-4488 (dpshauling.com) | Listing LIVE; pitch QUEUED, NOT SENT |
-| Reset Advantage Hauling | Oakland, CA | – | ResetAdvantageHauling@gmail.com | 722 Jackson St, Oakland; 510-435-7735 (resetadvantagehauling.com/contact) | Listing LIVE; pitch QUEUED, NOT SENT |
-| ClearOut Junk Removal | Oakland, CA | – | vaditely@gmail.com | 3675 Alameda Ave, Oakland; (925) 457-0746 (clearout-junkremoval.com) | Listing LIVE; pitch QUEUED, NOT SENT |
+| Diaz Hauling | Oakland, CA | José (own site contact page) | jose@diazhauling.com | HQ Oakland, serves East Bay; (510) 825-4218 (diazhauling.com/contact-us/) | Listing LIVE. Pitch SENT 13/11/2026 9:39 AM Sydney (msg 1a1d1e99f65c58b3). First nudge due 20/11/2026. Do not resend. |
+| DP'S Hauling | Oakland, CA | – | dpshauling@gmail.com | 200 2nd St, Oakland; (510) 301-4488 (dpshauling.com) | Listing LIVE. Pitch SENT 13/11/2026 9:39 AM Sydney (msg 1a1d1e9ae6bcdec5). First nudge due 20/11/2026. Do not resend. |
+| Reset Advantage Hauling | Oakland, CA | – | ResetAdvantageHauling@gmail.com | 722 Jackson St, Oakland; 510-435-7735 (resetadvantagehauling.com/contact) | Listing LIVE. Pitch SENT 13/11/2026 9:39 AM Sydney (msg 1a1d1e9c5841b062). First nudge due 20/11/2026. Do not resend. |
+| ClearOut Junk Removal | Oakland, CA | – | vaditely@gmail.com | 3675 Alameda Ave, Oakland; (925) 457-0746 (clearout-junkremoval.com) | Listing LIVE. Pitch SENT 13/11/2026 9:39 AM Sydney (msg 1a1d1e9d007608ba). First nudge due 20/11/2026. Do not resend. |

@@ -21,16 +21,22 @@
 >
 
 > **NOTE (11/11/2026, Adam):** The standing first-pitch and nudge copy is the section immediately below. Older sections in this file are historical and must not be used for new outreach. Canonical copy also lives in `/workspace/company/outreach/TEMPLATE-prospect-pitch.md`.
+>
+> **LOCKED (HARD RULE, Adam, 13/11/2026, 9:38 AM Sydney):** the first-pitch outreach template is locked exactly as sent to Oakland on 13/11/2026 at 9:39 AM Sydney (OK1 Diaz Hauling 1a1d1e99f65c58b3, OK2 DP'S Hauling 1a1d1e9ae6bcdec5, OK3 Reset Advantage Hauling 1a1d1e9c5841b062, OK4 ClearOut Junk Removal 1a1d1e9d007608ba). Never change its wording or structure unless Adam explicitly says so.
 
 ---
 
-## Standing prospect pitch (approved 09/11/2026; price and risk lines updated 11/11/2026)
+## Standing prospect pitch (approved 09/11/2026; first pitch is a LOCKED AIDA hook as of 13/11/2026)
 
-Approved by Adam on 09/11/2026 as the standing outreach template. Price comparison line and updated risk line added 11/11/2026 (Adam). Wording refined 11/11/2026, 12:52–12:55 PM Sydney (Adam): the listing line is its own paragraph; the risk line ends "and you can stop anytime" (no "you like"); the close is "flick me a quick reply. I'll send you the full rate card."; and the lead-in is "Trying it carries no risk." Future sends still require approval. Never invite removal of a listing, never promise removal of disputed leads, never use "qualifying" for inquiries, never say "no contract" or "first company to say yes gets the spot", never mention a monthly or spending cap. Dispute policy stays internal. The "12 times the calls of a standard listing" claim: Source: Adam's own sources (confirmed by Adam 11/11/2026). Keep using it and don't flag it. Use verified first names only, else company team. No "unsubscribe" line; the opt-out line below is required (CAN-SPAM). Footer postal address: HowToDumpIt, 102 Cremorne Rd, Sydney, 2090, Australia.
+Approved by Adam on 09/11/2026 as the standing outreach template. **First-pitch outreach is an AIDA hook (HARD RULE, Adam, 13/11/2026, 9:35 AM Sydney; paragraph break 9:37 AM Sydney; LOCKED 9:38 AM Sydney).** First-pitch emails must NOT include the $14.99 price paragraph or any dollar price. Price only goes in the rate card after they reply. This narrows the 13/11/2026, 8:20 AM full-upsell rule: the full price block applies to replies and check-ins, not first-pitch hooks. Never change the first-pitch wording or structure below unless Adam explicitly says so. Canonical copy: `/workspace/company/outreach/TEMPLATE-prospect-pitch.md`.
 
-Benchmark for the $14.99 comparison line (do not put these figures in the email): Thumbtack about $21–27 per shared lead, Google Local Services Ads in California about $46–63, from the 10/11/2026 pricing research.
+AIDA section labels are for the writer only and must not appear in the email. Map: Attention = the "I'm Adam, founder..." opening paragraph; Interest = the "[Company] is already on our [City] page as a free Basic Listing" paragraph; Desire = the competition paragraph ending "...customers usually call whoever they see first.", then a new paragraph starting "There is one exclusive Recommended spot...", then the no-risk paragraph; Action = the "taken quickly" close offering the rate card on reply.
 
-### First pitch
+**Nudge template: pending Adam's call.** Nudges still include the $14.99 price paragraph for now. The Desire paragraph break does apply where the same sentence appears.
+
+Benchmark for the $14.99 comparison line (do not put these figures in any email; do not put any dollar price in a first-pitch hook): Thumbtack about $21–27 per shared lead, Google Local Services Ads in California about $46–63, from the 10/11/2026 pricing research.
+
+### First pitch (AIDA hook — no dollar price) — LOCKED 13/11/2026, 9:38 AM Sydney
 
 From: adam@howtodumpit.com
 Subject: Adam from HowToDumpIt: [City]'s Recommended spot is open
@@ -41,7 +47,37 @@ I'm Adam, founder of HowToDumpIt, a city-by-city junk disposal guide, and we've 
 
 [Company] is already on our [City] page as a free Basic Listing: howtodumpit.com/[city-slug]/
 
-You're sharing that page with several other junk removal companies, and customers usually call whoever they see first. There is one exclusive Recommended spot at the very top of the page, and holding it gets 12 times the calls of a standard listing. There's only one per city, and [City]'s is open right now.
+You're sharing that page with several other junk removal companies, and customers usually call whoever they see first.
+
+There is one exclusive Recommended spot at the very top of the page, and holding it gets 12 times the calls of a standard listing. There's only one per city, and [City]'s is open right now.
+
+Trying it carries no risk. Your first 3 calls are free, you only pay for real calls, emails and website clicks we send you, and you can stop anytime.
+
+Recommended spots tend to get taken quickly, so if you want to be the company [City] sees first, flick me a quick reply. I'll send you the full rate card.
+
+Best regards
+
+Adam Wells,
+Founder
+
+HowToDumpIt, 102 Cremorne Rd, Sydney, 2090, Australia
+If you'd rather not hear from us again, just let me know.
+
+### Nudge (pending Adam's call on whether the $14.99 paragraph also drops)
+
+Subject: Adam from HowToDumpIt: [City]'s Recommended spot is still open
+
+Adam has not said nudges change yet, so this body still includes the $14.99 price paragraph. The Desire paragraph break does apply. Do not treat this as a first-pitch hook.
+
+Hi [Name],
+
+It's Adam again from HowToDumpIt, the city-by-city junk disposal guide. People are often confused about where to get rid of their junk, so our site does one thing, and does it very well: it finds them outfits like yours!
+
+[Company] is already on our [City] page as a free Basic Listing: howtodumpit.com/[city-slug]/
+
+You're sharing that page with several other junk removal companies, and customers usually call whoever they see first.
+
+There is one exclusive Recommended spot at the very top of the page, and holding it gets 12 times the calls of a standard listing. There's only one per city, and [City]'s is open right now.
 
 That's $14.99 per real customer call, less than you'd pay for a single shared lead on Thumbtack, and a fraction of what Google ads charge.
 
@@ -57,18 +93,12 @@ Founder
 HowToDumpIt, 102 Cremorne Rd, Sydney, 2090, Australia
 If you'd rather not hear from us again, just let me know.
 
-### Nudge
-
-Subject: Adam from HowToDumpIt: [City]'s Recommended spot is still open
-
-Same body as the first pitch, except paragraph 1 opens: "It's Adam again from HowToDumpIt, the city-by-city junk disposal guide. People are often confused about where to get rid of their junk, so our site does one thing, and does it very well: it finds them outfits like yours!" The listing line is then its own paragraph (Adam, 12:52 PM Sydney 11/11/2026).
-
 ### Variants
 
 - Not listed: replace the Basic Listing sentence with "Right now, your business isn't the one customers see first on our [City] page: [page URL]".
-- Donation organizations: still get the paid pitch. Use donors, donations, and "other donation and junk removal options". Charity price line: "That's $14.99 per real donor call, less than you'd pay for a single shared lead on Thumbtack, and a fraction of what Google ads charge." Charity risk line: "Trying it carries no risk. Your first 3 donor calls are free, you only pay for real calls, emails and website clicks we send you, and you can stop anytime." Closing line uses "the organization [City] sees first".
+- Donation organizations: still get the paid pitch. Use donors, donations, and "other donation and junk removal options". First-pitch hooks still carry no dollar price; use the charity risk line and close only. Charity risk line: "Trying it carries no risk. Your first 3 donor calls are free, you only pay for real calls, emails and website clicks we send you, and you can stop anytime." Closing line uses "the organization [City] sees first". Charity price line (replies, check-ins, and nudges until Adam decides otherwise): "That's $14.99 per real donor call, less than you'd pay for a single shared lead on Thumbtack, and a fraction of what Google ads charge."
 - "we've just added [City]" only when the city page is recent; otherwise "including [City]" or "that covers [City]".
-- Website clicks (Adam, 11/11/2026): first pitches and nudges include the Recommended call price ($14.99) with the approved comparison line, and offer the full rate card on reply. If they ask about a website link or click-through, the offer is **$1.49 per real website click** for Recommended and Verified Partners only. Every real click counts (repeat taps are not discounted). Automated or datacenter traffic is not billed. Clicks are not part of the first-3-free allocation; they count toward the same $25 billing threshold as calls and emails. Do not offer a clickable website link on a free Basic Listing.
+- Website clicks (Adam, 11/11/2026; narrowed 13/11/2026, 9:35 AM Sydney): first-pitch hooks must not include any dollar price. The Recommended call price ($14.99) and comparison line go in the rate card after they reply. If they ask about a website link or click-through, the offer is **$1.49 per real website click** for Recommended and Verified Partners only. Every real click counts (repeat taps are not discounted). Automated or datacenter traffic is not billed. Clicks are not part of the first-3-free allocation; they count toward the same $25 billing threshold as calls and emails. Do not offer a clickable website link on a free Basic Listing.
 
 ---
 
