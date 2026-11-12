@@ -42,6 +42,8 @@ partners:
   website: https://www.coconutjunk.com/
   note: Owner-operated junk removal based in Mesa, serving Mesa and the East Valley.
   source_checked: 2026-11-11
+other_options:
+- 'Electronics: the City of Mesa also lists Best Buy. Check the store''s own rules and any fees before you go.'
 ---
 # Junk Disposal in Mesa, AZ: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 
@@ -108,7 +110,7 @@ This guide covers **Mesa city limits** and Mesa Solid Waste customers. **Maricop
 
 **HHM facility:** Computers, monitors, flat-screen and projector/tube TVs, printers, tablets, cell phones and similar electronics are accepted for Mesa residents at no additional charge (average household quantity). Wipe personal data first; Mesa is not responsible for data security. ([City of Mesa: Household Hazardous Materials](https://www.mesaaz.gov/Utilities/Trash-Recycling/Resident-Programs/Household-Hazardous-Materials))
 
-**Other options the City lists:** AzStRUT (Arizona Students Recycling Used Technology) and Best Buy. Check each program's own rules and any fees before you go.
+**Other options the City lists:** AzStRUT (Arizona Students Recycling Used Technology) and a retail take-back program (see Other options at the bottom of this page). Check each program's own rules and any fees before you go.
 
 ## Paint and Household Hazardous Waste {#hazardous}
 

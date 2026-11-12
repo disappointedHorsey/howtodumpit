@@ -42,6 +42,8 @@ partners:
   website: https://www.dukesjunkrecycling.com/
   note: Family-owned, locally owned junk removal and recycling in Austin, with a yard at 6546 Burnet Road.
   source_checked: 2026-11-11
+other_options:
+- 'Christmas tree drop-off at private sites named on the City of Austin page: Texas Disposal Systems, Whittlesey Landscape Supplies and Kinser Ranch. Austin Wood Recycling, 3875 E. Whitestone Boulevard, Cedar Park, is listed at $5.30 per tree (512-259-7430). Call the site before you go.'
 ---
 # Junk Disposal in Austin, TX: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 
@@ -106,7 +108,7 @@ Austin Resource Recovery says to remove all ornaments, decorations (including ti
 
 **Zilker Park:** All Austinites, including people who are not City curbside customers, can drop off all-natural holiday trees, wreaths and garlands at Zilker Park when the event is running. Remove wreaths and garlands from wire frames. The official page says "2026 dates will be announced later in 2026" and tells volunteers to check back in early December 2026.
 
-**Other drop-off:** Individual trees are listed as free at several sites, with a contamination fee if tags, decorations or plastic are left on. Those sites include Hornsby Bend Biosolids Management Plant, 2210 FM 973 (photo ID required; free for Austin and Travis County residents; 512-974-4343), plus Texas Disposal Systems, Whittlesey Landscape Supplies, Kinser Ranch, Travis County service centers and other locations named on the City page. Austin Wood Recycling, 3875 E. Whitestone Boulevard, Cedar Park, is listed at $5.30 per tree (512-259-7430). Call the site before you go, especially if you have more than one tree.
+**Other drop-off:** Individual trees are listed as free at several sites, with a contamination fee if tags, decorations or plastic are left on. Those sites include Hornsby Bend Biosolids Management Plant, 2210 FM 973 (photo ID required; free for Austin and Travis County residents; 512-974-4343), plus Travis County service centers and other locations named on the City page, including some private businesses (see Other options at the bottom of this page). Call the site before you go, especially if you have more than one tree.
 
 If you missed collection or cannot move the tree yourself, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. Other cities are in our [Christmas Tree Disposal](/christmas-tree-disposal/) guide.
 

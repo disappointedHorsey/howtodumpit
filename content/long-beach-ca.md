@@ -44,6 +44,8 @@ partners:
   website: https://www.highwayman-tlc.com/
   note: Junk removal and cleanouts in Long Beach and surrounding areas.
   source_checked: 2026-11-12
+other_options:
+- 'E-waste recyclers named by the City of Long Beach: EDCO Recycling and Transfer Station and Secure E-Waste Destruction.'
 ---
 # Junk Disposal in Long Beach, CA: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 
@@ -63,7 +65,7 @@ Here's how to legally get rid of bulky junk in the **City of Long Beach**, Calif
 
 ## Mattresses and Box Springs {#mattresses}
 
-**Mattress short answer:** Long Beach residents can drop mattresses and box springs at the free **24/7 Mattress Drop-Off**, 970 W. Chester Place, any time of day. The City sends them to a Mattress Recycling Council facility. Only mattresses and box springs are accepted, and no staff are on site to help unload. ([City of Long Beach: 24/7 Mattress Drop-Off](https://www.longbeach.gov/pw/services/247-mattress-drop-off/))
+**Mattress short answer:** Long Beach residents can drop mattresses and box springs at the free **24/7 Mattress Drop-Off**, 970 W. Chester Place, any time of day. The City sends them to be recycled. Only mattresses and box springs are accepted, and no staff are on site to help unload. ([City of Long Beach: 24/7 Mattress Drop-Off](https://www.longbeach.gov/pw/services/247-mattress-drop-off/))
 
 <!--LISTINGS-->
 
@@ -101,7 +103,7 @@ This guide covers the **City of Long Beach** only, and the 24/7 Mattress Drop-Of
 
 ## TVs, Computers and Electronics (E-Waste) {#electronics}
 
-**Never in your carts:** E-waste such as TVs, computers, monitors, printers and cell phones may not go in trash or recycling carts. If it still works, consider donating it. Otherwise, drop it at a local recycler such as **EDCO Recycling and Transfer Station** or **Secure E-Waste Destruction**, or at a free household hazardous waste collection event. ([City of Long Beach: E-Waste](https://www.longbeach.gov/lbrecycles/hazardous-waste-101/ewaste/))
+**Never in your carts:** E-waste such as TVs, computers, monitors, printers and cell phones may not go in trash or recycling carts. If it still works, consider donating it. Otherwise, take it to a free household hazardous waste collection event, or to a private recycler (see Other options at the bottom of this page). ([City of Long Beach: E-Waste](https://www.longbeach.gov/lbrecycles/hazardous-waste-101/ewaste/))
 
 **Curbside:** Televisions, computers and monitors are also on the special collection list. They ride on the separate special handling truck, and a fee may apply.
 

@@ -43,6 +43,10 @@ partners:
   website: https://marvinjunkremoval.net/
   note: Somerville-based junk removal at 61 Heath St., serving Somerville, Cambridge and Greater Boston.
   source_checked: 2026-11-11
+other_options:
+- 'Mattresses (listed by the City of Cambridge): resell or give away through Facebook Marketplace, Buy Nothing Cambridge or Craigslist; paid services Furnishing Hope, HandUp Mattress Resale & Recycling (Boston-based; on-call service in Somerville only, not Cambridge), and Mattress Pro Recycling. Contact them first for prices.'
+- 'Furniture give-away sites suggested by Cambridge: NextDoor, Freecycle and Craigslist.'
+- 'Electronics: the City of Cambridge notes that retailers like Apple and Best Buy and several phone carriers run their own take-back programs; check with them directly.'
 ---
 # Junk Disposal in Cambridge–Somerville, MA: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 
@@ -75,7 +79,7 @@ One rule covers both cities: Massachusetts bans mattresses, textiles, white good
 4. Tape a note to it with "UTEC," your order number and the pickup date so the crew grabs the right one.
 5. Problems? Email mattress-recycling@utecinc.org and recycle@cambridgema.gov.
 
-UTEC won't take excessively torn, punctured, soiled or moldy mattresses; anything with bed bugs or other pests (now or in the past); futons, mattress pads or toppers; infant sleeping pads; or air or water beds. Email recycle@cambridgema.gov about those. UTEC also doesn't pick up couches, bed frames or appliances. There's no mattress drop-off site in Cambridge itself. Other options the City lists include reselling or giving it away (Facebook Marketplace, Buy Nothing Cambridge, Craigslist) and paid services such as Furnishing Hope, HandUp Mattress Resale & Recycling (Boston-based; on-call service in Somerville only, not Cambridge), Mattress Pro Recycling and Marvin Junk Removal. Contact them first for prices ([Cambridge Mattress Recycling](https://www.cambridgema.gov/services/mattressrecycling)).
+UTEC won't take excessively torn, punctured, soiled or moldy mattresses; anything with bed bugs or other pests (now or in the past); futons, mattress pads or toppers; infant sleeping pads; or air or water beds. Email recycle@cambridgema.gov about those. UTEC also doesn't pick up couches, bed frames or appliances. There's no mattress drop-off site in Cambridge itself. If you want it hauled away, use one of the local junk removal companies listed above. The City also lists resale, give-away and paid mattress services (see Other options at the bottom of this page) ([Cambridge Mattress Recycling](https://www.cambridgema.gov/services/mattressrecycling)).
 
 *Heads-up:* Cambridge's [large-item page](https://www.cambridgema.gov/services/furnitureappliancelargeitemdisposal) still describes mattress pickup as free. The City's dedicated mattress page and its July 2026 announcement both list the $45 UTEC fee, so plan on paying it.
 
@@ -101,7 +105,7 @@ Both cities point to the same backups: ask the store to take your old mattress w
 
 **Somerville:** The City will pick up **two pieces of furniture per week** with your regular trash. Tape both sides of any mirrors or glass so they don't shatter, and tie down or remove drawers and doors. Rugs and carpets must be rolled, tied, and no more than three feet long. Somerville **won't** take heavy metal items (exercise equipment, exercise bikes, metal cabinets), motorized lawnmowers, snow blowers or construction materials; you have to get rid of those privately. The mattress program's two-bulk-items-per-week limit includes mattresses, so plan ahead if you're clearing out a whole apartment ([Somerville Trash & Recycling](https://www.somervillema.gov/trash-and-recycling)).
 
-Furniture in good shape? Both cities encourage donating first. Somerville lists charities including Goodwill, Salvation Army, Second Chances, Somerville Homeless Coalition and the Society of St. Vincent de Paul. Cambridge suggests posting on NextDoor, Freecycle or Craigslist.
+Furniture in good shape? Both cities encourage donating first. Somerville lists charities including Goodwill, Salvation Army, Second Chances, Somerville Homeless Coalition and the Society of St. Vincent de Paul. Cambridge also suggests online give-away sites (see Other options at the bottom of this page).
 
 ## Appliances (Fridges, Freezers, AC: Freon) {#appliances}
 
@@ -123,7 +127,6 @@ Old tube (CRT) TVs and monitors are banned from the trash in Massachusetts ([Mas
 
 - **TVs and computer monitors:** call 311 to schedule a **free curbside pickup**, or drop them off at the DPW Yard. Sets with broken glass aren't accepted.
 - **E-waste drop-off:** DPW Yard, **1 Franey Rd.**, Monday–Friday **8:30 a.m.–noon and 1–3:30 p.m.** It's for residents only (no contractors), and you'll need to show proof of residency, like a driver's license or utility bill, at the guard shack. Accepted: desktops and laptops (with keyboard and mouse), TVs and monitors, cables, networking gear, printers, copiers and scanners, phones, projectors, battery backups, audio equipment, toner and ink cartridges, DVD/CD/VHS players, and most small plug-in household items such as blenders, microwaves, irons, toasters and coffee makers ([Somerville Electronic Waste Recycling Program](https://www.somervillema.gov/departments/dpw/programs/electronic-waste-recycling-program)).
-- The City also notes that retailers like Apple and Best Buy and several phone carriers run their own take-back programs; check with them directly.
 
 Wipe your personal data from phones and computers before you recycle them.
 

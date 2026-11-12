@@ -7,15 +7,10 @@ state: CO
 short: Colorado Springs, CO
 listings_title: Mattress Options at a Glance
 listings:
-- name: Ask Your Private Trash Hauler (Bulky Pickup)
-  type: Scheduled private-hauler pickup (not a City program)
-  cost: 'Set by your hauler (often a per-item or call-ahead fee). Confirm before you set anything out.'
-  details: 'Colorado Springs does not run a city curbside bulk or special-item program. Residents and businesses hire private trash companies in an open market. Ask your hauler whether mattresses, furniture and appliances can be scheduled as bulky pickups and what the fee is.'
-  source: https://coloradosprings.gov/system/files/2026-02/FINAL_Waste%20Diversion%20Action%20Plan_English.pdf
 - name: El Paso County Transfer Station and Area Landfills (Self-Haul)
   type: Self-haul drop-off
   cost: 'Facility tip fees apply (call ahead). Uncovered loads may cost more under Colorado rules.'
-  details: 'El Paso County’s Recycling Directory lists mattress and bulky drop-off options including the El Paso County Transfer Station at 2520 Laramie Dr. (719-480-8000; not a County Environmental Division facility), Urban Recycling, Woodmen Dump, Peak Disposal (Monument), and landfills such as Colorado Springs Landfill (1010 Blaney Rd., 719-683-2600) and WM Midway Landfill (8925 Rancho Colorado Blvd., Fountain). Confirm accepted items and fees before you drive.'
+  details: 'El Paso County’s Recycling Directory lists mattress and bulky drop-off options including the El Paso County Transfer Station at 2520 Laramie Dr. (719-480-8000; not a County Environmental Division facility) and Colorado Springs Landfill (1010 Blaney Rd., 719-683-2600). More private sites are listed under Other options at the bottom of this page. Confirm accepted items and fees before you drive.'
   source: https://epc-assets.elpasoco.com/wp-content/uploads/sites/20/Recycling-Directory-2027.pdf
 partners:
 - tier: basic
@@ -42,6 +37,10 @@ partners:
   website: https://junknhaul.com/
   note: Locally owned and operated junk removal serving Colorado Springs.
   source_checked: 2026-11-11
+other_options:
+- 'Mattresses and furniture, self-haul (El Paso County Recycling Directory 2027; fees apply, call first): Urban Recycling, 3341 N. Cascade Ave., 719-644-6493 (fees for mattresses, couches, chairs and ottomans); Woodmen Dump, 8808 Cliff Allen Pt., 719-792-3867; Peak Disposal & Recycling, Monument, 719-481-2340; Galvanize Recycling, 719-645-4165; WM Midway Landfill, 8925 Rancho Colorado Blvd., Fountain.'
+- 'Appliances needing Freon recovery (same directory): Urban Recycling; Waste Management Colorado Springs Transfer Station, 1965 Commercial Blvd., 719-216-0966; WM Midway Landfill, 8925 Rancho Colorado Blvd., Fountain, 719-382-8383; Peak Disposal; Woodmen Dump.'
+- 'Private electronics recyclers (same directory): E-Tech Recyclers, 2854 N. Prospect St., 719-799-6517; Galvanize Recycling; ITAD Electronic Recyclers; Urban Recycling.'
 ---
 # Junk Disposal in Colorado Springs, CO: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 
@@ -51,23 +50,23 @@ Here's how to legally get rid of bulky junk in Colorado Springs, Colorado, item 
 
 | Item | Best Verified Option |
 |---|---|
-| Mattress | Ask your private hauler about bulky pickup, or self-haul to a directory-listed transfer station/landfill (fees apply) |
+| Mattress | Call one of the local junk removal companies listed above, ask your private trash hauler about bulky pickup, or self-haul to a directory-listed transfer station/landfill (fees apply) |
 | Couch / furniture | Same as mattress; City code also bans storing appliances/furniture in public view |
-| Fridge / AC (freon) | Freon-recovery facilities listed in the County Recycling Directory (e.g. Colorado Springs Landfill, WM Midway, Urban Recycling); not accepted at County HHW |
+| Fridge / AC (freon) | Freon-recovery facilities listed in the County Recycling Directory (e.g. Colorado Springs Landfill); not accepted at County HHW |
 | TV / computer | Colorado landfill ban; County HHW (size limits) or private e-recyclers; large TVs via Clean Sweep events when scheduled |
 | Paint / chemicals | El Paso County Household Hazardous Waste Facility (El Paso/Teller residents; proof of residency) |
 | Christmas tree | Last season: TreeCycle weekends in January 2026; 2026-27 dates not yet published |
 
 ## Mattresses and Box Springs {#mattresses}
 
-**Mattress short answer:** There is **no City of Colorado Springs curbside bulky program**. Ask **your private trash hauler** whether it offers call-ahead bulky pickup for mattresses and box springs and what it charges. Otherwise **self-haul** to a transfer station or landfill listed in El Paso County’s Recycling Directory (fees apply; call first). ([Waste Diversion Action Plan](https://coloradosprings.gov/system/files/2026-02/FINAL_Waste%20Diversion%20Action%20Plan_English.pdf); [El Paso County Recycling Directory 2027 (PDF)](https://epc-assets.elpasoco.com/wp-content/uploads/sites/20/Recycling-Directory-2027.pdf))
+**Mattress short answer:** There is **no City of Colorado Springs curbside bulky program**. Call **one of the local junk removal companies listed above**, or ask your private trash hauler whether it offers call-ahead bulky pickup for mattresses and box springs and what it charges. Otherwise **self-haul** to a transfer station or landfill listed in El Paso County’s Recycling Directory (fees apply; call first). ([Waste Diversion Action Plan](https://coloradosprings.gov/system/files/2026-02/FINAL_Waste%20Diversion%20Action%20Plan_English.pdf); [El Paso County Recycling Directory 2027 (PDF)](https://epc-assets.elpasoco.com/wp-content/uploads/sites/20/Recycling-Directory-2027.pdf))
 
 <!--LISTINGS-->
 
 ### Step by Step: Private Hauler or Self-Haul
 
 1. **Call your hauler.** Confirm whether mattresses need bagging, how many items you can set out, the fee, and the pickup day. Do not leave mattresses at the curb unless your hauler has scheduled them.
-2. **Or self-haul.** Directory-listed options that take mattresses/box springs (call for fees and rules) include the **El Paso County Transfer Station** at **2520 Laramie Dr., Colorado Springs** (**719-480-8000**; the County notes it is **not** affiliated with El Paso County Environmental Division), **Urban Recycling** (3341 N. Cascade Ave., **719-644-6493**), **Woodmen Dump** (8808 Cliff Allen Pt., **719-792-3867**), **Peak Disposal & Recycling** in Monument (**719-481-2340**), and **Galvanize Recycling** (**719-645-4165**). ([Recycling Directory 2027](https://epc-assets.elpasoco.com/wp-content/uploads/sites/20/Recycling-Directory-2027.pdf))
+2. **Or self-haul.** Directory-listed options that take mattresses/box springs (call for fees and rules) include the **El Paso County Transfer Station** at **2520 Laramie Dr., Colorado Springs** (**719-480-8000**; the County notes it is **not** affiliated with El Paso County Environmental Division) and other private sites (see Other options at the bottom of this page). ([Recycling Directory 2027](https://epc-assets.elpasoco.com/wp-content/uploads/sites/20/Recycling-Directory-2027.pdf))
 3. **Cover your load.** Colorado rules can charge more for uncovered or unsecured loads at landfills — tarp the truck before you go.
 4. **Donation (gently used only):** Some nonprofits listed in the County directory accept queen-or-smaller mattresses that are free of rips, stains and holes (for example One Nation Walking Together and Partners in Housing). Call before you load the truck. ([Recycling Directory 2027](https://epc-assets.elpasoco.com/wp-content/uploads/sites/20/Recycling-Directory-2027.pdf))
 
@@ -77,7 +76,7 @@ Here's how to legally get rid of bulky junk in Colorado Springs, Colorado, item 
 
 ## Couches and Furniture {#furniture}
 
-**No City bulk pickup.** Couches, chairs and other household furniture follow the same path as mattresses: schedule through **your private hauler** or self-haul to a directory-listed facility. Urban Recycling’s County directory entry notes fees for couches, chairs and ottomans as well as mattresses. ([Recycling Directory 2027](https://epc-assets.elpasoco.com/wp-content/uploads/sites/20/Recycling-Directory-2027.pdf); [Waste Diversion Action Plan](https://coloradosprings.gov/system/files/2026-02/FINAL_Waste%20Diversion%20Action%20Plan_English.pdf))
+**No City bulk pickup.** Couches, chairs and other household furniture follow the same path as mattresses: call one of the local junk removal companies listed above, schedule through your private trash hauler, or self-haul to a directory-listed facility (fees apply). ([Recycling Directory 2027](https://epc-assets.elpasoco.com/wp-content/uploads/sites/20/Recycling-Directory-2027.pdf); [Waste Diversion Action Plan](https://coloradosprings.gov/system/files/2026-02/FINAL_Waste%20Diversion%20Action%20Plan_English.pdf))
 
 **City code (storage, not pickup):** Appliances, furniture, manufactured goods and personal items must be stored **inside an enclosed building** or **out of view in a rear yard** — leaving them stacked in public view can draw code enforcement. That is a storage rule, not a disposal service. ([City Code: What You Need to Know](https://coloradosprings.gov/city-code-what-you-need-know))
 
@@ -91,7 +90,7 @@ This guide covers **Colorado Springs city limits**, where trash and bulky servic
 
 **Not at County HHW:** Air conditioners, refrigerators, freezers and other appliances are **not accepted** at the El Paso County Household Hazardous Waste Facility. ([Household Hazardous Waste](https://communityresources.elpasoco.com/environmental-division/household-hazardous-waste/))
 
-**Freon / refrigerants:** The County Recycling Directory lists businesses that handle appliances needing **Freon recovery**, including **Colorado Springs Landfill** (fridges and freezers; **1010 Blaney Rd.**, **719-683-2600**), **Urban Recycling**, **Waste Management Colorado Springs Transfer Station** (**1965 Commercial Blvd.**, **719-216-0966**), **WM Midway Landfill** (**8925 Rancho Colorado Blvd., Fountain**, **719-382-8383**), **Peak Disposal**, **Woodmen Dump**, and Habitat ReStores for **working** appliances only. **Call ahead** for fees, door rules and whether refrigerant must be intact. ([Recycling Directory 2027](https://epc-assets.elpasoco.com/wp-content/uploads/sites/20/Recycling-Directory-2027.pdf))
+**Freon / refrigerants:** The County Recycling Directory lists businesses that handle appliances needing **Freon recovery**, including **Colorado Springs Landfill** (fridges and freezers; **1010 Blaney Rd.**, **719-683-2600**), other private sites (see Other options at the bottom of this page), and Habitat ReStores for **working** appliances only. **Call ahead** for fees, door rules and whether refrigerant must be intact. ([Recycling Directory 2027](https://epc-assets.elpasoco.com/wp-content/uploads/sites/20/Recycling-Directory-2027.pdf))
 
 Never cut the lines or release refrigerant yourself; the US EPA says the final disposer is responsible for recovering refrigerant. ([US EPA: Appliance Disposal](https://www.epa.gov/section608/appliance-disposal))
 
@@ -103,7 +102,7 @@ In Colorado, **computers and other electronic equipment are prohibited from disp
 
 **El Paso County HHW (size limits):** El Paso/Teller County households may drop off many electronics at **3255 Akers Dr.** Each electronics type is limited to **5 per household per year**. **CRT TVs** must be **20" or smaller**; **flat screens** **40" or smaller**. Larger TVs go through **Clean Sweep** events when scheduled (2026 TV & tire events have **concluded**; ask to join the Spring **2027** email list). ([Household Hazardous Waste](https://communityresources.elpasoco.com/environmental-division/household-hazardous-waste/); [Clean Sweep Hard-to-Recycle Events](https://communityresources.elpasoco.com/clean-sweep-hard-to-recycle-events/); [Recycling Directory 2027](https://epc-assets.elpasoco.com/wp-content/uploads/sites/20/Recycling-Directory-2027.pdf))
 
-**Private e-recyclers (directory examples):** E-Tech Recyclers (2854 N. Prospect St., **719-799-6517**), Galvanize Recycling, ITAD Electronic Recyclers, Urban Recycling. Call for fees and accepted items. ([Recycling Directory 2027](https://epc-assets.elpasoco.com/wp-content/uploads/sites/20/Recycling-Directory-2027.pdf))
+**Private e-recyclers:** The County Recycling Directory also lists private electronics recyclers (see Other options at the bottom of this page). Call for fees and accepted items. ([Recycling Directory 2027](https://epc-assets.elpasoco.com/wp-content/uploads/sites/20/Recycling-Directory-2027.pdf))
 
 Wipe personal data from phones and computers before you recycle them.
 

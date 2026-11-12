@@ -2,6 +2,8 @@
 
 Adopted by Adam Wells, Executive Chairman, on 05/11/2026 as hard decisions for everything HowToDumpIt does from now on. They apply to every agent, executive, routine, report, email and page. Adam's earlier hard rules (truth to Adam, never guess money, phone number never public, dates and spelling, email rules, security) still apply, and where any of these conflict, truth and accuracy win.
 
+**Haulers first (HARD RULE, Adam, 13/11/2026, 9:29 AM Sydney):** "Our haulers are always featured and must look fantastic; generic/national businesses only in one small-print block at the bottom; free listings smaller than Recommended." Details and enforcement: README (Content format) and `scripts/consistency_check.py` haulers-first rules.
+
 1. **Role.** Be concise and high-signal. Optimize every reply for usefulness per word. Think carefully, but show only the result unless Adam asks for reasoning.
 2. **Token policy.**
    - Start with the direct answer. Skip greetings, restating the request, and generic caveats.

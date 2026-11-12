@@ -180,7 +180,7 @@ def _website_label(url):
         pass
     return url
 
-def partners_html(items, city_slug=""):
+def partners_html(items, city_slug="", city_name=""):
     """Render Local Junk Removal & Donation Partners from front-matter `partners:`.
 
     Paid tiers (Recommended, Verified Partner) are large prominent cards and sort first.
@@ -255,7 +255,8 @@ def partners_html(items, city_slug=""):
                 tel = html.escape(_tel_href(phone), quote=True)
                 phone_esc = html.escape(phone)
                 ev = f"tel-{city_slug}-{slug}" if city_slug else f"tel-{slug}"
-                meta.append(f'<span class="partner-phone"><a href="{tel}"{_click_attr(ev)}>{phone_esc}</a></span>')
+                meta.append(f'<span class="partner-phone"><a class="partner-call" href="{tel}"{_click_attr(ev)}>'
+                            f'<span class="partner-call-word">Call</span> {phone_esc}</a></span>')
             # Free compact rows never show a website, not even as plain text.
             if meta:
                 sep = '<span class="partner-meta-sep" aria-hidden="true"> · </span>'
@@ -281,20 +282,42 @@ def partners_html(items, city_slug=""):
         lists += '<ul class="partners-list partners-list-paid">' + "".join(paid) + "</ul>"
     if free:
         lists += '<ul class="partners-list partners-list-free">' + "".join(free) + "</ul>"
+    # Our haulers are always featured and must look fantastic (HARD RULE,
+    # Adam, 13/11/2026): one prominent panel at the top of every city guide,
+    # clear heading, tap-to-call, Recommended biggest, free rows compact.
+    where = f" in {html.escape(str(city_name))}" if city_name else ""
     return (
         '<section class="partners" aria-labelledby="partners-h">'
-        '<h2 id="partners-h">Local Junk Removal &amp; Donation Partners</h2>'
+        f'<h2 id="partners-h">Local Junk Removal Pros{where}</h2>'
+        '<p class="partners-lede">Skip the heavy lifting. Tap a number to call a local company directly.</p>'
+        + lists +
         f'<p class="partner-disclaimer">{PARTNER_DISCLAIMER}</p>'
-        + lists + "</section>"
+        "</section>"
     )
 
 
 # Modest end-of-guide mention only. No href, button, box, heading or color
 # block. Plain text because there is no tracked affiliate tag (Adam, 11/11/2026).
-NATIONAL_NOTE = (
-    '<p class="national-note">Prefer a national company? '
-    '1-800-GOT-JUNK and LoadUp also serve this area.</p>'
-)
+NATIONAL_NOTE_TEXT = ("Prefer a national company? "
+                      "1-800-GOT-JUNK and LoadUp also serve this area.")
+
+def other_options_html(items):
+    """HARD RULE (Adam, 13/11/2026): our haulers are always featured and must
+    look fantastic; generic, national or big commercial businesses (national
+    haulers, private haulers/landfills/recyclers by brand, retailer take-back,
+    mattress-recycling programs, marketplaces and apps) appear ONLY here: one
+    small-print, muted, plain-text block at the very bottom of the city guide.
+    No cards, buttons, bold, links or headings. `other_options:` front matter
+    is a list of plain strings; the national line is always added last."""
+    lis = []
+    for it in (items or []):
+        t = " ".join(str(it).split())
+        if t:
+            lis.append(f'<li>{html.escape(t)}</li>')
+    lis.append(f'<li class="national-note">{html.escape(NATIONAL_NOTE_TEXT)}</li>')
+    return ('<aside class="other-options" aria-label="Other options">'
+            '<p class="other-options-h">Other options</p>'
+            '<ul>' + "".join(lis) + '</ul></aside>')
 # After official mattress listings, point haul-away to our local partners
 # (Adam, 13/11/2026). Plain sentence, not a card, box or national company.
 HAULER_POINTER = (
@@ -598,7 +621,8 @@ def main():
             # may mention 1-800-GOT-JUNK and LoadUp. No link, button, box,
             # heading or color block (Adam, 11/11/2026). Do not add a national
             # booking link unless Adam has approved a tracked affiliate link.
-            partner_block = partners_html(meta.get("partners") or [], city_slug=u.strip("/"))
+            partner_block = partners_html(meta.get("partners") or [], city_slug=u.strip("/"),
+                                          city_name=meta.get("city", ""))
             if partner_block:
                 i = body_html.find('<h2 id="quick-answer-by-item"')
                 if i < 0:
@@ -621,7 +645,6 @@ def main():
                         if mh:
                             body_html = body_html[:mh.end()] + HAULER_POINTER + body_html[mh.end():]
             body_html += nearby_cities_html(u, pages)
-            body_html += NATIONAL_NOTE
         hero = ""
         if u == "/":
             hero = ('<section class="hero"><div class="wrap"><h1>' + html.escape(meta.get("hero", meta["title"])) + '</h1><p>'
@@ -637,7 +660,8 @@ def main():
             hero=hero, crumbs=crumbs(u, meta["title"], titles, city_meta=meta if meta.get("city") else None),
             json_ld=json_ld,
             og_type="website" if u == "/" else "article",
-            after=CITY_REQUEST if (u == "/" or meta.get("city")) else "",
+            after=(CITY_REQUEST if (u == "/" or meta.get("city")) else "")
+                  + (other_options_html(meta.get("other_options")) if meta.get("city") else ""),
             updated_line=(f'<p class="updated">Last updated: {us_date(newest)}</p>' if meta.get("list_children")
                           else f'<p class="updated">Last verified: {html.escape(meta["verified_note"])}</p>' if meta.get("verified_note")
                           else f'<p class="updated">Last verified: {us_date(meta["verified"])}</p>' if meta.get("verified") and u != "/" else ""),

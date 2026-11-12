@@ -7,7 +7,7 @@ state: CA
 short: San Francisco, CA
 listings_title: Mattress Options at a Glance
 listings:
-- name: Recology Bulky Item Collection (Curbside, by Appointment)
+- name: San Francisco Bulky Item Collection (Curbside, by Appointment)
   type: Curbside pickup (by appointment)
   cost: 'No additional charge: two collections per year for buildings with 5 units or fewer; one per unit in buildings with 6 or more units'
   details: 'For San Francisco residents with an active Recology residential or apartment account. Up to 10 items per appointment. Schedule with Recology at (415) 330-1300 or customerservice@recologySF.com, or with the online Bulky Item form. Set items at the curb in front of your residence no earlier than 6 p.m. the day before and no later than 6 a.m. on pickup day, with a sign that reads RECOLOGY. Don''t block the sidewalk.'
@@ -17,11 +17,6 @@ listings:
   cost: 'First 4 mattresses or box springs per day at no charge (intact, reasonably dry, free of mold, insects and severe damage and stains); after that, $21.85 per unit'
   details: '501 Tunnel Ave., San Francisco, CA 94134 (enter on Recycle Road), (415) 330-1400. Open Monday to Friday, 7 a.m. to 4:30 p.m.; Saturday and Sunday, 7:30 a.m. to 4 p.m.; closed Christmas Day and New Year''s Day. Recology lists a $60 minimum disposal fee per load. Visa, MasterCard and cash; no checks. Loads must be tarped and tied down.'
   source: https://www.recology.com/recology-san-francisco/sf-transfer-station/
-- name: Retailer Take-Back When a New Mattress Is Delivered (California Law)
-  type: Take-back
-  cost: No additional cost for the old mattress (delivery or setup fees for the new product may still apply)
-  details: 'California law requires the retailer delivering your new mattress to offer to take back your old one. The retailer has up to 30 days to take it back and may refuse a mattress that poses a health or safety risk. Bye Bye Mattress (the state program) also lists no-cost drop-off locations.'
-  source: https://byebyemattress.com/california/
 partners:
 - tier: basic
   name: Baypro Junk Removal
@@ -47,7 +42,8 @@ partners:
   website: https://sfjunkremovalandhauling.com/
   note: Family junk removal covering San Francisco and the Peninsula.
   source_checked: 2026-11-11
-
+other_options:
+- 'Mattresses, retailer take-back (California law): the retailer delivering your new mattress must offer to take back your old one at no additional cost. It has up to 30 days and may refuse a mattress that poses a health or safety risk. Bye Bye Mattress, the state program, also lists no-cost drop-off locations.'
 ---
 # Junk Disposal in San Francisco, CA: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 
@@ -57,7 +53,7 @@ Here's how to legally get rid of bulky junk in San Francisco, California, item b
 
 | Item | Best Verified Option |
 |---|---|
-| Mattress | No-charge Recology Bulky Item Collection (up to 10 items, two per year in smaller buildings), retailer take-back with a new mattress, or the SF Transfer Station (first 4 per day free if intact, dry and free of mold and insects) |
+| Mattress | No-charge Recology Bulky Item Collection (up to 10 items, two per year in smaller buildings), the SF Transfer Station (first 4 per day free if intact, dry and free of mold and insects), or one of the local junk removal companies listed above |
 | Couch / furniture | No-charge Recology Bulky Item Collection; wrap glass and mirrors and tape display cases; Recology's list excludes pianos, cast iron tubs and anything over 100 pounds |
 | Fridge / AC (freon) | Residential refrigerators, washers, dryers and stoves go in Recology Bulky Item Collection (no commercial appliances); at the Transfer Station, refrigerators are $73.68 each plus weight |
 | TV / computer | Prohibited from trash and recycling carts. Recology Bulky Item Collection, or free drop-off at the SF Transfer Station (TVs of all sizes, monitors, laptops) |
@@ -79,7 +75,7 @@ Here's how to legally get rid of bulky junk in San Francisco, California, item b
 5. Write **RECOLOGY** on a piece of paper and attach it to one of your items, so City agencies know the pile is scheduled for pickup. ([Recology FAQ](https://www.recology.com/recology-san-francisco/residential-curbside-collection/))
 6. Need to cancel? Call or email Recology **by noon the business day before** your pickup, or use the cancel option in your online confirmation email. ([Recology: Bulky Items](https://www.recology.com/recology-san-francisco/bulky-items/))
 
-**Need it gone sooner, or used up your collections?** Recology says it can't schedule more than your yearly allotment and won't take payment to collect sooner. Its suggested options are the **SF Transfer Station** (fees may apply; see the listing above), **local charities**, or a **junk removal company**. ([Recology FAQ](https://www.recology.com/recology-san-francisco/residential-curbside-collection/))
+**Need it gone sooner, or used up your collections?** Recology says it can't schedule more than your yearly allotment and won't take payment to collect sooner. Its suggested options are the **SF Transfer Station** (fees may apply; see the listing above), **local charities**, or a junk removal company, such as **one of the local junk removal companies listed above**. ([Recology FAQ](https://www.recology.com/recology-san-francisco/residential-curbside-collection/))
 
 ### What Not to Do
 
@@ -88,7 +84,7 @@ Here's how to legally get rid of bulky junk in San Francisco, California, item b
 
 At the Transfer Station, mattresses are taken at no charge only if they're **intact, reasonably dry, free of mold, insects, and severe damage and stains**. We couldn't find an official San Francisco rule for bed-bug mattresses in curbside collection, so ask Recology before you book.
 
-*Sources: Recology San Francisco [Bulky Items](https://www.recology.com/recology-san-francisco/bulky-items/), [Bulky Item FAQ](https://www.recology.com/recology-san-francisco/residential-curbside-collection/), [Accepted Bulky Items](https://www.recology.com/recology-san-francisco/accepted-bulky-items/) and [SF Transfer Station](https://www.recology.com/recology-san-francisco/sf-transfer-station/); [SF Environment](https://www.sfenvironment.org/bulky-items); [Bye Bye Mattress California](https://byebyemattress.com/california/). Checked 10/21/2026. Rules change, so confirm on the official page before you go.*
+*Sources: Recology San Francisco [Bulky Items](https://www.recology.com/recology-san-francisco/bulky-items/), [Bulky Item FAQ](https://www.recology.com/recology-san-francisco/residential-curbside-collection/), [Accepted Bulky Items](https://www.recology.com/recology-san-francisco/accepted-bulky-items/) and [SF Transfer Station](https://www.recology.com/recology-san-francisco/sf-transfer-station/); [SF Environment](https://www.sfenvironment.org/bulky-items). Checked 10/21/2026. Rules change, so confirm on the official page before you go.*
 
 ## Couches and Furniture {#furniture}
 

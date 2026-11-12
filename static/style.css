@@ -56,14 +56,23 @@ main{padding-top:18px;padding-bottom:40px}
    Free Basic Listings (companies and charities) are compact secondary "after runs"
    below any paid cards (Adam, 11/10/2026). Official drop-off `.listing` cards are unchanged. */
 .content ul.partners-list{padding-left:0}
-.partners{margin:2.2em 0 0}
-.partners h2{margin-top:0}
-.partner-disclaimer{font-size:.92rem;color:var(--muted);margin:0 0 14px}
-.partners-list{list-style:none;padding:0;display:grid;gap:14px}
-.partners-list-free{gap:8px}
+/* HARD RULE (Adam, 13/11/2026): our haulers are always featured and must look
+   fantastic. One prominent panel at the top of every city guide. Recommended gets
+   clearly the most real estate; free Basic rows are compact but polished, never
+   dressed as paid or verified (no yellow fill, no Call Now button, no website). */
+.partners{margin:1.4em 0 1.8em;padding:18px 16px 14px;background:#fff;border:2px solid var(--ink);border-radius:18px;
+  box-shadow:0 6px 0 0 var(--yellow);position:relative}
+.partners h2{margin:0 0 4px;font-size:1.45rem;line-height:1.2;letter-spacing:-.02em}
+.partners h2:before{content:"";display:block;width:44px;height:6px;border-radius:3px;background:var(--yellow);margin:0 0 10px}
+.partners-lede{margin:0 0 14px;font-size:1rem;color:var(--ink)}
+.partner-disclaimer{font-size:.78rem;line-height:1.5;color:var(--muted);margin:14px 0 0}
+.partners-list{list-style:none;padding:0;display:grid;gap:14px;margin:0}
+.partners-list-free{gap:10px}
 .partners-list-paid + .partners-list-free{margin-top:16px}
 .partner{background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:16px;box-shadow:0 1px 2px rgba(17,17,17,.04);min-width:0}
-.partner-recommended{border:2px solid var(--ink);box-shadow:0 4px 0 0 var(--yellow);background:#fffdf3}
+.partner-recommended{border:3px solid var(--ink);box-shadow:0 6px 0 0 var(--yellow);background:#fffdf3;padding:20px 18px}
+.partner-recommended h3{font-size:1.45rem;line-height:1.2;margin:0 0 .3em}
+.partner-recommended .partner-phone{font-size:1.15rem;font-weight:700}
 .partner-verified{border:1.5px solid var(--ink);box-shadow:0 2px 8px rgba(17,17,17,.08)}
 .partner-badge{margin:0 0 8px}
 .partner-recommended-label{display:inline-block;background:var(--yellow);color:var(--ink);border:2px solid var(--ink);border-radius:8px;padding:4px 10px;font-weight:800;font-size:.85rem;letter-spacing:.01em}
@@ -74,31 +83,54 @@ main{padding-top:18px;padding-bottom:40px}
 .partner-phone,.partner-web,.partner-note{margin:.35em 0}
 .partner-checked{margin:.35em 0 0;font-size:.85rem;color:var(--muted)}
 .partner-cta{margin:12px 0 0}
-.partner-cta .btn{width:100%}
+.partner-cta .btn{width:100%;font-size:1.1rem;min-height:52px}
 .partner p,.partner-recommended-label,.partner-unverified-label{overflow-wrap:anywhere}
 
-/* Free Basic Listings: compact secondary rows, smaller type, less real estate */
-.partner-basic{padding:8px 10px;border-radius:8px;box-shadow:none;background:#f7f7f7;font-size:.9rem;line-height:1.45}
-.partner-basic .partner-badge{display:inline;margin:0 8px 0 0}
-.partner-basic .partner-unverified-label{font-size:.7rem;padding:1px 6px;border-radius:4px;vertical-align:middle}
-.partner-basic h3{display:inline;font-size:.98rem;font-weight:600;margin:0;line-height:1.3}
-.partner-basic .partner-meta{margin:2px 0 0;font-size:.88rem}
+/* Free Basic Listings: compact, polished, smaller than Recommended. */
+.partner-basic{display:flex;flex-direction:column;gap:6px;padding:12px 14px;border-radius:12px;border:1px solid #d4d4d4;
+  box-shadow:0 1px 3px rgba(17,17,17,.06);background:#fff;font-size:.95rem;line-height:1.4}
+.partner-basic .partner-badge{order:2;margin:0}
+.partner-basic .partner-unverified-label{font-size:.7rem;padding:1px 6px;border-radius:4px}
+.partner-basic h3{order:1;font-size:1.06rem;font-weight:700;margin:0;line-height:1.3}
+.partner-basic .partner-meta{order:3;margin:2px 0 0}
 .partner-basic .partner-phone,.partner-basic .partner-web{margin:0}
 .partner-basic .partner-meta-sep{color:var(--muted)}
-.partner-basic .partner-note{margin:2px 0 0;font-size:.85rem;color:var(--muted)}
+.partner-basic .partner-note{order:4;margin:0;font-size:.85rem;color:var(--muted)}
 .partner-basic .partner-approved-wording{color:inherit}
 .partner-basic .partner-checked{margin:2px 0 0;font-size:.75rem}
-.partner-basic .partner-phone a{display:inline-block;padding:4px 0}
+.partner-call{display:inline-flex;align-items:center;gap:6px;min-height:44px;padding:8px 14px;border:1.5px solid var(--ink);border-radius:999px;
+  background:#fff;color:var(--ink);font-weight:600;text-decoration:none;line-height:1.2}
+.partner-call:hover{background:#f2f2f2}
+.partner-call-word{font-weight:700}
+.partner-call:before{content:"";width:9px;height:9px;border-radius:50%;background:var(--ink);flex:0 0 auto}
 .partner-basic .partner-web{color:var(--muted)}
 
 @media (min-width:480px){
-  .partner-cta .btn{width:auto;min-width:12rem}
+  .partner-cta .btn{width:auto;min-width:14rem}
 }
 @media (min-width:720px){
+  .partners{padding:26px 26px 18px}
+  .partners h2{font-size:1.7rem}
   .partner-verified{padding:20px 22px}
-  .partner-recommended{padding:22px 24px}
-  .partner-basic{padding:8px 12px}
+  .partner-recommended{padding:26px 28px}
+  .partners-list-free{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .partner-basic{padding:12px 16px}
 }
+
+/* Official public/nonprofit options in item sections: plain text rows, never
+   business-style cards that compete with our haulers (Adam, 13/11/2026). */
+.content ul.listings{gap:0;margin:.4em 0 1em}
+.listing{background:none;border:0;border-left:2px solid var(--line);border-radius:0;box-shadow:none;padding:6px 0 6px 12px;margin:0 0 8px}
+.content .listing h3{font-size:1rem;font-weight:600;margin:0 0 .15em}
+.listing p{font-size:.95rem}
+
+/* Other options: ONE small-print, muted, plain-text block at the very bottom of
+   each city guide. Generic/national/big commercial businesses live only here. */
+.other-options{margin:28px 0 0;padding:10px 0 0;border-top:1px solid var(--line);font-size:.76rem;line-height:1.5;color:var(--muted)}
+.other-options-h{margin:0 0 2px;font-size:.76rem;font-weight:400;text-transform:uppercase;letter-spacing:.04em}
+.content .other-options ul{list-style:none;padding:0;margin:0}
+.content .other-options li{margin:0 0 3px}
+.other-options .national-note{margin:0;font-size:inherit;line-height:inherit}
 
 /* Affiliate / call / partner buttons: big, full width on phones */
 /* Resident/town request box: brand black + yellow */
@@ -170,7 +202,6 @@ th{background:#f5f5f5}
   .hero p{font-size:1.1rem}
   main{padding-top:24px;padding-bottom:48px}
   .content h2{font-size:1.4rem;margin-top:2em}
-  .listing{padding:18px 20px}
   .cta{margin:32px 0;padding:24px}
   .btn{min-height:44px;font-size:1rem}
   .card a{padding:18px}

@@ -43,6 +43,9 @@ partners:
   note: Family-owned junk removal serving Oklahoma City since 2014.
   source_checked: 2026-11-11
 
+other_options:
+- 'Electronics retail take-back named by the City of Oklahoma City: Best Buy for TVs (fee required) and for computers, monitors, printers, keyboards, mice, cell phones and small devices; Staples for computers and peripherals; Goodwill''s computer program runs through Dell Reconnect. Oklahoma DEQ also suggests Best Buy or Staples. Call the store first.'
+- 'Free Landfill Days: GFL Landfill in Spencer takes only DIY construction and demolition debris.'
 ---
 # Junk Disposal in Oklahoma City, OK: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 
@@ -55,7 +58,7 @@ Here's how to legally get rid of bulky junk in Oklahoma City, Oklahoma, item by 
 | Mattress | Monthly curbside bulky pickup, set out loose by 6 a.m. on your bulky day; wrap and label it if it has bed bugs |
 | Couch / furniture | Monthly curbside bulky pickup (first 4 cubic yards included in your bill); or a Free Landfill Day (twice a year, typically May and September) |
 | Fridge / AC (freon) | Remove all doors, then call (405) 297-2833 to schedule pickup during your regular bulky window |
-| TV / computer | Not taken at the HHW center or curbside list; the City points TVs to Best Buy (fee required) and computers to Best Buy, Staples or Goodwill; also the City's spring Special Collection for computers |
+| TV / computer | Not taken at the HHW center or curbside list; the City points TVs and computers to retail take-back (see Other options at the bottom of this page) and computers to Goodwill; also the City's spring Special Collection for computers |
 | Paint / chemicals | Household Hazardous Waste Collection Center, 1621 S. Portland Ave., free to Oklahoma City residents (bring your City water bill); latex paint can also be dried out and put in the trash |
 | Christmas tree | Monthly bulky waste for City customers; last season's park mulch sites closed January 15, 2026 |
 
@@ -88,7 +91,7 @@ Here's how to legally get rid of bulky junk in Oklahoma City, Oklahoma, item by 
 
 Bulky pickup **does not** take bagged trash, bricks, concrete or rocks, contractor or remodeling debris, tires and automotive parts, or batteries and chemicals. ([Bulky Waste](https://www.okc.gov/Services/Water-Trash-Recycling/Bulky-Waste))
 
-**Free Landfill Days:** Twice a year (typically **May and September**; the 2026 dates were **Saturday, May 2** and **Saturday, September 12**), City residential trash customers can take **furniture and bulky items**, household trash, non-freon large appliances and bagged leaves to participating landfills **at no cost**: East Oak Landfill (3201 Mosley Rd.), Oklahoma City Landfill (7001 S. Bryant Ave.) and Oklahoma Landfill (7600 SW 15th St.); GFL Landfill in Spencer takes only DIY construction and demolition debris. Bring an **original, current City trash bill** or proof of account in the **My OKC Utilities** app. Renters need a copy of the bill showing trash service plus a valid ID matching the address. The 2027 dates weren't posted when we checked. ([Free Landfill Day](https://www.okc.gov/Services/Water-Trash-Recycling/Free-Landfill-Day))
+**Free Landfill Days:** Twice a year (typically **May and September**; the 2026 dates were **Saturday, May 2** and **Saturday, September 12**), City residential trash customers can take **furniture and bulky items**, household trash, non-freon large appliances and bagged leaves to participating landfills **at no cost**: East Oak Landfill (3201 Mosley Rd.), Oklahoma City Landfill (7001 S. Bryant Ave.) and Oklahoma Landfill (7600 SW 15th St.). Bring an **original, current City trash bill** or proof of account in the **My OKC Utilities** app. Renters need a copy of the bill showing trash service plus a valid ID matching the address. The 2027 dates weren't posted when we checked. ([Free Landfill Day](https://www.okc.gov/Services/Water-Trash-Recycling/Free-Landfill-Day))
 
 **Still usable?** The City suggests a local "buy nothing" or give-away group, or checking with your favorite charity to see what it accepts. ([Reuse and Repurpose](https://www.okc.gov/Services/Water-Trash-Recycling/Recycling/Reuse-and-Repurpose))
 
@@ -111,15 +114,15 @@ The City pages we checked don't say whether the freon pickup has an extra fee or
 
 **Where the City points you:**
 
-- **Televisions:** Best Buy, with a **fee required**. Check with your metro-area store.
-- **Computers, monitors, printers, keyboards and mice:** Best Buy, Staples, and Goodwill (through the Dell Reconnect program), per the City's list.
-- **Cell phones and small devices:** the Oklahoma City Zoo's Eco-Cell program (proceeds benefit the Dian Fossey Gorilla Fund), Best Buy and most cell phone carriers.
+- **Televisions:** retail take-back, with a **fee required** (see Other options at the bottom of this page).
+- **Computers, monitors, printers, keyboards and mice:** Goodwill, per the City's list, plus retail take-back (see Other options at the bottom of this page).
+- **Cell phones and small devices:** the Oklahoma City Zoo's Eco-Cell program (proceeds benefit the Dian Fossey Gorilla Fund) and most cell phone carriers.
 
 ([Reuse and Repurpose](https://www.okc.gov/Services/Water-Trash-Recycling/Recycling/Reuse-and-Repurpose)) Store programs and fees change, so call the store first.
 
 **Spring Special Collection:** Each spring the City holds a **Special Collection** for **computers and peripherals**, tires (no rims), ammunition and medications, for Oklahoma City residents with a current City water bill. **Televisions are not accepted** there. The 2026 event was Saturday, April 11, at OKC Fair Park. ([Household Hazardous Waste Collection Center](https://www.okc.gov/Services/Water-Trash-Recycling/Household-Hazardous-Waste-Collection-Center), [City news, April 1, 2026](https://www.okc.gov/News-articles/OKC-hosts-Special-Collection-for-tires-computers-and-more-April-11))
 
-**State law:** Under the Oklahoma Computer Equipment Recovery Act, manufacturers must offer a **take-back program** for desktop and notebook computers and computer monitors (many by mail). **TVs aren't covered.** ([Oklahoma DEQ: OCERA](https://oklahoma.gov/deq/divisions/land-protection/sust-materials-management/recycling/electronics-recycling/ocera.html)) Oklahoma DEQ also suggests Best Buy or Staples, or a certified (e-Stewards or R2) recycler. ([Oklahoma DEQ: How to Recycle Electronics](https://oklahoma.gov/deq/divisions/land-protection/sust-materials-management/recycling/electronics-recycling/how_to_recycle_electronics.html))
+**State law:** Under the Oklahoma Computer Equipment Recovery Act, manufacturers must offer a **take-back program** for desktop and notebook computers and computer monitors (many by mail). **TVs aren't covered.** ([Oklahoma DEQ: OCERA](https://oklahoma.gov/deq/divisions/land-protection/sust-materials-management/recycling/electronics-recycling/ocera.html)) Oklahoma DEQ also suggests a certified (e-Stewards or R2) recycler. ([Oklahoma DEQ: How to Recycle Electronics](https://oklahoma.gov/deq/divisions/land-protection/sust-materials-management/recycling/electronics-recycling/how_to_recycle_electronics.html))
 
 Wipe personal data from phones and computers before you drop them off.
 

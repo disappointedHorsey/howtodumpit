@@ -12,7 +12,7 @@ listings:
   cost: 'Included in the City of Las Vegas single-family residential rate ($20.02 a month for 2026-2027, which covers weekly trash and recycling plus every-other-week bulky pickup)'
   details: 'Republic Services sends a third truck every other week on your regular service day (an "A" or "B" schedule) for items that do not fit in your cart. Items must be curbside (not on private property) and no more than 6 feet long. Soiled mattresses must be wrapped in plastic. Find your bulk week on Republic''s 2026 bulk calendars or by entering your address on its schedule lookup.'
   source: https://www.republicservices.com/municipality/southern-nevada
-- name: Republic Services Transfer Stations and Apex Landfill
+- name: Transfer Stations and Apex Landfill (Self-Haul)
   type: Drop-off
   cost: 'Varies; call the facility for current rates'
   details: 'Cheyenne Transfer Station, 315 W. Cheyenne Ave., North Las Vegas (702-599-5624) and Henderson Transfer Station, 560 Cape Horn Dr., Henderson (702-599-5768), both open 7 a.m. to 3 p.m., seven days a week. Apex Landfill, 13550 N. US Highway 93 (702-599-5920), 8 a.m. to 4 p.m. daily.'
@@ -43,6 +43,10 @@ partners:
   note: Junk removal serving Las Vegas, Henderson and Boulder City.
   source_checked: 2026-11-11
 
+other_options:
+- 'TVs: Nevada''s Division of Environmental Protection (NDEP) says most Best Buy stores recycle TVs for a fee, with a limit of two TVs per household per day and size limits (tube TVs under 32 inches; flat-panel LCD, plasma and LED TVs under 50 inches; portable TVs). Check with your store first.'
+- 'Clark County electronics recyclers listed by NDEP: Nevada State Recycle, 1816 Industrial Road #4, Las Vegas, 702-979-1280; Dunn & Son Electronic Recycler, 3050 Westwood Dr., Las Vegas, 702-604-0810.'
+- 'Furniture donation: the Southern Nevada Health District also lists Donation Town (not an endorsement).'
 ---
 # Junk Disposal in Las Vegas, NV: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 
@@ -101,7 +105,7 @@ Here's how to legally get rid of bulky junk in Las Vegas, Nevada, item by item. 
 
 ([Republic Services: Southern Nevada Service Information](https://www.republicservices.com/municipality/southern-nevada/service-information)) The Cheyenne Transfer Station is open **7 a.m. to 3 p.m., seven days a week**. ([Republic Services: Cheyenne Transfer Station](https://www.republicservices.com/sites/default/files/legacy_documents/Muni/Southern%20Nevada/Cheyenne-Transfer-Station.pdf)) We didn't find resident drop-off fees on an official page; call before you go.
 
-**Still usable?** The Southern Nevada Health District suggests donating or consigning furniture in good condition, and lists Goodwill Industries, Habitat for Humanity, Las Vegas Rescue Mission, Salvation Army, Vietnam Veterans of America and Donation Town as donation organizations (not an endorsement). It also suggests asking the store to take your old furniture when it delivers the new one. ([Southern Nevada Health District: Household Hazardous Waste Management](https://www.southernnevadahealthdistrict.org/permits-and-regulations/solid-waste-compliance/household-hazardous-waste-management/))
+**Still usable?** The Southern Nevada Health District suggests donating or consigning furniture in good condition, and lists Goodwill Industries, Habitat for Humanity, Las Vegas Rescue Mission, Salvation Army, and Vietnam Veterans of America as donation organizations (not an endorsement). It also suggests asking the store to take your old furniture when it delivers the new one. ([Southern Nevada Health District: Household Hazardous Waste Management](https://www.southernnevadahealthdistrict.org/permits-and-regulations/solid-waste-compliance/household-hazardous-waste-management/))
 
 ## Appliances (Fridges, Freezers, AC: Freon) {#appliances}
 
@@ -126,8 +130,8 @@ Window units can be **no larger than 2 feet by 3 feet**. ([Republic Services: Re
 
 **Other options from official lists:**
 
-- **Best Buy:** Nevada's Division of Environmental Protection (NDEP) says most Best Buy stores recycle TVs **for a fee**, with a **limit of two TVs per household per day** and size limits (tube TVs under 32 inches; flat-panel LCD, plasma and LED TVs under 50 inches; portable TVs). Check with your store first.
-- **Clark County special-waste recyclers listed by NDEP:** Nevada State Recycle (1816 Industrial Road #4, Las Vegas, 702-979-1280), Dunn & Son Electronic Recycler (3050 Westwood Dr., Las Vegas, 702-604-0810) and The Blind Center (1001 N. Bruce St., Las Vegas, 702-998-4901; **no CRT TVs**).
+- **Retail take-back and private recyclers:** NDEP also lists a retail store chain and private electronics recyclers (see Other options at the bottom of this page).
+- **The Blind Center** (1001 N. Bruce St., Las Vegas, 702-998-4901; **no CRT TVs**), listed by NDEP.
 
 ([NDEP: Where Can I Recycle](https://www.ndep.nv.gov/nevada-recycles/recycle/where-can-i-recycle)) The Southern Nevada Health District also lists local drop-off and recycling locations for TVs, monitors, computers and phones (not an endorsement) and advises you to **call first to ask about fees**. ([Southern Nevada Health District](https://www.southernnevadahealthdistrict.org/permits-and-regulations/solid-waste-compliance/household-hazardous-waste-management/)) Store and recycler programs and fees change, so call before you go.
 

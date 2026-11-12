@@ -42,6 +42,8 @@ partners:
   website: https://www.junkspan.com/
   note: Milwaukee hauling crew for furniture, appliances, rooms and estate cleanouts, with same-day availability.
   source_checked: 2026-11-11
+other_options:
+- 'Cell phones: the City of Milwaukee points to Call2Recycle drop-off locations.'
 ---
 # Junk Disposal in Milwaukee, WI: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 
@@ -112,7 +114,7 @@ Normal recyclables and scrap metal are free regardless of volume. The payment bo
 
 **Banned from the trash:** Since September 1, 2010, many electronics have been banned from Wisconsin landfills. City crews won't pick them up, and no one may put them in the trash. The banned list includes **TVs, computers (desktops, laptops and tablets), monitors, keyboards, mice and other accessories, printers, fax machines, DVD players and VCRs, e-readers and cellphones**. ([City of Milwaukee: Electronics](https://city.milwaukee.gov/Recycle/What-Can-I-Recycle/Disposal--Recycling-Guide/Electronics))
 
-**Drop Off Centers:** City residents can take residential electronics to either Drop Off Center. The centers take **up to three TVs per visit at $5 per TV**, and other electronics on the City's list are free. Cellphones aren't accepted at the centers; the City points to Call2Recycle drop-off locations instead. Delete your personal data first.
+**Drop Off Centers:** City residents can take residential electronics to either Drop Off Center. The centers take **up to three TVs per visit at $5 per TV**, and other electronics on the City's list are free. Cellphones aren't accepted at the centers; the City points to a battery and phone take-back program instead (see Other options at the bottom of this page). Delete your personal data first.
 
 **Other options:** E-Cycle Wisconsin is the state's manufacturer-funded program for recycling household electronics, and the Wisconsin DNR lists collection sites and mail-back programs. ([Wisconsin DNR: Electronics Recycling](https://dnr.wisconsin.gov/topic/Ecycle)) The US EPA also keeps a list of [manufacturer and retailer electronics donation and recycling programs](https://www.epa.gov/recycle/electronics-donation-and-recycling).
 

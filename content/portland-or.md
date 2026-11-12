@@ -43,6 +43,9 @@ partners:
   note: Local junk removal based in Clackamas, with Portland as a primary service city.
   source_checked: 2026-11-11
 
+other_options:
+- 'Mattresses: the City of Portland points to the statewide Bye Bye Mattress program for other free drop-off locations.'
+- 'Furniture give-away sites named by the City of Portland: Buy Nothing, Nextdoor, Freecycle and OfferUp.'
 ---
 # Junk Disposal in Portland, OR: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 
@@ -72,7 +75,7 @@ Here's how to legally get rid of bulky junk in Portland, Oregon, item by item. I
 3. Go to **Metro Central, 6161 NW 61st Ave., Portland, OR 97210**. It's open to the public **8 a.m. to 5 p.m. daily** and closed to the public on the Fourth of July, Thanksgiving, Christmas and New Year's Day.
 4. Bring **no more than four** mattresses or box springs per day.
 
-Metro's [Metro South page](https://www.oregonmetro.gov/tools-living/garbage-and-recycling/garbage-recycling-hazardous-waste-disposal-oregon-city) (2001 Washington St., Oregon City) doesn't list free mattress drop-off, so use Metro Central or call Metro first. The City also points to the statewide **Bye Bye Mattress** program for [other free drop-off locations](https://byebyemattress.com/oregon/). ([Metro Central](https://www.oregonmetro.gov/tools-living/garbage-and-recycling/garbage-recycling-hazardous-waste-disposal-portland))
+Metro's [Metro South page](https://www.oregonmetro.gov/tools-living/garbage-and-recycling/garbage-recycling-hazardous-waste-disposal-oregon-city) (2001 Washington St., Oregon City) doesn't list free mattress drop-off, so use Metro Central or call Metro first. The City also points to a statewide mattress recycling program for other free drop-off locations (see Other options at the bottom of this page). ([Metro Central](https://www.oregonmetro.gov/tools-living/garbage-and-recycling/garbage-recycling-hazardous-waste-disposal-portland))
 
 ### Step by Step: Curbside Pickup Through Your Garbage Company
 
@@ -101,7 +104,7 @@ These rates apply to houses, duplexes, triplexes and fourplexes. Follow the same
 
 **Self-haul:** Metro transfer stations take **broken furniture** as garbage: **$51 minimum** for loads up to 240 pounds, then **$176.70 per ton**, plus a **$30 per-load staffed-scale transaction fee** for public customers on loads over 240 pounds. Uncovered loads cost an extra **$25 per ton** ($3 extra on minimum loads), and Metro adds a **2% fee** on credit card payments. Sort out your recyclables for a $3 to $6 rebate. Fees are adjusted every year. ([Metro Central](https://www.oregonmetro.gov/tools-living/garbage-and-recycling/garbage-recycling-hazardous-waste-disposal-portland), [Metro South](https://www.oregonmetro.gov/tools-living/garbage-and-recycling/garbage-recycling-hazardous-waste-disposal-oregon-city))
 
-**Donate or give away:** For furniture in good shape, the City points to the [Resourceful PDX map](https://www.resourcefulpdx.com/map) of reuse and repair groups, Metro's [Find a Recycler](https://www.oregonmetro.gov/findarecycler) tool, and give-away sites such as Buy Nothing, Nextdoor, Freecycle and OfferUp. ([Large household waste disposal options](https://www.portland.gov/bps/garbage-recycling/home-recycling/bulky-waste-disposal))
+**Donate or give away:** For furniture in good shape, the City points to the [Resourceful PDX map](https://www.resourcefulpdx.com/map) of reuse and repair groups, Metro's [Find a Recycler](https://www.oregonmetro.gov/findarecycler) tool, and online give-away sites (see Other options at the bottom of this page). ([Large household waste disposal options](https://www.portland.gov/bps/garbage-recycling/home-recycling/bulky-waste-disposal))
 
 **Donate to a Habitat for Humanity ReStore (nonprofit):** Habitat for Humanity Portland Region runs four ReStores that resell donated furniture, appliances and building materials, and the proceeds help fund local Habitat homebuilding and home repair. Drop off at **Portland** (10445 SE Cherry Blossom Dr.), **Beaverton** (13475 SW Millikan Way), **Gresham** (610 NE 181st Ave.) or **Tigard** (16160 SW Upper Boones Ferry Road, Building C; the donation center is at the back of the building). No appointment is needed: donations are accepted until 2:00 p.m. on Tuesdays and until 5:30 p.m. Wednesday through Monday. Bring help to unload. Items must be new or gently used, clean, stain-free, ready to sell as-is and complete with all pieces, and staff decide what they can take.
 

@@ -47,6 +47,10 @@ partners:
   website: https://www.papisjunkremoval.com/
   note: Family-owned junk removal from Clovis, serving Fresno with same-day hauling; donates or recycles what it can.
   source_checked: 2026-11-11
+other_options:
+- 'Mattress drop-off: Fresno County points to the state''s Bye Bye Mattress program for drop-off sites.'
+- 'E-waste: Fresno County''s drop-off list includes Best Buy stores. Call before you go.'
+- 'Large appliances with or without freon (household quantities): SA Recycling, 3489 S. Chestnut Ave., 559-237-6677, per Fresno County''s drop-off list.'
 ---
 # Junk Disposal in Fresno, CA: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 
@@ -71,7 +75,7 @@ Here's how to legally get rid of bulky junk in Fresno, California, item by item.
 
 **Operation Clean Up and Free Dump Events:** Mattresses and box springs are also accepted at your neighborhood's yearly Operation Clean Up and at the City's Free Dump Events. Both are explained in the furniture section below.
 
-**Buying a new mattress?** Fresno County says California retailers have up to 30 days to pick up your old mattress, but a retailer may refuse one that poses a health or safety risk. The County also points to the state's Bye Bye Mattress program for drop-off sites. ([Fresno County: Special Handling](https://cleanupfresnocounty.com/special-handling/))
+**Buying a new mattress?** Fresno County says California retailers have up to 30 days to pick up your old mattress, but a retailer may refuse one that poses a health or safety risk. The County also points to a statewide mattress recycling program for drop-off sites (see Other options at the bottom of this page). ([Fresno County: Special Handling](https://cleanupfresnocounty.com/special-handling/))
 
 **Bed bugs:** We couldn't find an official City of Fresno rule about wrapping or bagging a mattress with bed bugs. Ask Solid Waste when you book your pickup.
 
@@ -106,7 +110,7 @@ These City programs are only for homes that pay for City of Fresno residential t
 
 **Free Dump Events:** "Appliances" are on the accepted list. The City page doesn't say whether refrigerators, freezers or AC units are included, so call 311 before you bring one.
 
-**Certified Appliance Recyclers:** Fresno County says state law bars landfills and scrap dealers from accepting discarded appliances without a "Certificate of Recycling" showing that hazardous materials were removed by a Certified Appliance Recycler. Find one on the state's DTSC map, or ask your retailer about removal when you buy a new appliance. The County's drop-off list shows SA Recycling, 3489 S. Chestnut Ave., taking large appliances **with or without freon** (household quantities, 559-237-6677). Several other listed sites take appliances **without freon** only. ([Fresno County: Special Handling Programs](https://cleanupfresnocounty.com/special-handling/)) ([California DTSC: Certified Appliance Recycler Program](https://dtsc.ca.gov/certified-appliance-recycler-car-program/))
+**Certified Appliance Recyclers:** Fresno County says state law bars landfills and scrap dealers from accepting discarded appliances without a "Certificate of Recycling" showing that hazardous materials were removed by a Certified Appliance Recycler. Find one on the state's DTSC map, or ask your retailer about removal when you buy a new appliance. The County's drop-off list shows a private recycler taking large appliances **with or without freon** (see Other options at the bottom of this page). Several other listed sites take appliances **without freon** only. ([Fresno County: Special Handling Programs](https://cleanupfresnocounty.com/special-handling/)) ([California DTSC: Certified Appliance Recycler Program](https://dtsc.ca.gov/certified-appliance-recycler-car-program/))
 
 **Freon:** Never cut the lines or let the refrigerant out yourself. The US EPA says the final disposer of an appliance is responsible for recovering its refrigerant. ([US EPA: Appliance Disposal](https://www.epa.gov/section608/appliance-disposal))
 
@@ -114,7 +118,7 @@ These City programs are only for homes that pay for City of Fresno residential t
 
 **Never in a cart:** Electronics and e-waste aren't allowed in any City cart. They also aren't accepted at the One-Time Bulky Item Pickup or at Free Dump Events. ([City of Fresno: What Goes Where?](https://www.fresno.gov/publicutilities/trash-disposal-recycling/what-goes-where-green-gray-blue/))
 
-**Environmental Compliance Center (ECC):** Fresno County's ECC takes cell phones, laptops, tablets, printers, TVs and computer monitors for free from residents. Small appliances are accepted if they weigh under 125 pounds and don't contain freon. ([Fresno County: Household Hazardous Waste](https://cleanupfresnocounty.com/hhw/)) The County's drop-off list also shows other sites for e-waste and computer equipment, including CARTS, Mid Valley Disposal and Best Buy stores. Call any site before you go. ([Fresno County: Drop-Off Locations](https://cleanupfresnocounty.com/drop-off-locations/))
+**Environmental Compliance Center (ECC):** Fresno County's ECC takes cell phones, laptops, tablets, printers, TVs and computer monitors for free from residents. Small appliances are accepted if they weigh under 125 pounds and don't contain freon. ([Fresno County: Household Hazardous Waste](https://cleanupfresnocounty.com/hhw/)) The County's drop-off list also shows other sites for e-waste and computer equipment, including CARTS, Mid Valley Disposal and a retail store chain (see Other options at the bottom of this page). Call any site before you go. ([Fresno County: Drop-Off Locations](https://cleanupfresnocounty.com/drop-off-locations/))
 
 ## Paint and Household Hazardous Waste {#hazardous}
 

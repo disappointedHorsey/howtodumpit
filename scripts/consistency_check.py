@@ -135,6 +135,45 @@ class Page(HTMLParser):
             self.blocks.append((self.region(), "text", norm(d)))
 
 
+# HARD RULE (Adam, 13/11/2026): generic, national or big commercial businesses
+# may appear only in the bottom small-print "Other options" block.
+GENERIC_BRANDS = [(b, re.compile(rx, re.I if ci else 0)) for b, rx, ci in [
+    ("1-800-GOT-JUNK", r"GOT-?\s?JUNK", True), ("LoadUp", r"\bLoadUp\b", True),
+    ("Junk King", r"\bJunk King\b", True), ("College Hunks", r"College Hunks", True),
+    ("JunkLuggers", r"Junk ?Luggers", True), ("Angi", r"\bAngi\b|HomeAdvisor", False),
+    ("Thumbtack", r"\bThumbtack\b", True), ("TaskRabbit", r"TaskRabbit", True),
+    ("Bagster", r"\bBagster\b", True), ("Best Buy", r"\bBest Buy\b", True),
+    ("Home Depot", r"Home Depot", True), ("Lowe's", r"\bLowe[’']?s\b", False),
+    ("Staples", r"\bStaples\b", False), ("Dell Reconnect", r"Dell Reconnect", True),
+    ("Mattress Firm", r"Mattress Firm", True), ("Bye Bye Mattress", r"Bye ?Bye ?Mattress", True),
+    ("Mattress Recycling Council", r"Mattress Recycling Council", True),
+    ("Earth911", r"Earth ?911", True), ("Call2Recycle", r"Call2Recycle", True),
+    ("Craigslist", r"Craigslist", True), ("Facebook Marketplace", r"Facebook Marketplace", True),
+    ("Nextdoor", r"\bNext ?Door\b", True), ("OfferUp", r"\bOfferUp\b", True),
+    ("Donation Town", r"Donation Town", True),
+    ("Waste Management", r"(?<!Solid )(?<!Hazardous )\bWaste Management\b(?! (?:Department|Division|Policies|customer service|Plan|Amendment))|\bWM\b", False),
+    ("Republic Services", r"Republic Services", True), ("Waste Connections", r"Waste Connections", True),
+    ("Allied Waste", r"Allied Waste", True), ("GFL", r"\bGFL\b", False),
+    ("Texas Disposal Systems", r"Texas Disposal Systems", True), ("Recology", r"\bRecology\b", True),
+    ("Waste Pro", r"\bWaste Pro\b", True), ("Priority Waste", r"Priority Waste", True),
+    ("Westech", r"Westech", True),
+    ("SA Recycling", r"\bSA Recycling\b", False), ("Urban Recycling", r"Urban Recycling", True),
+    ("Galvanize Recycling", r"Galvanize Recycling", True), ("EDCO Recycling", r"EDCO Recycling and Transfer Station", True),
+    ("ACE Recycling", r"\bACE Recycling\b", True),
+]]
+# The city's or county's own contracted (franchise) collector is the official
+# public route, so it may be named in the guide text, never as a card title.
+FRANCHISE_ALLOW = {
+    "oakland-ca": {"Waste Management", "Republic Services"},
+    "detroit-mi": {"Waste Management", "Priority Waste"},
+    "las-vegas-nv": {"Republic Services"},
+    "san-francisco-ca": {"Recology"},
+    "fresno-ca": {"Republic Services", "Allied Waste"},
+    "jacksonville-fl": {"Waste Pro"},
+    "colorado-springs-co": {"Republic Services"},
+    "albuquerque-nm": {"Waste Management"},
+}
+
 def norm(s):
     return re.sub(r"\s+", " ", html.unescape(s)).strip()
 
@@ -344,14 +383,59 @@ def check_page(path, root, pages_ids):
         n_listings = len(re.findall(r'<li class="[^"]*\bpartner\b', raw))
         if n_listings < 4:
             add("partners", f"city page has {n_listings} listing(s) (need at least 4)")
-        note_m = re.search(r'<p class="national-note">([^<]*)</p>', raw)
+        # HARD RULE (Adam, 13/11/2026): our haulers are always featured and
+        # must look fantastic; generic/national/big commercial businesses only
+        # in ONE small-print "Other options" block at the very bottom; free
+        # listings smaller than Recommended.
+        blocks = re.findall(r'<aside class="other-options"[^>]*>.*?</aside>', raw, re.S)
+        if len(blocks) != 1:
+            add("haulers-first", f'city guide must have exactly one small-print "Other options" block (found {len(blocks)})')
+        else:
+            blk = blocks[0]
+            if re.search(r"<(a|strong|b|h[1-6]|button|img|table)\b|class=\"[^\"]*(btn|cta|card|listing|partner)", blk, re.I):
+                add("haulers-first", 'the "Other options" block must be plain small text: no links, buttons, bold, headings or cards')
+            tail = raw[raw.index(blk) + len(blk):]
+            if re.search(r"<(p|ul|ol|aside|section|h[1-6]|div)\b", tail.split("</article>")[0], re.I):
+                add("haulers-first", 'the "Other options" block must be the last thing in the guide')
+            if partner_at >= 0 and raw.index(blk) < partner_at:
+                add("haulers-first", 'the "Other options" block must come after the local partners')
+        outside = re.sub(r'<aside class="other-options"[^>]*>.*?</aside>', " ", raw, flags=re.S)
+        outside = re.sub(r"<(script|style)\b.*?</\1>", " ", outside, flags=re.S | re.I)
+        outside_text = html.unescape(re.sub(r"<[^>]+>", " ", re.sub(r'href="[^"]*"', "", outside)))
+        city_slug = page_url(path, root).strip("/")
+        allowed = FRANCHISE_ALLOW.get(city_slug, set())
+        for brand, rx in GENERIC_BRANDS:
+            if brand in allowed:
+                continue
+            m = rx.search(outside_text)
+            if m:
+                add("haulers-first", f'generic/national business "{m.group(0)}" appears outside the small-print Other options block')
+        for lm in re.finditer(r'<li class="listing">\s*<h3>([^<]*)</h3>', raw):
+            for brand, rx in GENERIC_BRANDS:
+                if rx.search(html.unescape(lm.group(1))):
+                    add("haulers-first", f'listing card is named after a generic/national business: "{lm.group(1)}"')
+        if re.search(r'<li class="[^"]*\bpartner\b[^"]*"[^>]*>(?:(?!</li>).)*?(' + "|".join(rx.pattern for _, rx in GENERIC_BRANDS) + ')', raw, re.S):
+            add("haulers-first", "a generic/national business is styled as a partner card")
+        sec = re.search(r'<section class="partners".*?</section>', raw, re.S)
+        if sec:
+            if not re.search(r'<h2 id="partners-h">Local Junk Removal Pros in [^<]+</h2>', sec.group(0)):
+                add("haulers-first", 'partner section heading must be "Local Junk Removal Pros in [City]"')
+            for fm in re.finditer(r'<li class="partner partner-basic">(.*?)</li>', sec.group(0), re.S):
+                row = fm.group(1)
+                if re.search(r'class="btn|partner-web|rel="sponsored|partner-recommended|partner-exclusive|Recommended|Verified Partner', row):
+                    add("haulers-first", "a free Basic listing is dressed like a paid listing (button, website, Recommended or Verified wording)")
+                if "Not verified" not in row:
+                    add("haulers-first", 'a free Basic listing is missing the "Not verified" label')
+                if 'href="tel:' not in row:
+                    add("haulers-first", "a free Basic listing has no tap-to-call link")
+        note_m = re.search(r'<li class="national-note">([^<]*)</li>', raw)
         expected_note = "Prefer a national company? 1-800-GOT-JUNK and LoadUp also serve this area."
         if not note_m:
             add("city-seo", "city guide is missing the small plain-text national company line")
         else:
             if note_m.group(1) != expected_note:
                 add("city-seo", "the national company line does not use the approved plain-text wording")
-            if re.search(r"<a\b|btn|cta", note_m.group(0), re.I):
+            if re.search(r"<a\b|btn|cta", note_m.group(0), re.I) or not re.search(r'<aside class="other-options"[^>]*>(?:(?!</aside>).)*class="national-note"', raw, re.S):
                 add("city-seo", "the national company line must be plain text with no link or button")
             note_at = note_m.start()
             if partner_at >= 0 and note_at < partner_at:

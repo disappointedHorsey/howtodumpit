@@ -42,6 +42,8 @@ partners:
   website: https://www.millardjunkremoval.com/
   note: Locally owned and operated junk removal serving Omaha and the surrounding metro.
   source_checked: 2026-11-11
+other_options:
+- 'Appliances: the City of Omaha also points to the Earth911 recycler search.'
 ---
 # Junk Disposal in Omaha, NE: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 
@@ -97,7 +99,7 @@ This guide covers the **City of Omaha** only. **Bellevue** contracts Papillion S
 
 ## Appliances (Fridges, Freezers, AC: Freon) {#appliances}
 
-**Not in the River City program:** The City says freon and non-freon appliances are no longer part of the bulky disposal program. Its listed options are the free **Cleanup Saturdays**, where appliances go to **designated appliance sites only**, and the Earth911 search. ([Bulky Item Disposal](https://www.wasteline.org/special-waste-information/bulky-item-disposal/))
+**Not in the River City program:** The City says freon and non-freon appliances are no longer part of the bulky disposal program. Its listed options are the free **Cleanup Saturdays**, where appliances go to **designated appliance sites only**, and an online recycler search (see Other options at the bottom of this page). ([Bulky Item Disposal](https://www.wasteline.org/special-waste-information/bulky-item-disposal/))
 
 **Other options:** The Keep Omaha Beautiful recycling guide says River City may take large appliances for a processing fee, notes that the Pheasant Point landfill does **not** accept appliances, and suggests scrap metal recyclers. Call ahead to confirm fees. ([Omaha Recycling Guide: Appliances](https://www.omaharecyclingguide.org/appliances))
 

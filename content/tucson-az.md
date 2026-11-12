@@ -42,6 +42,8 @@ partners:
   website: https://www.salvationarmytucson.org/family-thrift-stores
   note: Tucson family thrift store and donation center; drop-off during published store hours.
   source_checked: 2026-11-11
+other_options:
+- 'Electronics: the City of Tucson also lists ACE Recycling.'
 ---
 # Junk Disposal in Tucson, AZ: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 
@@ -108,7 +110,7 @@ The City's residential trash service covers homes inside Tucson city limits: sin
 
 **CRT (tube) TVs and monitors:** The HHW program doesn't accept them. The City's Know Where to Throw site points to Suburban Miners for CRT TVs and monitors. ([Know Where to Throw: Household Hazardous Waste](https://www.knowwheretothrow.com/hhw))
 
-**Other local options:** The City lists Keeper of the Grumper, ACE Recycling and We Care Tucson as local organizations that accept electronics. Check each one's own site for what they take and any fees. The US EPA also keeps a list of [manufacturer and retailer electronics donation and recycling programs](https://www.epa.gov/recycle/electronics-donation-and-recycling).
+**Other local options:** The City lists Keeper of the Grumper, We Care Tucson and a private recycler (see Other options at the bottom of this page) as local organizations that accept electronics. Check each one's own site for what they take and any fees. The US EPA also keeps a list of [manufacturer and retailer electronics donation and recycling programs](https://www.epa.gov/recycle/electronics-donation-and-recycling).
 
 ## Paint and Household Hazardous Waste {#hazardous}
 

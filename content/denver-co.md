@@ -12,11 +12,6 @@ listings:
   cost: Included for addresses served by Denver Solid Waste (no separate large-item fee stated on the city page)
   details: 'Runs every nine weeks on your regular trash/recycling day. Max 5 large items and up to 10 bags per address. Mattresses and box springs MUST be bagged and wrapped. Set out by 6 a.m. on collection day, at least 2 feet from carts. Setting items out on other days is illegal dumping. Check your schedule in the Trash and Recycling app or online address lookup.'
   source: https://www.denvergov.org/My-Property/Recycle-Compost-Trash/Large-Item-Pickup
-- name: Private Metro Transfer / Landfill Drop-Off
-  type: Drop-off
-  cost: Fee set by each facility (call ahead)
-  details: 'City lists private facilities that may take household trash and large items (furniture, mattresses, etc.) for a fee, including Waste Management D&R Transfer Station, All Recycling North Transfer Station, DADS Landfill, South Metro Transfer Station, and Waste Connections Jordan Rd. Confirm hours, accepted items and prices before you go.'
-  source: https://www.denvergov.org/My-Property/Recycle-Compost-Trash/Large-Item-Pickup
 partners:
 - tier: basic
   name: EZ Haulaway
@@ -49,6 +44,8 @@ partners:
   approved_wording: "Blue Star Recyclers, 953 Decatur St., Denver, CO 80204, 303-534-1667. Denver's go-to spot for responsible electronics recycling (TVs, computers and more) and certified secure data destruction, and the drop-off partner for the City of Denver E-cycle Coupon. Recycling here keeps electronics out of the landfill, keeps your data safe, and supports Blue Star's mission to hire adults with disabilities."
   note: "Free nonprofit city partner. Wording approved by Jonathan Sabar, Business Development Manager, 12/11/2026 (msg 1a1cd787d91d7d31). Website in YAML is a source record only and is not rendered."
   source_checked: 2026-11-12
+other_options:
+- 'Private metro drop-off for large items, for a fee (named on Denver''s Large Item Pickup page): Waste Management D&R Transfer Station, All Recycling North Transfer Station, Waste Management Denver Arapahoe Disposal Site (DADS) Landfill, Waste Management South Metro Transfer Station, and Waste Connections of Colorado Jordan Rd. Transfer Station. Confirm hours, accepted items and prices before you go.'
 ---
 # Junk Disposal in Denver, CO: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 
@@ -81,7 +78,7 @@ Here's how to legally get rid of bulky junk in Denver, item by item. Every optio
 
 ### Self-Haul: Private Drop-Off
 
-Denver lists private metro facilities that can take household trash and large items (furniture, mattresses, etc.) for a fee. Examples named on the Large Item Pickup page include Waste Management D&R Transfer Station, All Recycling North Transfer Station, Waste Management Denver Arapahoe Disposal Site (DADS) Landfill, Waste Management South Metro Transfer Station, and Waste Connections of Colorado Jordan Rd. Transfer Station. **Call ahead** for hours, fees and what they accept. Recycling drop-offs are in the city's online Recycling Directory.
+Denver lists private metro facilities that can take household trash and large items (furniture, mattresses, etc.) for a fee (see Other options at the bottom of this page). **Call ahead** for hours, fees and what they accept. If you'd rather not haul it yourself, use one of the local junk removal companies listed above. Recycling drop-offs are in the city's online Recycling Directory.
 
 ### What Not to Do
 

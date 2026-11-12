@@ -12,11 +12,6 @@ listings:
   cost: No cost (owners and renters, single-family homes and multi-family complexes)
   details: 'Request through 311.SanJoseCA.gov, the San José 311 app, by dialing 3-1-1 or calling (408) 535-3500. Up to 12 items per request; appointments fall on your regular recycling and garbage day. Watch for a separate appointment confirmation email within two business days. Mattresses and box springs must not have bed bugs or mold; if rain is forecast, cover them with plastic or a tarp. Set out no more than 24 hours before your appointment. Apartment residents: ask your property manager where to place items.'
   source: https://www.sanjoseca.gov/your-government/departments-offices/environmental-services/recycling-garbage/junk-pickup
-- name: Retailer Take-Back When a New Mattress Is Delivered (California Law)
-  type: Take-back
-  cost: No additional cost for the old mattress (delivery or setup fees for the new product may still apply)
-  details: 'California law requires the retailer delivering your new mattress to offer to take back your old one. The retailer has up to 30 days to take it back and may refuse a mattress that poses a health or safety risk. Bye Bye Mattress (the state program) also lists no-cost drop-off locations.'
-  source: https://byebyemattress.com/california/
 partners:
 - tier: basic
   name: Goodwill of Silicon Valley
@@ -42,7 +37,8 @@ partners:
   website: https://zerowastesv.org/materials/e-waste
   note: A program of the San Jose Conservation Corps; e-waste drop-off at 1560 Berger Dr., San Jose.
   source_checked: 2026-11-11
-
+other_options:
+- 'Mattresses, retailer take-back (California law): the retailer delivering your new mattress must offer to take back your old one at no additional cost. It has up to 30 days and may refuse a mattress that poses a health or safety risk. Bye Bye Mattress, the state program, also lists no-cost drop-off locations.'
 ---
 # Junk Disposal in San Jose, CA: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 
@@ -52,7 +48,7 @@ Here's how to legally get rid of bulky junk in San José, California, item by it
 
 | Item | Best Verified Option |
 |---|---|
-| Mattress | No-cost City Junk Pickup through San José 311 (no bed bugs or mold; cover it if rain is forecast), or retailer take-back when a new mattress is delivered |
+| Mattress | No-cost City Junk Pickup through San José 311 (no bed bugs or mold; cover it if rain is forecast), or one of the local junk removal companies listed above |
 | Couch / furniture | No-cost City Junk Pickup, up to 12 items per request (each couch section counts as 1 item) |
 | Fridge / AC (freon) | No-cost City Junk Pickup: empty it, remove glass shelves, tape doors shut or remove them; window or portable AC units only (no central units, no commercial appliances) |
 | TV / computer | Illegal in the garbage or recycling cart. City Junk Pickup (computers and monitors boxed with cords), or free County household hazardous waste drop-off by appointment |
@@ -81,7 +77,7 @@ Here's how to legally get rid of bulky junk in San José, California, item by it
 - **Don't** dump it by the road. The City notes it's expensive for public agencies to pick up illegally dumped mattresses. ([San José Recycles](https://sanjoserecycles.org/guide/mattresses-box-springs/))
 - **Don't** book a mattress with bed bugs or mold; the City's list says those aren't accepted. We couldn't find an official San José page that says what to do with an infested mattress, so call 311 for guidance.
 
-*Sources: City of San José [Junk Pickup](https://www.sanjoseca.gov/your-government/departments-offices/environmental-services/recycling-garbage/junk-pickup), the City's [list of acceptable items](https://www.sanjoseca.gov/home/showpublisheddocument/69710/637656480205670000) and [Bye Bye Mattress California](https://byebyemattress.com/california/). Checked 10/20/2026. Rules change, so confirm on the official page before you go.*
+*Sources: City of San José [Junk Pickup](https://www.sanjoseca.gov/your-government/departments-offices/environmental-services/recycling-garbage/junk-pickup), the City's [list of acceptable items](https://www.sanjoseca.gov/home/showpublisheddocument/69710/637656480205670000). Checked 10/20/2026. Rules change, so confirm on the official page before you go.*
 
 ## Couches and Furniture {#furniture}
 

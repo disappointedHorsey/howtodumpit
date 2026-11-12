@@ -7,16 +7,11 @@ state: CA
 short: San Diego, CA
 listings_title: Mattress Options at a Glance
 listings:
-- name: Miramar Landfill Mattress Collection Site (Bye Bye Mattress)
+- name: Miramar Landfill Mattress Collection Site
   type: Drop-off / recycling
   cost: Free; no drop-off limit (landfill fees may apply if mixed with other waste)
   details: 'East side of the entrance at 5161 Convoy St., San Diego, CA 92111, next to the Household Hazardous Waste Transfer Facility. Monday-Friday 7 a.m.-3 p.m.; closed weekends and major holidays. Not accepted: wet, severely damaged, twisted, frozen, soiled, or bedbug-infested mattresses, or mattresses in a cardboard box or plastic bag.'
   source: https://www.sandiego.gov/environmental-services/recycling/residential/mattresses
-- name: Other Bye Bye Mattress Collection Sites
-  type: Drop-off / recycling
-  cost: See site
-  details: California's statewide mattress recycling program lists other participating collection sites.
-  source: https://byebyemattress.com/find-a-facility/
 partners:
 - tier: basic
   name: Haul Away Any Day
@@ -42,6 +37,8 @@ partners:
   website: https://crisanjunkremoval.com/
   note: Family-owned and operated junk removal serving San Diego County.
   source_checked: 2026-11-11
+other_options:
+- 'Mattresses: California''s statewide mattress recycling program, Bye Bye Mattress, lists other participating collection sites. It doesn''t pick up from individuals.'
 ---
 # Junk Disposal in San Diego, CA: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 
@@ -79,9 +76,9 @@ Mattress pads/toppers, crib mattresses, air mattresses, waterbeds, sofa beds, sl
 
 ### Can't Haul It?
 
-The City doesn't do curbside bulky pickup, and Bye Bye Mattress doesn't pick up from individuals. Use one of the local junk removal companies listed above.
+The City doesn't do curbside bulky pickup, and the state mattress recycling program doesn't pick up from individuals. Use one of the local junk removal companies listed above.
 
-*Sources: [City of San Diego: Recycling Mattresses and Box Springs](https://www.sandiego.gov/environmental-services/recycling/residential/mattresses); [Bye Bye Mattress facility finder](https://byebyemattress.com/find-a-facility/). Checked October 12, 2026. Rules change, so confirm on the City page before you go.*
+*Sources: [City of San Diego: Recycling Mattresses and Box Springs](https://www.sandiego.gov/environmental-services/recycling/residential/mattresses). Checked October 12, 2026. Rules change, so confirm on the City page before you go.*
 
 ## Couches and Furniture {#furniture}
 

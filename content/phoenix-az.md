@@ -42,6 +42,8 @@ partners:
   website: https://greenloopjunkremoval.com/
   note: Locally owned, family-owned junk removal serving Phoenix and the Valley.
   source_checked: 2026-11-11
+other_options:
+- 'Computers, phones, monitors and printers: the City of Phoenix points residents to Westech Recyclers.'
 ---
 # Junk Disposal in Phoenix, AZ: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 
@@ -97,7 +99,7 @@ The bulk trash flyer excludes **appliances that use refrigerants**. The City's *
 
 ## TVs, Computers and Electronics (E-Waste) {#electronics}
 
-Phoenix **transfer stations** accept CRT and non-CRT TVs. Residents can bring **up to two CRT units per household per month free**; the City lists a fee for additional CRTs (see the official page). The City also points residents to **Westech Recyclers** for computers, phones, monitors and printers. ([Phoenix Transfer Stations](https://www.phoenix.gov/administration/departments/publicworks/about-us/transfer-stations.html); [Phoenix HHW page](https://www.phoenix.gov/administration/departments/publicworks/residential-trash-recycling/household-hazardous-waste-collection.html))
+Phoenix **transfer stations** accept CRT and non-CRT TVs. Residents can bring **up to two CRT units per household per month free**; the City lists a fee for additional CRTs (see the official page). The City also points residents to a private recycler for computers, phones, monitors and printers (see Other options at the bottom of this page). ([Phoenix Transfer Stations](https://www.phoenix.gov/administration/departments/publicworks/about-us/transfer-stations.html); [Phoenix HHW page](https://www.phoenix.gov/administration/departments/publicworks/residential-trash-recycling/household-hazardous-waste-collection.html))
 
 ## Paint and Household Hazardous Waste {#hazardous}
 
