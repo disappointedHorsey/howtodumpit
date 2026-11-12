@@ -1,3 +1,13 @@
+## 11/13/2026 (Oakland, CA guide; Jacksonville Outside City Limits)
+
+- New general junk guide /oakland-ca/ (commit 7ee1477): WM bulky curbside pickup and one free Davis Street drop-off (each up to 4 cubic yards, included with trash service, owners and renters), large-item limits by home type, free Alameda County HHW facility at 2100 East 7th Street (hours, limits, 2026 holiday closures), e-waste, batteries and used motor oil. Census Vintage 2025 (SUB-IP-EST2025-ANNRNK, re-downloaded 11/13/2026): #45, 440,838. Outside City Limits note covers Piedmont, other Alameda County cities and HOAs/apartments. oaklandca.gov returned 403 from the box; facts come from the City's Oakland Recycles program site, StopWaste and the City of Piedmont.
+- Second-pickup wait: the Oakland Recycles page says 45 days, while the City's 2026 flyer says 60; the page states this and says to confirm with WM.
+- Four free Basic Listings on /oakland-ca/, each verified on its own website on 11/13/2026 (name, phone, Oakland location, published email): Diaz Hauling, DP'S Hauling, Reset Advantage Hauling, ClearOut Junk Removal. American Hauling was not added (site returned HTTP 500).
+- Jacksonville Outside City Limits backfill: Jacksonville Beach (Waste Pro, zone-based bulky day), Atlantic Beach, Neptune Beach, Baldwin and Clay/St. Johns/Nassau counties, plus apartments/HOAs. Clay County's site returned 403, so no county specifics were added. Jacksonville guide body was not rechecked; its verified date stays 10/20/2026.
+- `build.py`: added oakland-ca to CITY_COORDS.
+- Checks: consistency_check 68 pages 0 problems; mobile_check 68 pages x 5 widths (320/375/390/412/1280) 0 FAIL 0 WARN. Live HTTP 200 for /oakland-ca/ and /jacksonville-fl/. Under-4 check: no city page below 4 listings.
+- Pitches for the four Oakland listings drafted and QUEUED for the Daily fix chase approval batch (company outreach/oakland-pitches-13-11-2026.md). No emails were sent.
+
 ## 11/12/2026 (Blue Star Recyclers free listing on /denver-co/)
 
 - Added Blue Star Recyclers to the Local Junk Removal & Donation Partners section on /denver-co/ as a free Basic Listing (not paid, not Recommended), labeled **Not verified**. This is a free nonprofit city partner that approved its own wording (Jonathan Sabar, Business Development Manager, msg 1a1cd787d91d7d31). The listing uses their exact approved copy, including 953 Decatur St., Denver, CO 80204 and local number 303-534-1667.

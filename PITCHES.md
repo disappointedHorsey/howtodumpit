@@ -291,3 +291,13 @@ Matt's Haul it All opted out (suppressed, listing removed). Replacement record a
 | Org | City | First name (source) | To | Verified location / source | Status |
 |---|---|---|---|---|---|
 | Haven Haulin' LLC | Nashville, TN | Jeremiah and Jessica (Jeremiah and Jessica Bivins, founders; own site /about-us) | havenhaulinllc@gmail.com | Nashville-based; service-areas page lists Nashville and Middle Tennessee; 615-719-3835 (havenhaulinllc.com/about-us, /service-areas) | Listing LIVE (free Not verified, name and phone). Pitch DRAFTED, NOT SENT. |
+
+## Oakland first pitches 13/11/2026 Sydney (US 11/13/2026): DRAFTED, QUEUED FOR DAILY APPROVAL, NOT SENT
+Drafts: /workspace/company/outreach/oakland-pitches-13-11-2026.md. Listings LIVE on /oakland-ca/ (commit 7ee1477). Prior-contact check clean.
+
+| Org | City | First name (source) | To | Verified location / source | Status |
+|---|---|---|---|---|---|
+| Diaz Hauling | Oakland, CA | José (own site contact page) | jose@diazhauling.com | HQ Oakland, serves East Bay; (510) 825-4218 (diazhauling.com/contact-us/) | Listing LIVE; pitch QUEUED, NOT SENT |
+| DP'S Hauling | Oakland, CA | – | dpshauling@gmail.com | 200 2nd St, Oakland; (510) 301-4488 (dpshauling.com) | Listing LIVE; pitch QUEUED, NOT SENT |
+| Reset Advantage Hauling | Oakland, CA | – | ResetAdvantageHauling@gmail.com | 722 Jackson St, Oakland; 510-435-7735 (resetadvantagehauling.com/contact) | Listing LIVE; pitch QUEUED, NOT SENT |
+| ClearOut Junk Removal | Oakland, CA | – | vaditely@gmail.com | 3675 Alameda Ave, Oakland; (925) 457-0746 (clearout-junkremoval.com) | Listing LIVE; pitch QUEUED, NOT SENT |
