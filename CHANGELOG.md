@@ -1,3 +1,11 @@
+## 11/12/2026 (Blue Star Recyclers free listing on /denver-co/)
+
+- Added Blue Star Recyclers to the Local Junk Removal & Donation Partners section on /denver-co/ as a free Basic Listing (not paid, not Recommended), labeled **Not verified**. This is a free nonprofit city partner that approved its own wording (Jonathan Sabar, Business Development Manager, msg 1a1cd787d91d7d31). The listing uses their exact approved copy, including 953 Decatur St., Denver, CO 80204 and local number 303-534-1667.
+- Free-listing convention otherwise remains name, phone and Not verified only, with no website. Exception in `build.py`: an `approved_wording` field is rendered on a free row when a partner has approved exact public copy. The website stays in YAML as a source record and is not rendered. Ordinary notes are still not shown on free rows.
+- The E-cycle Coupon section already named Blue Star Recyclers as the city drop-off partner but did not show a phone number, so that section was left unchanged.
+- Denver now has 5 free listings (Blue Star Recyclers, EZ Haulaway, Habitat for Humanity of Metro Denver ReStore, Mo's Hauling, The Junk Trunk).
+- Checks: consistency_check 67 pages 0 problems; mobile_check 67 pages x 5 widths (320/375/390/412/1280) 0 FAIL 0 WARN.
+
 ## 11/12/2026 (Long Beach, CA guide; Fort Worth Outside City Limits)
 
 - New general junk guide /long-beach-ca/ (commit 635aee5): City special collections (12 free a year for City-serviced accounts), the free 24/7 Mattress Drop-Off at 970 W. Chester Place, appliances (doors off or taped; special handling fee may apply, amount not published), e-waste, batteries, free County HHW sites and PaintCare. Census Vintage 2025 (SUB-IP-EST2025-ANNRNK, re-downloaded 11/12/2026): #44, 450,469. Outside City Limits note covers Signal Hill, Lakewood and unincorporated LA County, plus apartments/HOAs.

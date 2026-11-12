@@ -42,6 +42,13 @@ partners:
   website: https://www.thejunktrunkco.com/
   note: Junk removal and dumpster rental in Denver.
   source_checked: 2026-11-11
+- tier: basic
+  name: Blue Star Recyclers
+  phone: '(303) 534-1667'
+  website: https://www.bluestarrecyclers.org/
+  approved_wording: "Blue Star Recyclers, 953 Decatur St., Denver, CO 80204, 303-534-1667. Denver's go-to spot for responsible electronics recycling (TVs, computers and more) and certified secure data destruction, and the drop-off partner for the City of Denver E-cycle Coupon. Recycling here keeps electronics out of the landfill, keeps your data safe, and supports Blue Star's mission to hire adults with disabilities."
+  note: "Free nonprofit city partner. Wording approved by Jonathan Sabar, Business Development Manager, 12/11/2026 (msg 1a1cd787d91d7d31). Website in YAML is a source record only and is not rendered."
+  source_checked: 2026-11-12
 ---
 # Junk Disposal in Denver, CO: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
 

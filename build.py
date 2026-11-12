@@ -188,8 +188,12 @@ def partners_html(items, city_slug=""):
     Paid tiers get a clickable website link (rel="sponsored nofollow"). Unreplied /
     free compact rows show only the name, a clickable phone number, and the
     "Not verified" label. They never show a website, not even as plain text
-    (Adam, 11/11/2026; company 1c7ae6d). A website or note may stay in the YAML
-    as a source record; they are not rendered on free compact rows.
+    (Adam, 11/11/2026; company 1c7ae6d). A website or ordinary note may stay
+    in the YAML as a source record; they are not rendered on free compact rows.
+    Exception: if `approved_wording` is set (a partner approved exact public
+    copy, e.g. a free nonprofit city partner), that exact text is rendered on
+    the free row. The row stays labeled Not verified and still never shows a
+    website (Adam, 12/11/2026, Blue Star Recyclers).
     The section is inserted near the top of the city guide, just before the
     Mattresses heading. Returns an empty string when there are no partners, so
     cities with no listings get no empty box (Adam, 11/11/2026).
@@ -252,6 +256,11 @@ def partners_html(items, city_slug=""):
             if meta:
                 sep = '<span class="partner-meta-sep" aria-hidden="true"> · </span>'
                 bits.append('<p class="partner-meta">' + sep.join(meta) + "</p>")
+            approved = str(it.get("approved_wording") or "").strip()
+            if approved:
+                bits.append(
+                    f'<p class="partner-note partner-approved-wording">{html.escape(approved)}</p>'
+                )
         if public_tier in ("verified", "recommended"):
             if note:
                 bits.append(f'<p class="partner-note">{html.escape(note)}</p>')
