@@ -186,3 +186,8 @@ Top 15 audit: all 15 guides live (HTTP 200). No free Basic Listings on any of th
 - OUTSIDE CITY LIMITS backfill: Fort Worth done 11/12/2026. Next: Jacksonville, then Austin, San Jose.
 - Under-4 check (11/12/2026, live pages): all city pages with partners show 4 or more listings; no backfill needed.
 - Missed runs: none (11/11 Virginia Beach ran and is live).
+
+## Added 11/16/2026 (catch-up for missed 11/14 nightly run: Minneapolis)
+- [x] Minneapolis, MN guide (11/16/2026; census.gov Vintage 2025 SUB-IP-EST2025-ANNRNK #46, 430,324). Basic Listings: Living Clean Junk Removal, Tom's Help MN, Arturo's Junk Removal & Hauling, Junk N My Trunk, Viking Junk Removal. Next new city: Bakersfield, CA (#47, 422,165).
+- [ ] Minneapolis unverified: bed-bug/soiled mattress rule (none found); recheck the City's "large item collection delays" notice and remove the line once lifted. Spares: Single Shot (Minneapolis 55411, (612) 578-9119; no visible email, singleshotmn.com has no MX).
+- Missed runs: 11/14, 11/15, 11/16/2026 (usage outage). Caught up one city (Minneapolis) only. Outside City Limits backfill (San Jose) not done in this catch-up.

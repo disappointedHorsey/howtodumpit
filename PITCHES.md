@@ -310,3 +310,14 @@ San Antonio Junk Removal (info@sajunk.com) bounced 06/11/2026 and was already re
 |---|---|---|---|---|---|
 | Ascent Junk & Hauling LLC | San Antonio, TX | – (no first name on own site; team greeting) | info@ascentjunk.com | Locally owned, family-operated, based in San Antonio, Texas; (210) 719-8091; info@ascentjunk.com (https://www.ascentjunk.com/; domain MX Google) | Listing added (free Not verified, name and phone only). Pitch DRAFTED, NOT SENT, awaiting Adam's approval. |
 
+
+## Minneapolis first pitches 16/11/2026 Sydney (US 11/16/2026): DRAFTED, NOT SENT, awaiting Adam's approval
+Catch-up for the missed 14/11 nightly run. Drafts: /workspace/company/outreach/minneapolis-pitches-16-11-2026.md. All five Basic Listings LIVE on howtodumpit.com/minneapolis-mn/ (free, Not verified, name and phone). Prior-contact check clean (Gmail all mail, PITCHES.md, outreach records, SUPPRESSION-LIST.md).
+
+| Org | City | First name (source) | To | Verified location / source | Status |
+|---|---|---|---|---|---|
+| Living Clean Junk Removal | Minneapolis, MN | – (team greeting) | livingcleanjunkremoval@gmail.com | "Minneapolis Junk Removal"; serves Minneapolis, Saint Paul and suburbs; 612-298-1225 (https://livingcleanjunkremoval.com/; Gmail MX) | Listing LIVE. Pitch DRAFTED, NOT SENT. |
+| Tom's Help MN | Minneapolis, MN | Tom (own site: "Meet Tom... I started Tom's Help MN") | CanTomHelpMe@gmail.com | "Based in Minneapolis, Serving all Twin Cities"; (651) 724-5883 (https://tomshelpmn.com/; Gmail MX) | Listing LIVE. Pitch DRAFTED, NOT SENT. |
+| Arturo's Junk Removal & Hauling | Minneapolis, MN | – (owner not named; team greeting) | junkremoval81st@gmail.com | "Based In Minneapolis", service area Minneapolis + 80 mi; (763) 722-9336 (https://arturojunkremoval.com/; Gmail MX) | Listing LIVE. Pitch DRAFTED, NOT SENT. |
+| Junk N My Trunk | Minneapolis, MN | – (team greeting) | info@junknmytrunk.com | Local family-owned; service-area list includes Minneapolis and St. Paul; street address not published; (612) 887-2761 (https://junknmytrunk.com/; MX Microsoft 365) | Listing LIVE. Pitch DRAFTED, NOT SENT. |
+| Viking Junk Removal | Minneapolis, MN | – (team greeting) | sales@vikingjunkremovalmn.com | "Junk removal in Minneapolis, MN", family-owned, location Hennepin County; 612-887-9815 (24/7 line on contact page; site also lists (612) 448-9506) (https://www.vikingjunkremovalmn.com/contact; MX Microsoft 365) | Listing LIVE. Pitch DRAFTED, NOT SENT. |

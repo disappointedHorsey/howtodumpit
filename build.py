@@ -77,6 +77,7 @@ CITY_COORDS = {
     "virginia-beach-va": (36.8529, -75.9780),
     "long-beach-ca": (33.7701, -118.1937),
     "oakland-ca": (37.8044, -122.2712),
+    "minneapolis-mn": (44.9778, -93.2650),
     "washington-dc": (38.9072, -77.0369),
 }
 NEARBY_COUNT = 5
