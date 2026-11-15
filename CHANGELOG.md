@@ -1,3 +1,10 @@
+## 16/11/2026 (BreadcrumbList JSON-LD: missing item URL on the state crumb)
+
+- Google Search Console Breadcrumbs validation failed on /chicago-il/, /washington-dc/ and /dallas-tx/ ("Cannot continue validation process", Item: N/A). Cause: every city guide's BreadcrumbList JSON-LD had a middle ListItem (the state name) with no `item` URL. Google requires `item` on every ListItem except the last, so this was "Missing field 'item'" on all city guides.
+- There are no state landing pages, so the state crumb was removed from both the visible trail and the JSON-LD. City guides are now Home › City, with sequential positions and an `item` URL on every ListItem. If a real state page is added later, it will be inserted at position 2 with that page's absolute URL; the visible trail will match and will not link to a non-existent page.
+- No other page types emit BreadcrumbList JSON-LD (home, guides, hauler pages, privacy). Visible path-based breadcrumbs on those pages were already linking only to real pages. No other page content or layout was changed.
+- Checks: consistency_check 68 pages 0 problems; mobile_check 68 pages x 5 widths (320/375/390/412/1280) 0 FAIL 0 WARN.
+
 ## 13/11/2026 (San Antonio: Ascent Junk & Hauling LLC bounce replacement)
 
 - Live /san-antonio-tx/ rechecked 13/11/2026: San Antonio Junk Removal (sajunk.com, bounced 06/11/2026) was already removed on 11/09/2026 (commit 5e93c3c) and is not listed. Formal suppression recorded in the company repo.

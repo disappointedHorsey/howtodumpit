@@ -402,17 +402,49 @@ def mark_current(out, u):
         return block.replace(f'<a href="{u}">', f'<a href="{u}" aria-current="page">')
     return re.sub(r'<(nav aria-label="Main"|footer).*?</(nav|footer)>', fix, out, flags=re.S)
 
+def state_landing_href(state_abbr, titles):
+    """Return the site-relative URL of a real state landing page, or None.
+
+    There are currently no state pages. If one is added later at a conventional
+    path (/{abbr}/, /{state-name}/, or under /states/), the city-guide
+    breadcrumb and BreadcrumbList JSON-LD will include it with an item URL.
+    Only existing pages are linked; never invent a URL.
+    """
+    if not state_abbr or not titles:
+        return None
+    abbr = state_abbr.strip()
+    if not abbr:
+        return None
+    name = STATE_NAMES.get(abbr, "")
+    slug = name.lower().replace(" ", "-") if name else ""
+    candidates = [f"/{abbr.lower()}/"]
+    if slug:
+        candidates.append(f"/{slug}/")
+        candidates.append(f"/states/{slug}/")
+    candidates.append(f"/states/{abbr.lower()}/")
+    for href in candidates:
+        if href in titles:
+            return href
+    return None
+
+
 def crumbs(u, title, titles, city_meta=None):
-    """Visible breadcrumb trail. City guides use Home › State › City (state is
-    plain text: there is no state landing page). Other pages stay path-based."""
+    """Visible breadcrumb trail. City guides use Home › City, or Home › State
+    › City when a real state landing page exists (the state name is never
+    linked unless that page is on the site). Other pages stay path-based."""
     if city_meta and city_meta.get("city"):
         state_abbr = str(city_meta.get("state") or "").strip()
         state_name = html.escape(STATE_NAMES.get(state_abbr, state_abbr or "United States"))
         city_name = html.escape(str(city_meta["city"]))
+        state_href = state_landing_href(state_abbr, titles)
+        state_li = (
+            f'<li><a href="{html.escape(state_href, quote=True)}">{state_name}</a></li>'
+            if state_href else ""
+        )
         return (
             '<nav class="crumbs" aria-label="Breadcrumb"><ol>'
             '<li><a href="/">Home</a></li>'
-            f'<li>{state_name}</li>'
+            + state_li +
             f'<li aria-current="page">{city_name}</li>'
             "</ol></nav>"
         )
@@ -539,19 +571,38 @@ def faq_pairs(body_html):
                 pairs.append((q, a))
     return pairs
 
-def structured_data_html(canonical, city_meta, body_html):
+def structured_data_html(canonical, city_meta, body_html, titles=None):
     """JSON-LD for city guides: BreadcrumbList always, FAQPage only when a
-    visible FAQ section already exists on the page."""
+    visible FAQ section already exists on the page.
+
+    Google requires an "item" URL on every BreadcrumbList ListItem except the
+    last. There are no state landing pages, so the trail is Home › City. If a
+    state page is added later, it is inserted at position 2 with that URL.
+    """
     state_abbr = str(city_meta.get("state") or "").strip()
     state_name = STATE_NAMES.get(state_abbr, state_abbr or "United States")
     city_name = str(city_meta.get("city") or "")
+    home_url = CFG["base_url"].rstrip("/") + "/"
+    elements = [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": home_url},
+    ]
+    state_href = state_landing_href(state_abbr, titles)
+    if state_href:
+        elements.append({
+            "@type": "ListItem",
+            "position": 2,
+            "name": state_name,
+            "item": CFG["base_url"].rstrip("/") + state_href,
+        })
+    elements.append({
+        "@type": "ListItem",
+        "position": len(elements) + 1,
+        "name": city_name,
+        "item": canonical,
+    })
     crumbs = {
         "@type": "BreadcrumbList",
-        "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Home", "item": CFG["base_url"].rstrip("/") + "/"},
-            {"@type": "ListItem", "position": 2, "name": state_name},
-            {"@type": "ListItem", "position": 3, "name": city_name, "item": canonical},
-        ],
+        "itemListElement": elements,
     }
     blocks = [crumbs]
     pairs = faq_pairs(body_html)
@@ -652,7 +703,7 @@ def main():
         json_ld = ""
         if meta.get("city"):
             json_ld = structured_data_html(
-                CFG["base_url"].rstrip("/") + u, meta, body_html)
+                CFG["base_url"].rstrip("/") + u, meta, body_html, titles=titles)
         out = page_tpl.substitute(
             site_name=CFG["site_name"], title=html.escape(meta["title"]),
             description=html.escape(meta.get("description", "")),
