@@ -1,3 +1,9 @@
+## 11/16/2026 (GoatCounter click events: reliable tel/mailto/website tracking)
+
+- Phone-tap and website-click tracking was broken: GoatCounter `count.js` binds `data-goatcounter-click` in the bubble phase and, when `sendBeacon` does not stick, falls back to an image pixel that the browser aborts as soon as a `tel:`, `mailto:` or outbound link leaves the page. A 16/11/2026 5:10 PM Sydney incognito test on `/chicago-il/` recorded the pageview but not the click; the dashboard showed zero click events since 20/10/2026 across 65 visits. No Content-Security-Policy on the pages or GitHub Pages headers was blocking the endpoint.
+- `templates/page.html`: added a small inline script that uses capture-phase delegation on `[data-goatcounter-click]` and sends the event with `navigator.sendBeacon`, then `fetch` keepalive, then an image, to `https://howtodumpit.goatcounter.com/count?p=<name>&e=true` (plus `t` and `r`, and an `rnd` cache-buster). Primary `tel:`, `mailto:` and leaving-page clicks are deferred 200ms so the request can complete. `count.js` still counts pageviews; `data-goatcounter-settings='{"no_events":true}'` disables its click binding to avoid double counts. The `data-goatcounter-click` attribute names are unchanged.
+- Checks: consistency_check 69 pages 0 problems; mobile_check 69 pages x 5 widths (320/375/390/412/1280) 0 FAIL 0 WARN.
+
 ## 11/16/2026 (Minneapolis, MN guide: catch-up for the missed 11/14/2026 nightly run)
 
 - Catch-up: the nightly directory page routine failed on 11/14, 11/15 and 11/16/2026 (usage outage), so no city was added after Oakland (11/13/2026). This adds the one missed city, Minneapolis, MN (#46 by population; census.gov Vintage 2025 SUB-IP-EST2025-ANNRNK, 430,324, as recorded in BACKLOG on 11/13/2026). No other city was changed and no second catch-up city was built.

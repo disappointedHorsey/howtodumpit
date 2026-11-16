@@ -32,5 +32,54 @@ $after</article></main>
 <script>
 (function(){var s=document.getElementById('city-select');if(!s)return;s.addEventListener('change',function(){if(s.value)location.href=s.value;});})();
 </script>
-<script data-goatcounter="https://howtodumpit.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+<script>
+(function(){
+  var EP='https://howtodumpit.goatcounter.com/count';
+  function enc(v){return encodeURIComponent(v)}
+  function target(n){
+    if(!n)return null;
+    if(n.nodeType===3)n=n.parentNode;
+    return (n&&n.closest)?n.closest('[data-goatcounter-click]'):null;
+  }
+  function eventUrl(el){
+    var name=el.getAttribute('data-goatcounter-click')||el.getAttribute('name')||el.id||'';
+    if(!name)return '';
+    var title=el.getAttribute('data-goatcounter-title')||el.getAttribute('title')||(el.textContent||'').replace(/\s+/g,' ').trim().slice(0,200);
+    var ref=el.getAttribute('data-goatcounter-referrer')||el.getAttribute('data-goatcounter-referral')||document.referrer||'';
+    var q='p='+enc(name)+'&e=true';
+    if(title)q+='&t='+enc(title);
+    if(ref)q+='&r='+enc(ref);
+    q+='&rnd='+Math.random().toString(36).slice(2,7);
+    return EP+'?'+q;
+  }
+  function send(url){
+    if(!url)return false;
+    try{if(navigator.sendBeacon&&navigator.sendBeacon(url))return true}catch(e){}
+    try{if(window.fetch){fetch(url,{method:'GET',mode:'no-cors',keepalive:true,credentials:'omit'});return true}}catch(e){}
+    try{var i=new Image();i.src=url;return true}catch(e){}
+    return false;
+  }
+  function deferNav(el,ev){
+    if(ev.defaultPrevented||ev.button||ev.metaKey||ev.ctrlKey||ev.shiftKey||ev.altKey)return false;
+    if(el.target&&el.target!=='_self')return false;
+    if(!el.href)return false;
+    var href=el.href;
+    if(href.lastIndexOf('tel:',0)===0||href.lastIndexOf('mailto:',0)===0)return true;
+    try{var u=new URL(href,document.baseURI);return u.origin!==location.origin||u.pathname!==location.pathname||u.search!==location.search}catch(e){return true}
+  }
+  function onClick(ev){
+    var el=target(ev.target);
+    if(!el)return;
+    send(eventUrl(el));
+    if(deferNav(el,ev)){
+      ev.preventDefault();
+      var href=el.href;
+      setTimeout(function(){location.href=href},200);
+    }
+  }
+  document.addEventListener('click',onClick,true);
+  document.addEventListener('auxclick',function(ev){var el=target(ev.target);if(el)send(eventUrl(el))},true);
+})();
+</script>
+<script data-goatcounter="https://howtodumpit.goatcounter.com/count" data-goatcounter-settings='{"no_events":true}' async src="//gc.zgo.at/count.js"></script>
 </body></html>
