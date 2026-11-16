@@ -152,6 +152,8 @@ This page covers Cambridge and Somerville, which have different tree rules. Conf
 
 **Cambridge (last season):** A January 5, 2026, City news post said Cambridge Department of Public Works would pick up a natural tree with no decorations or bags during the regular collection schedule between January 2 and January 14, 2026. Trees could also be dropped off at the Recycle Center. 2026-27 Cambridge dates were not published as of November 10, 2026. Check the recycling and curbside pickup schedule, or call Cambridge DPW at 617-349-4800, before you set a tree out this season. ([City of Cambridge: Dispose of Your Christmas Holiday Tree Properly](https://www.cambridgema.gov/news/detail?path=%2Fsitecore%2Fcontent%2Fhome%2Fcfd%2Fnews%2F2026%2F01%2Fdisposeofyourchristmasholidaytreeproperly))
 
+For a side-by-side look at every option, including the Christmas week 2026 schedule, see [Christmas tree pickup in Cambridge and Somerville](/cambridge-somerville-ma/christmas-tree-disposal/).
+
 If you missed the window or cannot get the tree to the curb, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. Other cities are in our [Christmas Tree Disposal](/christmas-tree-disposal/) guide.
 
 *Rules, hours, fees and schedules change. Confirm on the linked official page, with Cambridge DPW (617-349-4800), or with Somerville 311 before you set anything out or drive anywhere.*

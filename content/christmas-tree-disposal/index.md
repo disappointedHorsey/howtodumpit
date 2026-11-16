@@ -37,9 +37,9 @@ Each row links to that city's own Christmas tree page where we have one (new pag
 | [Albuquerque, NM](/albuquerque-nm/#christmas-trees) | 2026-27 dates published | Drop-off December 28, 2026-January 10, 2027, 8 a.m.-4:30 p.m., at three sites |
 | [Atlanta, GA](/atlanta-ga/#christmas-trees) | Standing official rule | Yard trimmings collection; discarded Christmas trees are on the official accepted list |
 | [Austin, TX](/austin-tx/#christmas-trees) | Standing official rule; Zilker 2026 dates not yet published | Curbside composting day starting December 26; Zilker Park 2026 dates to be announced |
-| [Baltimore, MD](/baltimore-md/#christmas-trees) | Last season only | Last season: Sisson Street mulching and weekly trash collection through February 7, 2026 |
+| [Baltimore, MD](/baltimore-md/christmas-tree-disposal/) | Last season only (rechecked November 16, 2026) | Last season: Sisson Street mulching and weekly trash collection through February 7, 2026; Christmas 2026 make-up day for Friday routes is Saturday, December 26 |
 | [Boston, MA](/boston-ma/#christmas-trees) | Standing official rule | Curbside on your normal trash day during the two weeks after Christmas |
-| [Cambridge and Somerville, MA](/cambridge-somerville-ma/#christmas-trees) | Somerville standing January rule; Cambridge last-season dates | Somerville: regular trash day through January; Cambridge last season: January 2-14, 2026, plus the Recycle Center |
+| [Cambridge and Somerville, MA](/cambridge-somerville-ma/christmas-tree-disposal/) | Somerville standing January rule; Cambridge last season only (rechecked November 16, 2026) | Somerville: regular trash day through January; Cambridge last season: January 2-14, 2026, then the Recycle Center through January 31, 2026 |
 | [Charlotte, NC](/charlotte-nc/#christmas-trees) | Standing official rule | Single-family: yard waste on your regular collection day; multifamily: scheduled bulky collection |
 | [Chicago, IL](/chicago-il/#christmas-trees) | Last season only | Last season: drop-off only, January 3-17, 2026, at 27 parks; no curbside program stated |
 | [Colorado Springs, CO](/colorado-springs-co/#christmas-trees) | Last season only | Last season: TreeCycle drop-off January 3-4 and 10-11, 2026, plus Rocky Top Resources through January 31, 2026 |

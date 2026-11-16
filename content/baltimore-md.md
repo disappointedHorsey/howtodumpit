@@ -138,6 +138,8 @@ Questions? Call **311** (from outside the city, **(443) 263-2220**) or use [311 
 
 Confirm this season's end date and hours with 311 or DPW before you drive or set a tree out.
 
+For a side-by-side look at every option, including the Christmas week 2026 schedule, see [Christmas tree pickup in Baltimore](/baltimore-md/christmas-tree-disposal/).
+
 If you missed the City window, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. See our [Christmas Tree Disposal](/christmas-tree-disposal/) guide for other cities.
 
 *Rules, fees and hours change. Confirm on the linked official page or with 311 before you set anything out or drive anywhere.*
