@@ -125,6 +125,8 @@ A December 24, 2025 DSNY notice says citywide Curbside Composting replaced the o
 
 **Mulchfest:** NYC Parks also chipped trees during Mulchfest from December 26, 2025 through January 11, 2026. 2026-27 Mulchfest dates were not published as of November 10, 2026. Check [nyc.gov/mulchfest](https://www.nyc.gov/mulchfest) closer to the holidays.
 
+For a side-by-side look at every option, see [Christmas tree pickup and drop-off in New York City](/new-york-ny/christmas-tree-disposal/).
+
 If you cannot get the tree to the curb, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. General prep rules and other cities are in our [Christmas Tree Disposal](/christmas-tree-disposal/) guide.
 
 *Rules, hours and fees change. Confirm on the linked official page before you set anything out or drive anywhere.*

@@ -30,7 +30,7 @@ These are the rules that show up again and again on official pages. Your city ma
 
 ## City Guides
 
-Each row links to the Christmas tree section on that city's junk disposal guide. "2026-27 dates published" means the official page already names this coming season. "Standing official rule" means the current official page describes an ongoing collection method (for example weekly compost or a green cart) that does not depend on a missing calendar. "Last season only" means the official page still describes 2025-26 dates, and 2026-27 dates were not posted as of November 10, 2026. We will recheck those cities in early December.
+Each row links to that city's own Christmas tree page where we have one (new pages are being added city by city through December 10, 2026), or otherwise to the Christmas tree section of the city's junk disposal guide. "2026-27 dates published" means the official page already names this coming season. "Standing official rule" means the current official page describes an ongoing collection method (for example weekly compost or a green cart) that does not depend on a missing calendar. "Last season only" means the official page still describes 2025-26 dates, and 2026-27 dates were not posted as of November 10, 2026. We will recheck those cities in early December.
 
 | City | 2026-27 Status | What We Verified |
 |---|---|---|
@@ -52,7 +52,7 @@ Each row links to the Christmas tree section on that city's junk disposal guide.
 | [Fresno, CA](/fresno-ca/#christmas-trees) | Standing official rule | Cut to 3-foot lengths and place in the green organics cart with the lid closed |
 | [Houston, TX](/houston-tx/#christmas-trees) | Last season only | Last season: drop-off December 26, 2025-January 23, 2026, at 20 sites; no curbside program stated |
 | [Indianapolis, IN](/indianapolis-in/#christmas-trees) | Last season only | Last season: Marion County drop-off December 25, 2025-January 31, 2026, at seven parks |
-| [Jacksonville, FL](/jacksonville-fl/#christmas-trees) | Standing official rule | Weekly yard waste on your collection day; no separate seasonal window stated |
+| [Jacksonville, FL](/jacksonville-fl/christmas-tree-disposal/) | Standing official rule | Weekly yard waste on your collection day; no separate seasonal window stated |
 | [Kansas City, MO](/kansas-city-mo/#christmas-trees) | No explicit City Christmas tree page found | City Leaf & Brush page does not name Christmas trees; confirm with 311 before you haul one |
 | [Las Vegas, NV](/las-vegas-nv/#christmas-trees) | Standing official seasonal window | Valley drop-off each year December 26-January 15, at 30-plus sites (Springs Preserve) |
 | [Los Angeles, CA](/los-angeles-ca/#christmas-trees) | Last season only | Last season: curbside through January 31, 2026; 2026-27 dates not yet published |
@@ -62,8 +62,8 @@ Each row links to the Christmas tree section on that city's junk disposal guide.
 | [Miami, FL](/miami-fl/#christmas-trees) | No dedicated City of Miami tree program found | City of Miami has no dedicated tree page; Miami-Dade's program is only for County-serviced homes |
 | [Milwaukee, WI](/milwaukee-wi/#christmas-trees) | Standing official seasonal window | Special curbside collection December 26-January 31 by request, or a Drop Off Center |
 | [Nashville, TN](/nashville-tn/#christmas-trees) | Last season only | Last season: drop-off December 26, 2025-February 13, 2026, at 14 sites; brush crew may also collect on its regular schedule |
-| [New York City, NY](/new-york-ny/#christmas-trees) | Standing official rule | Weekly curbside compost on your recycling day |
-| [Oklahoma City, OK](/oklahoma-city-ok/#christmas-trees) | Standing bulky-waste rule; last-season park mulch dates | Monthly bulky waste (standing); last season also free park drop-off December 26, 2025-January 15, 2026 |
+| [New York City, NY](/new-york-ny/christmas-tree-disposal/) | Standing official rule | Weekly curbside compost on your recycling day |
+| [Oklahoma City, OK](/oklahoma-city-ok/christmas-tree-disposal/) | Standing bulky-waste rule; last-season park mulch dates | Monthly bulky waste (standing); last season also free park drop-off December 26, 2025-January 15, 2026 |
 | [Omaha, NE](/omaha-ne/#christmas-trees) | Standing cart option; last-season drop-off dates | Cut to fit the black-lid waste cart anytime; last season's drop-off sites closed January 9, 2026 |
 | [Philadelphia, PA](/philadelphia-pa/#christmas-trees) | Last season only | Last season: recycling drop-off January 5-17, 2026; curbside trees taken as trash |
 | [Phoenix, AZ](/phoenix-az/#christmas-trees) | 2026-27 dates published | Drop-off December 28, 2026-January 11, 2027, at designated City parks |

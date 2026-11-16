@@ -155,6 +155,8 @@ Do not put bulky waste next to mailboxes, trees, shrubs or vehicles, and do not 
 
 **Last season park mulch (2025-26):** A December 16, 2025 City article said residents could drop off natural Christmas trees from December 26 through January 15 at Will Rogers Park, 3600 Pat Murphy Drive (parking lot at the center of the park, south of the OKC Tennis Center and on the south side of Pat Murphy Drive), and Wheeler Park, 1120 S. Western Avenue (parking lot on the west side of the park next to Western Avenue). Trees had to be free of lights, ornaments, nails and stands, and unflocked (no fake snow). Mulch was available dawn to dusk in designated areas through January 15; bring your own shovels and containers. The mulching program was open to all Oklahoma City residents.
 
+For a side-by-side look at every option, see [Christmas tree pickup and drop-off in Oklahoma City](/oklahoma-city-ok/christmas-tree-disposal/).
+
 If you missed bulky day or cannot get the tree outside, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. Other cities are in our [Christmas Tree Disposal](/christmas-tree-disposal/) guide.
 
 *Rules, hours, fees and schedules change. Confirm on the linked official page or with Utilities Customer Service before you set anything out or drive anywhere.*

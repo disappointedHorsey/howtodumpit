@@ -1,3 +1,12 @@
+## 11/16/2026 (Growth batch 1: AI crawler access, IndexNow, About page, first 3 Christmas tree pages)
+
+- Strategy: Anne's growth strategy approved by Adam on 11/16/2026 (traffic first). Sequencing plan: company `plan/growth-sequencing-16-11-2026.md`.
+- `robots.txt`: explicit Allow groups for GPTBot, OAI-SearchBot, ChatGPT-User, PerplexityBot, ClaudeBot, Google-Extended, Bingbot, Applebot-Extended; `User-agent: *` and the Sitemap line kept. Sitemap entries now have `<lastmod>`.
+- IndexNow: key in site.yaml, key file published at the site root, `scripts/indexnow_submit.py` (stdlib; posts to api.indexnow.org, no account).
+- New `/about/` (who runs the site, official-source rule, what Last verified means, how free Not verified and paid Recommended listings work, corrections). Footer link added in `templates/page.html` (footer only; the tracking script is untouched).
+- `build.py`: item × city page type (`parent_city`, `exclude_partners`): parent's local haulers at the top, parent's Other options block at the bottom, BreadcrumbList + FAQPage JSON-LD; LocalBusiness JSON-LD for paid partners only (none today). `consistency_check.py`: item-page rules.
+- New Christmas tree pages (all facts from official pages checked 11/16/2026): /new-york-ny/christmas-tree-disposal/ (DSNY weekly curbside compost; Mulchfest 2026-27 not published; 12/25/2026 sanitation holiday), /oklahoma-city-ok/christmas-tree-disposal/ (bulky waste day; OKC Parks 2026-27 mulch dates not published; bulky not affected by holidays), /jacksonville-fl/christmas-tree-disposal/ (weekly yard waste; Friday 12/25/2026 routes served Saturday 12/26/2026; no City drop-off found). Habitat ReStores excluded from tree-page panels (they don't take trees). Hub rows and city-guide tree sections link to the new pages.
+
 ## 11/16/2026 (GoatCounter click events: reliable tel/mailto/website tracking)
 
 - Phone-tap and website-click tracking was broken: GoatCounter `count.js` binds `data-goatcounter-click` in the bubble phase and, when `sendBeacon` does not stick, falls back to an image pixel that the browser aborts as soon as a `tel:`, `mailto:` or outbound link leaves the page. A 16/11/2026 5:10 PM Sydney incognito test on `/chicago-il/` recorded the pageview but not the click; the dashboard showed zero click events since 20/10/2026 across 65 visits. No Content-Security-Policy on the pages or GitHub Pages headers was blocking the endpoint.
