@@ -679,11 +679,13 @@ def item_structured_data_html(canonical, parent_url, parent_meta, meta, body_htm
 
 # Explicit crawler groups so a future edit to the * group can't block search
 # or AI answer engines by accident (growth strategy, 11/16/2026). Vendor docs:
-# OpenAI (GPTBot, OAI-SearchBot, ChatGPT-User), Perplexity (PerplexityBot),
-# Anthropic (ClaudeBot), Google (Google-Extended), Bing (Bingbot), Apple
-# (Applebot-Extended).
+# OpenAI (GPTBot, OAI-SearchBot, ChatGPT-User), Perplexity (PerplexityBot,
+# Perplexity-User), Anthropic (ClaudeBot, Claude-SearchBot, Claude-User),
+# Google (Google-Extended, Googlebot), Bing (Bingbot), Apple (Applebot-Extended,
+# Applebot).
 AI_CRAWLERS = ["GPTBot", "OAI-SearchBot", "ChatGPT-User", "PerplexityBot", "ClaudeBot",
-               "Google-Extended", "Bingbot", "Applebot-Extended"]
+               "Google-Extended", "Bingbot", "Applebot-Extended",
+               "Claude-SearchBot", "Claude-User", "Perplexity-User", "Googlebot", "Applebot"]
 
 def robots_txt():
     lines = ["User-agent: *", "Allow: /", ""]

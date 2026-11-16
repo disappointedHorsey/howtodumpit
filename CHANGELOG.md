@@ -1,3 +1,7 @@
+## 11/16/2026 (robots.txt: remaining AI and search crawler Allow groups)
+
+- `robots.txt`: added explicit Allow groups for Claude-SearchBot, Claude-User, Perplexity-User, Googlebot and Applebot, in the same format as the existing eight. `User-agent: *` and the Sitemap line kept.
+
 ## 11/16/2026 (Growth batch 1: AI crawler access, IndexNow, About page, first 3 Christmas tree pages)
 
 - Strategy: Anne's growth strategy approved by Adam on 11/16/2026 (traffic first). Sequencing plan: company `plan/growth-sequencing-16-11-2026.md`.
