@@ -8,9 +8,9 @@ short: "About"
 
 HowToDumpIt is an independent, free guide to getting rid of bulky junk legally and cheaply in US cities. We answer one question per page: how do I get rid of this item in my city, and what are my options? We don't haul anything, and we aren't part of any city government.
 
-## Who Runs the Site {#who}
+## How We Work {#who}
 
-HowToDumpIt is run by Adam Wells. We use software, including AI tools, to help research and draft pages. Every city rule, date and fee on a page has to come from an official source linked on that page. Questions and corrections go to [adam@howtodumpit.com](mailto:adam@howtodumpit.com).
+Every city rule, date and fee on a page has to come from an official source linked on that page. Questions and corrections go to [adam@howtodumpit.com](mailto:adam@howtodumpit.com).
 
 ## Where Our Facts Come From {#sources}
 
