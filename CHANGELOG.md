@@ -1,3 +1,9 @@
+## 11/16/2026 (Christmas tree pages 4-5: Baltimore, Cambridge and Somerville)
+
+- New /baltimore-md/christmas-tree-disposal/: DPW weekly trash collection and Sisson Street mulching (last season, through 2/7/2026; 2026-27 not published as of 11/16/2026); Christmas make-up day Saturday 12/26/2026 for Friday routes (DPW 2026 calendar).
+- New /cambridge-somerville-ma/christmas-tree-disposal/: Somerville standing rule (trash day through January, no bags); Cambridge last season 1/2-1/14/2026 curbside, then Recycle Center through 1/31/2026 (2026-27 not published as of 11/16/2026); Somerville one-day delay for 12/25/2026 and 1/1/2027; Cambridge standing one-day-behind rule. Habitat ReStore excluded from the panel.
+- Hub rows point to the new pages; one side-by-side link line added to each city guide's Christmas Trees section. IndexNow: HTTP 200 for 5 URLs.
+
 ## 11/16/2026 (robots.txt: remaining AI and search crawler Allow groups)
 
 - `robots.txt`: added explicit Allow groups for Claude-SearchBot, Claude-User, Perplexity-User, Googlebot and Applebot, in the same format as the existing eight. `User-agent: *` and the Sitemap line kept.
