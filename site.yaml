@@ -1,2 +1,4 @@
 site_name: "HowToDumpIt"
 base_url: "https://howtodumpit.com"
+# IndexNow key (indexnow.org). build.py writes /<key>.txt; scripts/indexnow_submit.py submits URLs.
+indexnow_key: "2adeca026ed36b489e01cf4b4d215de4"

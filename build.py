@@ -616,11 +616,81 @@ def structured_data_html(canonical, city_meta, body_html, titles=None):
                 for q, a in pairs
             ],
         })
+    blocks += local_business_ld(city_meta.get("partners"), city_name, state_abbr)
     payload = {"@context": "https://schema.org", "@graph": blocks} if len(blocks) > 1 else {
         "@context": "https://schema.org", **crumbs
     }
     dumped = json.dumps(payload, ensure_ascii=True, separators=(",", ":"))
     return f'<script type="application/ld+json">{dumped}</script>\n'
+
+
+def local_business_ld(partners, city_name="", state_abbr=""):
+    """LocalBusiness JSON-LD for PAID partner cards only (Verified / Recommended).
+    Free Basic rows are Not verified, so they get no business markup. Every
+    field matches what the card shows (name, phone, website)."""
+    out = []
+    for it in partners or []:
+        tier = str(it.get("tier", "basic")).lower().strip()
+        if tier not in ("verified", "recommended", "featured"):
+            continue
+        b = {"@type": "LocalBusiness", "name": str(it.get("name", "")).strip()}
+        if it.get("phone"):
+            b["telephone"] = str(it["phone"]).strip()
+        if it.get("website"):
+            b["url"] = str(it["website"]).strip()
+        if city_name:
+            area = {"@type": "City", "name": str(city_name)}
+            if state_abbr:
+                area["containedInPlace"] = {"@type": "State", "name": STATE_NAMES.get(state_abbr, state_abbr)}
+            b["areaServed"] = area
+        out.append(b)
+    return out
+
+
+def item_partners(parent_meta, meta):
+    """Partners for an item x city page: the parent city guide's local
+    partners, minus any the item page excludes (e.g. a donation ReStore on a
+    Christmas tree page, because it does not take trees)."""
+    skip = {str(x).strip().lower() for x in (meta.get("exclude_partners") or [])}
+    return [it for it in (parent_meta.get("partners") or [])
+            if str(it.get("name", "")).strip().lower() not in skip]
+
+
+def item_structured_data_html(canonical, parent_url, parent_meta, meta, body_html, partners):
+    """JSON-LD for item x city pages: BreadcrumbList (Home > City > Page),
+    FAQPage only from the visible FAQ section, LocalBusiness for paid partners."""
+    base = CFG["base_url"].rstrip("/")
+    crumbs = {"@type": "BreadcrumbList", "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": base + "/"},
+        {"@type": "ListItem", "position": 2, "name": str(parent_meta.get("short") or parent_meta.get("city") or ""),
+         "item": base + parent_url},
+        {"@type": "ListItem", "position": 3, "name": str(meta.get("short") or meta["title"]), "item": canonical},
+    ]}
+    blocks = [crumbs]
+    pairs = faq_pairs(body_html)
+    if pairs:
+        blocks.append({"@type": "FAQPage", "mainEntity": [
+            {"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}}
+            for q, a in pairs]})
+    blocks += local_business_ld(partners, parent_meta.get("city", ""), str(parent_meta.get("state") or "").strip())
+    payload = {"@context": "https://schema.org", "@graph": blocks}
+    return f'<script type="application/ld+json">{json.dumps(payload, ensure_ascii=True, separators=(",", ":"))}</script>\n'
+
+
+# Explicit crawler groups so a future edit to the * group can't block search
+# or AI answer engines by accident (growth strategy, 11/16/2026). Vendor docs:
+# OpenAI (GPTBot, OAI-SearchBot, ChatGPT-User), Perplexity (PerplexityBot),
+# Anthropic (ClaudeBot), Google (Google-Extended), Bing (Bingbot), Apple
+# (Applebot-Extended).
+AI_CRAWLERS = ["GPTBot", "OAI-SearchBot", "ChatGPT-User", "PerplexityBot", "ClaudeBot",
+               "Google-Extended", "Bingbot", "Applebot-Extended"]
+
+def robots_txt():
+    lines = ["User-agent: *", "Allow: /", ""]
+    for bot in AI_CRAWLERS:
+        lines += [f"User-agent: {bot}", "Allow: /", ""]
+    lines.append(f"Sitemap: {CFG['base_url'].rstrip('/')}/sitemap.xml")
+    return "\n".join(lines) + "\n"
 
 def main():
     if OUT.exists(): shutil.rmtree(OUT)
@@ -697,6 +767,24 @@ def main():
                         if mh:
                             body_html = body_html[:mh.end()] + HAULER_POINTER + body_html[mh.end():]
             body_html += nearby_cities_html(u, pages)
+        parent_url = f"/{meta['parent_city']}/" if meta.get("parent_city") else ""
+        parent_meta = next((m for pu, m, _, _ in pages if pu == parent_url), None) if parent_url else None
+        if meta.get("parent_city") and parent_meta is None:
+            raise SystemExit(f"{p}: parent_city {meta['parent_city']!r} has no city guide")
+        i_partners = []
+        if parent_meta is not None:
+            # Item x city page (e.g. /new-york-ny/christmas-tree-disposal/):
+            # local haulers sit in the top spot, right after the quick answer
+            # and before the first section (Adam, 11/16/2026). Click names are
+            # tel-<city>-<item>-<partner> so taps can be told apart from the
+            # city guide's tel-<city>-<partner>.
+            i_partners = item_partners(parent_meta, meta)
+            item_slug = u.strip("/").split("/")[-1]
+            block = partners_html(i_partners, city_slug=f"{meta['parent_city']}-{item_slug}",
+                                  city_name=parent_meta.get("city", ""))
+            if block:
+                i = body_html.find("<h2")
+                body_html = (body_html[:i] + block + body_html[i:]) if i > 0 else (block + body_html)
         hero = ""
         if u == "/":
             hero = ('<section class="hero"><div class="wrap"><h1>' + html.escape(meta.get("hero", meta["title"])) + '</h1><p>'
@@ -705,6 +793,9 @@ def main():
         if meta.get("city"):
             json_ld = structured_data_html(
                 CFG["base_url"].rstrip("/") + u, meta, body_html, titles=titles)
+        elif parent_meta is not None:
+            json_ld = item_structured_data_html(
+                CFG["base_url"].rstrip("/") + u, parent_url, parent_meta, meta, body_html, i_partners)
         out = page_tpl.substitute(
             site_name=CFG["site_name"], title=html.escape(meta["title"]),
             description=html.escape(meta.get("description", "")),
@@ -713,7 +804,8 @@ def main():
             json_ld=json_ld,
             og_type="website" if u == "/" else "article",
             after=(CITY_REQUEST if (u == "/" or meta.get("city")) else "")
-                  + (other_options_html(meta.get("other_options")) if meta.get("city") else ""),
+                  + (other_options_html(meta.get("other_options")) if meta.get("city")
+                     else other_options_html(parent_meta.get("other_options")) if parent_meta is not None else ""),
             updated_line=(f'<p class="updated">Last updated: {us_date(newest)}</p>' if meta.get("list_children")
                           else f'<p class="updated">Last verified: {html.escape(meta["verified_note"])}</p>' if meta.get("verified_note")
                           else f'<p class="updated">Last verified: {us_date(meta["verified"])}</p>' if meta.get("verified") and u != "/" else ""),
@@ -723,9 +815,19 @@ def main():
         dest.parent.mkdir(parents=True, exist_ok=True)
         dest.write_text(out)
     sm = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
-    sm += [f"<url><loc>{CFG['base_url'].rstrip('/')}{u}</loc></url>" for u, *_ in pages]
+    def _lastmod(m):
+        try:
+            v = m.get("verified")
+            d = v if isinstance(v, datetime.date) else datetime.date.fromisoformat(str(v).strip())
+            return f"<lastmod>{d.isoformat()}</lastmod>"
+        except (TypeError, ValueError):
+            return ""
+    sm += [f"<url><loc>{CFG['base_url'].rstrip('/')}{u}</loc>{_lastmod(m)}</url>" for u, m, *_ in pages]
     (OUT/"sitemap.xml").write_text("\n".join(sm + ["</urlset>"]))
-    (OUT/"robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {CFG['base_url'].rstrip('/')}/sitemap.xml\n")
+    (OUT/"robots.txt").write_text(robots_txt())
+    if CFG.get("indexnow_key"):
+        # IndexNow key file at the site root (indexnow.org); see scripts/indexnow_submit.py.
+        (OUT/f"{CFG['indexnow_key']}.txt").write_text(str(CFG["indexnow_key"]))
     print(f"Built {len(pages)} pages -> {OUT}")
 
 if __name__ == "__main__":

@@ -442,6 +442,38 @@ def check_page(path, root, pages_ids):
                 add("city-seo", "the national company line must appear after the local partners section")
             if main_at >= 0 and note_at < main_at:
                 add("city-seo", "the national company line must appear after the main guide content")
+    # Item x city pages (e.g. /new-york-ny/christmas-tree-disposal/; Adam,
+    # 11/16/2026): local haulers in the top spot before the first section,
+    # exactly one small-print Other options block at the very bottom, no
+    # generic/national brands outside it, SEO limits, and FAQPage schema
+    # whenever a visible FAQ exists.
+    is_item = (not is_city) and '<section class="partners"' in raw
+    if is_item:
+        if len(p.title) > 60:
+            add("item-seo", f'item page <title> is {len(p.title)} characters (max 60): "{p.title}"')
+        if len(p.meta_desc) > 160:
+            add("item-seo", f"item page meta description is {len(p.meta_desc)} characters (max 160)")
+        if "BreadcrumbList" not in raw:
+            add("item-seo", "item page is missing BreadcrumbList JSON-LD")
+        if re.search(r"<h2[^>]*>\s*(Frequently Asked Questions|FAQ)\s*</h2>", raw) and '"FAQPage"' not in raw:
+            add("item-seo", "item page has a visible FAQ but no FAQPage JSON-LD")
+        part_at = raw.find('<section class="partners"')
+        m_h2 = re.search(r'<h2(?![^>]*id="partners-h")', raw[max(raw.find("<article"), 0):])
+        first_h2 = (max(raw.find("<article"), 0) + m_h2.start()) if m_h2 else len(raw)
+        if part_at > first_h2:
+            add("haulers-first", "item page: local haulers must come before the first section")
+        if "Last verified" not in raw:
+            add("item-seo", "item page is missing a Last verified date")
+        blocks = re.findall(r'<aside class="other-options"[^>]*>.*?</aside>', raw, re.S)
+        if len(blocks) != 1:
+            add("haulers-first", f'item page must have exactly one small-print "Other options" block (found {len(blocks)})')
+        outside = re.sub(r'<aside class="other-options"[^>]*>.*?</aside>', " ", raw, flags=re.S)
+        outside = re.sub(r"<(script|style)\b.*?</\1>", " ", outside, flags=re.S | re.I)
+        outside_text = html.unescape(re.sub(r"<[^>]+>", " ", re.sub(r'href="[^"]*"', "", outside)))
+        allowed = FRANCHISE_ALLOW.get(page_url(path, root).strip("/").split("/")[0], set())
+        for brand, rx in GENERIC_BRANDS:
+            if brand not in allowed and rx.search(outside_text):
+                add("haulers-first", f'generic/national business "{brand}" appears outside the small-print Other options block')
     # Partner tel: and website links must be GoatCounter click events.
     for l in p.links:
         href = l.get("href") or ""
