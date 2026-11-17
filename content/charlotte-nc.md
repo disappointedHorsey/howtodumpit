@@ -122,6 +122,8 @@ Natural trees must be free of all decorations, including lights, ornaments and t
 
 The Collection Guidelines page does not give a separate 2026-27 start or end date for natural-tree yard-waste pickup. Confirm your collection day in My Charlotte Lookup if you are unsure.
 
+For a side-by-side look at every option, including the Christmas week 2026 schedule, see [Christmas tree pickup in Charlotte](/charlotte-nc/christmas-tree-disposal/).
+
 If you cannot get the tree to the curb, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. Other cities are in our [Christmas Tree Disposal](/christmas-tree-disposal/) guide.
 
 *Rules, hours, fees and schedules change. Confirm on the linked official page, with CharMeck 311 (704-336-7600) or with Mecklenburg County Solid Waste (980-314-3867) before you set anything out or drive anywhere.*

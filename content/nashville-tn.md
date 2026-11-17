@@ -128,6 +128,8 @@ Not sure where something goes? Metro's Waste Wizard in [Nashville's Waste and Re
 
 Confirm the new season's sites and dates on nashville.gov before you drive. Non-emergency street issues can be reported at hub.nashville.gov, or call 615-862-5000.
 
+For a side-by-side look at every option, including 2026-27 brush dates and the Christmas week 2026 schedule, see [Christmas tree recycling in Nashville](/nashville-tn/christmas-tree-disposal/).
+
 If you cannot get to a drop-off site, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. Other cities are in our [Christmas Tree Disposal](/christmas-tree-disposal/) guide.
 
 *Rules, hours, fees and schedules change. Confirm on the linked official page, through hubNashville or by calling 311 (615-862-5000) before you set anything out or drive anywhere.*
