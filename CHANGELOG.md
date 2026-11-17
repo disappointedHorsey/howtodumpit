@@ -1,3 +1,9 @@
+## 11/17/2026 (Christmas tree pages 6-7: Charlotte and Nashville)
+
+- New /charlotte-nc/christmas-tree-disposal/ (site 9e99719): single-family natural trees with yard waste on the regular day; artificial trees, wreaths and multifamily trees by scheduled bulky pickup (City 2026 Holiday Collection Schedule); 2026-27 start date not published as of 11/17/2026 (last season from 1/5/2026, through January); Mecklenburg County centers took 2 natural + 1 artificial tree free last season, centers closed 12/25-12/26/2026; Christmas 2026: Friday routes collected Saturday 12/26. Habitat ReStores excluded from the panel.
+- New /nashville-tn/christmas-tree-disposal/ (site 9e99719): NDOT drop-off last season (14 sites, 12/26/2025-2/13/2026; 2026-27 not published as of 11/17/2026); brush crew takes trees on its regular schedule, 2026-27 brush start dates by area (official PDF); Living Earth free yard waste drop-off; Christmas 2026: Friday routes collected Monday 12/28, New Year's 2027 Friday routes Monday 1/4/2027. Habitat ReStore excluded from the panel.
+- Hub rows point to the new pages; one side-by-side link line added to each city guide's Christmas Trees section. IndexNow: HTTP 200 for 5 URLs.
+
 ## 11/16/2026 (Christmas tree pages 4-5: Baltimore, Cambridge and Somerville)
 
 - New /baltimore-md/christmas-tree-disposal/: DPW weekly trash collection and Sisson Street mulching (last season, through 2/7/2026; 2026-27 not published as of 11/16/2026); Christmas make-up day Saturday 12/26/2026 for Friday routes (DPW 2026 calendar).
