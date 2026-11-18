@@ -1,3 +1,9 @@
+## 11/18/2026 (Christmas tree pages 8-9: Fort Worth and Los Angeles)
+
+- New /fort-worth-tx/christmas-tree-disposal/ (site 49e3a93): weekly yard waste pickup for bare live trees under 8 feet and the four City drop-off stations (latest official tree notice 12/28/2022; 2026-27 not published as of 11/18/2026); drop-off hours and water bill + ID rule from the current Drop-Off Stations page; artificial trees in the brown cart; Christmas 2026: Friday routes collected Saturday 12/26 (City 2026 holiday PDF); New Year's 2027 not posted. Trinity Habitat ReStores excluded from the panel.
+- New /los-angeles-ca/christmas-tree-disposal/ (site 49e3a93): LASAN curbside on trash day (last season through 1/31/2026), bulky pickup for trees over 6 feet, last season's park (1/4/2026), fire station and Lopez Canyon/Harbor drop-off; 2026-27 not published as of 11/18/2026; Christmas 2026 one-day delay, Friday routes collected Saturday 12/26 (LASAN Holiday Collection Delays). Habitat ReStore excluded from the panel.
+- Hub rows point to the new pages; one side-by-side link line added to each city guide's Christmas Trees section. IndexNow: HTTP 200 for 5 URLs.
+
 ## 11/17/2026 (Christmas tree pages 6-7: Charlotte and Nashville)
 
 - New /charlotte-nc/christmas-tree-disposal/ (site 9e99719): single-family natural trees with yard waste on the regular day; artificial trees, wreaths and multifamily trees by scheduled bulky pickup (City 2026 Holiday Collection Schedule); 2026-27 start date not published as of 11/17/2026 (last season from 1/5/2026, through January); Mecklenburg County centers took 2 natural + 1 artificial tree free last season, centers closed 12/25-12/26/2026; Christmas 2026: Friday routes collected Saturday 12/26. Habitat ReStores excluded from the panel.
