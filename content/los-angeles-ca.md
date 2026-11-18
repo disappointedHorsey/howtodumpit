@@ -114,6 +114,8 @@ Paint, solvents and chemicals are **prohibited at the curb**. Take them **free**
 
 **Last season drop-off examples:** Parks accepted trees on Sunday, January 4, 2026, 9 a.m. to 5:30 p.m. (including Griffith Park at the LA Zoo parking lot, 5333 Zoo Drive). Listed fire stations accepted trees through January 31, 2026. Lopez Canyon Environmental Education Center, 11950 Lopez Canyon Road, Lake View Terrace, took trees January 2 through January 31, 2026, 9 a.m. to 4 p.m. Harbor Safe Center, 1400 N. Gaffey Street, San Pedro, had an earlier end date of January 15, 2026. Those dates and sites may change. Confirm on the LASAN page before you drive.
 
+For a side-by-side look at every option, including the Christmas week 2026 schedule, see [Christmas tree pickup in Los Angeles](/los-angeles-ca/christmas-tree-disposal/).
+
 If you missed the city's window or cannot get the tree outside, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. See our [Christmas Tree Disposal](/christmas-tree-disposal/) guide for other cities.
 
 *Rules, hours and fees change. Confirm on the linked official page before you set anything out or drive anywhere.*

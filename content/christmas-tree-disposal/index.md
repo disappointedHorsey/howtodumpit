@@ -48,14 +48,14 @@ Each row links to that city's own Christmas tree page where we have one (new pag
 | [Denver, CO](/denver-co/#christmas-trees) | Last season only | Last season: Treecycle drop-off December 29, 2025-January 30, 2026; also large-item pickup (not mulched) |
 | [Detroit, MI](/detroit-mi/#christmas-trees) | Last season only | Last season: curbside during the first two weeks of January 2026 |
 | [El Paso, TX](/el-paso-tx/#christmas-trees) | No current official dates found | Latest official release found is from 2021; confirm with 311 for this season |
-| [Fort Worth, TX](/fort-worth-tx/#christmas-trees) | Latest official guidance dated 2022; confirm for 2026-27 | Latest City news (December 28, 2022): weekly yard-waste pickup or a drop-off station |
+| [Fort Worth, TX](/fort-worth-tx/christmas-tree-disposal/) | Latest official tree guidance dated 2022; 2026-27 not published (rechecked November 18, 2026) | Weekly yard-waste pickup (under 8 feet) or a City drop-off station; Christmas 2026: Friday routes collected Saturday, December 26 |
 | [Fresno, CA](/fresno-ca/#christmas-trees) | Standing official rule | Cut to 3-foot lengths and place in the green organics cart with the lid closed |
 | [Houston, TX](/houston-tx/#christmas-trees) | Last season only | Last season: drop-off December 26, 2025-January 23, 2026, at 20 sites; no curbside program stated |
 | [Indianapolis, IN](/indianapolis-in/#christmas-trees) | Last season only | Last season: Marion County drop-off December 25, 2025-January 31, 2026, at seven parks |
 | [Jacksonville, FL](/jacksonville-fl/christmas-tree-disposal/) | Standing official rule | Weekly yard waste on your collection day; no separate seasonal window stated |
 | [Kansas City, MO](/kansas-city-mo/#christmas-trees) | No explicit City Christmas tree page found | City Leaf & Brush page does not name Christmas trees; confirm with 311 before you haul one |
 | [Las Vegas, NV](/las-vegas-nv/#christmas-trees) | Standing official seasonal window | Valley drop-off each year December 26-January 15, at 30-plus sites (Springs Preserve) |
-| [Los Angeles, CA](/los-angeles-ca/#christmas-trees) | Last season only | Last season: curbside through January 31, 2026; 2026-27 dates not yet published |
+| [Los Angeles, CA](/los-angeles-ca/christmas-tree-disposal/) | Last season only; 2026-27 not published (rechecked November 18, 2026) | Last season: curbside on trash day through January 31, 2026, plus park, fire station and Lopez Canyon drop-off; Christmas 2026: Friday routes collected Saturday, December 26 |
 | [Louisville, KY](/louisville-ky/#christmas-trees) | Official page could not be verified this check | LouisvilleKY.gov Seasonal Programs page did not load; confirm with Metro 311 |
 | [Memphis, TN](/memphis-tn/#christmas-trees) | Last season only | Last season: City curbside with trash, plus Shelby County drop-off December 26, 2025-January 16, 2026 |
 | [Mesa, AZ](/mesa-az/#christmas-trees) | 2026-27 dates published | Drop-off December 26, 2026-January 18, 2027, 24 hours, at five sites; small trees may go in the green barrel |

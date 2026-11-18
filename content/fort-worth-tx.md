@@ -132,6 +132,8 @@ That 2022 release said live Christmas trees can go out with normal weekly yard w
 
 The City's current [Yard Trimmings](https://www.fortworthtexas.gov/departments/environmental-services/solidwaste/yardtrimmings) page still lists those four drop-off stations (Tuesday-Friday 8 a.m.-5 p.m., Saturday 8 a.m.-noon; closed Sunday and Monday) but does not mention Christmas trees by name.
 
+For a side-by-side look at every option, including the Christmas week 2026 schedule, see [Christmas tree pickup in Fort Worth](/fort-worth-tx/christmas-tree-disposal/).
+
 If you need a tree taken from the house, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. Other cities are in our [Christmas Tree Disposal](/christmas-tree-disposal/) guide.
 
 *Rules, hours, fees and schedules change. Confirm on the linked official page or by calling the 311 Fort Worth Contact Center (817-392-1234) before you set anything out or drive anywhere.*
