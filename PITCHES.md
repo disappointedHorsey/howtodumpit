@@ -336,3 +336,5 @@ New first pitches had stopped on 16/11 when the nightly run switched to Christma
 
 - 19/11/2026 Sydney: nudge #1 SENT (threaded, from adam@) to junkwranglersandremoval@gmail.com 1a1efd2ff6f536f5; info@mc-junk.com 1a1efd379e87f5ad; raleighblvd@trianglerestores.org 1a1efd3dfe08ae35; info@haulawayanyday.com 1a1efd44b92fc0db; arcjunkremovalsd@gmail.com 1a1efd4b95a850a8; dispatch@sandiegohabitat.org 1a1efd5279aa4408. Next due 26/11/2026.
 - 19/11/2026 Sydney: 4 first pitches DRAFTED, NOT SENT (company/outreach/new-pitches-19-11-2026.md): 247 Junk Solutions (Houston), Vegas JunkMan (Las Vegas), Easy Junk Removal (Seattle), Junk Guys DC (Washington, DC).
+
+**20/11/2026 (Sydney) nudge batch:** 96 nudges sent from adam@howtodumpit.com 05:15-05:54 AM Sydney, ledger company/outreach/NUDGE-SEND-LEDGER-20-11-2026.md. 24 reached the 3-nudge limit (final); Honey, Jubilee, 502, Junk Trunk, Mo's and Rivas were already at the limit and were not nudged.
