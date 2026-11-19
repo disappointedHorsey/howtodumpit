@@ -41,7 +41,7 @@ Each row links to that city's own Christmas tree page where we have one (new pag
 | [Boston, MA](/boston-ma/#christmas-trees) | Standing official rule | Curbside on your normal trash day during the two weeks after Christmas |
 | [Cambridge and Somerville, MA](/cambridge-somerville-ma/christmas-tree-disposal/) | Somerville standing January rule; Cambridge last season only (rechecked November 16, 2026) | Somerville: regular trash day through January; Cambridge last season: January 2-14, 2026, then the Recycle Center through January 31, 2026 |
 | [Charlotte, NC](/charlotte-nc/christmas-tree-disposal/) | Standing official rule; 2026-27 start date not published (rechecked November 17, 2026) | Single-family: yard waste on your regular collection day (last season from January 5, 2026); multifamily: scheduled bulky collection; Christmas 2026: Friday routes collected Saturday, December 26 |
-| [Chicago, IL](/chicago-il/#christmas-trees) | Last season only | Last season: drop-off only, January 3-17, 2026, at 27 parks; no curbside program stated |
+| [Chicago, IL](/chicago-il/christmas-tree-disposal/) | 2026-27 dates published (checked November 19, 2026) | Drop-off at 27 park corrals January 9-23, 2027, 7 a.m.-11 p.m.; free mulch at six sites from January 12; Christmas Day 2026: no trash service |
 | [Colorado Springs, CO](/colorado-springs-co/#christmas-trees) | Last season only | Last season: TreeCycle drop-off January 3-4 and 10-11, 2026, plus Rocky Top Resources through January 31, 2026 |
 | [Columbus, OH](/columbus-oh/#christmas-trees) | Standing official rule | Biweekly yard-waste collection; cut trees taller than 8 feet in half |
 | [Dallas, TX](/dallas-tx/#christmas-trees) | Last season only | Last season: drop-off December 26, 2025-January 24, 2026, at the landfill and transfer stations |
@@ -75,7 +75,7 @@ Each row links to that city's own Christmas tree page where we have one (new pag
 | [San Francisco, CA](/san-francisco-ca/#christmas-trees) | Last season only | Last season: curbside January 2-16, 2026, next to the green compost bin |
 | [San Jose, CA](/san-jose-ca/#christmas-trees) | Standing official rule | Regular collection day; cut into 5-foot pieces and set at the curb |
 | [Seattle, WA](/seattle-wa/#christmas-trees) | Last season only | Last season: free curbside or transfer-station drop-off through January 31, 2026 |
-| [Tucson, AZ](/tucson-az/#christmas-trees) | 2026-27 dates published | TreeCycle drop-off December 26, 2026-January 18, 2027, at 10 sites; no curbside collection |
+| [Tucson, AZ](/tucson-az/christmas-tree-disposal/) | 2026-27 dates published (rechecked November 19, 2026) | TreeCycle drop-off December 26, 2026-January 18, 2027, at 10 sites; no curbside collection; Christmas 2026: Friday routes collected Saturday, December 26 |
 | [Virginia Beach, VA](/virginia-beach-va/#christmas-trees) | Standing official rule; last-season drop-off date | Curbside as regular yard waste on your collection day, or the City Landfill for mulch; last season's Aquarium drop-off was January 10, 2026 |
 | [Washington, DC](/washington-dc/#christmas-trees) | Last season only | Last season: DPW curbside January 2-February 28, 2026, plus three weekday drop-off sites |
 
