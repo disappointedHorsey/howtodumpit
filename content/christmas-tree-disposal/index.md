@@ -50,6 +50,7 @@ Each row links to that city's own Christmas tree page where we have one (new pag
 | [El Paso, TX](/el-paso-tx/#christmas-trees) | No current official dates found | Latest official release found is from 2021; confirm with 311 for this season |
 | [Fort Worth, TX](/fort-worth-tx/christmas-tree-disposal/) | Latest official tree guidance dated 2022; 2026-27 not published (rechecked November 18, 2026) | Weekly yard-waste pickup (under 8 feet) or a City drop-off station; Christmas 2026: Friday routes collected Saturday, December 26 |
 | [Fresno, CA](/fresno-ca/#christmas-trees) | Standing official rule | Cut to 3-foot lengths and place in the green organics cart with the lid closed |
+| [Honolulu, HI](/honolulu-hi/#christmas-trees) | Standing cart option; 2026-27 notice not published (checked November 19, 2026) | Cut to fit the green cart, or drop the whole tree at a City convenience center (not Wahiawa), Kapaa Transfer Station or the Wahiawa composting site |
 | [Houston, TX](/houston-tx/#christmas-trees) | Last season only | Last season: drop-off December 26, 2025-January 23, 2026, at 20 sites; no curbside program stated |
 | [Indianapolis, IN](/indianapolis-in/#christmas-trees) | Last season only | Last season: Marion County drop-off December 25, 2025-January 31, 2026, at seven parks |
 | [Jacksonville, FL](/jacksonville-fl/christmas-tree-disposal/) | Standing official rule | Weekly yard waste on your collection day; no separate seasonal window stated |

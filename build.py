@@ -78,6 +78,7 @@ CITY_COORDS = {
     "long-beach-ca": (33.7701, -118.1937),
     "oakland-ca": (37.8044, -122.2712),
     "minneapolis-mn": (44.9778, -93.2650),
+    "honolulu-hi": (21.3069, -157.8583),
     "washington-dc": (38.9072, -77.0369),
 }
 NEARBY_COUNT = 5
