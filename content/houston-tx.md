@@ -109,6 +109,8 @@ Household hazardous waste goes to the **Environmental Service Centers** (address
 
 Neighborhood depositories in that release included Central, 2240 Central Street; Kirkpatrick, 5565 Kirkpatrick; Sommermeyer, 14400 Sommermeyer; N. Main, 9003 N. Main; Southwest, 10785 Southwest Freeway; Sunbeam, 5100 Sunbeam; and Ellington Airport Recycling Drop-off at Highway 3 and Brantley Road. Hours listed were Wednesday to Sunday, 10 a.m. to 7 p.m., changing Tuesday to Saturday, 9 a.m. to 6 p.m., starting January 5. Westpark Consumer Recycling Center, 5900 Westpark, was listed Tuesday to Saturday, 8 a.m. to 5 p.m., closed January 1, 2026. Kingwood Recycling Center, 3210 W. Lake Houston Parkway, was listed Saturday and Sunday, 8 a.m. to 6 p.m. Several Living Earth yards were also listed. Hours and sites can change; confirm with 311 or the Solid Waste website before you drive.
 
+For a side-by-side look at every option, including the Christmas week 2026 schedule, see [Christmas tree recycling in Houston](/houston-tx/christmas-tree-disposal/).
+
 If you missed the drop-off window, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. See our [Christmas Tree Disposal](/christmas-tree-disposal/) guide for prep rules and other cities.
 
 *Rules, hours and fees change. Confirm on the linked official page before you set anything out or drive anywhere.*

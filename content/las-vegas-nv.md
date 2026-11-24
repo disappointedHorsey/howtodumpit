@@ -167,6 +167,8 @@ Before drop-off, remove all non-organic objects such as lights, wire, tinsel, or
 
 The official page we read on November 10, 2026, did not include the current list of the 30-plus drop sites in the text, and we did not find a City of Las Vegas or Republic Services municipal page that posted a separate 2026-27 curbside tree window. Use the Springs Preserve page or 702-895-3760 for this season's site list before you drive.
 
+For a side-by-side look at every option, including the Christmas week 2026 schedule, see [Christmas tree recycling in Las Vegas](/las-vegas-nv/christmas-tree-disposal/).
+
 If you cannot get to a drop site, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. Other cities are in our [Christmas Tree Disposal](/christmas-tree-disposal/) guide.
 
 *Rules, hours, fees and schedules change. Confirm on the linked official page or with Republic Services before you set anything out or drive anywhere.*

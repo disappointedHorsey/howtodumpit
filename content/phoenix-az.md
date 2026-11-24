@@ -111,9 +111,11 @@ Phoenix solid waste customers can get a **free HHW home collection** (one per cu
 
 Only live items are accepted, nothing plastic or artificial. Strip off all lights, decorations and other non-organic material, and place trees only in the marked drop-off areas. The trees are composted at the City of Phoenix Compost Facility. ([City of Phoenix calendar: Live Christmas Trees Accepted for Composting](https://www.phoenix.gov/calendar/public-works-events/live-christmas-trees-accepted-for-composting--free--.html))
 
-The 2026-27 calendar pages we read confirm the date window but do not list park names on the event text. Last season (December 26, 2025, through January 9, 2026) used 14 parks: Cactus, Cesar Chavez, Deer Valley, Desert Foothills, Desert West, El Reposo, Los Olivos, Madison, Marivue, Mountain View, Mountain Vista, Paradise Valley, Sereno and Washington. That list may change. Confirm this season's sites on the official calendar before you drive. ([City of Phoenix: Christmas Tree Drop-off Sites Open December 26](https://www.phoenix.gov/newsroom/public-works-news/3311.html))
+This season's sites, confirmed on November 25, 2026, are 14 City parks (Deer Valley, Paradise Valley, Sereno, Cactus, Mountain View, Marivue, Washington, Madison, Los Olivos, Desert West, El Reposo, Mountain Vista, Desert Foothills and Cesar Chavez) plus the North Gateway and 27th Avenue transfer stations. ([City of Phoenix: Christmas Tree Composting](https://www.phoenix.gov/administration/departments/publicworks/popular-requests-resources/christmas-tree-composting.html))
 
-Last season's news release also noted transfer station drop-off and bulk trash as other disposal options. Ask Public Works or 602-262-3111 before you use those for a tree.
+The City's transfer stations also take up to two live trees from City of Phoenix residents, and you can add a tree to a bulk trash pile.
+
+For a side-by-side look at every option, including the Christmas week 2026 schedule, see [Christmas tree recycling in Phoenix](/phoenix-az/christmas-tree-disposal/).
 
 If a park drop-off is not practical, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. Other cities are in our [Christmas Tree Disposal](/christmas-tree-disposal/) guide.
 

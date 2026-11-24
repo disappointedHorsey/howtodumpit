@@ -119,6 +119,8 @@ HHW must **never** go in any curbside cart. Take **paint**, auto fluids, batteri
 
 Questions: 311 or 210-207-6000.
 
+For a side-by-side look at every option, including the Christmas week 2026 schedule, see [Christmas tree drop-off in San Antonio](/san-antonio-tx/christmas-tree-disposal/).
+
 If you cannot get to a drop-off center, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. Other cities are in our [Christmas Tree Disposal](/christmas-tree-disposal/) guide.
 
 *Rules, hours and fees change. Confirm on the linked official page before you set anything out or drive anywhere.*

@@ -79,6 +79,8 @@ CITY_COORDS = {
     "oakland-ca": (37.8044, -122.2712),
     "minneapolis-mn": (44.9778, -93.2650),
     "honolulu-hi": (21.3069, -157.8583),
+    "st-paul-mn": (44.9537, -93.0900),
+    "lincoln-ne": (40.8136, -96.7026),
     "washington-dc": (38.9072, -77.0369),
 }
 NEARBY_COUNT = 5
