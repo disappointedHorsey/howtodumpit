@@ -1,3 +1,7 @@
+## 11/25/2026 (As featured on HowToDumpIt badge for partner backlinks)
+
+- Added a small linkable "As featured on HowToDumpIt" badge at /static/brand/as-featured-on-howtodumpit.svg and /static/brand/as-featured-on-howtodumpit.png (black, white and safety yellow, same palette as the wordmark). Partners should point the badge at their city page. Embed snippet is in the company repo at outreach/backlinks/TEMPLATE-link-to-listing.md.
+
 ## 11/25/2026 (Nightly catch-up: St. Paul, MN and Lincoln, NE guides, state capitals 13-14 of 50; Christmas tree pages 12-15: Las Vegas, Houston, San Antonio and Phoenix)
 
 - Runs for 11/21-11/24 (Sydney) were missed; tonight caught up to the caps (2 new cities, 4 tree cities).
