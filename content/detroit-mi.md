@@ -156,6 +156,8 @@ Questions? Call the DPW Solid Waste Division at **(313) 876-0004**. ([City of De
 
 Until a new notice is posted, check that page, the City's waste wizard, or call 311 for this season's dates and prep rules before you set a tree out.
 
+For a side-by-side look at every option, including the Christmas week 2026 schedule, see [Christmas tree recycling in Detroit](/detroit-mi/christmas-tree-disposal/).
+
 If the City window is missed or you cannot get the tree to the curb, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. See our [Christmas Tree Disposal](/christmas-tree-disposal/) guide for other cities.
 
 *Rules, fees and hours change. Confirm on the linked official page or with DPW before you set anything out or drive anywhere.*

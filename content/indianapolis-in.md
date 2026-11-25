@@ -155,6 +155,8 @@ Not sure where something goes? Check the City's [Trash 101](https://www.indy.gov
 
 Last-season sites: Ellenberger Park, 5301 E. St. Clair Street (northeast corner by the pool); Garfield Park, 2432 Conservatory Drive (in front of the MacAllister Amphitheater); Northwestway Park, 5253 W. 62nd Street (to the left of the entrance); Perry Park, 451 E. Stop 11 Road (to the left of the Stop 11 main entrance); Riverside Park, 2420 East Riverside Drive (by the basketball court); Sahm Park, 6801 E. 91st Street (near the recycling bins); and Riverwood Park, 7201 Crittenden Avenue. Confirm the new list before you drive. Questions: Department of Public Works, 317-327-4000.
 
+For a side-by-side look at every option, including the Christmas week 2026 schedule, see [Christmas tree recycling in Indianapolis](/indianapolis-in/christmas-tree-disposal/).
+
 If a drop-off site is not practical, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. See our [Christmas Tree Disposal](/christmas-tree-disposal/) guide for other cities.
 
 *Rules, hours, fees and schedules change. Confirm on the linked official page or with the Mayor's Action Center before you set anything out or drive anywhere.*

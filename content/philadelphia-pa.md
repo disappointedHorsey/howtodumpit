@@ -113,6 +113,8 @@ Oil, latex and water-based **paint**, solvents, pesticides, auto fluids and othe
 
 The same official page listed community events and private pickups for that season, including the Philly Goat Project at The Farm at Awbury, 6336 Ardleigh Street, on January 10 and January 24, 2026, 12-3 p.m. (rain dates January 11 and January 25), and at Laurel Hill West Cemetery, 215 Belmont Avenue, Bala Cynwyd, on January 17, 2026, 12-3 p.m., each for a $20-per-tree donation. Bennett Compost and Circle Compost were listed for scheduled pickup at $20 per tree in stated neighborhoods and date windows. Confirm any 2026-27 event directly with the group; those dates have passed.
 
+For a side-by-side look at every option, including the sanitation convenience centers, see [Christmas tree recycling in Philadelphia](/philadelphia-pa/christmas-tree-disposal/).
+
 If you need a tree taken from inside your home, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. See our [Christmas Tree Disposal](/christmas-tree-disposal/) guide for other cities.
 
 *Rules, hours and fees change. Confirm on the linked official page before you set anything out or drive anywhere.*

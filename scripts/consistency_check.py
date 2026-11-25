@@ -172,6 +172,7 @@ FRANCHISE_ALLOW = {
     "jacksonville-fl": {"Waste Pro"},
     "colorado-springs-co": {"Republic Services"},
     "albuquerque-nm": {"Waste Management"},
+    "boise-id": {"Republic Services"},
 }
 
 def norm(s):

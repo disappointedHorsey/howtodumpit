@@ -120,6 +120,8 @@ Trees must be completely free of all decorations and, if taller than 8 feet, mus
 
 Holiday delays follow the City's published collection-day rules. If you also want to self-haul, ask 311 whether a Waste and Reuse Convenience Center will take a bare tree on the day you go.
 
+For a side-by-side look at every option, including the Christmas week 2026 schedule, see [Christmas tree recycling in Columbus](/columbus-oh/christmas-tree-disposal/).
+
 If you missed your yard-waste day or cannot move the tree, a junk removal company listed on this page may offer Christmas tree pickup. HowToDumpIt does not haul anything. See our [Christmas Tree Disposal](/christmas-tree-disposal/) guide for other cities.
 
 *Rules, hours and fees change. Confirm on the linked official page before you set anything out or drive anywhere.*
