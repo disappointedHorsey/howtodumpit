@@ -1,6 +1,6 @@
 ---
-title: "Oklahoma City (OKC) Bulk Trash Pickup Guide"
-description: "City of Oklahoma City bulk trash (big trash) pickup: find your monthly bulky day, what crews take, the 4-cubic-yard limit, freon fridges and mattresses."
+title: "Oklahoma City Bulk Trash & Bulky Waste Pickup"
+description: "City of Oklahoma City bulk trash (big trash) pickup: find your monthly bulky waste day, what crews take, the 4-cubic-yard limit, freon fridges and mattresses."
 verified: '2026-10-22'
 city: Oklahoma City
 state: OK
@@ -47,7 +47,7 @@ other_options:
 - 'Electronics retail take-back named by the City of Oklahoma City: Best Buy for TVs (fee required) and for computers, monitors, printers, keyboards, mice, cell phones and small devices; Staples for computers and peripherals; Goodwill''s computer program runs through Dell Reconnect. Oklahoma DEQ also suggests Best Buy or Staples. Call the store first.'
 - 'Free Landfill Days: GFL Landfill in Spencer takes only DIY construction and demolition debris.'
 ---
-# Oklahoma City Bulk Trash Pickup (OKC Big Trash) and Junk Disposal Guide
+# Oklahoma City Bulky Waste and Bulk Trash Pickup (OKC Big Trash Guide)
 
 **Oklahoma City bulk trash pickup in one line:** if you're a City of Oklahoma City single-residential trash customer, crews collect **bulky waste ("big trash") at the curb once a month**, and the **first 4 cubic yards** (about the size of two large refrigerators) are **included in your bundled monthly trash bill**. Find your bulky day on the City's MyTrashDay map, set items out loose **by 6 a.m.** on that day and **no more than three days early**. Bigger piles are billed per extra cubic yard. **Fridges, freezers and AC units with freon** need a **scheduled pickup** (call **(405) 297-2833**), and paint and chemicals go to the City's **free Household Hazardous Waste Collection Center**. Below: item-by-item rules for mattresses, couches, appliances, TVs and paint, plus answers to the most common OKC bulk trash questions. Every option links to the official page we checked, and where we couldn't verify something, we say so.
 
