@@ -1,6 +1,6 @@
 ---
-title: "Junk Disposal in Boston, MA"
-description: "Junk disposal in Boston, MA: by-appointment curbside mattress pickup, furniture out with regular trash, special item collection, and Zero Waste Day drop-offs."
+title: "Boston Bulk Item & Mattress Pickup Guide"
+description: "Boston bulk item pickup: book curbside mattress, appliance and TV pickups online or via 311, put furniture out on trash day, and take paint to Zero Waste Days."
 verified: '2026-10-24'
 city: Boston
 state: MA
@@ -38,9 +38,9 @@ partners:
   note: Locally owned junk removal based in Newton, serving Boston neighborhoods including Back Bay, the South End and Beacon Hill.
   source_checked: 2026-11-11
 ---
-# Junk Disposal in Boston, MA: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
+# Boston Bulk Item Pickup: Mattresses, Furniture, Appliances and TVs
 
-Here's how to legally get rid of bulky junk in Boston, Massachusetts, item by item. Boston Public Works **won't take mattresses with your regular trash**. You **book a curbside mattress pickup** instead, because Massachusetts bans mattresses from disposal. **Furniture** can go out **with your normal curbside trash** on your collection day. **Fridges, freezers, air conditioners, TVs and computer monitors** need a **scheduled special item pickup** through the City or 311. **Oil-based paint and household chemicals** go to the City's **Zero Waste Day** drop-offs, and dried-out latex paint can go in the trash. Every option links to the official page we checked. Where we couldn't verify something, we say so. Check the linked page or call Boston 311 (dial 311 or 617-635-4500) before you set anything out.
+**Boston bulk item pickup in one line:** there's no single bulk trash day. **Furniture** goes out **with your normal curbside trash** on collection day, while **mattresses and box springs** (banned from the trash in Massachusetts) and **fridges, freezers, air conditioners, TVs and computer monitors** need a **scheduled curbside appointment**, booked online or through Boston 311. **Oil-based paint and household chemicals** go to the City's **Zero Waste Day** drop-offs, and dried-out latex paint can go in the trash. Below: item-by-item rules, then answers to common Boston pickup questions. Every option links to the official page we checked, and where we couldn't verify something, we say so. Check the linked page or call Boston 311 (dial 311 or 617-635-4500) before you set anything out.
 
 Live in **Cambridge or Somerville**? Those cities run their own programs. See our [Cambridge–Somerville guide](/cambridge-somerville-ma/).
 
@@ -135,7 +135,7 @@ The City says **latex and acrylic (water-based) paint is not hazardous**. **Let 
 
 **Zero Waste Days** are the City's drop-off events for household hazardous materials and certain banned items. They take **oil-based paint, motor oil, pesticides, aerosol cans, flammable liquids, pool chemicals, rechargeable and lithium batteries, car batteries, propane tanks, fire extinguishers, tires (up to 8 per person), fluorescent bulbs and other intact mercury items**, plus electronics, paper shredding and textiles.
 
-**Next date listed (checked October 24, 2026):** **Saturday, November 21, 2026, 8:30 a.m. to 12 p.m.**, at **Millennium Park, 315 Gardner Street, West Roxbury, MA 02132**. This event was moved from September 26 because of a nor'easter. The City lists it as **free**. ([City of Boston: Zero Waste Day Drop-Off (Rescheduled)](https://www.boston.gov/calendar/zero-waste-day-drop-rescheduled)) Check the City's Zero Waste Day page for pop-up events and the next year's schedule.
+**Next date:** The last 2026 Zero Waste Day listed was **Saturday, November 21, 2026**, at Millennium Park, 315 Gardner Street, West Roxbury (moved from September 26 because of a nor'easter). When we checked on November 26, 2026, the City's Zero Waste Day page showed **no upcoming events**, so check it for pop-up events and the 2027 schedule. ([City of Boston: Zero Waste Days](https://www.boston.gov/departments/public-works/zero-waste-day))
 
 **Rules for Zero Waste Days:**
 
@@ -151,6 +151,32 @@ The City says **latex and acrylic (water-based) paint is not hazardous**. **Let 
 **Can't make it to an event?** The City points you to its [Zero Waste Directory](https://www.boston.gov/departments/public-works/bostons-zero-waste-directory) for other places to drop off electronics, batteries, light bulbs and more.
 
 Questions? Contact Boston 311 (dial **311** or **617-635-4500**, email 311@boston.gov) or the Zero Waste team at zerowaste@boston.gov. ([City of Boston: Zero Waste Day Drop-Offs](https://www.boston.gov/departments/public-works/zero-waste-day))
+
+## Frequently Asked Questions {#faq}
+
+### Does Boston have bulk item pickup?
+
+Not as one bulk day. Couches, tables and other furniture can simply go out with your regular trash on collection day, no booking needed. Mattresses and box springs, and items containing freon or picture tubes (fridges, freezers, water coolers, ice makers, air conditioners, dehumidifiers, TVs, laptops and computer monitors), are only collected by appointment. ([City of Boston: Special Collection Items](https://www.boston.gov/departments/public-works/special-collection-items))
+
+### How do I schedule a mattress pickup in Boston?
+
+Book through the scheduler on the City's [Mattress Recycling](https://www.boston.gov/departments/public-works/mattress-recycling) page, or call 311 (617-635-4500). On the day, have it at the curb by 6 a.m., or put it out after 5 p.m. the evening before. A soiled mattress or one with bed bugs has to be fully sealed in a bag. Each address gets up to 10 mattress pickups per calendar year.
+
+### What if my building has 7 or more units?
+
+The City's curbside mattress program only serves buildings with 6 units or fewer, so ask your property manager or management company how mattresses are handled. For fridges, TVs and other special items, a large building that gets City trash service can book through 311.
+
+### How do I get rid of a refrigerator or air conditioner in Boston?
+
+Schedule a special item collection online or through 311. Take off every fridge and freezer door (mini fridges included) and set the doors by your trash bin, empty out all food, and leave the appliance intact and unblocked where your trash normally goes. The limit is 10 special items a year and 5 per appointment.
+
+### How do I throw away an old TV in Boston?
+
+TVs, laptops and computer monitors also go through special item collection: book a slot, wipe any computer data, and set the set out freestanding rather than boxed. You can also bring TVs and other electronics to a Zero Waste Day drop-off.
+
+### What won't Boston pick up with the trash?
+
+Construction debris, auto parts, plumbing fixtures, fences, water heaters and fire debris. The City also tells you to donate or hire a private hauler for dishwashers and large exercise equipment. A local junk removal company listed on this page may take these; HowToDumpIt does not haul anything. ([City of Boston: Trash](https://www.boston.gov/departments/public-works/trash))
 
 ## Christmas Trees {#christmas-trees}
 
