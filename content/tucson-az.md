@@ -1,6 +1,6 @@
 ---
-title: "Junk Disposal in Tucson, AZ"
-description: "Junk disposal in Tucson, AZ: twice-a-year Brush and Bulky collection, Special Brush and Bulky pickups, Los Reales Landfill, and free HHW program for residents."
+title: "Tucson Bulk Trash: Brush & Bulky Pickup Guide"
+description: "Tucson bulk trash pickup: when Brush and Bulky reaches your area, what crews take, Special Brush and Bulky, Los Reales Landfill fees, and free HHW drop-off."
 verified: '2026-10-31'
 city: Tucson
 state: AZ
@@ -45,9 +45,9 @@ partners:
 other_options:
 - 'Electronics: the City of Tucson also lists ACE Recycling.'
 ---
-# Junk Disposal in Tucson, AZ: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
+# Tucson Bulk Trash Pickup (Brush and Bulky) and Junk Disposal Guide
 
-Here's how to legally get rid of bulky junk in Tucson, Arizona, item by item. The City of Tucson Environmental Services Department picks up furniture, appliances and other bulky items **twice a year** through its **Brush and Bulky** collection, and you can order a **Special Brush and Bulky** pickup any time for a fee. You can also drive a load to the City's **Los Reales Landfill**. **TVs, computers, paint and household chemicals** go to the **Household Hazardous Waste (HHW) program**, which is free for City residents. Every option links to the official page we checked. Where we couldn't verify something, we say so. Check the linked page or call Customer Service at **520-791-3171** before you set anything out.
+**Tucson bulk trash pickup in one line:** the City of Tucson collects furniture, appliances, brush and other bulky items at the curb **twice a year** in each of its 26 trash service areas through **Brush and Bulky**, and you can order a paid **Special Brush and Bulky** pickup any time. Since January 1, 2026, piles must go **at the curb in front of your home, not in the alley**, and be ready by **6 a.m. on the Monday** of your collection week. You can also drive a load to the City's **Los Reales Landfill** ($18 for a covered load under 2,000 pounds, plus a $2 fee). **TVs, computers, paint and household chemicals** go to the **Household Hazardous Waste (HHW) program**, which is free for City residents. Below: item-by-item rules plus answers to common Tucson bulk trash questions. Every option links to the official page we checked, and where we couldn't verify something, we say so. Check the linked page or call Customer Service at **520-791-3171** before you set anything out.
 
 ## Quick Answer by Item
 
@@ -72,7 +72,7 @@ Here's how to legally get rid of bulky junk in Tucson, Arizona, item by item. Th
 
 ## Couches and Furniture {#furniture}
 
-**Brush and Bulky collection:** Twice a year, City crews visit each of Tucson's 26 residential trash service areas to collect bulky items. Furniture and carpet are accepted. The cost is part of your monthly residential trash fee, which covers weekly trash, every-other-week recycling, Brush and Bulky collection twice a year and neighborhood cleanups. ([City of Tucson: Residential Trash Collection](https://www.tucsonaz.gov/Departments/Environmental-Services/Residential-Services/Residential-Trash-Collection)) Find your collection week on the City's 2026 Brush and Bulky schedule or by searching your address. ([City of Tucson: Brush and Bulky](https://www.tucsonaz.gov/Departments/Environmental-Services/Residential-Services/Brush-and-Bulky))
+**Brush and Bulky collection:** Twice a year, City crews visit each of Tucson's 26 residential trash service areas to collect bulky items. Furniture and carpet are accepted. The cost is part of your monthly residential trash fee, which covers weekly trash, every-other-week recycling, Brush and Bulky collection twice a year and neighborhood cleanups. ([City of Tucson: Residential Trash Collection](https://www.tucsonaz.gov/Departments/Environmental-Services/Residential-Services/Residential-Trash-Collection)) Find your collection week on the City's Brush and Bulky schedule (the 2027 schedule is now posted) or by searching your address. ([City of Tucson: Brush and Bulky](https://www.tucsonaz.gov/Departments/Environmental-Services/Residential-Services/Brush-and-Bulky))
 
 ### Step by Step: Brush and Bulky
 
@@ -119,7 +119,6 @@ The City's residential trash service covers homes inside Tucson city limits: sin
 | Site | Address | Hours |
 |---|---|---|
 | Los Reales Sustainability Campus HHW Drop-Off | 5300 E. Los Reales Rd. | Thu, Fri and Sat, 7 a.m. to 2 p.m. (closed the 2nd Saturday of each month, except in summer) |
-| Community collection event, November 14, 2026 | Eastside City Hall, 7820 E. Broadway Blvd. | 8 a.m. to 12 p.m. |
 | Community collection event, December 12, 2026 | Pima Community College West, 2202 W. Anklam Rd. | 8 a.m. to 12 p.m. |
 
 Event dates are from the City's [HHW Community Collection Events](https://www.tucsonaz.gov/Departments/Environmental-Services/Household-Hazardous-Waste/HHW-Community-Collection-Events) page. Events pause during the summer. For HHW questions, call 520-791-4183.
@@ -134,6 +133,36 @@ Event dates are from the City's [HHW Community Collection Events](https://www.tu
 **Never in your bins:** Don't put hazardous or toxic waste in your trash container, or pour it down the drain.
 
 Questions? Call Environmental Services Customer Service at **520-791-3171**, email eshelp@tucsonaz.gov, or call **311**. ([City of Tucson: Environmental Services](https://www.tucsonaz.gov/Departments/Environmental-Services))
+
+## Frequently Asked Questions {#faq}
+
+### When is bulk trash pickup in Tucson?
+
+Each of the City's 26 trash service areas gets Brush and Bulky twice a year, on a set week. Search your address on the City's [Brush and Bulky](https://www.tucsonaz.gov/Departments/Environmental-Services/Residential-Services/Brush-and-Bulky) page or open the schedule PDF there to find your week. Pickup can happen any time after 6 a.m. on that Monday, so have the pile out before then. Areas 19 and 25 are by appointment: call the number on your sticker.
+
+### What does Tucson Brush and Bulky pick up?
+
+Appliances (take refrigerator and freezer doors off), furniture and carpet, brush and tree limbs, boxed cacti and thorny plants, cut-down lumber, scrap metal and pipes, and up to 5 passenger tires in their own pile. It won't take TVs or computer monitors, glass and mirrors, concrete, dirt and rocks, construction materials, paint, batteries, motor oil or other hazardous waste. ([Know Where to Throw: Brush and Bulky](https://www.knowwheretothrow.com/brushandbulky))
+
+### Can I get bulk trash picked up before my Brush and Bulky week?
+
+Yes. Order a Special Brush and Bulky collection online or by calling 520-791-3171. There's a charge, and the City's page doesn't list it, so ask when you book. Set the items out where your regular Brush and Bulky pile would go.
+
+### How much does it cost to dump a load at Los Reales Landfill?
+
+A covered load under 2,000 pounds is $18, heavier covered loads are $38 per ton, uncovered loads pay $10 extra, and every load adds a $2 Environmental Fee. Fridges, freezers and other refrigerant appliances are $20 each on top. Payment is by card or tap only, and the landfill is closed Sundays, Thanksgiving and Christmas.
+
+### How much does chemical and paint disposal cost in Tucson?
+
+Nothing for City of Tucson residents at the Household Hazardous Waste program. People from Marana, Oro Valley, Sahuarita and unincorporated Pima County pay $15. Bring a driver's license or current utility bill. The Los Reales drop-off is open Thursday to Saturday, 7 a.m. to 2 p.m., and the next Saturday community events are December 12, 2026, and January 9, 2027. ([City of Tucson: Household Hazardous Waste](https://www.tucsonaz.gov/Departments/Environmental-Services/Household-Hazardous-Waste))
+
+### How do I get rid of a TV in Tucson?
+
+Not at the curb: Brush and Bulky doesn't take TVs or monitors, and electronics must stay out of your blue bin. City residents can recycle televisions, computers and other electronics through the HHW program at Los Reales or a community collection event, though old tube (CRT) sets aren't accepted there.
+
+### Will Tucson pick up a mattress?
+
+Mattresses aren't named on the Brush and Bulky accepted list, so call Customer Service at 520-791-3171 before you put one out. Los Reales Landfill does list mattresses as accepted waste, at the normal load rate.
 
 ## Christmas Trees {#christmas-trees}
 
