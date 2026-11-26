@@ -1,6 +1,6 @@
 ---
-title: "Junk Disposal in Chicago, IL"
-description: "Junk disposal in Chicago, IL: city pickup, drop-off sites and rules for mattresses, couches, appliances, TVs and paint, with links to official sources."
+title: "Chicago Bulk Item Pickup (Bulky Trash) Guide"
+description: "Chicago bulk item pickup: arrange no-extra-cost bulky trash collection through 311 or your ward office, fridge rules, and HCCRF e-waste and paint drop-off."
 verified: '2026-10-14'
 city: Chicago
 state: IL
@@ -48,9 +48,9 @@ partners:
   note: Nonprofit furniture donation and pickup at 4801 South Whipple Street, Chicago.
   source_checked: 2026-11-11
 ---
-# Junk Disposal in Chicago, IL: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
+# Chicago Bulk Item Pickup (Bulky Trash): Mattresses, Furniture, Appliances, TVs and Paint
 
-Here's how to legally get rid of bulky junk in Chicago, item by item. Every option links to the official city or county page we checked. Where we couldn't verify something, we say so. Check the linked page or call your city's service line.
+**Chicago bulk item pickup in one line:** if the Department of Streets and Sanitation (DSS) collects your garbage (single-family homes and buildings of four units or fewer), bulky items such as couches, mattresses and fridges are picked up at **no extra cost** beyond the City garbage fee, but you must **arrange the pickup first** through **311** or your ward's Streets and Sanitation superintendent before you put anything out. Buildings with five or more units use a private hauler. **TVs, computers and oil-based paint** go to the City's free **Household Chemicals & Computer Recycling Facility (HCCRF)**, and latex paint is dried out and trashed. Below: item-by-item rules, then answers to common Chicago bulk pickup questions. Every option links to the official City or county page we checked, and where we couldn't verify something, we say so. Check the linked page or call 311 before you set anything out.
 
 ## Quick Answer by Item
 
@@ -120,6 +120,36 @@ Drop off computers, monitors, TVs, printers, keyboards, game consoles, DVD playe
 ## Paint and Household Hazardous Waste {#hazardous}
 
 The **HCCRF** (same address and hours as above) accepts household chemicals, **oil-based paint, aerosol paint and thinners**, solvents, auto fluids, pesticides, CFLs, many batteries, BBQ propane tanks, and mercury items. It does **not** accept **latex, acrylic or water-based paint**, alkaline batteries, explosives, medical waste, or pharmaceuticals. For latex paint, the City says to use it up, donate it, or **dry it out** (kitty litter, shredded paper or sawdust) and put it in the trash. ([HCCRF](https://www.chicago.gov/city/en/depts/env/supp_info/environmental-permitting-and-inspection/hccrf.html))
+
+## Frequently Asked Questions {#faq}
+
+### How do I schedule a bulk item pickup in Chicago?
+
+Contact 311 (call 311 or use 311.chicago.gov) or your ward's Streets and Sanitation superintendent, say what you're putting out, and wait for instructions before anything goes in the alley or at the curb. City sanitation guidance says to arrange a bulk pick-up before setting out any large item or an extra load of trash, such as a basement or attic clean-out. ([Sanitation Code Violation](https://www.chicago.gov/city/en/depts/streets/provdrs/streets_san/svcs/sanitation_ordinance.html))
+
+### Is bulky item pickup free in Chicago?
+
+There's no added charge. The City's garbage fee ($9.50 per dwelling unit per month, or $4.75 with the senior discount) covers all garbage collection at the home, and the City says lawn waste and bulk waste collection cost nothing extra. ([City of Chicago: Garbage Fee FAQ](https://www.chicago.gov/city/en/depts/fin/supp_info/garbage-fee-faq.html))
+
+### Does my building qualify for City bulk pickup?
+
+Only if DSS collects your garbage: single-family homes and residential buildings with four units or fewer. Larger apartment buildings and businesses must use a private hauler, so ask your landlord or property manager how bulky items are handled.
+
+### How do I get rid of a refrigerator in Chicago?
+
+Remove the doors or lids first, then arrange a bulk pickup the same way as other large items. Don't take a fridge, freezer, air conditioner or other appliance to the HCCRF: it doesn't accept appliances or refrigerants.
+
+### Where can I drop off a TV or computer in Chicago?
+
+At the HCCRF, 1150 N. North Branch St., for residents only, on Tuesday 7 a.m. to 12 p.m., Thursday 2 to 7 p.m., and the first Saturday of the month 8 a.m. to 3 p.m. Electronics go to the yellow building. Never leave anything outside the gate after hours. ([City of Chicago: HCCRF](https://www.chicago.gov/city/en/depts/env/supp_info/environmental-permitting-and-inspection/hccrf.html))
+
+### How do I dispose of paint in Chicago?
+
+Oil-based paint, spray paint and thinners go to the HCCRF's chemical drop-off (the blue building). Latex, acrylic and water-based paint isn't accepted there: use it up, give it away, or mix in kitty litter, shredded paper or sawdust until it's dry, then put it in the trash.
+
+### What won't the City haul away?
+
+Remodeling debris: if you're renovating, removing discarded building materials is your job, and the City suggests renting a dumpster. For that, or if you can't wait for City timing, a local junk removal company listed on this page may help. HowToDumpIt does not haul anything.
 
 ## Christmas Trees {#christmas-trees}
 
