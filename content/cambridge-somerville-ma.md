@@ -1,6 +1,6 @@
 ---
-title: "Junk Disposal in Cambridge–Somerville, MA"
-description: "Junk disposal in Cambridge and Somerville, MA: UTEC mattress pickup ($45) vs. Somerville $55 sticker, appliance permits, e-waste drop-off, and HHW days."
+title: "Cambridge & Somerville Mattress & Bulk Pickup"
+description: "Cambridge and Somerville, MA bulky item pickup: $45 UTEC mattress pickup vs. $55 Somerville sticker, curbside furniture limits, appliance permits and TVs."
 verified: '2026-10-13'
 city: Cambridge–Somerville
 state: MA
@@ -48,9 +48,9 @@ other_options:
 - 'Furniture give-away sites suggested by Cambridge: NextDoor, Freecycle and Craigslist.'
 - 'Electronics: the City of Cambridge notes that retailers like Apple and Best Buy and several phone carriers run their own take-back programs; check with them directly.'
 ---
-# Junk Disposal in Cambridge–Somerville, MA: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
+# Cambridge and Somerville Bulky Item and Mattress Pickup: Junk Disposal Guide
 
-Cambridge and Somerville sit side by side, but their junk rules are not the same. This guide covers both cities, item by item, and every option links to the official City of Cambridge or City of Somerville page we checked. Where the two cities differ, we spell it out. Where we couldn't verify something, we say so. Check the linked page, call Cambridge Public Works at 617-349-4800, or call Somerville 311 (617-666-3311 from outside Somerville).
+**Short answer:** neither city has a free, anything-goes bulk trash day. **Mattresses** must be recycled under state law: Cambridge residents book a curbside pickup with the City's contractor UTEC (**$45 per piece**), and Somerville residents buy a **$55 Disposal Sticker** per piece and schedule through **311**. **Furniture** can go out with regular trash (Cambridge: one piece a week; Somerville: two), while **fridges, washers and other large appliances** need a paid permit in Cambridge or a **$25 White Goods Sticker** in Somerville. The two cities sit side by side, but their rules differ, so this guide covers both, item by item, with answers to common pickup questions near the bottom. Every option links to the official City of Cambridge or City of Somerville page we checked, and where we couldn't verify something, we say so. Check the linked page, call Cambridge Public Works at 617-349-4800, or call Somerville 311 (617-666-3311 from outside Somerville).
 
 One rule covers both cities: Massachusetts bans mattresses, textiles, white goods (large appliances), cathode ray tubes (old tube TVs and monitors) and several other materials from disposal as trash ([MassDEP Waste Disposal Bans](https://www.mass.gov/guides/massdep-waste-disposal-bans)).
 
@@ -143,6 +143,32 @@ Wipe your personal data from phones and computers before you recycle them.
 - **Paint cans:** if they're **dry and empty**, put them in the regular trash. Cans that aren't empty have to go to a Hazardous Waste Day.
 - **Batteries:** regular alkaline batteries (A, AA, C, D) can go in the trash. Rechargeable, button-cell and lithium batteries go to Hazardous Waste Days, and laptop battery packs go with e-waste.
 - Large or non-empty fire extinguishers go to Hazardous Waste Days. Kerosene, gasoline and heating oil must be disposed of privately ([Somerville Trash & Recycling](https://www.somervillema.gov/trash-and-recycling)).
+
+## Frequently Asked Questions {#faq}
+
+### Does Cambridge pick up mattresses?
+
+Yes, through UTEC, the nonprofit the City contracts for mattress recycling. Book a slot at [utecinc.org/mattress-recycling](https://www.utecinc.org/mattress-recycling/) and pay the $45 fee for each mattress or box spring. You don't need to be home; just have it at the curb in front of your address by 7 a.m. on the day (not before 6 p.m. the evening before). UTEC turns away bed-bug, moldy or badly torn mattresses. ([Cambridge Mattress Recycling](https://www.cambridgema.gov/services/mattressrecycling))
+
+### How much does it cost to get rid of a mattress in Somerville?
+
+$55 per mattress and $55 per box spring, paid as a Disposal Sticker. Once you physically have the sticker, contact 311 by 3:30 p.m. the day before collection; pickup is normally the day after your trash day. It's only for buildings of 6 or fewer units on City trash service. ([Somerville Mattress and Box Spring Recycling](https://www.somervillema.gov/mattressrecycling))
+
+### Can I put a couch out with the trash in Cambridge or Somerville?
+
+Yes, within limits. Cambridge allows one piece of furniture per week on trash day without a permit, with some exceptions listed in its Get Rid of It Right tool. Somerville collects up to two pieces of furniture a week with regular trash; tape any glass or mirrors and tie down or remove drawers and doors first.
+
+### How do I get rid of a refrigerator in Cambridge or Somerville?
+
+In Cambridge, buy an appliance disposal permit online or at DPW, 147 Hampshire St., and remove the doors; freon is recovered before the appliance is scrapped, and most pickups fall on a Wednesday or Thursday. In Somerville, put a $25 White Goods Sticker on each large appliance and take the fridge door off before it goes on the sidewalk.
+
+### Will the City take my old TV?
+
+Cambridge picks up TVs and monitors with screens of 20 inches or less for free on your collection day; larger screens need a paid permit. Somerville will schedule a free curbside TV or monitor pickup if you call 311, or you can drop it at the DPW Yard, 1 Franey Rd. Somerville won't take a set with broken glass.
+
+### What won't the cities pick up at the curb?
+
+Somerville sends construction materials, heavy metal items such as exercise equipment and metal cabinets, motorized lawn mowers, snow blowers and car parts to private disposal. Cambridge takes no commercial or industrial items, and items such as bicycles, radiators and metal desks need a free permit first. For anything the City won't take, a local junk removal company listed on this page may help. HowToDumpIt does not haul anything.
 
 ## Christmas Trees {#christmas-trees}
 
