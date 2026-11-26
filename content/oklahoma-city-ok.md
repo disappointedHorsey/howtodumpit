@@ -1,6 +1,6 @@
 ---
-title: "Junk Disposal in Oklahoma City, OK"
-description: "Junk disposal in Oklahoma City, OK: monthly bulky pickup (first 4 cubic yards included), freon-appliance pickup, two Free Landfill Days, and free HHW drop-off."
+title: "Oklahoma City (OKC) Bulk Trash Pickup Guide"
+description: "City of Oklahoma City bulk trash (big trash) pickup: find your monthly bulky day, what crews take, the 4-cubic-yard limit, freon fridges and mattresses."
 verified: '2026-10-22'
 city: Oklahoma City
 state: OK
@@ -47,9 +47,9 @@ other_options:
 - 'Electronics retail take-back named by the City of Oklahoma City: Best Buy for TVs (fee required) and for computers, monitors, printers, keyboards, mice, cell phones and small devices; Staples for computers and peripherals; Goodwill''s computer program runs through Dell Reconnect. Oklahoma DEQ also suggests Best Buy or Staples. Call the store first.'
 - 'Free Landfill Days: GFL Landfill in Spencer takes only DIY construction and demolition debris.'
 ---
-# Junk Disposal in Oklahoma City, OK: Mattresses, Couches, Furniture, Appliances, TVs & Electronics, Paint & Hazardous Waste
+# Oklahoma City Bulk Trash Pickup (OKC Big Trash) and Junk Disposal Guide
 
-Here's how to legally get rid of bulky junk in Oklahoma City, Oklahoma, item by item. The City picks up **bulky waste once a month** at the curb for single-residential households, and the **first 4 cubic yards** (about the size of two large refrigerators) are **included in your monthly trash bill**. Bigger piles are billed extra per cubic yard. **Fridges, freezers and AC units with freon** need a **scheduled pickup** (call **(405) 297-2833**), and paint and chemicals go to the City's **free Household Hazardous Waste Collection Center**. Every option links to the official page we checked. Where we couldn't verify something, we say so. Check the linked page or call Utilities Customer Service at (405) 297-2833 before you set anything out.
+**Oklahoma City bulk trash pickup in one line:** if you're a City of Oklahoma City single-residential trash customer, crews collect **bulky waste ("big trash") at the curb once a month**, and the **first 4 cubic yards** (about the size of two large refrigerators) are **included in your bundled monthly trash bill**. Find your bulky day on the City's MyTrashDay map, set items out loose **by 6 a.m.** on that day and **no more than three days early**. Bigger piles are billed per extra cubic yard. **Fridges, freezers and AC units with freon** need a **scheduled pickup** (call **(405) 297-2833**), and paint and chemicals go to the City's **free Household Hazardous Waste Collection Center**. Below: item-by-item rules for mattresses, couches, appliances, TVs and paint, plus answers to the most common OKC bulk trash questions. Every option links to the official page we checked, and where we couldn't verify something, we say so.
 
 ## Quick Answer by Item
 
@@ -146,6 +146,36 @@ All of the above is from the City's [Household Hazardous Waste Collection Center
 **Medications** aren't taken at the center. The City lists the Oklahoma County Sheriff's Department at 201 N. Shartel Ave. and some pharmacies as take-back options. ([Reuse and Repurpose](https://www.okc.gov/Services/Water-Trash-Recycling/Recycling/Reuse-and-Repurpose))
 
 Not sure where something goes? Check the City's [What Goes Where](https://www.okc.gov/Services/Water-Trash-Recycling/What-Goes-Where) database or call Utilities Customer Service at (405) 297-2833 (Monday to Friday, 8 a.m. to 5 p.m.). ([Trash Services](https://www.okc.gov/Services/Water-Trash-Recycling/Trash-Services))
+
+## Frequently Asked Questions {#faq}
+
+### When is bulk trash pickup in Oklahoma City?
+
+Once a month, on your assigned bulky day. Look it up on the City's [MyTrashDay](https://www.okc.gov/MyTrashDay) map, in your okcutilities.com account or the My OKC Utilities app, or on your paper water bill. Routes start the first Monday of each month, and crews can come on any day of your three-day window (Monday to Wednesday, or Wednesday to Friday). Holidays don't move bulky collection.
+
+### Is OKC bulky trash pickup free?
+
+It's already paid for in your bundled monthly trash, recycling and bulky fee ($29.88 a month on the City's rate table from November 2026), which covers up to 4 cubic yards per month. Anything over that is billed per extra cubic yard: $15.32 from November 2026, per the City's [Utilities Rates & Fees](https://www.okc.gov/Services/Water-Trash-Recycling/Pay-Bill/Utilities-Rates-Fees) page.
+
+### What will the City of Oklahoma City not take as bulky waste?
+
+Bagged trash or bagged yard waste, bricks, concrete and rocks, contractor or remodeling debris, tires and car parts, batteries, and paints, oils, fuels and other chemicals. Many of those chemicals can go to the Household Hazardous Waste Collection Center instead. ([Bulky Waste](https://www.okc.gov/Services/Water-Trash-Recycling/Bulky-Waste))
+
+### How do I get rid of a mattress in OKC?
+
+City trash customers can leave it at the curb with their monthly bulky waste. A mattress with bed bugs or other biohazards has to be sealed in a plastic mattress bag marked "bed bugs" or "biohazard" first, so crews know to handle it carefully.
+
+### How do I get a refrigerator or freezer picked up in Oklahoma City?
+
+Take every door off, as City ordinance requires, then phone the Customer Care Center at (405) 297-2833 to book a freon pickup inside your normal bulky window. Freon appliances aren't accepted at Free Landfill Days.
+
+### What if my bulk trash was missed?
+
+Report it no later than two business days after your collection window ends, through the "Service" tab at okcutilities.com or by calling (405) 297-2833 Ext. 3 with your account number handy. Miss that deadline and you may have to wait for next month's collection.
+
+### Can apartment residents use OKC bulky pickup or Free Landfill Days?
+
+Generally no. Curbside bulky service is for single-residential trash customers, and the City says apartment residents aren't eligible for Free Landfill Days. Your property manager can tell you how your complex handles large items. ([Free Landfill Day](https://www.okc.gov/Services/Water-Trash-Recycling/Free-Landfill-Day))
 
 ## Christmas Trees {#christmas-trees}
 
